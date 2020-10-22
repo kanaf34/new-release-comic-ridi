@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "[코믹] 가챠를 돌려 동료를 늘리고 최강의 미소녀 군단을 만들자 1권",
+      "link": "https://ridibooks.com/books/2066001500",
+      "author": "하루노 슈",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 마왕님, 리트라이! 4권",
+      "link": "https://ridibooks.com/books/2066001501",
+      "author": "미노타케 아마루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 낙제 기사의 영웅담 8권",
+      "link": "https://ridibooks.com/books/2066001502",
+      "author": "소라미치 메구무",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "바로크 기사단 8권 (완결)",
+      "link": "https://ridibooks.com/books/297032435",
+      "author": "후지타 마키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "시미코와 토모에 2권 (완결)",
+      "link": "https://ridibooks.com/books/297032521",
+      "author": "시미코",
+      "genre": "드라마"
+    },
+    {
+      "title": "창천의 권 리제네시스 2권",
+      "link": "https://ridibooks.com/books/505024830",
+      "author": "츠지 히데키",
+      "genre": "액션"
+    },
+    {
+      "title": "[코믹] 변경의 노기사:발드로엔 4권",
+      "link": "https://ridibooks.com/books/845021383",
+      "author": "키쿠이시 모리오",
+      "genre": "드라마"
+    },
+    {
       "title": "마왕님과 결혼하고 싶어 2권",
       "link": "https://ridibooks.com/books/4144000015",
       "author": "이케우치 타누마",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/1019019854",
       "author": "시이나 타카시",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "야가미 군은, 오늘도 심술궂어 11권 (완결)",
-      "link": "https://ridibooks.com/books/1019019855",
-      "author": "아이카와 사키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그 남자, 운명이니까 4권",
-      "link": "https://ridibooks.com/books/1019019856",
-      "author": "키타가와 미유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "플랜터 플래닛 2권",
-      "link": "https://ridibooks.com/books/297032504",
-      "author": "하보",
-      "genre": "액션"
-    },
-    {
-      "title": "그 열등기사, 레벨 999 3권",
-      "link": "https://ridibooks.com/books/3010003939",
-      "author": "야마자키 치히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "카케구루이 트윈 5권",
-      "link": "https://ridibooks.com/books/505024752",
-      "author": "사이키 케이",
-      "genre": "학원"
-    },
-    {
-      "title": "[유리] 루미너스 = 블루 2권 (완결)",
-      "link": "https://ridibooks.com/books/806006228",
-      "author": "이와미 키요코",
-      "genre": "GL"
-    },
-    {
-      "title": "아름다운 나날 3권 (완결)",
-      "link": "https://ridibooks.com/books/806006229",
-      "author": "하무로 케이",
-      "genre": "GL"
     }
   ]
 }
