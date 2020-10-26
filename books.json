@@ -1,18 +1,6 @@
 {
   "books": [
     {
-      "title": "부딪치다 6권",
-      "link": "https://ridibooks.com/books/1180010809",
-      "author": "지완",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "오빠는 키가 작아! 2권",
-      "link": "https://ridibooks.com/books/297032528",
-      "author": "후유노 케이",
-      "genre": "코믹"
-    },
-    {
       "title": "파멸의 마도왕과 골렘 만비 1권",
       "link": "https://ridibooks.com/books/3010003940",
       "author": "이노우에 히나코",
@@ -31,10 +19,22 @@
       "genre": "판타지/SF"
     },
     {
+      "title": "오빠는 키가 작아! 2권",
+      "link": "https://ridibooks.com/books/297032528",
+      "author": "후유노 케이",
+      "genre": "코믹"
+    },
+    {
       "title": "장미왕의 장례 행렬 8권",
       "link": "https://ridibooks.com/books/505024853",
       "author": "칸노 아야",
       "genre": "드라마"
+    },
+    {
+      "title": "부딪치다 6권",
+      "link": "https://ridibooks.com/books/1180010809",
+      "author": "지완",
+      "genre": "국내 순정"
     },
     {
       "title": "피치걸 NEXT (피치걸 넥스트) 6권",
