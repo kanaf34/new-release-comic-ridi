@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "부드러운 예각 2권 (완결)",
+      "link": "https://ridibooks.com/books/297032537",
+      "author": "타다 키세이",
+      "genre": "드라마"
+    },
+    {
+      "title": "은반기사 2권",
+      "link": "https://ridibooks.com/books/297032551",
+      "author": "오가와 야요이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "여자의 집 7권",
+      "link": "https://ridibooks.com/books/3010003946",
+      "author": "토리카이 아카네",
+      "genre": "드라마"
+    },
+    {
+      "title": "유령아파트 관리인 6권 (완결)",
+      "link": "https://ridibooks.com/books/505024849",
+      "author": "후지에다 토오루",
+      "genre": "드라마"
+    },
+    {
       "title": "파멸의 마도왕과 골렘 만비 1권",
       "link": "https://ridibooks.com/books/3010003940",
       "author": "이노우에 히나코",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/1987001418",
       "author": "라쿠다",
       "genre": "드라마"
-    },
-    {
-      "title": "수라의 도시 2권",
-      "link": "https://ridibooks.com/books/845021435",
-      "author": "YAKSU",
-      "genre": "액션"
-    },
-    {
-      "title": "바로크 기사단 8권 (완결)",
-      "link": "https://ridibooks.com/books/297032435",
-      "author": "후지타 마키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "시미코와 토모에 2권 (완결)",
-      "link": "https://ridibooks.com/books/297032521",
-      "author": "시미코",
-      "genre": "드라마"
-    },
-    {
-      "title": "마왕님과 결혼하고 싶어 2권",
-      "link": "https://ridibooks.com/books/4144000015",
-      "author": "이케우치 타누마",
-      "genre": "해외 순정"
     }
   ]
 }
