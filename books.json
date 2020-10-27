@@ -1,9 +1,21 @@
 {
   "books": [
     {
+      "title": "유령아파트 관리인 6권 (완결)",
+      "link": "https://ridibooks.com/books/505024849",
+      "author": "후지에다 토오루",
+      "genre": "드라마"
+    },
+    {
       "title": "부드러운 예각 2권 (완결)",
       "link": "https://ridibooks.com/books/297032537",
       "author": "타다 키세이",
+      "genre": "드라마"
+    },
+    {
+      "title": "여자의 집 7권",
+      "link": "https://ridibooks.com/books/3010003946",
+      "author": "토리카이 아카네",
       "genre": "드라마"
     },
     {
@@ -13,16 +25,10 @@
       "genre": "해외 순정"
     },
     {
-      "title": "여자의 집 7권",
-      "link": "https://ridibooks.com/books/3010003946",
-      "author": "토리카이 아카네",
-      "genre": "드라마"
-    },
-    {
-      "title": "유령아파트 관리인 6권 (완결)",
-      "link": "https://ridibooks.com/books/505024849",
-      "author": "후지에다 토오루",
-      "genre": "드라마"
+      "title": "문제 제기 시리즈 -생명- 3권",
+      "link": "https://ridibooks.com/books/297032538",
+      "author": "모모치 레이코",
+      "genre": "해외 순정"
     },
     {
       "title": "파멸의 마도왕과 골렘 만비 1권",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/845021426",
       "author": "혜빈",
       "genre": "국내 순정"
-    },
-    {
-      "title": "노라줘요 -우리 집 웰시코기 이야기- 7권",
-      "link": "https://ridibooks.com/books/1987001418",
-      "author": "라쿠다",
-      "genre": "드라마"
     }
   ]
 }
