@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "[코믹] 마도사는 평범을 바란다 3권 (완결)",
+      "link": "https://ridibooks.com/books/2066001507",
+      "author": "타이헤이 히로미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사람은 겉모습이 100퍼센트 2권",
+      "link": "https://ridibooks.com/books/297032600",
+      "author": "오쿠보 히로미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우자키 양은 놀고 싶어! 4권",
+      "link": "https://ridibooks.com/books/297032601",
+      "author": "테이크",
+      "genre": "해외 순정"
+    },
+    {
       "title": "유령아파트 관리인 6권 (완결)",
       "link": "https://ridibooks.com/books/505024849",
       "author": "후지에다 토오루",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/505024830",
       "author": "츠지 히데키",
       "genre": "액션"
-    },
-    {
-      "title": "하늘을 연모하다 외전2 (완결)",
-      "link": "https://ridibooks.com/books/678012218",
-      "author": "모치즈키 사쿠라",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 변경의 노기사:발드로엔 4권",
-      "link": "https://ridibooks.com/books/845021383",
-      "author": "키쿠이시 모리오",
-      "genre": "드라마"
-    },
-    {
-      "title": "아디오스 에이프릴 8권",
-      "link": "https://ridibooks.com/books/845021426",
-      "author": "혜빈",
-      "genre": "국내 순정"
     }
   ]
 }
