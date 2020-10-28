@@ -19,12 +19,6 @@
       "genre": "드라마"
     },
     {
-      "title": "괴물 이야기 2권",
-      "link": "https://ridibooks.com/books/505024386",
-      "author": "Oh! Great",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "[코믹] 마도사는 평범을 바란다 3권 (완결)",
       "link": "https://ridibooks.com/books/2066001507",
       "author": "타이헤이 히로미",
@@ -119,6 +113,12 @@
       "link": "https://ridibooks.com/books/505024854",
       "author": "우에다 미와",
       "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 가챠를 돌려 동료를 늘리고 최강의 미소녀 군단을 만들자 1권",
+      "link": "https://ridibooks.com/books/2066001500",
+      "author": "하루노 슈",
+      "genre": "판타지/SF"
     }
   ]
 }
