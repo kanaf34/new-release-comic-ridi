@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "도시들개 [개정판] 27권 (완결)",
+      "link": "https://ridibooks.com/books/1603051820",
+      "author": "신형빈",
+      "genre": "액션"
+    },
+    {
+      "title": "천국동 호랑이 12권 (완결)",
+      "link": "https://ridibooks.com/books/1603051826",
+      "author": "조명운",
+      "genre": "액션"
+    },
+    {
+      "title": "마카베 선생님의 완벽한 하루 3권",
+      "link": "https://ridibooks.com/books/840033619",
+      "author": "토키무네 코스케",
+      "genre": "드라마"
+    },
+    {
+      "title": "괴물 이야기 2권",
+      "link": "https://ridibooks.com/books/505024386",
+      "author": "Oh! Great",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "[코믹] 마도사는 평범을 바란다 3권 (완결)",
       "link": "https://ridibooks.com/books/2066001507",
       "author": "타이헤이 히로미",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/505024854",
       "author": "우에다 미와",
       "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 가챠를 돌려 동료를 늘리고 최강의 미소녀 군단을 만들자 1권",
-      "link": "https://ridibooks.com/books/2066001500",
-      "author": "하루노 슈",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 마왕님, 리트라이! 4권",
-      "link": "https://ridibooks.com/books/2066001501",
-      "author": "미노타케 아마루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 낙제 기사의 영웅담 8권",
-      "link": "https://ridibooks.com/books/2066001502",
-      "author": "소라미치 메구무",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "창천의 권 리제네시스 2권",
-      "link": "https://ridibooks.com/books/505024830",
-      "author": "츠지 히데키",
-      "genre": "액션"
     }
   ]
 }
