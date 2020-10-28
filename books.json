@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "title": "괴물사변 9권",
+      "link": "https://ridibooks.com/books/1019019860",
+      "author": "아이모토 슈",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "그와 사랑이라니 7권",
+      "link": "https://ridibooks.com/books/1019019861",
+      "author": "미모리 아오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "왕에게 바치는 약지 6권",
+      "link": "https://ridibooks.com/books/1019019862",
+      "author": "와타나베 시호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "보루토 10권",
+      "link": "https://ridibooks.com/books/1019019863",
+      "author": "이케모토 미키오",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "결국 좋아한다고 말하고 싶은데 2권",
+      "link": "https://ridibooks.com/books/1019019902",
+      "author": "엔조지 마키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마리카 양과 상냥한 사랑의 노예 1권",
+      "link": "https://ridibooks.com/books/1019019903",
+      "author": "스스키 소노이치",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "옆자리의 후리 양이 어쨌든 무섭다 2권",
+      "link": "https://ridibooks.com/books/297032602",
+      "author": "키노우에 세이이치",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "그렌델 2권",
+      "link": "https://ridibooks.com/books/4129000017",
+      "author": "오이카와 마코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "왕가의 문장 12권",
+      "link": "https://ridibooks.com/books/505024470",
+      "author": "호소카와 후민",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "그럼에도 세상은 아름답다 22권",
+      "link": "https://ridibooks.com/books/505024856",
+      "author": "시이나 다이",
+      "genre": "해외 순정"
+    },
+    {
       "title": "도시들개 [개정판] 27권 (완결)",
       "link": "https://ridibooks.com/books/1603051820",
       "author": "신형빈",
@@ -59,66 +119,6 @@
       "link": "https://ridibooks.com/books/297032551",
       "author": "오가와 야요이",
       "genre": "해외 순정"
-    },
-    {
-      "title": "문제 제기 시리즈 -생명- 3권",
-      "link": "https://ridibooks.com/books/297032538",
-      "author": "모모치 레이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "파멸의 마도왕과 골렘 만비 1권",
-      "link": "https://ridibooks.com/books/3010003940",
-      "author": "이노우에 히나코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "이세계에서 최강 마왕의 아이 10명의 엄마가 되었습니다 1권",
-      "link": "https://ridibooks.com/books/3010003942",
-      "author": "토야마 에마",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "네크로망스 1권",
-      "link": "https://ridibooks.com/books/3010003944",
-      "author": "도모토 유우키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "오빠는 키가 작아! 2권",
-      "link": "https://ridibooks.com/books/297032528",
-      "author": "후유노 케이",
-      "genre": "코믹"
-    },
-    {
-      "title": "장미왕의 장례 행렬 8권",
-      "link": "https://ridibooks.com/books/505024853",
-      "author": "칸노 아야",
-      "genre": "드라마"
-    },
-    {
-      "title": "부딪치다 6권",
-      "link": "https://ridibooks.com/books/1180010809",
-      "author": "지완",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "위드!!(WITH!!) 4권 (완결)",
-      "link": "https://ridibooks.com/books/505024872",
-      "author": "사이토 켄",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "피치걸 NEXT (피치걸 넥스트) 6권",
-      "link": "https://ridibooks.com/books/505024854",
-      "author": "우에다 미와",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 가챠를 돌려 동료를 늘리고 최강의 미소녀 군단을 만들자 1권",
-      "link": "https://ridibooks.com/books/2066001500",
-      "author": "하루노 슈",
-      "genre": "판타지/SF"
     }
   ]
 }
