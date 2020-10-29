@@ -1,6 +1,72 @@
 {
   "books": [
     {
+      "title": "코하루 노트 1권",
+      "link": "https://ridibooks.com/books/2066001509",
+      "author": "후지타 마키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "독설의 모르포 2권",
+      "link": "https://ridibooks.com/books/2066001510",
+      "author": "아오베 마히토",
+      "genre": "드라마"
+    },
+    {
+      "title": "내세에는 남남이 좋겠어 4권 [기간 한정 특전]",
+      "link": "https://ridibooks.com/books/2066001512",
+      "author": "코니시 아스카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "타블로 게이트 5권",
+      "link": "https://ridibooks.com/books/2066001514",
+      "author": "스즈키 리카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "백합남자 5권 (완결)",
+      "link": "https://ridibooks.com/books/297032595",
+      "author": "쿠라타 우소",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우리들은 미쳤다 11권",
+      "link": "https://ridibooks.com/books/297032603",
+      "author": "안도 나츠미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "선상의 개 3권 (완결)",
+      "link": "https://ridibooks.com/books/297032608",
+      "author": "스미다 모토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "아르테 13권",
+      "link": "https://ridibooks.com/books/297032651",
+      "author": "오쿠보 케이",
+      "genre": "드라마"
+    },
+    {
+      "title": "혼인 신고서에 도장을 찍었을 뿐인데 4권",
+      "link": "https://ridibooks.com/books/3010003950",
+      "author": "유키 아오하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아웃 15권",
+      "link": "https://ridibooks.com/books/806006247",
+      "author": "미즈타 마코토",
+      "genre": "액션"
+    },
+    {
+      "title": "망상 처형인 후지 요시코 1권",
+      "link": "https://ridibooks.com/books/840033586",
+      "author": "cmp.works",
+      "genre": "해외 순정"
+    },
+    {
       "title": "그렌델 2권",
       "link": "https://ridibooks.com/books/4129000017",
       "author": "오이카와 마코",
@@ -53,72 +119,6 @@
       "link": "https://ridibooks.com/books/1019019862",
       "author": "와타나베 시호",
       "genre": "해외 순정"
-    },
-    {
-      "title": "결국 좋아한다고 말하고 싶은데 2권",
-      "link": "https://ridibooks.com/books/1019019902",
-      "author": "엔조지 마키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마리카 양과 상냥한 사랑의 노예 1권",
-      "link": "https://ridibooks.com/books/1019019903",
-      "author": "스스키 소노이치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "도시들개 [개정판] 27권 (완결)",
-      "link": "https://ridibooks.com/books/1603051820",
-      "author": "신형빈",
-      "genre": "액션"
-    },
-    {
-      "title": "천국동 호랑이 12권 (완결)",
-      "link": "https://ridibooks.com/books/1603051826",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "마카베 선생님의 완벽한 하루 3권",
-      "link": "https://ridibooks.com/books/840033619",
-      "author": "토키무네 코스케",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 마도사는 평범을 바란다 3권 (완결)",
-      "link": "https://ridibooks.com/books/2066001507",
-      "author": "타이헤이 히로미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사람은 겉모습이 100퍼센트 2권",
-      "link": "https://ridibooks.com/books/297032600",
-      "author": "오쿠보 히로미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "우자키 양은 놀고 싶어! 4권",
-      "link": "https://ridibooks.com/books/297032601",
-      "author": "테이크",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "유령아파트 관리인 6권 (완결)",
-      "link": "https://ridibooks.com/books/505024849",
-      "author": "후지에다 토오루",
-      "genre": "드라마"
-    },
-    {
-      "title": "부드러운 예각 2권 (완결)",
-      "link": "https://ridibooks.com/books/297032537",
-      "author": "타다 키세이",
-      "genre": "드라마"
-    },
-    {
-      "title": "여자의 집 7권",
-      "link": "https://ridibooks.com/books/3010003946",
-      "author": "토리카이 아카네",
-      "genre": "드라마"
     }
   ]
 }
