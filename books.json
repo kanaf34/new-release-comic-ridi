@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "그렌델 2권",
+      "link": "https://ridibooks.com/books/4129000017",
+      "author": "오이카와 마코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "그럼에도 세상은 아름답다 22권",
+      "link": "https://ridibooks.com/books/505024856",
+      "author": "시이나 다이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "보루토 10권",
+      "link": "https://ridibooks.com/books/1019019863",
+      "author": "이케모토 미키오",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "옆자리의 후리 양이 어쨌든 무섭다 2권",
+      "link": "https://ridibooks.com/books/297032602",
+      "author": "키노우에 세이이치",
+      "genre": "해외 순정"
+    },
+    {
       "title": "괴물사변 9권",
       "link": "https://ridibooks.com/books/1019019860",
       "author": "아이모토 슈",
@@ -19,34 +43,10 @@
       "genre": "해외 순정"
     },
     {
-      "title": "보루토 10권",
-      "link": "https://ridibooks.com/books/1019019863",
-      "author": "이케모토 미키오",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "결국 좋아한다고 말하고 싶은데 2권",
       "link": "https://ridibooks.com/books/1019019902",
       "author": "엔조지 마키",
       "genre": "해외 순정"
-    },
-    {
-      "title": "마리카 양과 상냥한 사랑의 노예 1권",
-      "link": "https://ridibooks.com/books/1019019903",
-      "author": "스스키 소노이치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "옆자리의 후리 양이 어쨌든 무섭다 2권",
-      "link": "https://ridibooks.com/books/297032602",
-      "author": "키노우에 세이이치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그렌델 2권",
-      "link": "https://ridibooks.com/books/4129000017",
-      "author": "오이카와 마코",
-      "genre": "판타지/SF"
     },
     {
       "title": "왕가의 문장 12권",
@@ -55,9 +55,9 @@
       "genre": "해외 순정"
     },
     {
-      "title": "그럼에도 세상은 아름답다 22권",
-      "link": "https://ridibooks.com/books/505024856",
-      "author": "시이나 다이",
+      "title": "마리카 양과 상냥한 사랑의 노예 1권",
+      "link": "https://ridibooks.com/books/1019019903",
+      "author": "스스키 소노이치",
       "genre": "해외 순정"
     },
     {
