@@ -1,33 +1,9 @@
 {
   "books": [
     {
-      "title": "코하루 노트 1권",
-      "link": "https://ridibooks.com/books/2066001509",
-      "author": "후지타 마키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "독설의 모르포 2권",
-      "link": "https://ridibooks.com/books/2066001510",
-      "author": "아오베 마히토",
-      "genre": "드라마"
-    },
-    {
       "title": "내세에는 남남이 좋겠어 4권 [기간 한정 특전]",
       "link": "https://ridibooks.com/books/2066001512",
       "author": "코니시 아스카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "타블로 게이트 5권",
-      "link": "https://ridibooks.com/books/2066001514",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "백합남자 5권 (완결)",
-      "link": "https://ridibooks.com/books/297032595",
-      "author": "쿠라타 우소",
       "genre": "해외 순정"
     },
     {
@@ -37,16 +13,70 @@
       "genre": "해외 순정"
     },
     {
-      "title": "선상의 개 3권 (완결)",
-      "link": "https://ridibooks.com/books/297032608",
-      "author": "스미다 모토",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "아르테 13권",
       "link": "https://ridibooks.com/books/297032651",
       "author": "오쿠보 케이",
       "genre": "드라마"
+    },
+    {
+      "title": "타블로 게이트 5권",
+      "link": "https://ridibooks.com/books/2066001514",
+      "author": "스즈키 리카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "독설의 모르포 2권",
+      "link": "https://ridibooks.com/books/2066001510",
+      "author": "아오베 마히토",
+      "genre": "드라마"
+    },
+    {
+      "title": "망상 처형인 후지 요시코 1권",
+      "link": "https://ridibooks.com/books/840033586",
+      "author": "cmp.works",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "페이트 그랜드 오더 전격 코믹 앤솔로지 8권",
+      "link": "https://ridibooks.com/books/1987001403",
+      "author": "FGO project",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "게임메이커 10권",
+      "link": "https://ridibooks.com/books/1603051858",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "코믹진 점프 141호",
+      "link": "https://ridibooks.com/books/845021554",
+      "author": "점프 편집부",
+      "genre": "만화잡지"
+    },
+    {
+      "title": "챔프D 172호(2020.11.15)",
+      "link": "https://ridibooks.com/books/847003320",
+      "author": "챔프D 편집부",
+      "genre": "만화잡지"
+    },
+    {
+      "title": "코하루 노트 1권",
+      "link": "https://ridibooks.com/books/2066001509",
+      "author": "후지타 마키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "백합남자 5권 (완결)",
+      "link": "https://ridibooks.com/books/297032595",
+      "author": "쿠라타 우소",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "선상의 개 3권 (완결)",
+      "link": "https://ridibooks.com/books/297032608",
+      "author": "스미다 모토",
+      "genre": "판타지/SF"
     },
     {
       "title": "혼인 신고서에 도장을 찍었을 뿐인데 4권",
@@ -59,12 +89,6 @@
       "link": "https://ridibooks.com/books/806006247",
       "author": "미즈타 마코토",
       "genre": "액션"
-    },
-    {
-      "title": "망상 처형인 후지 요시코 1권",
-      "link": "https://ridibooks.com/books/840033586",
-      "author": "cmp.works",
-      "genre": "해외 순정"
     },
     {
       "title": "그렌델 2권",
@@ -94,30 +118,6 @@
       "title": "옆자리의 후리 양이 어쨌든 무섭다 2권",
       "link": "https://ridibooks.com/books/297032602",
       "author": "키노우에 세이이치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "보루토 10권",
-      "link": "https://ridibooks.com/books/1019019863",
-      "author": "이케모토 미키오",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "신풍 12권 (완결)",
-      "link": "https://ridibooks.com/books/1603051838",
-      "author": "천제황",
-      "genre": "무협"
-    },
-    {
-      "title": "그와 사랑이라니 7권",
-      "link": "https://ridibooks.com/books/1019019861",
-      "author": "미모리 아오",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "왕에게 바치는 약지 6권",
-      "link": "https://ridibooks.com/books/1019019862",
-      "author": "와타나베 시호",
       "genre": "해외 순정"
     }
   ]
