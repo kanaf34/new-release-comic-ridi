@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "이세계 주점 노부 10권",
+      "link": "https://ridibooks.com/books/297032706",
+      "author": "버지니아 이등병",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 책벌레의 하극상 10권",
+      "link": "https://ridibooks.com/books/297032730",
+      "author": "스즈카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "Op -오프- 요아케 이타루의 색이 없는 나날 2권",
+      "link": "https://ridibooks.com/books/297032731",
+      "author": "요네다 코우",
+      "genre": "드라마"
+    },
+    {
+      "title": "코이이지 10권 (완결)",
+      "link": "https://ridibooks.com/books/3010003951",
+      "author": "시무라 타카코",
+      "genre": "드라마"
+    },
+    {
+      "title": "여자의 집 8권 (완결)",
+      "link": "https://ridibooks.com/books/3010003959",
+      "author": "토리카이 아카네",
+      "genre": "드라마"
+    },
+    {
+      "title": "나와 그녀의 하룻밤 영화 2권",
+      "link": "https://ridibooks.com/books/4395000002",
+      "author": "야스다 코스케",
+      "genre": "GL"
+    },
+    {
+      "title": "선배가 짜증나는 후배이야기 3권",
+      "link": "https://ridibooks.com/books/505024883",
+      "author": "시로만타",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "콜레트는 죽기로 했다 16권",
+      "link": "https://ridibooks.com/books/845021456",
+      "author": "유키무라 알토",
+      "genre": "해외 순정"
+    },
+    {
       "title": "내세에는 남남이 좋겠어 4권 [기간 한정 특전]",
       "link": "https://ridibooks.com/books/2066001512",
       "author": "코니시 아스카",
@@ -70,54 +118,6 @@
       "title": "코하루 노트 1권",
       "link": "https://ridibooks.com/books/2066001509",
       "author": "후지타 마키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "백합남자 5권 (완결)",
-      "link": "https://ridibooks.com/books/297032595",
-      "author": "쿠라타 우소",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "선상의 개 3권 (완결)",
-      "link": "https://ridibooks.com/books/297032608",
-      "author": "스미다 모토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "혼인 신고서에 도장을 찍었을 뿐인데 4권",
-      "link": "https://ridibooks.com/books/3010003950",
-      "author": "유키 아오하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "아웃 15권",
-      "link": "https://ridibooks.com/books/806006247",
-      "author": "미즈타 마코토",
-      "genre": "액션"
-    },
-    {
-      "title": "그렌델 2권",
-      "link": "https://ridibooks.com/books/4129000017",
-      "author": "오이카와 마코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "괴물사변 9권",
-      "link": "https://ridibooks.com/books/1019019860",
-      "author": "아이모토 슈",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "왕가의 문장 12권",
-      "link": "https://ridibooks.com/books/505024470",
-      "author": "호소카와 후민",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그럼에도 세상은 아름답다 22권",
-      "link": "https://ridibooks.com/books/505024856",
-      "author": "시이나 다이",
       "genre": "해외 순정"
     }
   ]
