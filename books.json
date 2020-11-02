@@ -1,40 +1,16 @@
 {
   "books": [
     {
-      "title": "이세계 주점 노부 10권",
-      "link": "https://ridibooks.com/books/297032706",
-      "author": "버지니아 이등병",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 책벌레의 하극상 10권",
-      "link": "https://ridibooks.com/books/297032730",
-      "author": "스즈카",
-      "genre": "판타지/SF"
+      "title": "나와 그녀의 하룻밤 영화 2권",
+      "link": "https://ridibooks.com/books/4395000002",
+      "author": "야스다 코스케",
+      "genre": "GL"
     },
     {
       "title": "Op -오프- 요아케 이타루의 색이 없는 나날 2권",
       "link": "https://ridibooks.com/books/297032731",
       "author": "요네다 코우",
       "genre": "드라마"
-    },
-    {
-      "title": "코이이지 10권 (완결)",
-      "link": "https://ridibooks.com/books/3010003951",
-      "author": "시무라 타카코",
-      "genre": "드라마"
-    },
-    {
-      "title": "여자의 집 8권 (완결)",
-      "link": "https://ridibooks.com/books/3010003959",
-      "author": "토리카이 아카네",
-      "genre": "드라마"
-    },
-    {
-      "title": "나와 그녀의 하룻밤 영화 2권",
-      "link": "https://ridibooks.com/books/4395000002",
-      "author": "야스다 코스케",
-      "genre": "GL"
     },
     {
       "title": "선배가 짜증나는 후배이야기 3권",
@@ -47,6 +23,30 @@
       "link": "https://ridibooks.com/books/845021456",
       "author": "유키무라 알토",
       "genre": "해외 순정"
+    },
+    {
+      "title": "이세계 주점 노부 10권",
+      "link": "https://ridibooks.com/books/297032706",
+      "author": "버지니아 이등병",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 책벌레의 하극상 10권",
+      "link": "https://ridibooks.com/books/297032730",
+      "author": "스즈카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "코이이지 10권 (완결)",
+      "link": "https://ridibooks.com/books/3010003951",
+      "author": "시무라 타카코",
+      "genre": "드라마"
+    },
+    {
+      "title": "여자의 집 8권 (완결)",
+      "link": "https://ridibooks.com/books/3010003959",
+      "author": "토리카이 아카네",
+      "genre": "드라마"
     },
     {
       "title": "내세에는 남남이 좋겠어 4권 [기간 한정 특전]",
