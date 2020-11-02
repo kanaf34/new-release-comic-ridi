@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "드래곤 집을 사다 6권",
+      "link": "https://ridibooks.com/books/297032732",
+      "author": "아야 초코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "누에 화가 7권",
+      "link": "https://ridibooks.com/books/297032735",
+      "author": "이노카와 아케미",
+      "genre": "드라마"
+    },
+    {
+      "title": "사신에게 시집가는 날 2권",
+      "link": "https://ridibooks.com/books/297032742",
+      "author": "츠바키 카오리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "어른이 되어도 3권",
+      "link": "https://ridibooks.com/books/3010003960",
+      "author": "시무라 타카코",
+      "genre": "GL"
+    },
+    {
       "title": "일검진천 [개정판] 2부 30권 (완결)",
       "link": "https://ridibooks.com/books/1603051888",
       "author": "묵검향",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/840033586",
       "author": "cmp.works",
       "genre": "해외 순정"
-    },
-    {
-      "title": "페이트 그랜드 오더 전격 코믹 앤솔로지 8권",
-      "link": "https://ridibooks.com/books/1987001403",
-      "author": "FGO project",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "게임메이커 10권",
-      "link": "https://ridibooks.com/books/1603051858",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "코믹진 점프 141호",
-      "link": "https://ridibooks.com/books/845021554",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "챔프D 172호(2020.11.15)",
-      "link": "https://ridibooks.com/books/847003320",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
