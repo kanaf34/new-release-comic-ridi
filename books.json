@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "칸무리 씨의 시계 공방 1권",
+      "link": "https://ridibooks.com/books/297032699",
+      "author": "히와타리 린",
+      "genre": "드라마"
+    },
+    {
       "title": "체인소 맨 3권",
       "link": "https://ridibooks.com/books/1019020051",
       "author": "후지모토 타츠키",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/297032651",
       "author": "오쿠보 케이",
       "genre": "드라마"
-    },
-    {
-      "title": "타블로 게이트 5권",
-      "link": "https://ridibooks.com/books/2066001514",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
     }
   ]
 }
