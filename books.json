@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "불굴의 축구선수 14권 (완결)",
+      "link": "https://ridibooks.com/books/1603051912",
+      "author": "오일룡",
+      "genre": "스포츠"
+    },
+    {
       "title": "드래곤 집을 사다 6권",
       "link": "https://ridibooks.com/books/297032732",
       "author": "아야 초코",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/2066001510",
       "author": "아오베 마히토",
       "genre": "드라마"
-    },
-    {
-      "title": "망상 처형인 후지 요시코 1권",
-      "link": "https://ridibooks.com/books/840033586",
-      "author": "cmp.works",
-      "genre": "해외 순정"
     }
   ]
 }
