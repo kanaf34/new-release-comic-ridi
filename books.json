@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "체인소 맨 3권",
+      "link": "https://ridibooks.com/books/1019020051",
+      "author": "후지모토 타츠키",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "불굴의 축구선수 14권 (완결)",
       "link": "https://ridibooks.com/books/1603051912",
       "author": "오일룡",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/2066001514",
       "author": "스즈키 리카",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "독설의 모르포 2권",
-      "link": "https://ridibooks.com/books/2066001510",
-      "author": "아오베 마히토",
-      "genre": "드라마"
     }
   ]
 }
