@@ -1,6 +1,102 @@
 {
   "books": [
     {
+      "title": "공작의 교실 3권 (완결)",
+      "link": "https://ridibooks.com/books/1019019952",
+      "author": "타카나시 미츠바",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "후루야 선생님은 내 거야 3권",
+      "link": "https://ridibooks.com/books/1019019955",
+      "author": "카스미 유우코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "약속의 네버랜드 19권",
+      "link": "https://ridibooks.com/books/1019019957",
+      "author": "데미즈 포스카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사랑하는 레이지 6권 (완결)",
+      "link": "https://ridibooks.com/books/1019019958",
+      "author": "호시모리 유키모",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "청의 엑소시스트 25권",
+      "link": "https://ridibooks.com/books/1019019959",
+      "author": "카토 카즈에",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사오토메 선수, 숨다 10권 (완결)",
+      "link": "https://ridibooks.com/books/1019019960",
+      "author": "미즈구치 나오키",
+      "genre": "드라마"
+    },
+    {
+      "title": "어쨌든 귀여워 8권",
+      "link": "https://ridibooks.com/books/1019019961",
+      "author": "하타 켄지로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사이키 쿠스오의 재난 22권",
+      "link": "https://ridibooks.com/books/1019019962",
+      "author": "아소 슈이치",
+      "genre": "코믹"
+    },
+    {
+      "title": "헬크 11권",
+      "link": "https://ridibooks.com/books/1019019963",
+      "author": "나나오 나나키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "아~ 우리들의 먀오 장군님 1권",
+      "link": "https://ridibooks.com/books/297032702",
+      "author": "모리치카",
+      "genre": "코믹"
+    },
+    {
+      "title": "마왕의 딸은 너무 친절해!! 1권",
+      "link": "https://ridibooks.com/books/297032733",
+      "author": "사카모토 유우야",
+      "genre": "코믹"
+    },
+    {
+      "title": "용신님과 산다면 1권",
+      "link": "https://ridibooks.com/books/297032734",
+      "author": "카제마치 후쿠",
+      "genre": "드라마"
+    },
+    {
+      "title": "모브코의 사랑 6권",
+      "link": "https://ridibooks.com/books/297032768",
+      "author": "타무라 아카네",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "두 번째 인생 애니메이터 5권",
+      "link": "https://ridibooks.com/books/3010003962",
+      "author": "미야오 가쿠",
+      "genre": "드라마"
+    },
+    {
+      "title": "내 주먹을 받아라! 3권",
+      "link": "https://ridibooks.com/books/3802000008",
+      "author": "무라타",
+      "genre": "GL"
+    },
+    {
+      "title": "김전일 37세의 사건부 7권",
+      "link": "https://ridibooks.com/books/845021566",
+      "author": "아마기 세이마루",
+      "genre": "공포/추리"
+    },
+    {
       "title": "칸무리 씨의 시계 공방 1권",
       "link": "https://ridibooks.com/books/297032699",
       "author": "히와타리 린",
@@ -23,102 +119,6 @@
       "link": "https://ridibooks.com/books/3010003960",
       "author": "시무라 타카코",
       "genre": "GL"
-    },
-    {
-      "title": "누에 화가 7권",
-      "link": "https://ridibooks.com/books/297032735",
-      "author": "이노카와 아케미",
-      "genre": "드라마"
-    },
-    {
-      "title": "사신에게 시집가는 날 2권",
-      "link": "https://ridibooks.com/books/297032742",
-      "author": "츠바키 카오리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "불굴의 축구선수 14권 (완결)",
-      "link": "https://ridibooks.com/books/1603051912",
-      "author": "오일룡",
-      "genre": "스포츠"
-    },
-    {
-      "title": "Op -오프- 요아케 이타루의 색이 없는 나날 2권",
-      "link": "https://ridibooks.com/books/297032731",
-      "author": "요네다 코우",
-      "genre": "드라마"
-    },
-    {
-      "title": "나와 그녀의 하룻밤 영화 2권",
-      "link": "https://ridibooks.com/books/4395000002",
-      "author": "야스다 코스케",
-      "genre": "GL"
-    },
-    {
-      "title": "선배가 짜증나는 후배이야기 3권",
-      "link": "https://ridibooks.com/books/505024883",
-      "author": "시로만타",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "일검진천 [개정판] 2부 30권 (완결)",
-      "link": "https://ridibooks.com/books/1603051888",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "콜레트는 죽기로 했다 16권",
-      "link": "https://ridibooks.com/books/845021456",
-      "author": "유키무라 알토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "이세계 주점 노부 10권",
-      "link": "https://ridibooks.com/books/297032706",
-      "author": "버지니아 이등병",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 책벌레의 하극상 10권",
-      "link": "https://ridibooks.com/books/297032730",
-      "author": "스즈카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "코이이지 10권 (완결)",
-      "link": "https://ridibooks.com/books/3010003951",
-      "author": "시무라 타카코",
-      "genre": "드라마"
-    },
-    {
-      "title": "여자의 집 8권 (완결)",
-      "link": "https://ridibooks.com/books/3010003959",
-      "author": "토리카이 아카네",
-      "genre": "드라마"
-    },
-    {
-      "title": "내세에는 남남이 좋겠어 4권 [기간 한정 특전]",
-      "link": "https://ridibooks.com/books/2066001512",
-      "author": "코니시 아스카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "우리들은 미쳤다 11권",
-      "link": "https://ridibooks.com/books/297032603",
-      "author": "안도 나츠미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "툇마루에서 모든 게 달라졌다 4권",
-      "link": "https://ridibooks.com/books/593000828",
-      "author": "쓰루타니 가오리",
-      "genre": "드라마"
-    },
-    {
-      "title": "아르테 13권",
-      "link": "https://ridibooks.com/books/297032651",
-      "author": "오쿠보 케이",
-      "genre": "드라마"
     }
   ]
 }
