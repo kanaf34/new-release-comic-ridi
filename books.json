@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "사이 나쁜 약혼자 이야기 2권",
+      "link": "https://ridibooks.com/books/297032740",
+      "author": "하치야 쿠지라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "꽃이 지더라도 6권",
+      "link": "https://ridibooks.com/books/297032748",
+      "author": "송하",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "언성 신데렐라 병원 약사 아오이 미도리 5권",
+      "link": "https://ridibooks.com/books/297032781",
+      "author": "아라이 마마레",
+      "genre": "드라마"
+    },
+    {
+      "title": "파멸의 마도왕과 골렘 만비 2권 (완결)",
+      "link": "https://ridibooks.com/books/3010003969",
+      "author": "이노우에 히나코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "5등분의 신부 14권 (완결)",
+      "link": "https://ridibooks.com/books/505024906",
+      "author": "하루바 네기",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "29세 독신 중견 모험가의 일상 6권",
+      "link": "https://ridibooks.com/books/505024907",
+      "author": "나라 잇페이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "C.M.B. 박물관 사건목록(씨엠비) 39권",
+      "link": "https://ridibooks.com/books/505024908",
+      "author": "카토우 모토히로",
+      "genre": "학원"
+    },
+    {
+      "title": "Q.E.D. iff -증명종료- (큐이디 이프) 11권",
+      "link": "https://ridibooks.com/books/505024909",
+      "author": "카토우 모토히로",
+      "genre": "공포/추리"
+    },
+    {
       "title": "내 주먹을 받아라! 3권",
       "link": "https://ridibooks.com/books/3802000008",
       "author": "무라타",
@@ -71,54 +119,6 @@
       "link": "https://ridibooks.com/books/1019019963",
       "author": "나나오 나나키",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "아~ 우리들의 먀오 장군님 1권",
-      "link": "https://ridibooks.com/books/297032702",
-      "author": "모리치카",
-      "genre": "코믹"
-    },
-    {
-      "title": "모브코의 사랑 6권",
-      "link": "https://ridibooks.com/books/297032768",
-      "author": "타무라 아카네",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "두 번째 인생 애니메이터 5권",
-      "link": "https://ridibooks.com/books/3010003962",
-      "author": "미야오 가쿠",
-      "genre": "드라마"
-    },
-    {
-      "title": "김전일 37세의 사건부 7권",
-      "link": "https://ridibooks.com/books/845021566",
-      "author": "아마기 세이마루",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "칸무리 씨의 시계 공방 1권",
-      "link": "https://ridibooks.com/books/297032699",
-      "author": "히와타리 린",
-      "genre": "드라마"
-    },
-    {
-      "title": "체인소 맨 3권",
-      "link": "https://ridibooks.com/books/1019020051",
-      "author": "후지모토 타츠키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "드래곤 집을 사다 6권",
-      "link": "https://ridibooks.com/books/297032732",
-      "author": "아야 초코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "어른이 되어도 3권",
-      "link": "https://ridibooks.com/books/3010003960",
-      "author": "시무라 타카코",
-      "genre": "GL"
     }
   ]
 }
