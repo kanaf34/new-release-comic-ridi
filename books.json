@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "내 주먹을 받아라! 3권",
+      "link": "https://ridibooks.com/books/3802000008",
+      "author": "무라타",
+      "genre": "GL"
+    },
+    {
+      "title": "약속의 네버랜드 19권",
+      "link": "https://ridibooks.com/books/1019019957",
+      "author": "데미즈 포스카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "청의 엑소시스트 25권",
+      "link": "https://ridibooks.com/books/1019019959",
+      "author": "카토 카즈에",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "용신님과 산다면 1권",
+      "link": "https://ridibooks.com/books/297032734",
+      "author": "카제마치 후쿠",
+      "genre": "드라마"
+    },
+    {
+      "title": "마왕의 딸은 너무 친절해!! 1권",
+      "link": "https://ridibooks.com/books/297032733",
+      "author": "사카모토 유우야",
+      "genre": "코믹"
+    },
+    {
       "title": "공작의 교실 3권 (완결)",
       "link": "https://ridibooks.com/books/1019019952",
       "author": "타카나시 미츠바",
@@ -13,22 +43,10 @@
       "genre": "해외 순정"
     },
     {
-      "title": "약속의 네버랜드 19권",
-      "link": "https://ridibooks.com/books/1019019957",
-      "author": "데미즈 포스카",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "사랑하는 레이지 6권 (완결)",
       "link": "https://ridibooks.com/books/1019019958",
       "author": "호시모리 유키모",
       "genre": "해외 순정"
-    },
-    {
-      "title": "청의 엑소시스트 25권",
-      "link": "https://ridibooks.com/books/1019019959",
-      "author": "카토 카즈에",
-      "genre": "판타지/SF"
     },
     {
       "title": "사오토메 선수, 숨다 10권 (완결)",
@@ -61,18 +79,6 @@
       "genre": "코믹"
     },
     {
-      "title": "마왕의 딸은 너무 친절해!! 1권",
-      "link": "https://ridibooks.com/books/297032733",
-      "author": "사카모토 유우야",
-      "genre": "코믹"
-    },
-    {
-      "title": "용신님과 산다면 1권",
-      "link": "https://ridibooks.com/books/297032734",
-      "author": "카제마치 후쿠",
-      "genre": "드라마"
-    },
-    {
       "title": "모브코의 사랑 6권",
       "link": "https://ridibooks.com/books/297032768",
       "author": "타무라 아카네",
@@ -83,12 +89,6 @@
       "link": "https://ridibooks.com/books/3010003962",
       "author": "미야오 가쿠",
       "genre": "드라마"
-    },
-    {
-      "title": "내 주먹을 받아라! 3권",
-      "link": "https://ridibooks.com/books/3802000008",
-      "author": "무라타",
-      "genre": "GL"
     },
     {
       "title": "김전일 37세의 사건부 7권",
