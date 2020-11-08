@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "나는 신부가 필요없어! 1권",
+      "link": "https://ridibooks.com/books/297032743",
+      "author": "쿠라타 우소",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "행진 강아지에게 연서를 1권",
+      "link": "https://ridibooks.com/books/297032775",
+      "author": "타마사키 타마",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "네크로망스 2권",
+      "link": "https://ridibooks.com/books/3010003970",
+      "author": "도모토 유우키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "꿈에서 본 그 아이를 위하여 4권",
+      "link": "https://ridibooks.com/books/505024905",
+      "author": "산베 케이",
+      "genre": "드라마"
+    },
+    {
+      "title": "호타루~심야의 치과의사~ 1권",
+      "link": "https://ridibooks.com/books/908003529",
+      "author": "타카타 야스히코",
+      "genre": "드라마"
+    },
+    {
+      "title": "Dr.아수라 3권",
+      "link": "https://ridibooks.com/books/908003538",
+      "author": "코시노 료",
+      "genre": "드라마"
+    },
+    {
       "title": "5등분의 신부 14권 (완결)",
       "link": "https://ridibooks.com/books/505024906",
       "author": "하루바 네기",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/1019019959",
       "author": "카토 카즈에",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "용신님과 산다면 1권",
-      "link": "https://ridibooks.com/books/297032734",
-      "author": "카제마치 후쿠",
-      "genre": "드라마"
-    },
-    {
-      "title": "마왕의 딸은 너무 친절해!! 1권",
-      "link": "https://ridibooks.com/books/297032733",
-      "author": "사카모토 유우야",
-      "genre": "코믹"
-    },
-    {
-      "title": "공작의 교실 3권 (완결)",
-      "link": "https://ridibooks.com/books/1019019952",
-      "author": "타카나시 미츠바",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "후루야 선생님은 내 거야 3권",
-      "link": "https://ridibooks.com/books/1019019955",
-      "author": "카스미 유우코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사랑하는 레이지 6권 (완결)",
-      "link": "https://ridibooks.com/books/1019019958",
-      "author": "호시모리 유키모",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사오토메 선수, 숨다 10권 (완결)",
-      "link": "https://ridibooks.com/books/1019019960",
-      "author": "미즈구치 나오키",
-      "genre": "드라마"
     }
   ]
 }
