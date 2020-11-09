@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "꿈에서 본 그 아이를 위하여 4권",
+      "link": "https://ridibooks.com/books/505024905",
+      "author": "산베 케이",
+      "genre": "드라마"
+    },
+    {
       "title": "나는 신부가 필요없어! 1권",
       "link": "https://ridibooks.com/books/297032743",
       "author": "쿠라타 우소",
@@ -19,21 +25,15 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "꿈에서 본 그 아이를 위하여 4권",
-      "link": "https://ridibooks.com/books/505024905",
-      "author": "산베 케이",
+      "title": "Dr.아수라 3권",
+      "link": "https://ridibooks.com/books/908003538",
+      "author": "코시노 료",
       "genre": "드라마"
     },
     {
       "title": "호타루~심야의 치과의사~ 1권",
       "link": "https://ridibooks.com/books/908003529",
       "author": "타카타 야스히코",
-      "genre": "드라마"
-    },
-    {
-      "title": "Dr.아수라 3권",
-      "link": "https://ridibooks.com/books/908003538",
-      "author": "코시노 료",
       "genre": "드라마"
     },
     {
