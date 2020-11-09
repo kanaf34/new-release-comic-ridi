@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "유리구두는 깨져도 신을 수 있다 2권 (완결)",
+      "link": "https://ridibooks.com/books/297032774",
+      "author": "미야코 요코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "나만 빼고 인류 전원 백합 2권 (완결)",
+      "link": "https://ridibooks.com/books/3010003972",
+      "author": "하루세 히로키",
+      "genre": "GL"
+    },
+    {
+      "title": "허구추리 10권",
+      "link": "https://ridibooks.com/books/845021595",
+      "author": "카타세 챠시바",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "그 사람의 위장에는 내가 부족해 3권",
+      "link": "https://ridibooks.com/books/845021596",
+      "author": "쵸모란",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "RACK -13계 잔혹 기계- 12권",
+      "link": "https://ridibooks.com/books/845021597",
+      "author": "이바라키 바이토",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "꿈에서 본 그 아이를 위하여 4권",
       "link": "https://ridibooks.com/books/505024905",
       "author": "산베 케이",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/505024957",
       "author": "파티 편집부",
       "genre": "만화잡지"
-    },
-    {
-      "title": "파멸의 마도왕과 골렘 만비 2권 (완결)",
-      "link": "https://ridibooks.com/books/3010003969",
-      "author": "이노우에 히나코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "29세 독신 중견 모험가의 일상 6권",
-      "link": "https://ridibooks.com/books/505024907",
-      "author": "나라 잇페이",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "내 주먹을 받아라! 3권",
-      "link": "https://ridibooks.com/books/3802000008",
-      "author": "무라타",
-      "genre": "GL"
-    },
-    {
-      "title": "약속의 네버랜드 19권",
-      "link": "https://ridibooks.com/books/1019019957",
-      "author": "데미즈 포스카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "청의 엑소시스트 25권",
-      "link": "https://ridibooks.com/books/1019019959",
-      "author": "카토 카즈에",
-      "genre": "판타지/SF"
     }
   ]
 }
