@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "코세르테르의 용술사~어린용 이야기~ 4권",
+      "link": "https://ridibooks.com/books/2498006084",
+      "author": "이스루기 아유마",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "이상한 나라의 버드 3권",
+      "link": "https://ridibooks.com/books/806006286",
+      "author": "삿사 타이가",
+      "genre": "드라마"
+    },
+    {
       "title": "허구추리 10권",
       "link": "https://ridibooks.com/books/845021595",
       "author": "카타세 챠시바",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/806006283",
       "author": "노자와 유키코",
       "genre": "드라마"
-    },
-    {
-      "title": "게임메이커 15권",
-      "link": "https://ridibooks.com/books/1603051933",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "Party(파티) 2020년 12월호",
-      "link": "https://ridibooks.com/books/505024957",
-      "author": "파티 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
