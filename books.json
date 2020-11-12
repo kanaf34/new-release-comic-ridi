@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "삼국군영전 화봉요원 27권",
+      "link": "https://ridibooks.com/books/1561007152",
+      "author": "진모",
+      "genre": "무협"
+    },
+    {
+      "title": "개와 고양이 둘 다 키우면 매일이 즐거워 1권",
+      "link": "https://ridibooks.com/books/2066001520",
+      "author": "마츠모토 히데키치",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 현자의 제자를 자칭하는 현자 4권",
+      "link": "https://ridibooks.com/books/2066001521",
+      "author": "스에미츠 짓카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "나홀로 인간 요괴의 마을 1권",
+      "link": "https://ridibooks.com/books/2066001522",
+      "author": "무로나가 사오리",
+      "genre": "드라마"
+    },
+    {
+      "title": "날씨의 아이(코믹) 2권",
+      "link": "https://ridibooks.com/books/297032845",
+      "author": "쿠보타 와타루",
+      "genre": "드라마"
+    },
+    {
+      "title": "고양이가 서쪽으로 향하면 2권",
+      "link": "https://ridibooks.com/books/297032847",
+      "author": "우루시바라 유키",
+      "genre": "드라마"
+    },
+    {
+      "title": "데이지 럭 2권 (완결)",
+      "link": "https://ridibooks.com/books/297032853",
+      "author": "우미노 츠나미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마토메★그로기 헤븐 5권",
+      "link": "https://ridibooks.com/books/505025006",
+      "author": "미타오 덴",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "행복한 타카코 씨 5권",
+      "link": "https://ridibooks.com/books/806006287",
+      "author": "신큐 치에",
+      "genre": "드라마"
+    },
+    {
       "title": "극주부도 4권",
       "link": "https://ridibooks.com/books/505024962",
       "author": "오오노 코우스케",
@@ -65,60 +119,6 @@
       "link": "https://ridibooks.com/books/1019020063",
       "author": "하라 야스히사",
       "genre": "무협"
-    },
-    {
-      "title": "코미 양은 커뮤증입니다 16권",
-      "link": "https://ridibooks.com/books/1019020065",
-      "author": "오다 토모히토",
-      "genre": "코믹"
-    },
-    {
-      "title": "이상적 보이프렌드 6권",
-      "link": "https://ridibooks.com/books/1019020067",
-      "author": "아야세 우미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "소녀사전 3권",
-      "link": "https://ridibooks.com/books/297032804",
-      "author": "야스이 마리에",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마물들은 정돈이 안 돼 4권 (완결)",
-      "link": "https://ridibooks.com/books/297032808",
-      "author": "타카노 유야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "드라마틱 아이러니 4권",
-      "link": "https://ridibooks.com/books/297032839",
-      "author": "나마코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "코세르테르의 용술사~어린용 이야기~ 4권",
-      "link": "https://ridibooks.com/books/2498006084",
-      "author": "이스루기 아유마",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "이상한 나라의 버드 3권",
-      "link": "https://ridibooks.com/books/806006286",
-      "author": "삿사 타이가",
-      "genre": "드라마"
-    },
-    {
-      "title": "허구추리 10권",
-      "link": "https://ridibooks.com/books/845021595",
-      "author": "카타세 챠시바",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "나만 빼고 인류 전원 백합 2권 (완결)",
-      "link": "https://ridibooks.com/books/3010003972",
-      "author": "하루세 히로키",
-      "genre": "GL"
     }
   ]
 }
