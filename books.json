@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "정시에 퇴근하면 2권",
+      "link": "https://ridibooks.com/books/4406000002",
+      "author": "이누이 아유",
+      "genre": "GL"
+    },
+    {
+      "title": "할아버지네 요괴 2권 (완결)",
+      "link": "https://ridibooks.com/books/4391000003",
+      "author": "쿠레",
+      "genre": "드라마"
+    },
+    {
+      "title": "극주부도 4권",
+      "link": "https://ridibooks.com/books/505024962",
+      "author": "오오노 코우스케",
+      "genre": "코믹"
+    },
+    {
+      "title": "귀엽기만 한 게 아닌 시키모리 양 5권 (한정판)",
+      "link": "https://ridibooks.com/books/845021615",
+      "author": "마키 케이고",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "드래곤볼 슈퍼 12권",
+      "link": "https://ridibooks.com/books/1019020064",
+      "author": "토요타로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 약사의 혼잣말 ~마오마오의 후궁 수수께끼 풀이수첩~ 7권",
+      "link": "https://ridibooks.com/books/1019020066",
+      "author": "쿠라타 미노지",
+      "genre": "드라마"
+    },
+    {
       "title": "오물은 소독합니다 2권",
       "link": "https://ridibooks.com/books/1019020050",
       "author": "타구치 켄지",
@@ -19,22 +55,10 @@
       "genre": "무협"
     },
     {
-      "title": "드래곤볼 슈퍼 12권",
-      "link": "https://ridibooks.com/books/1019020064",
-      "author": "토요타로",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "코미 양은 커뮤증입니다 16권",
       "link": "https://ridibooks.com/books/1019020065",
       "author": "오다 토모히토",
       "genre": "코믹"
-    },
-    {
-      "title": "[코믹] 약사의 혼잣말 ~마오마오의 후궁 수수께끼 풀이수첩~ 7권",
-      "link": "https://ridibooks.com/books/1019020066",
-      "author": "쿠라타 미노지",
-      "genre": "드라마"
     },
     {
       "title": "이상적 보이프렌드 6권",
@@ -58,30 +82,6 @@
       "title": "드라마틱 아이러니 4권",
       "link": "https://ridibooks.com/books/297032839",
       "author": "나마코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "할아버지네 요괴 2권 (완결)",
-      "link": "https://ridibooks.com/books/4391000003",
-      "author": "쿠레",
-      "genre": "드라마"
-    },
-    {
-      "title": "정시에 퇴근하면 2권",
-      "link": "https://ridibooks.com/books/4406000002",
-      "author": "이누이 아유",
-      "genre": "GL"
-    },
-    {
-      "title": "극주부도 4권",
-      "link": "https://ridibooks.com/books/505024962",
-      "author": "오오노 코우스케",
-      "genre": "코믹"
-    },
-    {
-      "title": "귀엽기만 한 게 아닌 시키모리 양 5권 (한정판)",
-      "link": "https://ridibooks.com/books/845021615",
-      "author": "마키 케이고",
       "genre": "해외 순정"
     },
     {
