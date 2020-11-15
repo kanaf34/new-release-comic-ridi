@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "쇼코 선생님! 2권",
+      "link": "https://ridibooks.com/books/297032880",
+      "author": "나지미",
+      "genre": "코믹"
+    },
+    {
+      "title": "이세계에서 최강 마왕의 아이 10명의 엄마가 되었습니다 3권",
+      "link": "https://ridibooks.com/books/3010003990",
+      "author": "토야마 에마",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "바깥 나라의 소녀 7권",
+      "link": "https://ridibooks.com/books/505024972",
+      "author": "나가베",
+      "genre": "드라마"
+    },
+    {
       "title": "마토메★그로기 헤븐 5권",
       "link": "https://ridibooks.com/books/505025006",
       "author": "미타오 덴",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/1019020064",
       "author": "토요타로",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "열애 프린스 14권",
-      "link": "https://ridibooks.com/books/678012345",
-      "author": "세이즈키 마도카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "풍운유향 13권 (완결)",
-      "link": "https://ridibooks.com/books/1603051972",
-      "author": "천제황",
-      "genre": "무협"
-    },
-    {
-      "title": "오물은 소독합니다 2권",
-      "link": "https://ridibooks.com/books/1019020050",
-      "author": "타구치 켄지",
-      "genre": "코믹"
     }
   ]
 }
