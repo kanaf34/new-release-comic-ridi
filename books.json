@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "바깥 나라의 소녀 7권",
+      "link": "https://ridibooks.com/books/505024972",
+      "author": "나가베",
+      "genre": "드라마"
+    },
+    {
       "title": "쇼코 선생님! 2권",
       "link": "https://ridibooks.com/books/297032880",
       "author": "나지미",
@@ -11,12 +17,6 @@
       "link": "https://ridibooks.com/books/3010003990",
       "author": "토야마 에마",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "바깥 나라의 소녀 7권",
-      "link": "https://ridibooks.com/books/505024972",
-      "author": "나가베",
-      "genre": "드라마"
     },
     {
       "title": "마토메★그로기 헤븐 5권",
