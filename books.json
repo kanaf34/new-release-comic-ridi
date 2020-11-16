@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "줄무늬 고양이 코우메 17권",
+      "link": "https://ridibooks.com/books/297032894",
+      "author": "호시노 나츠미",
+      "genre": "드라마"
+    },
+    {
+      "title": "에노시마 와이키키 식당 10권",
+      "link": "https://ridibooks.com/books/297032895",
+      "author": "오카이 하루코",
+      "genre": "드라마"
+    },
+    {
+      "title": "CITY(시티) 10권",
+      "link": "https://ridibooks.com/books/297032905",
+      "author": "아라이 케이이치",
+      "genre": "코믹"
+    },
+    {
+      "title": "그랑블루 15권",
+      "link": "https://ridibooks.com/books/297032906",
+      "author": "요시오카 키미타케",
+      "genre": "코믹"
+    },
+    {
+      "title": "용랑전 37권 (완결)",
+      "link": "https://ridibooks.com/books/505025005",
+      "author": "야마하라 요시토",
+      "genre": "무협"
+    },
+    {
+      "title": "종말의 세라프 - 이치노세 구렌, 16세의 파멸 8권",
+      "link": "https://ridibooks.com/books/505025057",
+      "author": "아사미 요우",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "바깥 나라의 소녀 7권",
       "link": "https://ridibooks.com/books/505024972",
       "author": "나가베",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/845021626",
       "author": "NAOE",
       "genre": "액션"
-    },
-    {
-      "title": "[코믹] 현자의 제자를 자칭하는 현자 4권",
-      "link": "https://ridibooks.com/books/2066001521",
-      "author": "스에미츠 짓카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "나홀로 인간 요괴의 마을 1권",
-      "link": "https://ridibooks.com/books/2066001522",
-      "author": "무로나가 사오리",
-      "genre": "드라마"
-    },
-    {
-      "title": "행복한 타카코 씨 5권",
-      "link": "https://ridibooks.com/books/806006287",
-      "author": "신큐 치에",
-      "genre": "드라마"
-    },
-    {
-      "title": "극주부도 4권",
-      "link": "https://ridibooks.com/books/505024962",
-      "author": "오오노 코우스케",
-      "genre": "코믹"
-    },
-    {
-      "title": "귀엽기만 한 게 아닌 시키모리 양 5권 (한정판)",
-      "link": "https://ridibooks.com/books/845021615",
-      "author": "마키 케이고",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "정시에 퇴근하면 2권",
-      "link": "https://ridibooks.com/books/4406000002",
-      "author": "이누이 아유",
-      "genre": "GL"
     }
   ]
 }
