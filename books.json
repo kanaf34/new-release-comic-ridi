@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "디자인즈 5권 (완결)",
+      "link": "https://ridibooks.com/books/297032907",
+      "author": "이가라시 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "가브릴 드롭아웃 9권",
+      "link": "https://ridibooks.com/books/297032913",
+      "author": "우카미",
+      "genre": "코믹"
+    },
+    {
+      "title": "오키테가미 쿄코의 비망록 5권 (시즌1 완결)",
+      "link": "https://ridibooks.com/books/505024981",
+      "author": "아사미 요우",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "건널목 타임 6권",
+      "link": "https://ridibooks.com/books/806006295",
+      "author": "사토 요시미",
+      "genre": "코믹"
+    },
+    {
       "title": "그랑블루 15권",
       "link": "https://ridibooks.com/books/297032906",
       "author": "요시오카 키미타케",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/2066001520",
       "author": "마츠모토 히데키치",
       "genre": "코믹"
-    },
-    {
-      "title": "고양이가 서쪽으로 향하면 2권",
-      "link": "https://ridibooks.com/books/297032847",
-      "author": "우루시바라 유키",
-      "genre": "드라마"
-    },
-    {
-      "title": "데이지 럭 2권 (완결)",
-      "link": "https://ridibooks.com/books/297032853",
-      "author": "우미노 츠나미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "삼국군영전 화봉요원 27권",
-      "link": "https://ridibooks.com/books/1561007152",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "게임메이커 22권 (완결)",
-      "link": "https://ridibooks.com/books/1603051989",
-      "author": "고행석",
-      "genre": "액션"
     }
   ]
 }
