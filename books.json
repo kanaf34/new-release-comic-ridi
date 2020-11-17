@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "그랑블루 15권",
+      "link": "https://ridibooks.com/books/297032906",
+      "author": "요시오카 키미타케",
+      "genre": "코믹"
+    },
+    {
       "title": "줄무늬 고양이 코우메 17권",
       "link": "https://ridibooks.com/books/297032894",
       "author": "호시노 나츠미",
@@ -16,12 +22,6 @@
       "title": "CITY(시티) 10권",
       "link": "https://ridibooks.com/books/297032905",
       "author": "아라이 케이이치",
-      "genre": "코믹"
-    },
-    {
-      "title": "그랑블루 15권",
-      "link": "https://ridibooks.com/books/297032906",
-      "author": "요시오카 키미타케",
       "genre": "코믹"
     },
     {
