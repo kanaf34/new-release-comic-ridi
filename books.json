@@ -1,6 +1,84 @@
 {
   "books": [
     {
+      "title": "밀야혼(츠쿠모가미의 신부) 2권",
+      "link": "https://ridibooks.com/books/1019020110",
+      "author": "오미 토무",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마오 4권",
+      "link": "https://ridibooks.com/books/1019020114",
+      "author": "타카하시 루미코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "메종일각 신장판 14권",
+      "link": "https://ridibooks.com/books/1019020117",
+      "author": "타카하시 루미코",
+      "genre": "드라마"
+    },
+    {
+      "title": "란마 1/2 애장판 14권",
+      "link": "https://ridibooks.com/books/1019020119",
+      "author": "타카하시 루미코",
+      "genre": "코믹"
+    },
+    {
+      "title": "엉터리 릴리 12권",
+      "link": "https://ridibooks.com/books/1019020124",
+      "author": "코무라 아유미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "보이는 여고생 2권",
+      "link": "https://ridibooks.com/books/1690000835",
+      "author": "이즈미 토모키",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "비스타즈 (BEASTARS) 9권",
+      "link": "https://ridibooks.com/books/1690000836",
+      "author": "이타가키 파루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "아빠가 미소녀가 된 이야기 1권",
+      "link": "https://ridibooks.com/books/1690000846",
+      "author": "아카신고 와타루",
+      "genre": "코믹"
+    },
+    {
+      "title": "노부나가의 셰프 20권",
+      "link": "https://ridibooks.com/books/297032938",
+      "author": "카지카와 타쿠로",
+      "genre": "드라마"
+    },
+    {
+      "title": "무능한 나나 6권",
+      "link": "https://ridibooks.com/books/297032939",
+      "author": "후루야 이오리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "개인차 있습니다 3권",
+      "link": "https://ridibooks.com/books/3010003992",
+      "author": "히구라시 키노코",
+      "genre": "드라마"
+    },
+    {
+      "title": "고양이 마사지사 1권",
+      "link": "https://ridibooks.com/books/4018000025",
+      "author": "히사카와 하루",
+      "genre": "코믹"
+    },
+    {
+      "title": "레이디 빅토리안 20권 (완결)",
+      "link": "https://ridibooks.com/books/505025001",
+      "author": "모토 나오코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "오키테가미 쿄코의 비망록 5권 (시즌1 완결)",
       "link": "https://ridibooks.com/books/505024981",
       "author": "아사미 요우",
@@ -41,84 +119,6 @@
       "link": "https://ridibooks.com/books/505025002",
       "author": "테라지마 유지",
       "genre": "스포츠"
-    },
-    {
-      "title": "용랑전 37권 (완결)",
-      "link": "https://ridibooks.com/books/505025005",
-      "author": "야마하라 요시토",
-      "genre": "무협"
-    },
-    {
-      "title": "에노시마 와이키키 식당 10권",
-      "link": "https://ridibooks.com/books/297032895",
-      "author": "오카이 하루코",
-      "genre": "드라마"
-    },
-    {
-      "title": "줄무늬 고양이 코우메 17권",
-      "link": "https://ridibooks.com/books/297032894",
-      "author": "호시노 나츠미",
-      "genre": "드라마"
-    },
-    {
-      "title": "CITY(시티) 10권",
-      "link": "https://ridibooks.com/books/297032905",
-      "author": "아라이 케이이치",
-      "genre": "코믹"
-    },
-    {
-      "title": "종말의 세라프 - 이치노세 구렌, 16세의 파멸 8권",
-      "link": "https://ridibooks.com/books/505025057",
-      "author": "아사미 요우",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "바깥 나라의 소녀 7권",
-      "link": "https://ridibooks.com/books/505024972",
-      "author": "나가베",
-      "genre": "드라마"
-    },
-    {
-      "title": "쇼코 선생님! 2권",
-      "link": "https://ridibooks.com/books/297032880",
-      "author": "나지미",
-      "genre": "코믹"
-    },
-    {
-      "title": "이세계에서 최강 마왕의 아이 10명의 엄마가 되었습니다 3권",
-      "link": "https://ridibooks.com/books/3010003990",
-      "author": "토야마 에마",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "코믹진 점프 142호",
-      "link": "https://ridibooks.com/books/845021653",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "[e북] 챔프D 173호(2020.12.01)",
-      "link": "https://ridibooks.com/books/847003338",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "이슈 [디지털] 2020년 131호",
-      "link": "https://ridibooks.com/books/847003337",
-      "author": "이슈 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "마토메★그로기 헤븐 5권",
-      "link": "https://ridibooks.com/books/505025006",
-      "author": "미타오 덴",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 날씨의 아이 2권",
-      "link": "https://ridibooks.com/books/297032845",
-      "author": "쿠보타 와타루",
-      "genre": "드라마"
     }
   ]
 }
