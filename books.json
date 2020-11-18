@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "오키테가미 쿄코의 비망록 5권 (시즌1 완결)",
+      "link": "https://ridibooks.com/books/505024981",
+      "author": "아사미 요우",
+      "genre": "공포/추리"
+    },
+    {
       "title": "디자인즈 5권 (완결)",
       "link": "https://ridibooks.com/books/297032907",
       "author": "이가라시 다이스케",
@@ -11,12 +17,6 @@
       "link": "https://ridibooks.com/books/297032913",
       "author": "우카미",
       "genre": "코믹"
-    },
-    {
-      "title": "오키테가미 쿄코의 비망록 5권 (시즌1 완결)",
-      "link": "https://ridibooks.com/books/505024981",
-      "author": "아사미 요우",
-      "genre": "공포/추리"
     },
     {
       "title": "건널목 타임 6권",
