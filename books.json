@@ -7,22 +7,28 @@
       "genre": "공포/추리"
     },
     {
-      "title": "디자인즈 5권 (완결)",
-      "link": "https://ridibooks.com/books/297032907",
-      "author": "이가라시 다이스케",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "가브릴 드롭아웃 9권",
       "link": "https://ridibooks.com/books/297032913",
       "author": "우카미",
       "genre": "코믹"
     },
     {
+      "title": "디자인즈 5권 (완결)",
+      "link": "https://ridibooks.com/books/297032907",
+      "author": "이가라시 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "건널목 타임 6권",
       "link": "https://ridibooks.com/books/806006295",
       "author": "사토 요시미",
       "genre": "코믹"
+    },
+    {
+      "title": "매력남 5권",
+      "link": "https://ridibooks.com/books/1603052012",
+      "author": "조명운",
+      "genre": "액션"
     },
     {
       "title": "그랑블루 15권",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/297032845",
       "author": "쿠보타 와타루",
       "genre": "드라마"
-    },
-    {
-      "title": "개와 고양이 둘 다 키우면 매일이 즐거워 1권",
-      "link": "https://ridibooks.com/books/2066001520",
-      "author": "마츠모토 히데키치",
-      "genre": "코믹"
     }
   ]
 }
