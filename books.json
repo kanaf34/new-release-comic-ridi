@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "고양이 마사지사 1권",
+      "link": "https://ridibooks.com/books/4018000025",
+      "author": "히사카와 하루",
+      "genre": "코믹"
+    },
+    {
+      "title": "비스타즈 (BEASTARS) 9권",
+      "link": "https://ridibooks.com/books/1690000836",
+      "author": "이타가키 파루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "노부나가의 셰프 20권",
+      "link": "https://ridibooks.com/books/297032938",
+      "author": "카지카와 타쿠로",
+      "genre": "드라마"
+    },
+    {
+      "title": "란마 1/2 애장판 14권",
+      "link": "https://ridibooks.com/books/1019020119",
+      "author": "타카하시 루미코",
+      "genre": "코믹"
+    },
+    {
+      "title": "메종일각 신장판 14권",
+      "link": "https://ridibooks.com/books/1019020117",
+      "author": "타카하시 루미코",
+      "genre": "드라마"
+    },
+    {
+      "title": "보이는 여고생 2권",
+      "link": "https://ridibooks.com/books/1690000835",
+      "author": "이즈미 토모키",
+      "genre": "공포/추리"
+    },
+    {
       "title": "밀야혼(츠쿠모가미의 신부) 2권",
       "link": "https://ridibooks.com/books/1019020110",
       "author": "오미 토무",
@@ -13,46 +49,16 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "메종일각 신장판 14권",
-      "link": "https://ridibooks.com/books/1019020117",
-      "author": "타카하시 루미코",
-      "genre": "드라마"
-    },
-    {
-      "title": "란마 1/2 애장판 14권",
-      "link": "https://ridibooks.com/books/1019020119",
-      "author": "타카하시 루미코",
-      "genre": "코믹"
-    },
-    {
       "title": "엉터리 릴리 12권",
       "link": "https://ridibooks.com/books/1019020124",
       "author": "코무라 아유미",
       "genre": "해외 순정"
     },
     {
-      "title": "보이는 여고생 2권",
-      "link": "https://ridibooks.com/books/1690000835",
-      "author": "이즈미 토모키",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "비스타즈 (BEASTARS) 9권",
-      "link": "https://ridibooks.com/books/1690000836",
-      "author": "이타가키 파루",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "아빠가 미소녀가 된 이야기 1권",
       "link": "https://ridibooks.com/books/1690000846",
       "author": "아카신고 와타루",
       "genre": "코믹"
-    },
-    {
-      "title": "노부나가의 셰프 20권",
-      "link": "https://ridibooks.com/books/297032938",
-      "author": "카지카와 타쿠로",
-      "genre": "드라마"
     },
     {
       "title": "무능한 나나 6권",
@@ -65,12 +71,6 @@
       "link": "https://ridibooks.com/books/3010003992",
       "author": "히구라시 키노코",
       "genre": "드라마"
-    },
-    {
-      "title": "고양이 마사지사 1권",
-      "link": "https://ridibooks.com/books/4018000025",
-      "author": "히사카와 하루",
-      "genre": "코믹"
     },
     {
       "title": "레이디 빅토리안 20권 (완결)",
