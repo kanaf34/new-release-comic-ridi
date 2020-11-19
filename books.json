@@ -7,6 +7,18 @@
       "genre": "판타지/SF"
     },
     {
+      "title": "가르쳐줘!! 코스 누나 1권",
+      "link": "https://ridibooks.com/books/2066001527",
+      "author": "코바시코",
+      "genre": "코믹"
+    },
+    {
+      "title": "백마도사 시럽 양 1권",
+      "link": "https://ridibooks.com/books/2066001529",
+      "author": "칠트",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "시이나 군의 동물백과 6권",
       "link": "https://ridibooks.com/books/297032927",
       "author": "토오츠키 시야",
@@ -28,6 +40,12 @@
       "title": "불멸의 그대에게 13권",
       "link": "https://ridibooks.com/books/297032952",
       "author": "오이마 요시토키",
+      "genre": "드라마"
+    },
+    {
+      "title": "가정마도사의 이세계 생활 1권",
+      "link": "https://ridibooks.com/books/3010003993",
+      "author": "오노 아키히토",
       "genre": "드라마"
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/1690000846",
       "author": "아카신고 와타루",
       "genre": "코믹"
-    },
-    {
-      "title": "무능한 나나 6권",
-      "link": "https://ridibooks.com/books/297032939",
-      "author": "후루야 이오리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "개인차 있습니다 3권",
-      "link": "https://ridibooks.com/books/3010003992",
-      "author": "히구라시 키노코",
-      "genre": "드라마"
-    },
-    {
-      "title": "레이디 빅토리안 20권 (완결)",
-      "link": "https://ridibooks.com/books/505025001",
-      "author": "모토 나오코",
-      "genre": "해외 순정"
     }
   ]
 }
