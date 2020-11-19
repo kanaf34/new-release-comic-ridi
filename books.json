@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "천국대마경 4권",
+      "link": "https://ridibooks.com/books/2066001526",
+      "author": "이시구로 마사카즈",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "시이나 군의 동물백과 6권",
+      "link": "https://ridibooks.com/books/297032927",
+      "author": "토오츠키 시야",
+      "genre": "드라마"
+    },
+    {
+      "title": "새, 이소지씨 4권 (완결)",
+      "link": "https://ridibooks.com/books/297032928",
+      "author": "와시오 미에",
+      "genre": "드라마"
+    },
+    {
+      "title": "복원가의 집 19권",
+      "link": "https://ridibooks.com/books/297032944",
+      "author": "김상엽",
+      "genre": "학원"
+    },
+    {
+      "title": "불멸의 그대에게 13권",
+      "link": "https://ridibooks.com/books/297032952",
+      "author": "오이마 요시토키",
+      "genre": "드라마"
+    },
+    {
+      "title": "우주 형제 37권",
+      "link": "https://ridibooks.com/books/845021710",
+      "author": "코야마 츄야",
+      "genre": "드라마"
+    },
+    {
+      "title": "장하다! 원조 괴짜가족 5권",
+      "link": "https://ridibooks.com/books/845021711",
+      "author": "하마오카 켄지",
+      "genre": "코믹"
+    },
+    {
       "title": "고양이 마사지사 1권",
       "link": "https://ridibooks.com/books/4018000025",
       "author": "히사카와 하루",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/505025001",
       "author": "모토 나오코",
       "genre": "해외 순정"
-    },
-    {
-      "title": "오키테가미 쿄코의 비망록 5권 (시즌1 완결)",
-      "link": "https://ridibooks.com/books/505024981",
-      "author": "아사미 요우",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "가브릴 드롭아웃 9권",
-      "link": "https://ridibooks.com/books/297032913",
-      "author": "우카미",
-      "genre": "코믹"
-    },
-    {
-      "title": "디자인즈 5권 (완결)",
-      "link": "https://ridibooks.com/books/297032907",
-      "author": "이가라시 다이스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "건널목 타임 6권",
-      "link": "https://ridibooks.com/books/806006295",
-      "author": "사토 요시미",
-      "genre": "코믹"
-    },
-    {
-      "title": "매력남 5권",
-      "link": "https://ridibooks.com/books/1603052012",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "그랑블루 15권",
-      "link": "https://ridibooks.com/books/297032906",
-      "author": "요시오카 키미타케",
-      "genre": "코믹"
-    },
-    {
-      "title": "다이아몬드 에이스 actⅡ 20권",
-      "link": "https://ridibooks.com/books/505025002",
-      "author": "테라지마 유지",
-      "genre": "스포츠"
     }
   ]
 }
