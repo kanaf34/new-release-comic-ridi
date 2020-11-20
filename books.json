@@ -1,10 +1,10 @@
 {
   "books": [
     {
-      "title": "우주 형제 37권",
-      "link": "https://ridibooks.com/books/845021710",
-      "author": "코야마 츄야",
-      "genre": "드라마"
+      "title": "천국대마경 4권",
+      "link": "https://ridibooks.com/books/2066001526",
+      "author": "이시구로 마사카즈",
+      "genre": "판타지/SF"
     },
     {
       "title": "불멸의 그대에게 13권",
@@ -25,9 +25,9 @@
       "genre": "코믹"
     },
     {
-      "title": "새, 이소지씨 4권 (완결)",
-      "link": "https://ridibooks.com/books/297032928",
-      "author": "와시오 미에",
+      "title": "우주 형제 37권",
+      "link": "https://ridibooks.com/books/845021710",
+      "author": "코야마 츄야",
       "genre": "드라마"
     },
     {
@@ -37,10 +37,16 @@
       "genre": "드라마"
     },
     {
-      "title": "천국대마경 4권",
-      "link": "https://ridibooks.com/books/2066001526",
-      "author": "이시구로 마사카즈",
-      "genre": "판타지/SF"
+      "title": "가정마도사의 이세계 생활 1권",
+      "link": "https://ridibooks.com/books/3010003993",
+      "author": "오노 아키히토",
+      "genre": "드라마"
+    },
+    {
+      "title": "새, 이소지씨 4권 (완결)",
+      "link": "https://ridibooks.com/books/297032928",
+      "author": "와시오 미에",
+      "genre": "드라마"
     },
     {
       "title": "가르쳐줘!! 코스 누나 1권",
@@ -55,10 +61,28 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "가정마도사의 이세계 생활 1권",
-      "link": "https://ridibooks.com/books/3010003993",
-      "author": "오노 아키히토",
+      "title": "바보악질 10권",
+      "link": "https://ridibooks.com/books/1603052037",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "영 블랙 잭 3권",
+      "link": "https://ridibooks.com/books/505025075",
+      "author": "오오쿠마 유우고",
       "genre": "드라마"
+    },
+    {
+      "title": "Dr. 키리코 ~하얀 사신~ 3권",
+      "link": "https://ridibooks.com/books/505025077",
+      "author": "사노린",
+      "genre": "드라마"
+    },
+    {
+      "title": "이건 좀 아닌 것 같아! 7권",
+      "link": "https://ridibooks.com/books/845021761",
+      "author": "한송이",
+      "genre": "국내 순정"
     },
     {
       "title": "고양이 마사지사 1권",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/1690000835",
       "author": "이즈미 토모키",
       "genre": "공포/추리"
-    },
-    {
-      "title": "밀야혼(츠쿠모가미의 신부) 2권",
-      "link": "https://ridibooks.com/books/1019020110",
-      "author": "오미 토무",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마오 4권",
-      "link": "https://ridibooks.com/books/1019020114",
-      "author": "타카하시 루미코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "엉터리 릴리 12권",
-      "link": "https://ridibooks.com/books/1019020124",
-      "author": "코무라 아유미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "아빠가 미소녀가 된 이야기 1권",
-      "link": "https://ridibooks.com/books/1690000846",
-      "author": "아카신고 와타루",
-      "genre": "코믹"
     }
   ]
 }
