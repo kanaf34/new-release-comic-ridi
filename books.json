@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "title": "상사병에 걸린 엘리 10권",
+      "link": "https://ridibooks.com/books/2007002686",
+      "author": "후지 모모",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "거실의 마츠나가 씨 7권",
+      "link": "https://ridibooks.com/books/2007002689",
+      "author": "이와시타 케이코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "플런더러 11권",
+      "link": "https://ridibooks.com/books/2007002690",
+      "author": "미나즈키 수",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마법진 구루구루2 13권",
+      "link": "https://ridibooks.com/books/297032969",
+      "author": "에토 히로유키",
+      "genre": "코믹"
+    },
+    {
+      "title": "마녀 마리는 마녀가 아니야 1권",
+      "link": "https://ridibooks.com/books/3010003995",
+      "author": "코바야시 아즈미",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "엔젤하트 2nd Season 15권",
+      "link": "https://ridibooks.com/books/505025064",
+      "author": "호조 츠카사",
+      "genre": "드라마"
+    },
+    {
+      "title": "퍼펙트 서비스 12권",
+      "link": "https://ridibooks.com/books/505025071",
+      "author": "아라 타츠야",
+      "genre": "스포츠"
+    },
+    {
+      "title": "사실 나는 3권",
+      "link": "https://ridibooks.com/books/505025072",
+      "author": "마스다 에이지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "그래도 마을은 돌아간다 16권 (완결)",
+      "link": "https://ridibooks.com/books/845021752",
+      "author": "이시구로 마사카즈",
+      "genre": "드라마"
+    },
+    {
+      "title": "생명의 그릇 39권",
+      "link": "https://ridibooks.com/books/845021755",
+      "author": "우에하라 키미코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "천국대마경 4권",
       "link": "https://ridibooks.com/books/2066001526",
       "author": "이시구로 마사카즈",
@@ -59,66 +119,6 @@
       "link": "https://ridibooks.com/books/505025075",
       "author": "오오쿠마 유우고",
       "genre": "드라마"
-    },
-    {
-      "title": "Dr. 키리코 ~하얀 사신~ 3권",
-      "link": "https://ridibooks.com/books/505025077",
-      "author": "사노린",
-      "genre": "드라마"
-    },
-    {
-      "title": "이건 좀 아닌 것 같아! 7권",
-      "link": "https://ridibooks.com/books/845021761",
-      "author": "한송이",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "시이나 군의 동물백과 6권",
-      "link": "https://ridibooks.com/books/297032927",
-      "author": "토오츠키 시야",
-      "genre": "드라마"
-    },
-    {
-      "title": "장하다! 원조 괴짜가족 5권",
-      "link": "https://ridibooks.com/books/845021711",
-      "author": "하마오카 켄지",
-      "genre": "코믹"
-    },
-    {
-      "title": "고양이 마사지사 1권",
-      "link": "https://ridibooks.com/books/4018000025",
-      "author": "히사카와 하루",
-      "genre": "코믹"
-    },
-    {
-      "title": "비스타즈 (BEASTARS) 9권",
-      "link": "https://ridibooks.com/books/1690000836",
-      "author": "이타가키 파루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "노부나가의 셰프 20권",
-      "link": "https://ridibooks.com/books/297032938",
-      "author": "카지카와 타쿠로",
-      "genre": "드라마"
-    },
-    {
-      "title": "란마 1/2 애장판 14권",
-      "link": "https://ridibooks.com/books/1019020119",
-      "author": "타카하시 루미코",
-      "genre": "코믹"
-    },
-    {
-      "title": "메종일각 신장판 14권",
-      "link": "https://ridibooks.com/books/1019020117",
-      "author": "타카하시 루미코",
-      "genre": "드라마"
-    },
-    {
-      "title": "보이는 여고생 2권",
-      "link": "https://ridibooks.com/books/1690000835",
-      "author": "이즈미 토모키",
-      "genre": "공포/추리"
     }
   ]
 }
