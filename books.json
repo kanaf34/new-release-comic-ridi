@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "청춘 시무룩 클럽 8권",
+      "link": "https://ridibooks.com/books/297032981",
+      "author": "아사다 닛키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "미소년, 잘 먹겠습니다 2권",
+      "link": "https://ridibooks.com/books/297032982",
+      "author": "세이노 시즈루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마술 선배 7권",
+      "link": "https://ridibooks.com/books/297032988",
+      "author": "아즈",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 여성향 게임 세계는 엑스트라에게 엄격한 세계입니다 4권",
+      "link": "https://ridibooks.com/books/3010003998",
+      "author": "시오사토 준",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "신의 물방울 최종장 마리아주 19권",
+      "link": "https://ridibooks.com/books/505025059",
+      "author": "아기 다다시",
+      "genre": "드라마"
+    },
+    {
       "title": "그래도 마을은 돌아간다 16권 (완결)",
       "link": "https://ridibooks.com/books/845021752",
       "author": "이시구로 마사카즈",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/297032944",
       "author": "김상엽",
       "genre": "학원"
-    },
-    {
-      "title": "우주 형제 37권",
-      "link": "https://ridibooks.com/books/845021710",
-      "author": "코야마 츄야",
-      "genre": "드라마"
-    },
-    {
-      "title": "가정마도사의 이세계 생활 1권",
-      "link": "https://ridibooks.com/books/3010003993",
-      "author": "오노 아키히토",
-      "genre": "드라마"
-    },
-    {
-      "title": "새, 이소지씨 4권 (완결)",
-      "link": "https://ridibooks.com/books/297032928",
-      "author": "와시오 미에",
-      "genre": "드라마"
-    },
-    {
-      "title": "가르쳐줘!! 코스 누나 1권",
-      "link": "https://ridibooks.com/books/2066001527",
-      "author": "코바시코",
-      "genre": "코믹"
-    },
-    {
-      "title": "백마도사 시럽 양 1권",
-      "link": "https://ridibooks.com/books/2066001529",
-      "author": "칠트",
-      "genre": "판타지/SF"
     }
   ]
 }
