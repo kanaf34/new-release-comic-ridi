@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "[코믹] 여성향 게임 세계는 엑스트라에게 엄격한 세계입니다 4권",
+      "link": "https://ridibooks.com/books/3010003998",
+      "author": "시오사토 준",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "신의 물방울 최종장 마리아주 19권",
+      "link": "https://ridibooks.com/books/505025059",
+      "author": "아기 다다시",
+      "genre": "드라마"
+    },
+    {
       "title": "청춘 시무룩 클럽 8권",
       "link": "https://ridibooks.com/books/297032981",
       "author": "아사다 닛키",
@@ -19,16 +31,10 @@
       "genre": "코믹"
     },
     {
-      "title": "[코믹] 여성향 게임 세계는 엑스트라에게 엄격한 세계입니다 4권",
-      "link": "https://ridibooks.com/books/3010003998",
-      "author": "시오사토 준",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "신의 물방울 최종장 마리아주 19권",
-      "link": "https://ridibooks.com/books/505025059",
-      "author": "아기 다다시",
-      "genre": "드라마"
+      "title": "수라의 도시 3권",
+      "link": "https://ridibooks.com/books/845021765",
+      "author": "YAKSU",
+      "genre": "액션"
     },
     {
       "title": "그래도 마을은 돌아간다 16권 (완결)",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/297032952",
       "author": "오이마 요시토키",
       "genre": "드라마"
-    },
-    {
-      "title": "복원가의 집 19권",
-      "link": "https://ridibooks.com/books/297032944",
-      "author": "김상엽",
-      "genre": "학원"
     }
   ]
 }
