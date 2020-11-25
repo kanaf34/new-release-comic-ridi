@@ -1,6 +1,102 @@
 {
   "books": [
     {
+      "title": "어둠의 임상심리사 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019022326",
+      "author": "카가와 마사히토",
+      "genre": "드라마"
+    },
+    {
+      "title": "마인드 어쌔신 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019022331",
+      "author": "카즈 하지메",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "주술회전 8권",
+      "link": "https://ridibooks.com/books/1019022333",
+      "author": "아쿠타미 게게",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "하이큐!! 43권",
+      "link": "https://ridibooks.com/books/1019022334",
+      "author": "후루다테 하루이치",
+      "genre": "스포츠"
+    },
+    {
+      "title": "명탐정 코난 98권",
+      "link": "https://ridibooks.com/books/1019022335",
+      "author": "아오야마 고쇼",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "노 건즈 라이프 9권",
+      "link": "https://ridibooks.com/books/1019022347",
+      "author": "카라스마 타스쿠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "만난 지 5초 만에 배틀 11권",
+      "link": "https://ridibooks.com/books/1019022348",
+      "author": "미야코 카시와",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "은수저 15권 (완결)",
+      "link": "https://ridibooks.com/books/1019022349",
+      "author": "아라카와 히로무",
+      "genre": "드라마"
+    },
+    {
+      "title": "아마노 메구미는 빈틈투성이! 14권",
+      "link": "https://ridibooks.com/books/1019022350",
+      "author": "네코구치",
+      "genre": "학원"
+    },
+    {
+      "title": "은여우 14권",
+      "link": "https://ridibooks.com/books/1019022352",
+      "author": "오치아이 사요리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "그렌델 3권 (완결)",
+      "link": "https://ridibooks.com/books/4129000018",
+      "author": "오이카와 마코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "수요일의 트립 런치 3권 (완결)",
+      "link": "https://ridibooks.com/books/4144000022",
+      "author": "타지 마코토",
+      "genre": "드라마"
+    },
+    {
+      "title": "반했습니다, 선배 8권",
+      "link": "https://ridibooks.com/books/505025146",
+      "author": "마세 아즈사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "여친, 빌리겠습니다 9권",
+      "link": "https://ridibooks.com/books/505025156",
+      "author": "미야지마 레이지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "라멘 너무 좋아 코이즈미 씨 4권",
+      "link": "https://ridibooks.com/books/806006325",
+      "author": "나루미 나루",
+      "genre": "드라마"
+    },
+    {
+      "title": "오늘 뭐 먹지? 24 나만의♪사누키 우동",
+      "link": "https://ridibooks.com/books/806006326",
+      "author": "후쿠마루 야스코",
+      "genre": "드라마"
+    },
+    {
       "title": "[코믹] 어떤 마술의 금서목록 24권",
       "link": "https://ridibooks.com/books/297033035",
       "author": "코기노 츄야",
@@ -23,102 +119,6 @@
       "link": "https://ridibooks.com/books/1603052070",
       "author": "조명운",
       "genre": "액션"
-    },
-    {
-      "title": "[코믹] 여성향 게임 세계는 엑스트라에게 엄격한 세계입니다 4권",
-      "link": "https://ridibooks.com/books/3010003998",
-      "author": "시오사토 준",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "신의 물방울 최종장 마리아주 19권",
-      "link": "https://ridibooks.com/books/505025059",
-      "author": "아기 다다시",
-      "genre": "드라마"
-    },
-    {
-      "title": "청춘 시무룩 클럽 8권",
-      "link": "https://ridibooks.com/books/297032981",
-      "author": "아사다 닛키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "미소년, 잘 먹겠습니다 2권",
-      "link": "https://ridibooks.com/books/297032982",
-      "author": "세이노 시즈루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마술 선배 7권",
-      "link": "https://ridibooks.com/books/297032988",
-      "author": "아즈",
-      "genre": "코믹"
-    },
-    {
-      "title": "필드의 최강콤비 14권 (완결)",
-      "link": "https://ridibooks.com/books/1603052054",
-      "author": "오일룡",
-      "genre": "스포츠"
-    },
-    {
-      "title": "수라의 도시 3권",
-      "link": "https://ridibooks.com/books/845021765",
-      "author": "YAKSU",
-      "genre": "액션"
-    },
-    {
-      "title": "그래도 마을은 돌아간다 16권 (완결)",
-      "link": "https://ridibooks.com/books/845021752",
-      "author": "이시구로 마사카즈",
-      "genre": "드라마"
-    },
-    {
-      "title": "마녀 마리는 마녀가 아니야 1권",
-      "link": "https://ridibooks.com/books/3010003995",
-      "author": "코바야시 아즈미",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "상사병에 걸린 엘리 10권",
-      "link": "https://ridibooks.com/books/2007002686",
-      "author": "후지 모모",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "플런더러 11권",
-      "link": "https://ridibooks.com/books/2007002690",
-      "author": "미나즈키 수",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사실 나는 3권",
-      "link": "https://ridibooks.com/books/505025072",
-      "author": "마스다 에이지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마법진 구루구루2 13권",
-      "link": "https://ridibooks.com/books/297032969",
-      "author": "에토 히로유키",
-      "genre": "코믹"
-    },
-    {
-      "title": "[할리퀸] 잠자는 공주와 백작의 키스",
-      "link": "https://ridibooks.com/books/1458005259",
-      "author": "카나 아즈미",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "내 마음속에서 네가 지워지지 않아 4권 (완결)",
-      "link": "https://ridibooks.com/books/1019023954",
-      "author": "아이카와 사키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "거실의 마츠나가 씨 7권",
-      "link": "https://ridibooks.com/books/2007002689",
-      "author": "이와시타 케이코",
-      "genre": "해외 순정"
     }
   ]
 }
