@@ -1,15 +1,15 @@
 {
   "books": [
     {
-      "title": "매력남 10권",
-      "link": "https://ridibooks.com/books/1603052070",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
       "title": "[코믹] 어떤 마술의 금서목록 24권",
       "link": "https://ridibooks.com/books/297033035",
       "author": "코기노 츄야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "용기사의 최애 그녀 2권",
+      "link": "https://ridibooks.com/books/806006329",
+      "author": "아오자키 리츠",
       "genre": "판타지/SF"
     },
     {
@@ -19,10 +19,10 @@
       "genre": "코믹"
     },
     {
-      "title": "용기사의 최애 그녀 2권",
-      "link": "https://ridibooks.com/books/806006329",
-      "author": "아오자키 리츠",
-      "genre": "판타지/SF"
+      "title": "매력남 10권",
+      "link": "https://ridibooks.com/books/1603052070",
+      "author": "조명운",
+      "genre": "액션"
     },
     {
       "title": "[코믹] 여성향 게임 세계는 엑스트라에게 엄격한 세계입니다 4권",
