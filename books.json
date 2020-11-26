@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "타블로 게이트 6권",
+      "link": "https://ridibooks.com/books/2066001536",
+      "author": "스즈키 리카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "인 잭 아웃(in JACK out) 1권",
+      "link": "https://ridibooks.com/books/297032989",
+      "author": "야마다 난페이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "하나노이 군과 상사병 6권",
+      "link": "https://ridibooks.com/books/297033025",
+      "author": "모리노 메구미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아사히 선배의 취향 3권",
+      "link": "https://ridibooks.com/books/297033026",
+      "author": "마치노 이로하",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "흐린 하늘에 웃다 6권 (완결)",
+      "link": "https://ridibooks.com/books/297033042",
+      "author": "카라카라 케무리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "바니타스의 수기 8권",
+      "link": "https://ridibooks.com/books/297033067",
+      "author": "모치즈키 준",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "블루 피리어드 8권",
+      "link": "https://ridibooks.com/books/3010004001",
+      "author": "야마구치 츠바사",
+      "genre": "드라마"
+    },
+    {
+      "title": "쇼와 팡파르 7권 (완결)",
+      "link": "https://ridibooks.com/books/505025132",
+      "author": "리카치",
+      "genre": "드라마"
+    },
+    {
+      "title": "아르슬란 전기 13권",
+      "link": "https://ridibooks.com/books/505025157",
+      "author": "아라카와 히로무",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "주술회전 8권",
       "link": "https://ridibooks.com/books/1019022333",
       "author": "아쿠타미 게게",
@@ -64,60 +118,6 @@
       "title": "노 건즈 라이프 9권",
       "link": "https://ridibooks.com/books/1019022347",
       "author": "카라스마 타스쿠",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "만난 지 5초 만에 배틀 11권",
-      "link": "https://ridibooks.com/books/1019022348",
-      "author": "미야코 카시와",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아마노 메구미는 빈틈투성이! 14권",
-      "link": "https://ridibooks.com/books/1019022350",
-      "author": "네코구치",
-      "genre": "학원"
-    },
-    {
-      "title": "은여우 14권",
-      "link": "https://ridibooks.com/books/1019022352",
-      "author": "오치아이 사요리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "반했습니다, 선배 8권",
-      "link": "https://ridibooks.com/books/505025146",
-      "author": "마세 아즈사",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "여친, 빌리겠습니다 9권",
-      "link": "https://ridibooks.com/books/505025156",
-      "author": "미야지마 레이지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "라멘 너무 좋아 코이즈미 씨 4권",
-      "link": "https://ridibooks.com/books/806006325",
-      "author": "나루미 나루",
-      "genre": "드라마"
-    },
-    {
-      "title": "오늘 뭐 먹지? 24 나만의♪사누키 우동",
-      "link": "https://ridibooks.com/books/806006326",
-      "author": "후쿠마루 야스코",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 어떤 마술의 금서목록 24권",
-      "link": "https://ridibooks.com/books/297033035",
-      "author": "코기노 츄야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "용기사의 최애 그녀 2권",
-      "link": "https://ridibooks.com/books/806006329",
-      "author": "아오자키 리츠",
       "genre": "판타지/SF"
     }
   ]
