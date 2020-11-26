@@ -1,18 +1,6 @@
 {
   "books": [
     {
-      "title": "어둠의 임상심리사 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019022326",
-      "author": "카가와 마사히토",
-      "genre": "드라마"
-    },
-    {
-      "title": "마인드 어쌔신 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019022331",
-      "author": "카즈 하지메",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "주술회전 8권",
       "link": "https://ridibooks.com/books/1019022333",
       "author": "아쿠타미 게게",
@@ -25,10 +13,40 @@
       "genre": "스포츠"
     },
     {
+      "title": "은수저 15권 (완결)",
+      "link": "https://ridibooks.com/books/1019022349",
+      "author": "아라카와 히로무",
+      "genre": "드라마"
+    },
+    {
       "title": "명탐정 코난 98권",
       "link": "https://ridibooks.com/books/1019022335",
       "author": "아오야마 고쇼",
       "genre": "공포/추리"
+    },
+    {
+      "title": "수요일의 트립 런치 3권 (완결)",
+      "link": "https://ridibooks.com/books/4144000022",
+      "author": "타지 마코토",
+      "genre": "드라마"
+    },
+    {
+      "title": "그렌델 3권 (완결)",
+      "link": "https://ridibooks.com/books/4129000018",
+      "author": "오이카와 마코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "어둠의 임상심리사 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019022326",
+      "author": "카가와 마사히토",
+      "genre": "드라마"
+    },
+    {
+      "title": "마인드 어쌔신 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019022331",
+      "author": "카즈 하지메",
+      "genre": "판타지/SF"
     },
     {
       "title": "노 건즈 라이프 9권",
@@ -43,12 +61,6 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "은수저 15권 (완결)",
-      "link": "https://ridibooks.com/books/1019022349",
-      "author": "아라카와 히로무",
-      "genre": "드라마"
-    },
-    {
       "title": "아마노 메구미는 빈틈투성이! 14권",
       "link": "https://ridibooks.com/books/1019022350",
       "author": "네코구치",
@@ -59,18 +71,6 @@
       "link": "https://ridibooks.com/books/1019022352",
       "author": "오치아이 사요리",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "그렌델 3권 (완결)",
-      "link": "https://ridibooks.com/books/4129000018",
-      "author": "오이카와 마코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "수요일의 트립 런치 3권 (완결)",
-      "link": "https://ridibooks.com/books/4144000022",
-      "author": "타지 마코토",
-      "genre": "드라마"
     },
     {
       "title": "반했습니다, 선배 8권",
