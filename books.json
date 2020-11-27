@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "하나노이 군과 상사병 6권",
+      "link": "https://ridibooks.com/books/297033025",
+      "author": "모리노 메구미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아르슬란 전기 13권",
+      "link": "https://ridibooks.com/books/505025157",
+      "author": "아라카와 히로무",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "블루 피리어드 8권",
+      "link": "https://ridibooks.com/books/3010004001",
+      "author": "야마구치 츠바사",
+      "genre": "드라마"
+    },
+    {
+      "title": "바니타스의 수기 8권",
+      "link": "https://ridibooks.com/books/297033067",
+      "author": "모치즈키 준",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "타블로 게이트 6권",
       "link": "https://ridibooks.com/books/2066001536",
       "author": "스즈키 리카",
@@ -13,10 +37,16 @@
       "genre": "해외 순정"
     },
     {
-      "title": "하나노이 군과 상사병 6권",
-      "link": "https://ridibooks.com/books/297033025",
-      "author": "모리노 메구미",
+      "title": "위장 결혼 제안 2권",
+      "link": "https://ridibooks.com/books/678012494",
+      "author": "아메미야 에이코",
       "genre": "해외 순정"
+    },
+    {
+      "title": "바보악질 15권 (완결)",
+      "link": "https://ridibooks.com/books/1603052085",
+      "author": "고행석",
+      "genre": "액션"
     },
     {
       "title": "아사히 선배의 취향 3권",
@@ -31,28 +61,16 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "바니타스의 수기 8권",
-      "link": "https://ridibooks.com/books/297033067",
-      "author": "모치즈키 준",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "블루 피리어드 8권",
-      "link": "https://ridibooks.com/books/3010004001",
-      "author": "야마구치 츠바사",
-      "genre": "드라마"
-    },
-    {
       "title": "쇼와 팡파르 7권 (완결)",
       "link": "https://ridibooks.com/books/505025132",
       "author": "리카치",
       "genre": "드라마"
     },
     {
-      "title": "아르슬란 전기 13권",
-      "link": "https://ridibooks.com/books/505025157",
-      "author": "아라카와 히로무",
-      "genre": "판타지/SF"
+      "title": "귀엽기만 한 게 아닌 시키모리 양 5권",
+      "link": "https://ridibooks.com/books/845021616",
+      "author": "마키 케이고",
+      "genre": "해외 순정"
     },
     {
       "title": "주술회전 8권",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/297032986",
       "author": "모모치 레이코",
       "genre": "해외 순정"
-    },
-    {
-      "title": "어둠의 임상심리사 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019022326",
-      "author": "카가와 마사히토",
-      "genre": "드라마"
-    },
-    {
-      "title": "마인드 어쌔신 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019022331",
-      "author": "카즈 하지메",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "노 건즈 라이프 9권",
-      "link": "https://ridibooks.com/books/1019022347",
-      "author": "카라스마 타스쿠",
-      "genre": "판타지/SF"
     }
   ]
 }
