@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "[코믹] 이세계는 스마트폰과 함께. 7권",
+      "link": "https://ridibooks.com/books/3010004002",
+      "author": "소토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "빨간 모자의 늑대 제자 2권",
+      "link": "https://ridibooks.com/books/505025140",
+      "author": "모기 사야카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "제물공주와 짐승의 왕 11권",
+      "link": "https://ridibooks.com/books/505025158",
+      "author": "토모후지 유",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "창룡의 시종 8권",
+      "link": "https://ridibooks.com/books/505025160",
+      "author": "치토세 시키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아카시야 은하상점가 3권 (완결)",
+      "link": "https://ridibooks.com/books/908003544",
+      "author": "히구치 다이스케",
+      "genre": "드라마"
+    },
+    {
       "title": "하나노이 군과 상사병 6권",
       "link": "https://ridibooks.com/books/297033025",
       "author": "모리노 메구미",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/1019022335",
       "author": "아오야마 고쇼",
       "genre": "공포/추리"
-    },
-    {
-      "title": "수요일의 트립 런치 3권 (완결)",
-      "link": "https://ridibooks.com/books/4144000022",
-      "author": "타지 마코토",
-      "genre": "드라마"
-    },
-    {
-      "title": "그렌델 3권 (완결)",
-      "link": "https://ridibooks.com/books/4129000018",
-      "author": "오이카와 마코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "잘 잤니 그리고 잘 자 5권 (완결)",
-      "link": "https://ridibooks.com/books/297032985",
-      "author": "마치타",
-      "genre": "드라마"
-    },
-    {
-      "title": "문제 제기 시리즈 -생명- 4권",
-      "link": "https://ridibooks.com/books/297032986",
-      "author": "모모치 레이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "어둠의 임상심리사 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019022326",
-      "author": "카가와 마사히토",
-      "genre": "드라마"
     }
   ]
 }
