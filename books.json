@@ -1,18 +1,6 @@
 {
   "books": [
     {
-      "title": "[코믹] 이세계는 스마트폰과 함께. 7권",
-      "link": "https://ridibooks.com/books/3010004002",
-      "author": "소토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "빨간 모자의 늑대 제자 2권",
-      "link": "https://ridibooks.com/books/505025140",
-      "author": "모기 사야카",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "제물공주와 짐승의 왕 11권",
       "link": "https://ridibooks.com/books/505025158",
       "author": "토모후지 유",
@@ -25,10 +13,22 @@
       "genre": "해외 순정"
     },
     {
+      "title": "빨간 모자의 늑대 제자 2권",
+      "link": "https://ridibooks.com/books/505025140",
+      "author": "모기 사야카",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "아카시야 은하상점가 3권 (완결)",
       "link": "https://ridibooks.com/books/908003544",
       "author": "히구치 다이스케",
       "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 이세계는 스마트폰과 함께. 7권",
+      "link": "https://ridibooks.com/books/3010004002",
+      "author": "소토",
+      "genre": "판타지/SF"
     },
     {
       "title": "하나노이 군과 상사병 6권",
