@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "[코믹] 로드 엘멜로이 2세의 사건부 4권",
+      "link": "https://ridibooks.com/books/1690000847",
+      "author": "아즈마 토우",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "프리즈마 이리야 드라이 11권",
+      "link": "https://ridibooks.com/books/1690000848",
+      "author": "히로야마 히로시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사랑스런 무코 16권",
+      "link": "https://ridibooks.com/books/297033146",
+      "author": "미즈시나 타카유키",
+      "genre": "코믹"
+    },
+    {
+      "title": "해피해피 쿠루네코 5권",
+      "link": "https://ridibooks.com/books/297033147",
+      "author": "쿠루네코 야마토",
+      "genre": "드라마"
+    },
+    {
       "title": "볼룸에 오신 것을 환영합니다 10권",
       "link": "https://ridibooks.com/books/505025177",
       "author": "타케우치 토모",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/297033025",
       "author": "모리노 메구미",
       "genre": "해외 순정"
-    },
-    {
-      "title": "아르슬란 전기 13권",
-      "link": "https://ridibooks.com/books/505025157",
-      "author": "아라카와 히로무",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "블루 피리어드 8권",
-      "link": "https://ridibooks.com/books/3010004001",
-      "author": "야마구치 츠바사",
-      "genre": "드라마"
-    },
-    {
-      "title": "바니타스의 수기 8권",
-      "link": "https://ridibooks.com/books/297033067",
-      "author": "모치즈키 준",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "타블로 게이트 6권",
-      "link": "https://ridibooks.com/books/2066001536",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
     }
   ]
 }
