@@ -1,6 +1,84 @@
 {
   "books": [
     {
+      "title": "너에게 닿기를 번외편 1권",
+      "link": "https://ridibooks.com/books/1019024027",
+      "author": "시이나 카루호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "번 더 위치 1권",
+      "link": "https://ridibooks.com/books/1019024030",
+      "author": "쿠보 타이토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "원피스 97권",
+      "link": "https://ridibooks.com/books/1019024031",
+      "author": "오다 에이치로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마녀의 괴화집 8권 (완결)",
+      "link": "https://ridibooks.com/books/1019024042",
+      "author": "하치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "보루토 11권",
+      "link": "https://ridibooks.com/books/1019024043",
+      "author": "이케모토 미키오",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "월드 트리거 22권",
+      "link": "https://ridibooks.com/books/1019024044",
+      "author": "아시하라 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "천사와 아쿠토 17권 (완결)",
+      "link": "https://ridibooks.com/books/1019024045",
+      "author": "히라카와 아야",
+      "genre": "코믹"
+    },
+    {
+      "title": "유가미 군은 친구가 없다 8권",
+      "link": "https://ridibooks.com/books/1019024047",
+      "author": "사쿠라 준",
+      "genre": "코믹"
+    },
+    {
+      "title": "장밋빛의 약속 5권",
+      "link": "https://ridibooks.com/books/1019024048",
+      "author": "미야사카 카호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "스파이 패밀리 5권",
+      "link": "https://ridibooks.com/books/1019026544",
+      "author": "엔도 타츠야",
+      "genre": "액션"
+    },
+    {
+      "title": "토라와 미케 1권",
+      "link": "https://ridibooks.com/books/297033139",
+      "author": "네코마키",
+      "genre": "드라마"
+    },
+    {
+      "title": "스킵과 로퍼 2권",
+      "link": "https://ridibooks.com/books/3010004010",
+      "author": "타카마츠 미사키",
+      "genre": "드라마"
+    },
+    {
+      "title": "나와 그녀의 하룻밤 영화 3권 (완결)",
+      "link": "https://ridibooks.com/books/4395000003",
+      "author": "야스다 코스케",
+      "genre": "GL"
+    },
+    {
       "title": "[코믹] 로드 엘멜로이 2세의 사건부 4권",
       "link": "https://ridibooks.com/books/1690000847",
       "author": "아즈마 토우",
@@ -41,84 +119,6 @@
       "link": "https://ridibooks.com/books/4414000003",
       "author": "후지마루 마메노스케",
       "genre": "드라마"
-    },
-    {
-      "title": "그런데 치기라 군이 너무 달콤해. 3권",
-      "link": "https://ridibooks.com/books/297033107",
-      "author": "아난 쿠지라",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "80세 마리코 13권",
-      "link": "https://ridibooks.com/books/297033133",
-      "author": "오자와 유키",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 마도구사 달리아는 고개 숙이지 않아 2권",
-      "link": "https://ridibooks.com/books/3010004004",
-      "author": "스미카와 메구미",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "독표무적 [개정판] 1부 32권",
-      "link": "https://ridibooks.com/books/1603052136",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "코믹진 점프 143호",
-      "link": "https://ridibooks.com/books/845021878",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "챔프D 174호(2020.12.15)",
-      "link": "https://ridibooks.com/books/847003358",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "그래도 아유무는 다가온다 4권",
-      "link": "https://ridibooks.com/books/297033134",
-      "author": "야마모토 소이치로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "제물공주와 짐승의 왕 11권",
-      "link": "https://ridibooks.com/books/505025158",
-      "author": "토모후지 유",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "창룡의 시종 8권",
-      "link": "https://ridibooks.com/books/505025160",
-      "author": "치토세 시키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "빨간 모자의 늑대 제자 2권",
-      "link": "https://ridibooks.com/books/505025140",
-      "author": "모기 사야카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아카시야 은하상점가 3권 (완결)",
-      "link": "https://ridibooks.com/books/908003544",
-      "author": "히구치 다이스케",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 이세계는 스마트폰과 함께. 7권",
-      "link": "https://ridibooks.com/books/3010004002",
-      "author": "소토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "종횡사해 [개정판] 16권 (완결)",
-      "link": "https://ridibooks.com/books/1603052104",
-      "author": "황재",
-      "genre": "무협"
     }
   ]
 }
