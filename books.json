@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "스파이 패밀리 5권",
+      "link": "https://ridibooks.com/books/1019026544",
+      "author": "엔도 타츠야",
+      "genre": "액션"
+    },
+    {
+      "title": "원피스 97권",
+      "link": "https://ridibooks.com/books/1019024031",
+      "author": "오다 에이치로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "스킵과 로퍼 2권",
+      "link": "https://ridibooks.com/books/3010004010",
+      "author": "타카마츠 미사키",
+      "genre": "드라마"
+    },
+    {
       "title": "너에게 닿기를 번외편 1권",
       "link": "https://ridibooks.com/books/1019024027",
       "author": "시이나 카루호",
@@ -13,10 +31,16 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "원피스 97권",
-      "link": "https://ridibooks.com/books/1019024031",
-      "author": "오다 에이치로",
-      "genre": "판타지/SF"
+      "title": "나와 그녀의 하룻밤 영화 3권 (완결)",
+      "link": "https://ridibooks.com/books/4395000003",
+      "author": "야스다 코스케",
+      "genre": "GL"
+    },
+    {
+      "title": "흑룡 [개정판] 1부 28권",
+      "link": "https://ridibooks.com/books/1603052184",
+      "author": "묵검향",
+      "genre": "무협"
     },
     {
       "title": "마녀의 괴화집 8권 (완결)",
@@ -55,28 +79,10 @@
       "genre": "해외 순정"
     },
     {
-      "title": "스파이 패밀리 5권",
-      "link": "https://ridibooks.com/books/1019026544",
-      "author": "엔도 타츠야",
-      "genre": "액션"
-    },
-    {
       "title": "토라와 미케 1권",
       "link": "https://ridibooks.com/books/297033139",
       "author": "네코마키",
       "genre": "드라마"
-    },
-    {
-      "title": "스킵과 로퍼 2권",
-      "link": "https://ridibooks.com/books/3010004010",
-      "author": "타카마츠 미사키",
-      "genre": "드라마"
-    },
-    {
-      "title": "나와 그녀의 하룻밤 영화 3권 (완결)",
-      "link": "https://ridibooks.com/books/4395000003",
-      "author": "야스다 코스케",
-      "genre": "GL"
     },
     {
       "title": "[코믹] 로드 엘멜로이 2세의 사건부 4권",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/505025177",
       "author": "타케우치 토모",
       "genre": "스포츠"
-    },
-    {
-      "title": "이번에야말로 행복해질 거예요! 2권",
-      "link": "https://ridibooks.com/books/4414000003",
-      "author": "후지마루 마메노스케",
-      "genre": "드라마"
     }
   ]
 }
