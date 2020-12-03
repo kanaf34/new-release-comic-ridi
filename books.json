@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "괴롭히지 말아요, 나가토로 양 8권",
+      "link": "https://ridibooks.com/books/2066001537",
+      "author": "나나시",
+      "genre": "학원"
+    },
+    {
+      "title": "이 회사에 좋아하는 사람이 있습니다 2권",
+      "link": "https://ridibooks.com/books/297033138",
+      "author": "에노모토 아카마루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "키스하고싶다고 졸라봐 1권",
+      "link": "https://ridibooks.com/books/297033194",
+      "author": "미츠키 토모코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "꽃보다도 꽃처럼 19권",
+      "link": "https://ridibooks.com/books/505025193",
+      "author": "나리타 미나코",
+      "genre": "드라마"
+    },
+    {
+      "title": "노라가미 22권",
+      "link": "https://ridibooks.com/books/505025196",
+      "author": "아다치토카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "친구게임 12권",
+      "link": "https://ridibooks.com/books/505025197",
+      "author": "사토 유키",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "귀문가 8권",
+      "link": "https://ridibooks.com/books/806006346",
+      "author": "나가타 코이치",
+      "genre": "액션"
+    },
+    {
       "title": "스파이 패밀리 5권",
       "link": "https://ridibooks.com/books/1019026544",
       "author": "엔도 타츠야",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/1019024048",
       "author": "미야사카 카호",
       "genre": "해외 순정"
-    },
-    {
-      "title": "토라와 미케 1권",
-      "link": "https://ridibooks.com/books/297033139",
-      "author": "네코마키",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 로드 엘멜로이 2세의 사건부 4권",
-      "link": "https://ridibooks.com/books/1690000847",
-      "author": "아즈마 토우",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "프리즈마 이리야 드라이 11권",
-      "link": "https://ridibooks.com/books/1690000848",
-      "author": "히로야마 히로시",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사랑스런 무코 16권",
-      "link": "https://ridibooks.com/books/297033146",
-      "author": "미즈시나 타카유키",
-      "genre": "코믹"
-    },
-    {
-      "title": "해피해피 쿠루네코 5권",
-      "link": "https://ridibooks.com/books/297033147",
-      "author": "쿠루네코 야마토",
-      "genre": "드라마"
-    },
-    {
-      "title": "매력남 15권 (완결)",
-      "link": "https://ridibooks.com/books/1603052152",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "볼룸에 오신 것을 환영합니다 10권",
-      "link": "https://ridibooks.com/books/505025177",
-      "author": "타케우치 토모",
-      "genre": "스포츠"
     }
   ]
 }
