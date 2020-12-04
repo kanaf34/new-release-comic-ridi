@@ -1,28 +1,16 @@
 {
   "books": [
     {
-      "title": "괴롭히지 말아요, 나가토로 양 8권",
-      "link": "https://ridibooks.com/books/2066001537",
-      "author": "나나시",
-      "genre": "학원"
-    },
-    {
       "title": "이 회사에 좋아하는 사람이 있습니다 2권",
       "link": "https://ridibooks.com/books/297033138",
       "author": "에노모토 아카마루",
       "genre": "해외 순정"
     },
     {
-      "title": "키스하고싶다고 졸라봐 1권",
-      "link": "https://ridibooks.com/books/297033194",
-      "author": "미츠키 토모코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "꽃보다도 꽃처럼 19권",
-      "link": "https://ridibooks.com/books/505025193",
-      "author": "나리타 미나코",
-      "genre": "드라마"
+      "title": "괴롭히지 말아요, 나가토로 양 8권",
+      "link": "https://ridibooks.com/books/2066001537",
+      "author": "나나시",
+      "genre": "학원"
     },
     {
       "title": "노라가미 22권",
@@ -35,6 +23,24 @@
       "link": "https://ridibooks.com/books/505025197",
       "author": "사토 유키",
       "genre": "공포/추리"
+    },
+    {
+      "title": "키스하고싶다고 졸라봐 1권",
+      "link": "https://ridibooks.com/books/297033194",
+      "author": "미츠키 토모코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "독한놈 5권",
+      "link": "https://ridibooks.com/books/1603052194",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "꽃보다도 꽃처럼 19권",
+      "link": "https://ridibooks.com/books/505025193",
+      "author": "나리타 미나코",
+      "genre": "드라마"
     },
     {
       "title": "귀문가 8권",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/1019024047",
       "author": "사쿠라 준",
       "genre": "코믹"
-    },
-    {
-      "title": "장밋빛의 약속 5권",
-      "link": "https://ridibooks.com/books/1019024048",
-      "author": "미야사카 카호",
-      "genre": "해외 순정"
     }
   ]
 }
