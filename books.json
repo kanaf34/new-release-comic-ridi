@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "[코믹] 이상적인 딸이면 세계 최강이어도 예뻐해 주시나요? 3권",
+      "link": "https://ridibooks.com/books/3010004011",
+      "author": "맛하다이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "NG 라이프 9권 (완결)",
+      "link": "https://ridibooks.com/books/505025187",
+      "author": "쿠사나기 미즈호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "바운서 9권",
+      "link": "https://ridibooks.com/books/806006345",
+      "author": "미즈타 마코토",
+      "genre": "액션"
+    },
+    {
+      "title": "네코마타 카페",
+      "link": "https://ridibooks.com/books/908003557",
+      "author": "나카무라 미네",
+      "genre": "드라마"
+    },
+    {
       "title": "이 회사에 좋아하는 사람이 있습니다 2권",
       "link": "https://ridibooks.com/books/297033138",
       "author": "에노모토 아카마루",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/1019024042",
       "author": "하치",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "보루토 11권",
-      "link": "https://ridibooks.com/books/1019024043",
-      "author": "이케모토 미키오",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "월드 트리거 22권",
-      "link": "https://ridibooks.com/books/1019024044",
-      "author": "아시하라 다이스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "천사와 아쿠토 17권 (완결)",
-      "link": "https://ridibooks.com/books/1019024045",
-      "author": "히라카와 아야",
-      "genre": "코믹"
-    },
-    {
-      "title": "유가미 군은 친구가 없다 8권",
-      "link": "https://ridibooks.com/books/1019024047",
-      "author": "사쿠라 준",
-      "genre": "코믹"
     }
   ]
 }
