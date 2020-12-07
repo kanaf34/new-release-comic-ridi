@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "템플 3권",
+      "link": "https://ridibooks.com/books/297033212",
+      "author": "요시오카 키미타케",
+      "genre": "코믹"
+    },
+    {
+      "title": "사쿠라바는 멈추지 않아! 2권",
+      "link": "https://ridibooks.com/books/297033214",
+      "author": "센리 미코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "저는 얌전히 사라지기로 했습니다 1권",
+      "link": "https://ridibooks.com/books/3010004012",
+      "author": "RURU",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "건방진 그 녀석. 18권",
+      "link": "https://ridibooks.com/books/505025194",
+      "author": "미유키 미츠바치",
+      "genre": "해외 순정"
+    },
+    {
       "title": "NG 라이프 9권 (완결)",
       "link": "https://ridibooks.com/books/505025187",
       "author": "쿠사나기 미즈호",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/1603052194",
       "author": "고행석",
       "genre": "액션"
-    },
-    {
-      "title": "꽃보다도 꽃처럼 19권",
-      "link": "https://ridibooks.com/books/505025193",
-      "author": "나리타 미나코",
-      "genre": "드라마"
-    },
-    {
-      "title": "귀문가 8권",
-      "link": "https://ridibooks.com/books/806006346",
-      "author": "나가타 코이치",
-      "genre": "액션"
-    },
-    {
-      "title": "스파이 패밀리 5권",
-      "link": "https://ridibooks.com/books/1019026544",
-      "author": "엔도 타츠야",
-      "genre": "액션"
-    },
-    {
-      "title": "원피스 97권",
-      "link": "https://ridibooks.com/books/1019024031",
-      "author": "오다 에이치로",
-      "genre": "판타지/SF"
     }
   ]
 }
