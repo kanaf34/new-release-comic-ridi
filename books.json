@@ -1,10 +1,10 @@
 {
   "books": [
     {
-      "title": "템플 3권",
-      "link": "https://ridibooks.com/books/297033212",
-      "author": "요시오카 키미타케",
-      "genre": "코믹"
+      "title": "건방진 그 녀석. 18권",
+      "link": "https://ridibooks.com/books/505025194",
+      "author": "미유키 미츠바치",
+      "genre": "해외 순정"
     },
     {
       "title": "사쿠라바는 멈추지 않아! 2권",
@@ -13,16 +13,16 @@
       "genre": "해외 순정"
     },
     {
+      "title": "템플 3권",
+      "link": "https://ridibooks.com/books/297033212",
+      "author": "요시오카 키미타케",
+      "genre": "코믹"
+    },
+    {
       "title": "저는 얌전히 사라지기로 했습니다 1권",
       "link": "https://ridibooks.com/books/3010004012",
       "author": "RURU",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "건방진 그 녀석. 18권",
-      "link": "https://ridibooks.com/books/505025194",
-      "author": "미유키 미츠바치",
-      "genre": "해외 순정"
     },
     {
       "title": "NG 라이프 9권 (완결)",
