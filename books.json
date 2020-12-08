@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "코세르테르의 용술사~어린용 이야기~ 5권",
+      "link": "https://ridibooks.com/books/2498006202",
+      "author": "이스루기 아유마",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "천지창조 디자인부 5권",
+      "link": "https://ridibooks.com/books/297033282",
+      "author": "타라코",
+      "genre": "코믹"
+    },
+    {
+      "title": "넥스트 라이프 5권",
+      "link": "https://ridibooks.com/books/3010004017",
+      "author": "이치쿠라 토카게",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 역시 내 청춘 러브코메디는 잘못됐다 : 망언록 17권",
+      "link": "https://ridibooks.com/books/777081805",
+      "author": "카즈키 레치",
+      "genre": "학원"
+    },
+    {
       "title": "건방진 그 녀석. 18권",
       "link": "https://ridibooks.com/books/505025194",
       "author": "미유키 미츠바치",
@@ -94,30 +118,6 @@
       "title": "이 회사에 좋아하는 사람이 있습니다 2권",
       "link": "https://ridibooks.com/books/297033138",
       "author": "에노모토 아카마루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "괴롭히지 말아요, 나가토로 양 8권",
-      "link": "https://ridibooks.com/books/2066001537",
-      "author": "나나시",
-      "genre": "학원"
-    },
-    {
-      "title": "노라가미 22권",
-      "link": "https://ridibooks.com/books/505025196",
-      "author": "아다치토카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "친구게임 12권",
-      "link": "https://ridibooks.com/books/505025197",
-      "author": "사토 유키",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "키스하고싶다고 졸라봐 1권",
-      "link": "https://ridibooks.com/books/297033194",
-      "author": "미츠키 토모코",
       "genre": "해외 순정"
     }
   ]
