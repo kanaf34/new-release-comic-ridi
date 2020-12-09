@@ -1,6 +1,96 @@
 {
   "books": [
     {
+      "title": "해수의 아이 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019026593",
+      "author": "이가라시 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사루 2권 (완결)",
+      "link": "https://ridibooks.com/books/1019026595",
+      "author": "이가라시 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마녀 2권 (완결)",
+      "link": "https://ridibooks.com/books/1019026597",
+      "author": "이가라시 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "귀멸의 칼날 21권",
+      "link": "https://ridibooks.com/books/1019026598",
+      "author": "고토우게 코요하루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "바람의 빛 44권",
+      "link": "https://ridibooks.com/books/1019026608",
+      "author": "와타나베 타에코",
+      "genre": "드라마"
+    },
+    {
+      "title": "너와 유레카 4권 (완결)",
+      "link": "https://ridibooks.com/books/1019026609",
+      "author": "아유코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아케비의 세일러복 7권",
+      "link": "https://ridibooks.com/books/1019026610",
+      "author": "히로",
+      "genre": "드라마"
+    },
+    {
+      "title": "리쿠도 20권",
+      "link": "https://ridibooks.com/books/1019026611",
+      "author": "마츠바라 토시미츠",
+      "genre": "스포츠"
+    },
+    {
+      "title": "이토 군은 사랑을 몰라 2권",
+      "link": "https://ridibooks.com/books/297033220",
+      "author": "이와토비 네코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "메이드 인 허니 5권",
+      "link": "https://ridibooks.com/books/297033221",
+      "author": "요시노 마리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "네크로망스 3권",
+      "link": "https://ridibooks.com/books/3010004019",
+      "author": "도모토 유우키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "히루와 요루의 맛있는 시간 2권",
+      "link": "https://ridibooks.com/books/4391000005",
+      "author": "모리카와 유우",
+      "genre": "드라마"
+    },
+    {
+      "title": "정시에 퇴근하면 3권",
+      "link": "https://ridibooks.com/books/4406000003",
+      "author": "이누이 아유",
+      "genre": "GL"
+    },
+    {
+      "title": "유큐홀더!(UQ HOLDER!) 20권",
+      "link": "https://ridibooks.com/books/505025300",
+      "author": "아카마츠 켄",
+      "genre": "액션"
+    },
+    {
+      "title": "리얼 어카운트 16권",
+      "link": "https://ridibooks.com/books/505025301",
+      "author": "오쿠쇼우",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "코세르테르의 용술사~어린용 이야기~ 5권",
       "link": "https://ridibooks.com/books/2498006202",
       "author": "이스루기 아유마",
@@ -28,96 +118,6 @@
       "title": "건방진 그 녀석. 18권",
       "link": "https://ridibooks.com/books/505025194",
       "author": "미유키 미츠바치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사쿠라바는 멈추지 않아! 2권",
-      "link": "https://ridibooks.com/books/297033214",
-      "author": "센리 미코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "템플 3권",
-      "link": "https://ridibooks.com/books/297033212",
-      "author": "요시오카 키미타케",
-      "genre": "코믹"
-    },
-    {
-      "title": "저는 얌전히 사라지기로 했습니다 1권",
-      "link": "https://ridibooks.com/books/3010004012",
-      "author": "RURU",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "열애 프린스 15권",
-      "link": "https://ridibooks.com/books/678012552",
-      "author": "세이즈키 마도카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "NG 라이프 9권 (완결)",
-      "link": "https://ridibooks.com/books/505025187",
-      "author": "쿠사나기 미즈호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "네코마타 카페",
-      "link": "https://ridibooks.com/books/908003557",
-      "author": "나카무라 미네",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 이상적인 딸이면 세계 최강이어도 예뻐해 주시나요? 3권",
-      "link": "https://ridibooks.com/books/3010004011",
-      "author": "맛하다이",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "바운서 9권",
-      "link": "https://ridibooks.com/books/806006345",
-      "author": "미즈타 마코토",
-      "genre": "액션"
-    },
-    {
-      "title": "[미즈] 남친인 척해줄까? 2권",
-      "link": "https://ridibooks.com/books/840034270",
-      "author": "타카기 마코토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[마블] FF(에프에프) Vol. 4",
-      "link": "https://ridibooks.com/books/862001460",
-      "author": "조나단 힉맨",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[마블] 판타스틱 포 Vol. 6",
-      "link": "https://ridibooks.com/books/862001453",
-      "author": "조나단 힉맨",
-      "genre": "액션"
-    },
-    {
-      "title": "[마블] 문 나이트 Vol. 1",
-      "link": "https://ridibooks.com/books/862001454",
-      "author": "제프 르미어",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[마블] 이모털 헐크 Vol. 1",
-      "link": "https://ridibooks.com/books/862001455",
-      "author": "앨 유잉",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "Party(파티) 2021년 1월호",
-      "link": "https://ridibooks.com/books/505025265",
-      "author": "파티 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "이 회사에 좋아하는 사람이 있습니다 2권",
-      "link": "https://ridibooks.com/books/297033138",
-      "author": "에노모토 아카마루",
       "genre": "해외 순정"
     }
   ]
