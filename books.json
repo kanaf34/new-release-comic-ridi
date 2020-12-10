@@ -1,6 +1,78 @@
 {
   "books": [
     {
+      "title": "톰슨 1권",
+      "link": "https://ridibooks.com/books/2066001543",
+      "author": "하라야스",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "고치를 두르다 1권",
+      "link": "https://ridibooks.com/books/2066001544",
+      "author": "하라 유리코",
+      "genre": "GL"
+    },
+    {
+      "title": "아내, 초등학생이 되다 4권",
+      "link": "https://ridibooks.com/books/2066001550",
+      "author": "무라타 야유",
+      "genre": "드라마"
+    },
+    {
+      "title": "쿵후보이 친미 35권 (완결)",
+      "link": "https://ridibooks.com/books/297033261",
+      "author": "마에카와 다케시",
+      "genre": "무협"
+    },
+    {
+      "title": "쿵후보이 친미 레전드 27권",
+      "link": "https://ridibooks.com/books/297033382",
+      "author": "마에카와 다케시",
+      "genre": "무협"
+    },
+    {
+      "title": "그 열등기사, 레벨 999 4권",
+      "link": "https://ridibooks.com/books/3010004022",
+      "author": "야마자키 치히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "3X3 EYES 환수의 숲의 조난자 1권",
+      "link": "https://ridibooks.com/books/505025258",
+      "author": "타카다 유조",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사실 나는 5권",
+      "link": "https://ridibooks.com/books/505025260",
+      "author": "마스다 에이지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "영 블랙 잭 6권",
+      "link": "https://ridibooks.com/books/505025263",
+      "author": "오오쿠마 유우고",
+      "genre": "드라마"
+    },
+    {
+      "title": "프리티 보이 NEXT 2권",
+      "link": "https://ridibooks.com/books/505025264",
+      "author": "모리오 마사미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "글레이프니르 8권",
+      "link": "https://ridibooks.com/books/505025303",
+      "author": "타케다 순",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "펌프킨 시저스 23권",
+      "link": "https://ridibooks.com/books/505025304",
+      "author": "이와나가 료타로",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "귀멸의 칼날 21권",
       "link": "https://ridibooks.com/books/1019026598",
       "author": "고토우게 코요하루",
@@ -47,78 +119,6 @@
       "link": "https://ridibooks.com/books/1603052218",
       "author": "천제황",
       "genre": "무협"
-    },
-    {
-      "title": "사루 2권 (완결)",
-      "link": "https://ridibooks.com/books/1019026595",
-      "author": "이가라시 다이스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마녀 2권 (완결)",
-      "link": "https://ridibooks.com/books/1019026597",
-      "author": "이가라시 다이스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "바람의 빛 44권",
-      "link": "https://ridibooks.com/books/1019026608",
-      "author": "와타나베 타에코",
-      "genre": "드라마"
-    },
-    {
-      "title": "너와 유레카 4권 (완결)",
-      "link": "https://ridibooks.com/books/1019026609",
-      "author": "아유코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "리쿠도 20권",
-      "link": "https://ridibooks.com/books/1019026611",
-      "author": "마츠바라 토시미츠",
-      "genre": "스포츠"
-    },
-    {
-      "title": "이토 군은 사랑을 몰라 2권",
-      "link": "https://ridibooks.com/books/297033220",
-      "author": "이와토비 네코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "메이드 인 허니 5권",
-      "link": "https://ridibooks.com/books/297033221",
-      "author": "요시노 마리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "네크로망스 3권",
-      "link": "https://ridibooks.com/books/3010004019",
-      "author": "도모토 유우키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "리얼 어카운트 16권",
-      "link": "https://ridibooks.com/books/505025301",
-      "author": "오쿠쇼우",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "코세르테르의 용술사~어린용 이야기~ 5권",
-      "link": "https://ridibooks.com/books/2498006202",
-      "author": "이스루기 아유마",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "천지창조 디자인부 5권",
-      "link": "https://ridibooks.com/books/297033282",
-      "author": "타라코",
-      "genre": "코믹"
-    },
-    {
-      "title": "[코믹] 역시 내 청춘 러브코메디는 잘못됐다 : 망언록 17권",
-      "link": "https://ridibooks.com/books/777081805",
-      "author": "카즈키 레치",
-      "genre": "학원"
     }
   ]
 }
