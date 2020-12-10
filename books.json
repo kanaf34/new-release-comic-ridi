@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "귀멸의 칼날 21권",
+      "link": "https://ridibooks.com/books/1019026598",
+      "author": "고토우게 코요하루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "히루와 요루의 맛있는 시간 2권",
+      "link": "https://ridibooks.com/books/4391000005",
+      "author": "모리카와 유우",
+      "genre": "드라마"
+    },
+    {
+      "title": "정시에 퇴근하면 3권",
+      "link": "https://ridibooks.com/books/4406000003",
+      "author": "이누이 아유",
+      "genre": "GL"
+    },
+    {
+      "title": "아케비의 세일러복 7권",
+      "link": "https://ridibooks.com/books/1019026610",
+      "author": "히로",
+      "genre": "드라마"
+    },
+    {
+      "title": "유큐홀더!(UQ HOLDER!) 20권",
+      "link": "https://ridibooks.com/books/505025300",
+      "author": "아카마츠 켄",
+      "genre": "액션"
+    },
+    {
+      "title": "해수의 아이 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019026593",
+      "author": "이가라시 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "흑룡 [개정판] 2부 26권 (완결)",
       "link": "https://ridibooks.com/books/1603052244",
       "author": "묵검향",
@@ -11,12 +47,6 @@
       "link": "https://ridibooks.com/books/1603052218",
       "author": "천제황",
       "genre": "무협"
-    },
-    {
-      "title": "해수의 아이 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019026593",
-      "author": "이가라시 다이스케",
-      "genre": "판타지/SF"
     },
     {
       "title": "사루 2권 (완결)",
@@ -31,12 +61,6 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "귀멸의 칼날 21권",
-      "link": "https://ridibooks.com/books/1019026598",
-      "author": "고토우게 코요하루",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "바람의 빛 44권",
       "link": "https://ridibooks.com/books/1019026608",
       "author": "와타나베 타에코",
@@ -47,12 +71,6 @@
       "link": "https://ridibooks.com/books/1019026609",
       "author": "아유코",
       "genre": "해외 순정"
-    },
-    {
-      "title": "아케비의 세일러복 7권",
-      "link": "https://ridibooks.com/books/1019026610",
-      "author": "히로",
-      "genre": "드라마"
     },
     {
       "title": "리쿠도 20권",
@@ -77,24 +95,6 @@
       "link": "https://ridibooks.com/books/3010004019",
       "author": "도모토 유우키",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "히루와 요루의 맛있는 시간 2권",
-      "link": "https://ridibooks.com/books/4391000005",
-      "author": "모리카와 유우",
-      "genre": "드라마"
-    },
-    {
-      "title": "정시에 퇴근하면 3권",
-      "link": "https://ridibooks.com/books/4406000003",
-      "author": "이누이 아유",
-      "genre": "GL"
-    },
-    {
-      "title": "유큐홀더!(UQ HOLDER!) 20권",
-      "link": "https://ridibooks.com/books/505025300",
-      "author": "아카마츠 켄",
-      "genre": "액션"
     },
     {
       "title": "리얼 어카운트 16권",
