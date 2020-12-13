@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "도서관의 대마법사 4권",
+      "link": "https://ridibooks.com/books/2066001546",
+      "author": "이즈미 미츠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 포션빨로 연명합니다! 1권",
+      "link": "https://ridibooks.com/books/2066001547",
+      "author": "코코노에 히비키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "미기와 다리 4권",
+      "link": "https://ridibooks.com/books/297033395",
+      "author": "사노 나미",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 이세계는 스마트폰과 함께. 8권",
+      "link": "https://ridibooks.com/books/3010004023",
+      "author": "소토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "칸타렐라 12권 (완결)",
+      "link": "https://ridibooks.com/books/505025280",
+      "author": "히구리 유우",
+      "genre": "드라마"
+    },
+    {
       "title": "쿵후보이 친미 35권 (완결)",
       "link": "https://ridibooks.com/books/297033261",
       "author": "마에카와 다케시",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/505025264",
       "author": "모리오 마사미",
       "genre": "해외 순정"
-    },
-    {
-      "title": "글레이프니르 8권",
-      "link": "https://ridibooks.com/books/505025303",
-      "author": "타케다 순",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "귀멸의 칼날 21권",
-      "link": "https://ridibooks.com/books/1019026598",
-      "author": "고토우게 코요하루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "히루와 요루의 맛있는 시간 2권",
-      "link": "https://ridibooks.com/books/4391000005",
-      "author": "모리카와 유우",
-      "genre": "드라마"
-    },
-    {
-      "title": "정시에 퇴근하면 3권",
-      "link": "https://ridibooks.com/books/4406000003",
-      "author": "이누이 아유",
-      "genre": "GL"
-    },
-    {
-      "title": "아케비의 세일러복 7권",
-      "link": "https://ridibooks.com/books/1019026610",
-      "author": "히로",
-      "genre": "드라마"
     }
   ]
 }
