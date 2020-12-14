@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "용신님과 산다면 2권",
+      "link": "https://ridibooks.com/books/297033398",
+      "author": "카제마치 후쿠",
+      "genre": "드라마"
+    },
+    {
+      "title": "삽질무쌍 1권",
+      "link": "https://ridibooks.com/books/3010004020",
+      "author": "후쿠하라 렌지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "기숙학교의 줄리엣 15권",
+      "link": "https://ridibooks.com/books/505025306",
+      "author": "카네다 유스케",
+      "genre": "드라마"
+    },
+    {
+      "title": "어서 와! 오컬트 연구부 6권",
+      "link": "https://ridibooks.com/books/806006372",
+      "author": "안베 마사히로",
+      "genre": "학원"
+    },
+    {
       "title": "도서관의 대마법사 4권",
       "link": "https://ridibooks.com/books/2066001546",
       "author": "이즈미 미츠",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/2066001550",
       "author": "무라타 야유",
       "genre": "드라마"
-    },
-    {
-      "title": "그 열등기사, 레벨 999 4권",
-      "link": "https://ridibooks.com/books/3010004022",
-      "author": "야마자키 치히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사실 나는 5권",
-      "link": "https://ridibooks.com/books/505025260",
-      "author": "마스다 에이지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "영 블랙 잭 6권",
-      "link": "https://ridibooks.com/books/505025263",
-      "author": "오오쿠마 유우고",
-      "genre": "드라마"
-    },
-    {
-      "title": "프리티 보이 NEXT 2권",
-      "link": "https://ridibooks.com/books/505025264",
-      "author": "모리오 마사미",
-      "genre": "해외 순정"
     }
   ]
 }
