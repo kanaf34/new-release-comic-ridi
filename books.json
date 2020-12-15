@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "코믹진 점프 144호",
+      "link": "https://ridibooks.com/books/845021965",
+      "author": "점프 편집부",
+      "genre": "만화잡지"
+    },
+    {
+      "title": "챔프D 175호(2021.01.01)",
+      "link": "https://ridibooks.com/books/847003375",
+      "author": "챔프D 편집부",
+      "genre": "만화잡지"
+    },
+    {
       "title": "용신님과 산다면 2권",
       "link": "https://ridibooks.com/books/297033398",
       "author": "카제마치 후쿠",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/1603052254",
       "author": "고행석",
       "genre": "액션"
-    },
-    {
-      "title": "문제 제기 시리즈 -생명- 5권 (완결)",
-      "link": "https://ridibooks.com/books/297033336",
-      "author": "모모치 레이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "아내, 초등학생이 되다 4권",
-      "link": "https://ridibooks.com/books/2066001550",
-      "author": "무라타 야유",
-      "genre": "드라마"
     }
   ]
 }
