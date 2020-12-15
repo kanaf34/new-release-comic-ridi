@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "누이 되는 자 4권",
+      "link": "https://ridibooks.com/books/1690000849",
+      "author": "이이다 포치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 문호 스트레이독스 멍! 6권",
+      "link": "https://ridibooks.com/books/1690000850",
+      "author": "카나이 네코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "산과 식욕과 나 5권",
+      "link": "https://ridibooks.com/books/1690000851",
+      "author": "시나노가와 히데오",
+      "genre": "코믹"
+    },
+    {
+      "title": "세상에서 가장 이른 봄 2권",
+      "link": "https://ridibooks.com/books/297033403",
+      "author": "카와바타 시키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "타임슬립 덕후 걸 3권",
+      "link": "https://ridibooks.com/books/297033407",
+      "author": "사사키 요우코",
+      "genre": "드라마"
+    },
+    {
+      "title": "사라져라, 군청 3권 (완결)",
+      "link": "https://ridibooks.com/books/297033421",
+      "author": "우즈키 아이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "퇴마사와 악마짱 3권",
+      "link": "https://ridibooks.com/books/297033516",
+      "author": "토나미 쇼",
+      "genre": "드라마"
+    },
+    {
       "title": "기숙학교의 줄리엣 15권",
       "link": "https://ridibooks.com/books/505025306",
       "author": "카네다 유스케",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/297033382",
       "author": "마에카와 다케시",
       "genre": "무협"
-    },
-    {
-      "title": "3X3 EYES 환수의 숲의 조난자 1권",
-      "link": "https://ridibooks.com/books/505025258",
-      "author": "타카다 유조",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "톰슨 1권",
-      "link": "https://ridibooks.com/books/2066001543",
-      "author": "하라야스",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "고치를 두르다 1권",
-      "link": "https://ridibooks.com/books/2066001544",
-      "author": "하라 유리코",
-      "genre": "GL"
-    },
-    {
-      "title": "펌프킨 시저스 23권",
-      "link": "https://ridibooks.com/books/505025304",
-      "author": "이와나가 료타로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "다이쇼 로맨티카 23권 (완결)",
-      "link": "https://ridibooks.com/books/678012614",
-      "author": "오다와라 미즈에",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[할리퀸] 네브라키스의 상속자",
-      "link": "https://ridibooks.com/books/1458005278",
-      "author": "아소 아유무",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "독한놈 10권",
-      "link": "https://ridibooks.com/books/1603052254",
-      "author": "고행석",
-      "genre": "액션"
     }
   ]
 }
