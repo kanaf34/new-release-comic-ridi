@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "독한놈 14권 (완결)",
+      "link": "https://ridibooks.com/books/1603052299",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
       "title": "삼국군영전 화봉요원 28권",
       "link": "https://ridibooks.com/books/1561007236",
       "author": "진모",
@@ -112,12 +118,6 @@
       "title": "평범한 코이코짱 12권",
       "link": "https://ridibooks.com/books/1019026625",
       "author": "나나지 나가무",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "군청 리플렉션 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019026629",
-      "author": "사카이 마유",
       "genre": "해외 순정"
     }
   ]
