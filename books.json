@@ -1,10 +1,10 @@
 {
   "books": [
     {
-      "title": "독한놈 14권 (완결)",
-      "link": "https://ridibooks.com/books/1603052299",
-      "author": "고행석",
-      "genre": "액션"
+      "title": "인형의 나라 6권",
+      "link": "https://ridibooks.com/books/2066001552",
+      "author": "니헤이 츠토무",
+      "genre": "판타지/SF"
     },
     {
       "title": "삼국군영전 화봉요원 28권",
@@ -19,16 +19,10 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "인형의 나라 6권",
-      "link": "https://ridibooks.com/books/2066001552",
-      "author": "니헤이 츠토무",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] LV2부터 치트였던 전직 용사후보의 유유자적 이세계 라이프 1권",
-      "link": "https://ridibooks.com/books/2066001553",
-      "author": "이토마치 아키네",
-      "genre": "판타지/SF"
+      "title": "소년마법사 17권",
+      "link": "https://ridibooks.com/books/297033438",
+      "author": "나루시마 유리",
+      "genre": "해외 순정"
     },
     {
       "title": "방과 후 찻집에서 2권",
@@ -37,10 +31,22 @@
       "genre": "해외 순정"
     },
     {
-      "title": "소년마법사 17권",
-      "link": "https://ridibooks.com/books/297033438",
-      "author": "나루시마 유리",
+      "title": "세상에서 제일 나쁜 마녀 7권 (완결)",
+      "link": "https://ridibooks.com/books/845021967",
+      "author": "쿠사카와 나리",
       "genre": "해외 순정"
+    },
+    {
+      "title": "독한놈 14권 (완결)",
+      "link": "https://ridibooks.com/books/1603052299",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "[코믹] LV2부터 치트였던 전직 용사후보의 유유자적 이세계 라이프 1권",
+      "link": "https://ridibooks.com/books/2066001553",
+      "author": "이토마치 아키네",
+      "genre": "판타지/SF"
     },
     {
       "title": "개인차 있습니다 4권",
@@ -58,12 +64,6 @@
       "title": "백성녀와 흑목사 6권",
       "link": "https://ridibooks.com/books/505025599",
       "author": "카즈타케 하자노",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "세상에서 제일 나쁜 마녀 7권 (완결)",
-      "link": "https://ridibooks.com/books/845021967",
-      "author": "쿠사카와 나리",
       "genre": "해외 순정"
     },
     {
