@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "사상 최강의 대마왕, 마을 사람 A로 전생하다 3권",
+      "link": "https://ridibooks.com/books/3010004034",
+      "author": "코보타 미스호",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "Have a Great Sunday 1권",
+      "link": "https://ridibooks.com/books/505025586",
+      "author": "오노 나츠메",
+      "genre": "드라마"
+    },
+    {
+      "title": "오늘부터 마가 붙는 자유업! 18권",
+      "link": "https://ridibooks.com/books/845022030",
+      "author": "마츠모토 테마리",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "인형의 나라 6권",
       "link": "https://ridibooks.com/books/2066001552",
       "author": "니헤이 츠토무",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/1019026626",
       "author": "나나오 나나키",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "블랙라군(BLACK LAGOON) 11권",
-      "link": "https://ridibooks.com/books/1019026613",
-      "author": "히로이 레이",
-      "genre": "액션"
-    },
-    {
-      "title": "흰 가면의 마스커레이드 2권",
-      "link": "https://ridibooks.com/books/840034436",
-      "author": "츠바키 카오리",
-      "genre": "학원"
-    },
-    {
-      "title": "평범한 코이코짱 12권",
-      "link": "https://ridibooks.com/books/1019026625",
-      "author": "나나지 나가무",
-      "genre": "해외 순정"
     }
   ]
 }
