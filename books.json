@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "카니발 22권",
+      "link": "https://ridibooks.com/books/297033558",
+      "author": "미카나기 토우야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "귀차니스트 남자가 아침에 일어나니 여자가 되어 있었던 이야기 2권",
+      "link": "https://ridibooks.com/books/297033569",
+      "author": "코바야시 키나",
+      "genre": "코믹"
+    },
+    {
+      "title": "좋아하는 애가 안경을 깜박했다 5권",
+      "link": "https://ridibooks.com/books/297033570",
+      "author": "후지치카 코우메",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "폭식비의 검 1권",
+      "link": "https://ridibooks.com/books/3010004029",
+      "author": "모치론상",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "오늘부터 너의 닌자 3권",
+      "link": "https://ridibooks.com/books/505025594",
+      "author": "스즈키 줄리에타",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 티어문 제국 이야기 1권",
+      "link": "https://ridibooks.com/books/806006381",
+      "author": "모리노 미즈",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "오늘부터 마가 붙는 자유업! 18권",
       "link": "https://ridibooks.com/books/845022030",
       "author": "마츠모토 테마리",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/3010004033",
       "author": "히구라시 키노코",
       "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 무직전생 ~이세계에 갔으면 최선을 다한다~ 4권",
-      "link": "https://ridibooks.com/books/505025598",
-      "author": "후지카와 유카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "백성녀와 흑목사 6권",
-      "link": "https://ridibooks.com/books/505025599",
-      "author": "카즈타케 하자노",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "티아라 24권",
-      "link": "https://ridibooks.com/books/845022036",
-      "author": "이윤희",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "원펀맨 22권",
-      "link": "https://ridibooks.com/books/1019026612",
-      "author": "무라타 유스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "골든 카무이 22권",
-      "link": "https://ridibooks.com/books/1019026614",
-      "author": "노다 사토루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "눈물비와 세레나데 6권",
-      "link": "https://ridibooks.com/books/2007002715",
-      "author": "카와치 하루카",
-      "genre": "해외 순정"
     }
   ]
 }
