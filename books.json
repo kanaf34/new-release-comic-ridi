@@ -1,9 +1,9 @@
 {
   "books": [
     {
-      "title": "사상 최강의 대마왕, 마을 사람 A로 전생하다 3권",
-      "link": "https://ridibooks.com/books/3010004034",
-      "author": "코보타 미스호",
+      "title": "오늘부터 마가 붙는 자유업! 18권",
+      "link": "https://ridibooks.com/books/845022030",
+      "author": "마츠모토 테마리",
       "genre": "판타지/SF"
     },
     {
@@ -13,10 +13,16 @@
       "genre": "드라마"
     },
     {
-      "title": "오늘부터 마가 붙는 자유업! 18권",
-      "link": "https://ridibooks.com/books/845022030",
-      "author": "마츠모토 테마리",
+      "title": "사상 최강의 대마왕, 마을 사람 A로 전생하다 3권",
+      "link": "https://ridibooks.com/books/3010004034",
+      "author": "코보타 미스호",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "로쿠도의 악녀들 13권",
+      "link": "https://ridibooks.com/books/678012629",
+      "author": "나카무라 유지",
+      "genre": "학원"
     },
     {
       "title": "인형의 나라 6권",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/4018000026",
       "author": "호시쿠라 하루",
       "genre": "해외 순정"
-    },
-    {
-      "title": "헬크 12권 (완결)",
-      "link": "https://ridibooks.com/books/1019026626",
-      "author": "나나오 나나키",
-      "genre": "판타지/SF"
     }
   ]
 }
