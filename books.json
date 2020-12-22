@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "왕궁의 트리니티 5권",
+      "link": "https://ridibooks.com/books/297033571",
+      "author": "아마이치 에소라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "스트로베리 필즈를 다시 한 번 2권",
+      "link": "https://ridibooks.com/books/3802000010",
+      "author": "키노사키 카즈라",
+      "genre": "GL"
+    },
+    {
+      "title": "거플릿 기숙사의 양들 6권 (완결)",
+      "link": "https://ridibooks.com/books/505025628",
+      "author": "모토 나오코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "천사가 엿본다 4권",
+      "link": "https://ridibooks.com/books/505025632",
+      "author": "모토 나오코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "오늘부터 너의 닌자 3권",
       "link": "https://ridibooks.com/books/505025594",
       "author": "스즈키 줄리에타",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/2066001551",
       "author": "이와토비 네코",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "소년마법사 17권",
-      "link": "https://ridibooks.com/books/297033438",
-      "author": "나루시마 유리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "방과 후 찻집에서 2권",
-      "link": "https://ridibooks.com/books/2498006129",
-      "author": "아즈사 키나",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "세상에서 제일 나쁜 마녀 7권 (완결)",
-      "link": "https://ridibooks.com/books/845021967",
-      "author": "쿠사카와 나리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "독한놈 14권 (완결)",
-      "link": "https://ridibooks.com/books/1603052299",
-      "author": "고행석",
-      "genre": "액션"
     }
   ]
 }
