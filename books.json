@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "체인소 맨 4권",
+      "link": "https://ridibooks.com/books/1019026665",
+      "author": "후지모토 타츠키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "세인트 영멘 18권",
+      "link": "https://ridibooks.com/books/505025321",
+      "author": "나카무라 히카루",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 14권",
+      "link": "https://ridibooks.com/books/2066001559",
+      "author": "카와카미 타이키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "그 비스크 돌은 사랑을 한다 5권",
+      "link": "https://ridibooks.com/books/2066001558",
+      "author": "후쿠다 신이치",
+      "genre": "학원"
+    },
+    {
+      "title": "어쨌든 귀여워 9권",
+      "link": "https://ridibooks.com/books/1019026666",
+      "author": "하타 켄지로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우리는 공부를 못해 12권",
+      "link": "https://ridibooks.com/books/1019026670",
+      "author": "츠츠이 타이시",
+      "genre": "학원"
+    },
+    {
+      "title": "환생했더니 핑크 드래곤 2권",
+      "link": "https://ridibooks.com/books/4369000045",
+      "author": "하마다 쇼코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마녀 선배 일보 1권",
+      "link": "https://ridibooks.com/books/4369000034",
+      "author": "모치다 마카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "수라의 도시 4권",
+      "link": "https://ridibooks.com/books/845022104",
+      "author": "YAKSU",
+      "genre": "액션"
+    },
+    {
       "title": "무지개빛 데이즈 5권",
       "link": "https://ridibooks.com/books/1019026648",
       "author": "미즈노 미나미",
@@ -10,18 +64,6 @@
       "title": "사랑을 모르는 우리는 5권",
       "link": "https://ridibooks.com/books/1019026653",
       "author": "미즈노 미나미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "체인소 맨 4권",
-      "link": "https://ridibooks.com/books/1019026665",
-      "author": "후지모토 타츠키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "어쨌든 귀여워 9권",
-      "link": "https://ridibooks.com/books/1019026666",
-      "author": "하타 켄지로",
       "genre": "해외 순정"
     },
     {
@@ -37,12 +79,6 @@
       "genre": "학원"
     },
     {
-      "title": "우리는 공부를 못해 12권",
-      "link": "https://ridibooks.com/books/1019026670",
-      "author": "츠츠이 타이시",
-      "genre": "학원"
-    },
-    {
       "title": "그와 사랑이라니 8권 (완결)",
       "link": "https://ridibooks.com/books/1019026671",
       "author": "미모리 아오",
@@ -53,18 +89,6 @@
       "link": "https://ridibooks.com/books/1019026672",
       "author": "스스키 소노이치",
       "genre": "해외 순정"
-    },
-    {
-      "title": "그 비스크 돌은 사랑을 한다 5권",
-      "link": "https://ridibooks.com/books/2066001558",
-      "author": "후쿠다 신이치",
-      "genre": "학원"
-    },
-    {
-      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 14권",
-      "link": "https://ridibooks.com/books/2066001559",
-      "author": "카와카미 타이키",
-      "genre": "판타지/SF"
     },
     {
       "title": "타블로 게이트 7권",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/297033619",
       "author": "아카이 히가사",
       "genre": "코믹"
-    },
-    {
-      "title": "DAYS(데이즈) 40권",
-      "link": "https://ridibooks.com/books/3010004040",
-      "author": "야스다 츠요시",
-      "genre": "스포츠"
-    },
-    {
-      "title": "안녕, 나의 크라머 13권",
-      "link": "https://ridibooks.com/books/3010004050",
-      "author": "아라카와 나오시",
-      "genre": "스포츠"
-    },
-    {
-      "title": "세인트 영멘 18권",
-      "link": "https://ridibooks.com/books/505025321",
-      "author": "나카무라 히카루",
-      "genre": "코믹"
-    },
-    {
-      "title": "[코믹] 괴물 이야기 3권",
-      "link": "https://ridibooks.com/books/505025633",
-      "author": "Oh! Great",
-      "genre": "판타지/SF"
     }
   ]
 }
