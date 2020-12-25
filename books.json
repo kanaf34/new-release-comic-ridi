@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "미소녀 동인작가와 형님 1권",
+      "link": "https://ridibooks.com/books/806006400",
+      "author": "베니가시라",
+      "genre": "코믹"
+    },
+    {
+      "title": "도시 전설 탐정 사무소 7권",
+      "link": "https://ridibooks.com/books/848033068",
+      "author": "하스미 나츠메",
+      "genre": "학원"
+    },
+    {
       "title": "체인소 맨 4권",
       "link": "https://ridibooks.com/books/1019026665",
       "author": "후지모토 타츠키",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/297033575",
       "author": "니시키다 케이시",
       "genre": "해외 순정"
-    },
-    {
-      "title": "베르사유의 장미(완전판) 에피소드편 4권 (완결)",
-      "link": "https://ridibooks.com/books/297033577",
-      "author": "이케다 리요코",
-      "genre": "드라마"
-    },
-    {
-      "title": "왕실교사 하이네 15권",
-      "link": "https://ridibooks.com/books/297033619",
-      "author": "아카이 히가사",
-      "genre": "코믹"
     }
   ]
 }
