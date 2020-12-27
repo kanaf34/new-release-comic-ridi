@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "그럼에도 세상은 아름답다 23권",
+      "link": "https://ridibooks.com/books/505025589",
+      "author": "시이나 다이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "GO! 히로미 GO! 8권 (완결)",
+      "link": "https://ridibooks.com/books/505025645",
+      "author": "아소우 미코토",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "웃을 수 없는 이유 4권 (완결)",
+      "link": "https://ridibooks.com/books/505025649",
+      "author": "모치즈키 카린",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "단다라 밥상 6권",
+      "link": "https://ridibooks.com/books/845022094",
+      "author": "토노가야 미유키",
+      "genre": "드라마"
+    },
+    {
+      "title": "세계는 오늘도 돌아간다 3권 (완결)",
+      "link": "https://ridibooks.com/books/845022097",
+      "author": "미나모리 코요미",
+      "genre": "드라마"
+    },
+    {
       "title": "미소녀 동인작가와 형님 1권",
       "link": "https://ridibooks.com/books/806006400",
       "author": "베니가시라",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/1019026669",
       "author": "미네나미 료",
       "genre": "학원"
-    },
-    {
-      "title": "그와 사랑이라니 8권 (완결)",
-      "link": "https://ridibooks.com/books/1019026671",
-      "author": "미모리 아오",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마리카 양과 상냥한 사랑의 노예 2권",
-      "link": "https://ridibooks.com/books/1019026672",
-      "author": "스스키 소노이치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "타블로 게이트 7권",
-      "link": "https://ridibooks.com/books/2066001560",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "히메노 양에게 사랑은 아직 일러 2권",
-      "link": "https://ridibooks.com/books/297033573",
-      "author": "유즈치리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "키스해주지 않으면 죽어버려 2권",
-      "link": "https://ridibooks.com/books/297033575",
-      "author": "니시키다 케이시",
-      "genre": "해외 순정"
     }
   ]
 }
