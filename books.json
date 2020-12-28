@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "마법진 구루구루 외전 무용전 북북 노인 7권 (완결)",
+      "link": "https://ridibooks.com/books/297033648",
+      "author": "에토 히로유키",
+      "genre": "코믹"
+    },
+    {
+      "title": "노부나가의 셰프 22권",
+      "link": "https://ridibooks.com/books/297033662",
+      "author": "카지카와 타쿠로",
+      "genre": "드라마"
+    },
+    {
+      "title": "나는 100만 명의 목숨 위에 서 있다 10권",
+      "link": "https://ridibooks.com/books/3010004051",
+      "author": "나오 아키나리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "저희 사역마가 죄송합니다 8권",
+      "link": "https://ridibooks.com/books/3010004054",
+      "author": "야구라바 뎃카",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "그럼에도 세상은 아름답다 23권",
       "link": "https://ridibooks.com/books/505025589",
       "author": "시이나 다이",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/845022104",
       "author": "YAKSU",
       "genre": "액션"
-    },
-    {
-      "title": "무지개빛 데이즈 5권",
-      "link": "https://ridibooks.com/books/1019026648",
-      "author": "미즈노 미나미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사랑을 모르는 우리는 5권",
-      "link": "https://ridibooks.com/books/1019026653",
-      "author": "미즈노 미나미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "아마노 메구미는 빈틈투성이! 15권",
-      "link": "https://ridibooks.com/books/1019026667",
-      "author": "네코구치",
-      "genre": "학원"
-    },
-    {
-      "title": "첫사랑 좀비 12권",
-      "link": "https://ridibooks.com/books/1019026669",
-      "author": "미네나미 료",
-      "genre": "학원"
     }
   ]
 }
