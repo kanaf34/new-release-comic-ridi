@@ -1,12 +1,6 @@
 {
   "books": [
     {
-      "title": "마법진 구루구루 외전 무용전 북북 노인 7권 (완결)",
-      "link": "https://ridibooks.com/books/297033648",
-      "author": "에토 히로유키",
-      "genre": "코믹"
-    },
-    {
       "title": "노부나가의 셰프 22권",
       "link": "https://ridibooks.com/books/297033662",
       "author": "카지카와 타쿠로",
@@ -23,6 +17,12 @@
       "link": "https://ridibooks.com/books/3010004054",
       "author": "야구라바 뎃카",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "마법진 구루구루 외전 무용전 북북 노인 7권 (완결)",
+      "link": "https://ridibooks.com/books/297033648",
+      "author": "에토 히로유키",
+      "genre": "코믹"
     },
     {
       "title": "그럼에도 세상은 아름답다 23권",
