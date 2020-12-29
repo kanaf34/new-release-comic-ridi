@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "격기3반 9권",
+      "link": "https://ridibooks.com/books/297033663",
+      "author": "이학",
+      "genre": "액션"
+    },
+    {
       "title": "노부나가의 셰프 22권",
       "link": "https://ridibooks.com/books/297033662",
       "author": "카지카와 타쿠로",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/4369000034",
       "author": "모치다 마카",
       "genre": "해외 순정"
-    },
-    {
-      "title": "수라의 도시 4권",
-      "link": "https://ridibooks.com/books/845022104",
-      "author": "YAKSU",
-      "genre": "액션"
     }
   ]
 }
