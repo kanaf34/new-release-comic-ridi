@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "사랑이라 하기엔 기분 나빠 6권",
+      "link": "https://ridibooks.com/books/1987001464",
+      "author": "모구스",
+      "genre": "코믹"
+    },
+    {
+      "title": "죽여주마 16권 (완결)",
+      "link": "https://ridibooks.com/books/1603052368",
+      "author": "조명운",
+      "genre": "액션"
+    },
+    {
       "title": "격기3반 9권",
       "link": "https://ridibooks.com/books/297033663",
       "author": "이학",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/1019026670",
       "author": "츠츠이 타이시",
       "genre": "학원"
-    },
-    {
-      "title": "환생했더니 핑크 드래곤 2권",
-      "link": "https://ridibooks.com/books/4369000045",
-      "author": "하마다 쇼코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마녀 선배 일보 1권",
-      "link": "https://ridibooks.com/books/4369000034",
-      "author": "모치다 마카",
-      "genre": "해외 순정"
     }
   ]
 }
