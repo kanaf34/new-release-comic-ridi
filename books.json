@@ -1,9 +1,27 @@
 {
   "books": [
     {
-      "title": "사람 하나 둘 8권 (완결)",
-      "link": "https://ridibooks.com/books/1019026664",
-      "author": "타카하시 츠토무",
+      "title": "겁쟁이 페달 67권",
+      "link": "https://ridibooks.com/books/297033695",
+      "author": "와타나베 와타루",
+      "genre": "드라마"
+    },
+    {
+      "title": "겁쟁이 페달 SPARE BIKE 3권",
+      "link": "https://ridibooks.com/books/297033667",
+      "author": "와타나베 와타루",
+      "genre": "스포츠"
+    },
+    {
+      "title": "마지막으로 하나만 부탁드려도 될까요 1권",
+      "link": "https://ridibooks.com/books/4414000004",
+      "author": "호오노키 소라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "쌍망정은 부숴야 한다 10권",
+      "link": "https://ridibooks.com/books/1019026674",
+      "author": "후지타 카즈히로",
       "genre": "판타지/SF"
     },
     {
@@ -13,16 +31,28 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "쌍망정은 부숴야 한다 10권",
-      "link": "https://ridibooks.com/books/1019026674",
-      "author": "후지타 카즈히로",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "스파이스와 커스터드 8권",
       "link": "https://ridibooks.com/books/1019026675",
       "author": "우사미 마키",
       "genre": "해외 순정"
+    },
+    {
+      "title": "코믹진 점프 145호",
+      "link": "https://ridibooks.com/books/845022141",
+      "author": "점프 편집부",
+      "genre": "만화잡지"
+    },
+    {
+      "title": "챔프D 176호(2021.01.15)",
+      "link": "https://ridibooks.com/books/847003389",
+      "author": "챔프D 편집부",
+      "genre": "만화잡지"
+    },
+    {
+      "title": "사람 하나 둘 8권 (완결)",
+      "link": "https://ridibooks.com/books/1019026664",
+      "author": "타카하시 츠토무",
+      "genre": "판타지/SF"
     },
     {
       "title": "절대가련 칠드런 57권",
@@ -40,24 +70,6 @@
       "title": "그 남자, 운명이니까 5권",
       "link": "https://ridibooks.com/books/1019026678",
       "author": "키타가와 미유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "겁쟁이 페달 SPARE BIKE 3권",
-      "link": "https://ridibooks.com/books/297033667",
-      "author": "와타나베 와타루",
-      "genre": "스포츠"
-    },
-    {
-      "title": "겁쟁이 페달 67권",
-      "link": "https://ridibooks.com/books/297033695",
-      "author": "와타나베 와타루",
-      "genre": "드라마"
-    },
-    {
-      "title": "마지막으로 하나만 부탁드려도 될까요 1권",
-      "link": "https://ridibooks.com/books/4414000004",
-      "author": "호오노키 소라",
       "genre": "해외 순정"
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/3010004054",
       "author": "야구라바 뎃카",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "마법진 구루구루 외전 무용전 북북 노인 7권 (완결)",
-      "link": "https://ridibooks.com/books/297033648",
-      "author": "에토 히로유키",
-      "genre": "코믹"
-    },
-    {
-      "title": "그럼에도 세상은 아름답다 23권",
-      "link": "https://ridibooks.com/books/505025589",
-      "author": "시이나 다이",
-      "genre": "해외 순정"
     }
   ]
 }
