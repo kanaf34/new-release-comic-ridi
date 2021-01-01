@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "독표무적 [개정판] 2부 34권 (2부 완결)",
+      "link": "https://ridibooks.com/books/1603052412",
+      "author": "묵검향",
+      "genre": "무협"
+    },
+    {
       "title": "겁쟁이 페달 67권",
       "link": "https://ridibooks.com/books/297033695",
       "author": "와타나베 와타루",
@@ -112,12 +118,6 @@
       "title": "나는 100만 명의 목숨 위에 서 있다 10권",
       "link": "https://ridibooks.com/books/3010004051",
       "author": "나오 아키나리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "저희 사역마가 죄송합니다 8권",
-      "link": "https://ridibooks.com/books/3010004054",
-      "author": "야구라바 뎃카",
       "genre": "판타지/SF"
     }
   ]
