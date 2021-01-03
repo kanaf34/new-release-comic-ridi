@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "아이돌 드렁크 1권",
+      "link": "https://ridibooks.com/books/297033743",
+      "author": "사카시마 에노키",
+      "genre": "드라마"
+    },
+    {
+      "title": "동군(東君) 6권",
+      "link": "https://ridibooks.com/books/297033746",
+      "author": "이단이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "판도라 오픈 7권",
+      "link": "https://ridibooks.com/books/297033747",
+      "author": "마빈",
+      "genre": "액션"
+    },
+    {
+      "title": "런웨이에서 웃어줘 8권",
+      "link": "https://ridibooks.com/books/505025994",
+      "author": "이노야 코토바",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코이] 신☆재생연 ~명 왕조 궁중 비화~ 4권",
+      "link": "https://ridibooks.com/books/806006405",
+      "author": "타키구치 링링",
+      "genre": "해외 순정"
+    },
+    {
       "title": "독표무적 [개정판] 2부 34권 (2부 완결)",
       "link": "https://ridibooks.com/books/1603052412",
       "author": "묵검향",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/505025989",
       "author": "야마하라 요시토",
       "genre": "무협"
-    },
-    {
-      "title": "사랑이라 하기엔 기분 나빠 6권",
-      "link": "https://ridibooks.com/books/1987001464",
-      "author": "모구스",
-      "genre": "코믹"
-    },
-    {
-      "title": "격기3반 9권",
-      "link": "https://ridibooks.com/books/297033663",
-      "author": "이학",
-      "genre": "액션"
-    },
-    {
-      "title": "죽여주마 16권 (완결)",
-      "link": "https://ridibooks.com/books/1603052368",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "노부나가의 셰프 22권",
-      "link": "https://ridibooks.com/books/297033662",
-      "author": "카지카와 타쿠로",
-      "genre": "드라마"
-    },
-    {
-      "title": "나는 100만 명의 목숨 위에 서 있다 10권",
-      "link": "https://ridibooks.com/books/3010004051",
-      "author": "나오 아키나리",
-      "genre": "판타지/SF"
     }
   ]
 }
