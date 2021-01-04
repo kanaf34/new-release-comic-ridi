@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "런웨이에서 웃어줘 8권",
+      "link": "https://ridibooks.com/books/505025994",
+      "author": "이노야 코토바",
+      "genre": "드라마"
+    },
+    {
       "title": "아이돌 드렁크 1권",
       "link": "https://ridibooks.com/books/297033743",
       "author": "사카시마 에노키",
@@ -17,12 +23,6 @@
       "link": "https://ridibooks.com/books/297033747",
       "author": "마빈",
       "genre": "액션"
-    },
-    {
-      "title": "런웨이에서 웃어줘 8권",
-      "link": "https://ridibooks.com/books/505025994",
-      "author": "이노야 코토바",
-      "genre": "드라마"
     },
     {
       "title": "[코이] 신☆재생연 ~명 왕조 궁중 비화~ 4권",
