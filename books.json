@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "키스하고싶다고 졸라봐 3권 (완결)",
+      "link": "https://ridibooks.com/books/297033751",
+      "author": "미츠키 토모코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "스킵과 로퍼 3권",
+      "link": "https://ridibooks.com/books/3010004060",
+      "author": "타카마츠 미사키",
+      "genre": "드라마"
+    },
+    {
+      "title": "니나의 마법 생활 3권",
+      "link": "https://ridibooks.com/books/4144000023",
+      "author": "타카나시 링고",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코이] 늑대 왕자님의 분부대로 10권",
+      "link": "https://ridibooks.com/books/806006406",
+      "author": "우에모리 유",
+      "genre": "해외 순정"
+    },
+    {
       "title": "런웨이에서 웃어줘 8권",
       "link": "https://ridibooks.com/books/505025994",
       "author": "이노야 코토바",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/1019026676",
       "author": "시이나 타카시",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "극흑의 브룬힐데 7권",
-      "link": "https://ridibooks.com/books/1019026677",
-      "author": "오카모토 린",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "그 남자, 운명이니까 5권",
-      "link": "https://ridibooks.com/books/1019026678",
-      "author": "키타가와 미유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "피치걸 NEXT (피치걸 넥스트) 7권",
-      "link": "https://ridibooks.com/books/505025590",
-      "author": "우에다 미와",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "용랑전 중원요란편 17권 (완결)",
-      "link": "https://ridibooks.com/books/505025989",
-      "author": "야마하라 요시토",
-      "genre": "무협"
     }
   ]
 }
