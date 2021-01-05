@@ -1,12 +1,6 @@
 {
   "books": [
     {
-      "title": "키스하고싶다고 졸라봐 3권 (완결)",
-      "link": "https://ridibooks.com/books/297033751",
-      "author": "미츠키 토모코",
-      "genre": "해외 순정"
-    },
-    {
       "title": "스킵과 로퍼 3권",
       "link": "https://ridibooks.com/books/3010004060",
       "author": "타카마츠 미사키",
@@ -17,6 +11,12 @@
       "link": "https://ridibooks.com/books/4144000023",
       "author": "타카나시 링고",
       "genre": "드라마"
+    },
+    {
+      "title": "키스하고싶다고 졸라봐 3권 (완결)",
+      "link": "https://ridibooks.com/books/297033751",
+      "author": "미츠키 토모코",
+      "genre": "해외 순정"
     },
     {
       "title": "[코이] 늑대 왕자님의 분부대로 10권",
