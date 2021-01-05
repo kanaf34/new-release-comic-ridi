@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "메이드 인 어비스 공식 앤솔로지 2권",
+      "link": "https://ridibooks.com/books/297033763",
+      "author": "츠쿠시 아키히토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "메이드 인 어비스 9권",
+      "link": "https://ridibooks.com/books/297033764",
+      "author": "츠쿠시 아키히토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "돈게쓰 외전 5권",
+      "link": "https://ridibooks.com/books/806006412",
+      "author": "타시",
+      "genre": "액션"
+    },
+    {
       "title": "스킵과 로퍼 3권",
       "link": "https://ridibooks.com/books/3010004060",
       "author": "타카마츠 미사키",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/845022141",
       "author": "점프 편집부",
       "genre": "만화잡지"
-    },
-    {
-      "title": "챔프D 176호(2021.01.15)",
-      "link": "https://ridibooks.com/books/847003389",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "사람 하나 둘 8권 (완결)",
-      "link": "https://ridibooks.com/books/1019026664",
-      "author": "타카하시 츠토무",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "절대가련 칠드런 57권",
-      "link": "https://ridibooks.com/books/1019026676",
-      "author": "시이나 타카시",
-      "genre": "판타지/SF"
     }
   ]
 }
