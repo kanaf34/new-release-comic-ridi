@@ -1,6 +1,96 @@
 {
   "books": [
     {
+      "title": "첫사랑의 세계 7권",
+      "link": "https://ridibooks.com/books/1019033072",
+      "author": "니시 케이코",
+      "genre": "드라마"
+    },
+    {
+      "title": "나의 아빠 3권",
+      "link": "https://ridibooks.com/books/1019033075",
+      "author": "니시 케이코",
+      "genre": "드라마"
+    },
+    {
+      "title": "나의 히어로 아카데미아 28권",
+      "link": "https://ridibooks.com/books/1019033076",
+      "author": "호리코시 코헤이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "드래곤볼 슈퍼 13권",
+      "link": "https://ridibooks.com/books/1019033087",
+      "author": "토요타로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "절대가련 칠드런 58권",
+      "link": "https://ridibooks.com/books/1019035298",
+      "author": "시이나 타카시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사무라이8 하치마루전 4권",
+      "link": "https://ridibooks.com/books/1019035300",
+      "author": "오오쿠보 아키라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "왕에게 바치는 약지 7권",
+      "link": "https://ridibooks.com/books/1019035302",
+      "author": "와타나베 시호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "이상적 보이프렌드 7권 (완결)",
+      "link": "https://ridibooks.com/books/1019035303",
+      "author": "아야세 우미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "결국 좋아한다고 말하고 싶은데 3권",
+      "link": "https://ridibooks.com/books/1019035304",
+      "author": "엔조지 마키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "컴온 어 마이 하우스 2권",
+      "link": "https://ridibooks.com/books/297033767",
+      "author": "난바 아츠코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "Bestia(베스티아) 2권",
+      "link": "https://ridibooks.com/books/297033775",
+      "author": "아리사카 아코",
+      "genre": "액션"
+    },
+    {
+      "title": "짐승의 길 2권",
+      "link": "https://ridibooks.com/books/297033777",
+      "author": "맛타쿠 모스케-유메우타",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "우리들은 미쳤다 12권",
+      "link": "https://ridibooks.com/books/297033781",
+      "author": "안도 나츠미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "절벽 위의 란 5권",
+      "link": "https://ridibooks.com/books/297033782",
+      "author": "암미츠",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "개인차 있습니다 5권",
+      "link": "https://ridibooks.com/books/3010004061",
+      "author": "히구라시 키노코",
+      "genre": "드라마"
+    },
+    {
       "title": "메이드 인 어비스 9권",
       "link": "https://ridibooks.com/books/297033764",
       "author": "츠쿠시 아키히토",
@@ -29,96 +119,6 @@
       "link": "https://ridibooks.com/books/3010004060",
       "author": "타카마츠 미사키",
       "genre": "드라마"
-    },
-    {
-      "title": "니나의 마법 생활 3권",
-      "link": "https://ridibooks.com/books/4144000023",
-      "author": "타카나시 링고",
-      "genre": "드라마"
-    },
-    {
-      "title": "키스하고싶다고 졸라봐 3권 (완결)",
-      "link": "https://ridibooks.com/books/297033751",
-      "author": "미츠키 토모코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코이] 늑대 왕자님의 분부대로 10권",
-      "link": "https://ridibooks.com/books/806006406",
-      "author": "우에모리 유",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "런웨이에서 웃어줘 8권",
-      "link": "https://ridibooks.com/books/505025994",
-      "author": "이노야 코토바",
-      "genre": "드라마"
-    },
-    {
-      "title": "아이돌 드렁크 1권",
-      "link": "https://ridibooks.com/books/297033743",
-      "author": "사키시마 에노키",
-      "genre": "드라마"
-    },
-    {
-      "title": "동군(東君) 6권",
-      "link": "https://ridibooks.com/books/297033746",
-      "author": "이단이",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "판도라 오픈 7권",
-      "link": "https://ridibooks.com/books/297033747",
-      "author": "마빈",
-      "genre": "액션"
-    },
-    {
-      "title": "[코이] 신☆재생연 ~명 왕조 궁중 비화~ 4권",
-      "link": "https://ridibooks.com/books/806006405",
-      "author": "타키구치 링링",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "독표무적 [개정판] 2부 34권 (2부 완결)",
-      "link": "https://ridibooks.com/books/1603052412",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "겁쟁이 페달 67권",
-      "link": "https://ridibooks.com/books/297033695",
-      "author": "와타나베 와타루",
-      "genre": "드라마"
-    },
-    {
-      "title": "겁쟁이 페달 SPARE BIKE 3권",
-      "link": "https://ridibooks.com/books/297033667",
-      "author": "와타나베 와타루",
-      "genre": "스포츠"
-    },
-    {
-      "title": "마지막으로 하나만 부탁드려도 될까요 1권",
-      "link": "https://ridibooks.com/books/4414000004",
-      "author": "호오노키 소라",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "쌍망정은 부숴야 한다 10권",
-      "link": "https://ridibooks.com/books/1019026674",
-      "author": "후지타 카즈히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "블랙 클로버 25권",
-      "link": "https://ridibooks.com/books/1019026673",
-      "author": "타바타 유키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "스파이스와 커스터드 8권",
-      "link": "https://ridibooks.com/books/1019026675",
-      "author": "우사미 마키",
-      "genre": "해외 순정"
     }
   ]
 }
