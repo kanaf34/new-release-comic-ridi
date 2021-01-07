@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "푸른 하늘 흐린 하늘 2권",
+      "link": "https://ridibooks.com/books/2066001563",
+      "author": "loundraw",
+      "genre": "드라마"
+    },
+    {
+      "title": "공정 드래곤즈 9권",
+      "link": "https://ridibooks.com/books/297033825",
+      "author": "쿠와바라 타쿠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "오컬트 짱은 말할 수 없어 3권",
+      "link": "https://ridibooks.com/books/297033828",
+      "author": "혼다 하지메",
+      "genre": "코믹"
+    },
+    {
+      "title": "카이니스의 황금새 3권",
+      "link": "https://ridibooks.com/books/3010004066",
+      "author": "하타 카즈키",
+      "genre": "드라마"
+    },
+    {
+      "title": "추락 여고생과 폐인 교사 7권",
+      "link": "https://ridibooks.com/books/505026051",
+      "author": "sora",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "C.M.B. 박물관 사건목록(씨엠비) 40권",
+      "link": "https://ridibooks.com/books/505026054",
+      "author": "카토우 모토히로",
+      "genre": "학원"
+    },
+    {
+      "title": "Q.E.D. iff -증명종료- (큐이디 이프) 12권",
+      "link": "https://ridibooks.com/books/505026055",
+      "author": "카토우 모토히로",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "호시노, 눈을 감아. 12권",
+      "link": "https://ridibooks.com/books/505026056",
+      "author": "나가시이 코헤이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "칼바니아 이야기 19권",
+      "link": "https://ridibooks.com/books/845022295",
+      "author": "TONO",
+      "genre": "해외 순정"
+    },
+    {
       "title": "우리들은 미쳤다 12권",
       "link": "https://ridibooks.com/books/297033781",
       "author": "안도 나츠미",
@@ -65,60 +119,6 @@
       "link": "https://ridibooks.com/books/1019035302",
       "author": "와타나베 시호",
       "genre": "해외 순정"
-    },
-    {
-      "title": "이상적 보이프렌드 7권 (완결)",
-      "link": "https://ridibooks.com/books/1019035303",
-      "author": "아야세 우미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "결국 좋아한다고 말하고 싶은데 3권",
-      "link": "https://ridibooks.com/books/1019035304",
-      "author": "엔조지 마키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "Bestia(베스티아) 2권",
-      "link": "https://ridibooks.com/books/297033775",
-      "author": "아리사카 아코",
-      "genre": "액션"
-    },
-    {
-      "title": "짐승의 길 2권",
-      "link": "https://ridibooks.com/books/297033777",
-      "author": "맛타쿠 모스케-유메우타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "개인차 있습니다 5권",
-      "link": "https://ridibooks.com/books/3010004061",
-      "author": "히구라시 키노코",
-      "genre": "드라마"
-    },
-    {
-      "title": "메이드 인 어비스 9권",
-      "link": "https://ridibooks.com/books/297033764",
-      "author": "츠쿠시 아키히토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "메이드 인 어비스 공식 앤솔로지 2권",
-      "link": "https://ridibooks.com/books/297033763",
-      "author": "츠쿠시 아키히토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "돈게쓰 외전 5권",
-      "link": "https://ridibooks.com/books/806006412",
-      "author": "타시",
-      "genre": "액션"
-    },
-    {
-      "title": "Party(파티) 2021년 2월호",
-      "link": "https://ridibooks.com/books/505026025",
-      "author": "파티 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
