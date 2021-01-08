@@ -1,40 +1,10 @@
 {
   "books": [
     {
-      "title": "푸른 하늘 흐린 하늘 2권",
-      "link": "https://ridibooks.com/books/2066001563",
-      "author": "loundraw",
-      "genre": "드라마"
-    },
-    {
-      "title": "공정 드래곤즈 9권",
-      "link": "https://ridibooks.com/books/297033825",
-      "author": "쿠와바라 타쿠",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "오컬트 짱은 말할 수 없어 3권",
-      "link": "https://ridibooks.com/books/297033828",
-      "author": "혼다 하지메",
-      "genre": "코믹"
-    },
-    {
-      "title": "카이니스의 황금새 3권",
-      "link": "https://ridibooks.com/books/3010004066",
-      "author": "하타 카즈키",
-      "genre": "드라마"
-    },
-    {
-      "title": "추락 여고생과 폐인 교사 7권",
-      "link": "https://ridibooks.com/books/505026051",
-      "author": "sora",
+      "title": "칼바니아 이야기 19권",
+      "link": "https://ridibooks.com/books/845022295",
+      "author": "TONO",
       "genre": "해외 순정"
-    },
-    {
-      "title": "C.M.B. 박물관 사건목록(씨엠비) 40권",
-      "link": "https://ridibooks.com/books/505026054",
-      "author": "카토우 모토히로",
-      "genre": "학원"
     },
     {
       "title": "Q.E.D. iff -증명종료- (큐이디 이프) 12권",
@@ -43,15 +13,51 @@
       "genre": "공포/추리"
     },
     {
-      "title": "호시노, 눈을 감아. 12권",
-      "link": "https://ridibooks.com/books/505026056",
-      "author": "나가시이 코헤이",
+      "title": "C.M.B. 박물관 사건목록(씨엠비) 40권",
+      "link": "https://ridibooks.com/books/505026054",
+      "author": "카토우 모토히로",
+      "genre": "학원"
+    },
+    {
+      "title": "추락 여고생과 폐인 교사 7권",
+      "link": "https://ridibooks.com/books/505026051",
+      "author": "sora",
       "genre": "해외 순정"
     },
     {
-      "title": "칼바니아 이야기 19권",
-      "link": "https://ridibooks.com/books/845022295",
-      "author": "TONO",
+      "title": "푸른 하늘 흐린 하늘 2권",
+      "link": "https://ridibooks.com/books/2066001563",
+      "author": "loundraw",
+      "genre": "드라마"
+    },
+    {
+      "title": "오컬트 짱은 말할 수 없어 3권",
+      "link": "https://ridibooks.com/books/297033828",
+      "author": "혼다 하지메",
+      "genre": "코믹"
+    },
+    {
+      "title": "죽음의 법칙 [개정판] 10권",
+      "link": "https://ridibooks.com/books/1603052441",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "공정 드래곤즈 9권",
+      "link": "https://ridibooks.com/books/297033825",
+      "author": "쿠와바라 타쿠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "카이니스의 황금새 3권",
+      "link": "https://ridibooks.com/books/3010004066",
+      "author": "하타 카즈키",
+      "genre": "드라마"
+    },
+    {
+      "title": "호시노, 눈을 감아. 12권",
+      "link": "https://ridibooks.com/books/505026056",
+      "author": "나가시이 코헤이",
       "genre": "해외 순정"
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/1019035300",
       "author": "오오쿠보 아키라",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "왕에게 바치는 약지 7권",
-      "link": "https://ridibooks.com/books/1019035302",
-      "author": "와타나베 시호",
-      "genre": "해외 순정"
     }
   ]
 }
