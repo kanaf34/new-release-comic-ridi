@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "이세계에서 슬로 라이프를(희망) 2권",
-      "link": "https://ridibooks.com/books/3010004073",
-      "author": "나가요리",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "여친, 빌리겠습니다 10권",
       "link": "https://ridibooks.com/books/505026234",
       "author": "미야지마 레이지",
       "genre": "해외 순정"
+    },
+    {
+      "title": "사랑에 빠진 일진녀 5권 (완결)",
+      "link": "https://ridibooks.com/books/806006417",
+      "author": "오리하라 사치코",
+      "genre": "드라마"
     },
     {
       "title": "선배! 지금부터 고백합니다! 4권",
@@ -19,10 +19,10 @@
       "genre": "해외 순정"
     },
     {
-      "title": "사랑에 빠진 일진녀 5권 (완결)",
-      "link": "https://ridibooks.com/books/806006417",
-      "author": "오리하라 사치코",
-      "genre": "드라마"
+      "title": "이세계에서 슬로 라이프를(희망) 2권",
+      "link": "https://ridibooks.com/books/3010004073",
+      "author": "나가요리",
+      "genre": "판타지/SF"
     },
     {
       "title": "칼바니아 이야기 19권",
