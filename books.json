@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "방과 후 제방 일지 6권",
+      "link": "https://ridibooks.com/books/297033876",
+      "author": "코사카 야스유키",
+      "genre": "코믹"
+    },
+    {
       "title": "코세르테르의 용술사~어린용 이야기~ 6권",
       "link": "https://ridibooks.com/books/2498006430",
       "author": "이스루기 아유마",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/1603052441",
       "author": "고행석",
       "genre": "액션"
-    },
-    {
-      "title": "공정 드래곤즈 9권",
-      "link": "https://ridibooks.com/books/297033825",
-      "author": "쿠와바라 타쿠",
-      "genre": "판타지/SF"
     }
   ]
 }
