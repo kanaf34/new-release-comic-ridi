@@ -1,6 +1,96 @@
 {
   "books": [
     {
+      "title": "여기는 지금부터 윤리 시간입니다. 3권",
+      "link": "https://ridibooks.com/books/1019036392",
+      "author": "아마세 시오리",
+      "genre": "드라마"
+    },
+    {
+      "title": "Q 쿠 4권 (완결)",
+      "link": "https://ridibooks.com/books/1019036421",
+      "author": "시히라 타츠야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "블랙 토치 2권",
+      "link": "https://ridibooks.com/books/1019036422",
+      "author": "타카키 츠요시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "허니 컴 허니 10권 (완결)",
+      "link": "https://ridibooks.com/books/1019036423",
+      "author": "시라이시 유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "디 그레이맨 27권",
+      "link": "https://ridibooks.com/books/1019036424",
+      "author": "호시노 카츠라",
+      "genre": "액션"
+    },
+    {
+      "title": "종말의 세라프 21권",
+      "link": "https://ridibooks.com/books/1019036431",
+      "author": "야마모토 야마토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "해왕 단테 10권",
+      "link": "https://ridibooks.com/books/1019036440",
+      "author": "미나가와 료지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "우국의 모리아티 12권",
+      "link": "https://ridibooks.com/books/1019036441",
+      "author": "미요시 히카루",
+      "genre": "드라마"
+    },
+    {
+      "title": "골목 미궁의 로지 1권",
+      "link": "https://ridibooks.com/books/297033848",
+      "author": "토오츠키 시야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "녹풍당의 사계절 9권",
+      "link": "https://ridibooks.com/books/297033879",
+      "author": "시미즈 유",
+      "genre": "드라마"
+    },
+    {
+      "title": "송혼의 소녀와 장례여행 3권",
+      "link": "https://ridibooks.com/books/297033880",
+      "author": "로나",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "악역 영애? 아니, 극악 영애인걸요 1권",
+      "link": "https://ridibooks.com/books/3010004067",
+      "author": "코나미 아사토",
+      "genre": "드라마"
+    },
+    {
+      "title": "이세계에서 실패하지 않는 100가지 방법 2권",
+      "link": "https://ridibooks.com/books/4414000006",
+      "author": "아키노 키사라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "몬스터 소울 2권 (완결)",
+      "link": "https://ridibooks.com/books/505026002",
+      "author": "마시마 히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "에덴즈 제로(EDENS ZERO) 10권",
+      "link": "https://ridibooks.com/books/505026260",
+      "author": "마시마 히로",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "방과 후 제방 일지 6권",
       "link": "https://ridibooks.com/books/297033876",
       "author": "코사카 야스유키",
@@ -29,96 +119,6 @@
       "link": "https://ridibooks.com/books/806006425",
       "author": "카토 유이치",
       "genre": "학원"
-    },
-    {
-      "title": "가극 소녀!! 9권",
-      "link": "https://ridibooks.com/books/845022296",
-      "author": "사이키 쿠미코",
-      "genre": "드라마"
-    },
-    {
-      "title": "운명을 믿지 않는 그가 말하길 1권",
-      "link": "https://ridibooks.com/books/3010004071",
-      "author": "오무 더 라이스",
-      "genre": "드라마"
-    },
-    {
-      "title": "성녀님의 어리광을 받아 주고 싶어, 단 용사 넌 안 된다 1권",
-      "link": "https://ridibooks.com/books/3010004069",
-      "author": "kanco",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "미소년, 잘 먹겠습니다 3권",
-      "link": "https://ridibooks.com/books/297033847",
-      "author": "세이노 시즈루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "SA07 1권",
-      "link": "https://ridibooks.com/books/297033778",
-      "author": "츠루사키 유",
-      "genre": "코믹"
-    },
-    {
-      "title": "여친, 빌리겠습니다 10권",
-      "link": "https://ridibooks.com/books/505026234",
-      "author": "미야지마 레이지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사랑에 빠진 일진녀 5권 (완결)",
-      "link": "https://ridibooks.com/books/806006417",
-      "author": "오리하라 사치코",
-      "genre": "드라마"
-    },
-    {
-      "title": "선배! 지금부터 고백합니다! 4권",
-      "link": "https://ridibooks.com/books/505026235",
-      "author": "신모토 신",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "이세계에서 슬로 라이프를(희망) 2권",
-      "link": "https://ridibooks.com/books/3010004073",
-      "author": "나가요리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "칼바니아 이야기 19권",
-      "link": "https://ridibooks.com/books/845022295",
-      "author": "TONO",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "Q.E.D. iff -증명종료- (큐이디 이프) 12권",
-      "link": "https://ridibooks.com/books/505026055",
-      "author": "카토우 모토히로",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "C.M.B. 박물관 사건목록(씨엠비) 40권",
-      "link": "https://ridibooks.com/books/505026054",
-      "author": "카토우 모토히로",
-      "genre": "학원"
-    },
-    {
-      "title": "추락 여고생과 폐인 교사 7권",
-      "link": "https://ridibooks.com/books/505026051",
-      "author": "sora",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "푸른 하늘 흐린 하늘 2권",
-      "link": "https://ridibooks.com/books/2066001563",
-      "author": "loundraw",
-      "genre": "드라마"
-    },
-    {
-      "title": "오컬트 짱은 말할 수 없어 3권",
-      "link": "https://ridibooks.com/books/297033828",
-      "author": "혼다 하지메",
-      "genre": "코믹"
     }
   ]
 }
