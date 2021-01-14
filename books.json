@@ -1,6 +1,72 @@
 {
   "books": [
     {
+      "title": "새로운 상사는 귀여운 허당 1권",
+      "link": "https://ridibooks.com/books/2066001669",
+      "author": "이치카와 단",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 이세계 피크닉 1권",
+      "link": "https://ridibooks.com/books/2066001670",
+      "author": "미즈노 에이타",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "아가씨라고 부르지 말아줘 1권",
+      "link": "https://ridibooks.com/books/2066001671",
+      "author": "아마쿠라 후유",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 경계선상의 호라이즌 6권 (완결)",
+      "link": "https://ridibooks.com/books/2066001672",
+      "author": "타케나카 히데오",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "하나 씨의 간단요리 3권",
+      "link": "https://ridibooks.com/books/297033851",
+      "author": "미즈사와 에츠코",
+      "genre": "드라마"
+    },
+    {
+      "title": "쿠온의 숲 5권",
+      "link": "https://ridibooks.com/books/297033856",
+      "author": "츠리마키 노도카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "불쾌한 모노노케안 16권",
+      "link": "https://ridibooks.com/books/297033881",
+      "author": "와자와 키리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "「공략본」을 구사하는 최강의 마법사 3권",
+      "link": "https://ridibooks.com/books/3010004075",
+      "author": "마이지마 히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "교토 담배가게 요리코 7권 (완결)",
+      "link": "https://ridibooks.com/books/806006434",
+      "author": "아사노 유키코",
+      "genre": "드라마"
+    },
+    {
+      "title": "청춘×기관총 13권",
+      "link": "https://ridibooks.com/books/845022324",
+      "author": "NAOE",
+      "genre": "액션"
+    },
+    {
+      "title": "한밤의 오컬트 공무원 11권",
+      "link": "https://ridibooks.com/books/845022360",
+      "author": "타모츠 요코",
+      "genre": "드라마"
+    },
+    {
       "title": "녹풍당의 사계절 9권",
       "link": "https://ridibooks.com/books/297033879",
       "author": "시미즈 유",
@@ -53,72 +119,6 @@
       "link": "https://ridibooks.com/books/1019036422",
       "author": "타카키 츠요시",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "허니 컴 허니 10권 (완결)",
-      "link": "https://ridibooks.com/books/1019036423",
-      "author": "시라이시 유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "해왕 단테 10권",
-      "link": "https://ridibooks.com/books/1019036440",
-      "author": "미나가와 료지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "골목 미궁의 로지 1권",
-      "link": "https://ridibooks.com/books/297033848",
-      "author": "토오츠키 시야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "송혼의 소녀와 장례여행 3권",
-      "link": "https://ridibooks.com/books/297033880",
-      "author": "로나",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "악역 영애? 아니, 극악 영애인걸요 1권",
-      "link": "https://ridibooks.com/books/3010004067",
-      "author": "코나미 아사토",
-      "genre": "드라마"
-    },
-    {
-      "title": "몬스터 소울 2권 (완결)",
-      "link": "https://ridibooks.com/books/505026002",
-      "author": "마시마 히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "에덴즈 제로(EDENS ZERO) 10권",
-      "link": "https://ridibooks.com/books/505026260",
-      "author": "마시마 히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "방과 후 제방 일지 6권",
-      "link": "https://ridibooks.com/books/297033876",
-      "author": "코사카 야스유키",
-      "genre": "코믹"
-    },
-    {
-      "title": "절대야망 5권",
-      "link": "https://ridibooks.com/books/1603052454",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "코세르테르의 용술사~어린용 이야기~ 6권",
-      "link": "https://ridibooks.com/books/2498006430",
-      "author": "이스루기 아유마",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "젠더리스 남자에게 사랑받고 있습니다 2권",
-      "link": "https://ridibooks.com/books/806006426",
-      "author": "타메코우",
-      "genre": "해외 순정"
     }
   ]
 }
