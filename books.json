@@ -1,10 +1,46 @@
 {
   "books": [
     {
+      "title": "녹풍당의 사계절 9권",
+      "link": "https://ridibooks.com/books/297033879",
+      "author": "시미즈 유",
+      "genre": "드라마"
+    },
+    {
+      "title": "이세계에서 실패하지 않는 100가지 방법 2권",
+      "link": "https://ridibooks.com/books/4414000006",
+      "author": "아키노 키사라",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "여기는 지금부터 윤리 시간입니다. 3권",
       "link": "https://ridibooks.com/books/1019036392",
       "author": "아마세 시오리",
       "genre": "드라마"
+    },
+    {
+      "title": "종말의 세라프 21권",
+      "link": "https://ridibooks.com/books/1019036431",
+      "author": "야마모토 야마토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "디 그레이맨 27권",
+      "link": "https://ridibooks.com/books/1019036424",
+      "author": "호시노 카츠라",
+      "genre": "액션"
+    },
+    {
+      "title": "우국의 모리아티 12권",
+      "link": "https://ridibooks.com/books/1019036441",
+      "author": "미요시 히카루",
+      "genre": "드라마"
+    },
+    {
+      "title": "다정마무정협 21권 (완결)",
+      "link": "https://ridibooks.com/books/1603052465",
+      "author": "천제황",
+      "genre": "무협"
     },
     {
       "title": "Q 쿠 4권 (완결)",
@@ -25,40 +61,16 @@
       "genre": "해외 순정"
     },
     {
-      "title": "디 그레이맨 27권",
-      "link": "https://ridibooks.com/books/1019036424",
-      "author": "호시노 카츠라",
-      "genre": "액션"
-    },
-    {
-      "title": "종말의 세라프 21권",
-      "link": "https://ridibooks.com/books/1019036431",
-      "author": "야마모토 야마토",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "해왕 단테 10권",
       "link": "https://ridibooks.com/books/1019036440",
       "author": "미나가와 료지",
       "genre": "판타지/SF"
     },
     {
-      "title": "우국의 모리아티 12권",
-      "link": "https://ridibooks.com/books/1019036441",
-      "author": "미요시 히카루",
-      "genre": "드라마"
-    },
-    {
       "title": "골목 미궁의 로지 1권",
       "link": "https://ridibooks.com/books/297033848",
       "author": "토오츠키 시야",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "녹풍당의 사계절 9권",
-      "link": "https://ridibooks.com/books/297033879",
-      "author": "시미즈 유",
-      "genre": "드라마"
     },
     {
       "title": "송혼의 소녀와 장례여행 3권",
@@ -71,12 +83,6 @@
       "link": "https://ridibooks.com/books/3010004067",
       "author": "코나미 아사토",
       "genre": "드라마"
-    },
-    {
-      "title": "이세계에서 실패하지 않는 100가지 방법 2권",
-      "link": "https://ridibooks.com/books/4414000006",
-      "author": "아키노 키사라",
-      "genre": "판타지/SF"
     },
     {
       "title": "몬스터 소울 2권 (완결)",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/806006426",
       "author": "타메코우",
       "genre": "해외 순정"
-    },
-    {
-      "title": "짓궂은 안죠 양 5권",
-      "link": "https://ridibooks.com/books/806006425",
-      "author": "카토 유이치",
-      "genre": "학원"
     }
   ]
 }
