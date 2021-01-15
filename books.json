@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "불쾌한 모노노케안 16권",
+      "link": "https://ridibooks.com/books/297033881",
+      "author": "와자와 키리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "한밤의 오컬트 공무원 11권",
+      "link": "https://ridibooks.com/books/845022360",
+      "author": "타모츠 요코",
+      "genre": "드라마"
+    },
+    {
       "title": "새로운 상사는 귀여운 허당 1권",
       "link": "https://ridibooks.com/books/2066001669",
       "author": "이치카와 단",
@@ -19,6 +31,36 @@
       "genre": "해외 순정"
     },
     {
+      "title": "쿠온의 숲 5권",
+      "link": "https://ridibooks.com/books/297033856",
+      "author": "츠리마키 노도카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "청춘×기관총 13권",
+      "link": "https://ridibooks.com/books/845022324",
+      "author": "NAOE",
+      "genre": "액션"
+    },
+    {
+      "title": "죽음의 법칙 [개정판] 20권",
+      "link": "https://ridibooks.com/books/1603052475",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "코믹진 점프 146호",
+      "link": "https://ridibooks.com/books/845022362",
+      "author": "점프 편집부",
+      "genre": "만화잡지"
+    },
+    {
+      "title": "챔프D 177호(2021.02.01)",
+      "link": "https://ridibooks.com/books/847003402",
+      "author": "챔프D 편집부",
+      "genre": "만화잡지"
+    },
+    {
       "title": "[코믹] 경계선상의 호라이즌 6권 (완결)",
       "link": "https://ridibooks.com/books/2066001672",
       "author": "타케나카 히데오",
@@ -31,18 +73,6 @@
       "genre": "드라마"
     },
     {
-      "title": "쿠온의 숲 5권",
-      "link": "https://ridibooks.com/books/297033856",
-      "author": "츠리마키 노도카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "불쾌한 모노노케안 16권",
-      "link": "https://ridibooks.com/books/297033881",
-      "author": "와자와 키리",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "「공략본」을 구사하는 최강의 마법사 3권",
       "link": "https://ridibooks.com/books/3010004075",
       "author": "마이지마 히로",
@@ -52,18 +82,6 @@
       "title": "교토 담배가게 요리코 7권 (완결)",
       "link": "https://ridibooks.com/books/806006434",
       "author": "아사노 유키코",
-      "genre": "드라마"
-    },
-    {
-      "title": "청춘×기관총 13권",
-      "link": "https://ridibooks.com/books/845022324",
-      "author": "NAOE",
-      "genre": "액션"
-    },
-    {
-      "title": "한밤의 오컬트 공무원 11권",
-      "link": "https://ridibooks.com/books/845022360",
-      "author": "타모츠 요코",
       "genre": "드라마"
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/1019036441",
       "author": "미요시 히카루",
       "genre": "드라마"
-    },
-    {
-      "title": "다정마무정협 21권 (완결)",
-      "link": "https://ridibooks.com/books/1603052465",
-      "author": "천제황",
-      "genre": "무협"
-    },
-    {
-      "title": "Q 쿠 4권 (완결)",
-      "link": "https://ridibooks.com/books/1019036421",
-      "author": "시히라 타츠야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "블랙 토치 2권",
-      "link": "https://ridibooks.com/books/1019036422",
-      "author": "타카키 츠요시",
-      "genre": "판타지/SF"
     }
   ]
 }
