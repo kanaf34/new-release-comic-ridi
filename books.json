@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "모모치네 집 요괴 왕자 16권 (완결)",
+      "link": "https://ridibooks.com/books/2007002726",
+      "author": "쇼우토 아야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "티 선생님 7권 (완결)",
+      "link": "https://ridibooks.com/books/2007002728",
+      "author": "유쿠에 타카나",
+      "genre": "드라마"
+    },
+    {
+      "title": "가정마도사의 이세계 생활 2권",
+      "link": "https://ridibooks.com/books/3010004076",
+      "author": "오노 아키히토",
+      "genre": "드라마"
+    },
+    {
+      "title": "타카네와 하나 15권",
+      "link": "https://ridibooks.com/books/505026279",
+      "author": "시와스 유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "여기예요! 경찰 오빠 5권",
+      "link": "https://ridibooks.com/books/806006435",
+      "author": "카라케미",
+      "genre": "드라마"
+    },
+    {
       "title": "불쾌한 모노노케안 16권",
       "link": "https://ridibooks.com/books/297033881",
       "author": "와자와 키리",
@@ -88,36 +118,6 @@
       "title": "녹풍당의 사계절 9권",
       "link": "https://ridibooks.com/books/297033879",
       "author": "시미즈 유",
-      "genre": "드라마"
-    },
-    {
-      "title": "이세계에서 실패하지 않는 100가지 방법 2권",
-      "link": "https://ridibooks.com/books/4414000006",
-      "author": "아키노 키사라",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "여기는 지금부터 윤리 시간입니다. 3권",
-      "link": "https://ridibooks.com/books/1019036392",
-      "author": "아마세 시오리",
-      "genre": "드라마"
-    },
-    {
-      "title": "종말의 세라프 21권",
-      "link": "https://ridibooks.com/books/1019036431",
-      "author": "야마모토 야마토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "디 그레이맨 27권",
-      "link": "https://ridibooks.com/books/1019036424",
-      "author": "호시노 카츠라",
-      "genre": "액션"
-    },
-    {
-      "title": "우국의 모리아티 12권",
-      "link": "https://ridibooks.com/books/1019036441",
-      "author": "미요시 히카루",
       "genre": "드라마"
     }
   ]
