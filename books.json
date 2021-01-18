@@ -1,16 +1,16 @@
 {
   "books": [
     {
+      "title": "타카네와 하나 15권",
+      "link": "https://ridibooks.com/books/505026279",
+      "author": "시와스 유키",
+      "genre": "해외 순정"
+    },
+    {
       "title": "모모치네 집 요괴 왕자 16권 (완결)",
       "link": "https://ridibooks.com/books/2007002726",
       "author": "쇼우토 아야",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "티 선생님 7권 (완결)",
-      "link": "https://ridibooks.com/books/2007002728",
-      "author": "유쿠에 타카나",
-      "genre": "드라마"
     },
     {
       "title": "가정마도사의 이세계 생활 2권",
@@ -19,10 +19,10 @@
       "genre": "드라마"
     },
     {
-      "title": "타카네와 하나 15권",
-      "link": "https://ridibooks.com/books/505026279",
-      "author": "시와스 유키",
-      "genre": "해외 순정"
+      "title": "티 선생님 7권 (완결)",
+      "link": "https://ridibooks.com/books/2007002728",
+      "author": "유쿠에 타카나",
+      "genre": "드라마"
     },
     {
       "title": "여기예요! 경찰 오빠 5권",
