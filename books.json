@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "인간 외 CP 카탈로그 3권 (완결)",
+      "link": "https://ridibooks.com/books/297033861",
+      "author": "사사키 아오코",
+      "genre": "드라마"
+    },
+    {
+      "title": "유라쿠초 도깨비 과자점 3권",
+      "link": "https://ridibooks.com/books/297033923",
+      "author": "아스카 사츠키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "쿠로사키 말 따위 안 들을 거야 16권",
+      "link": "https://ridibooks.com/books/505026298",
+      "author": "마키노",
+      "genre": "해외 순정"
+    },
+    {
       "title": "타카네와 하나 15권",
       "link": "https://ridibooks.com/books/505026279",
       "author": "시와스 유키",
@@ -100,24 +118,6 @@
       "title": "하나 씨의 간단요리 3권",
       "link": "https://ridibooks.com/books/297033851",
       "author": "미즈사와 에츠코",
-      "genre": "드라마"
-    },
-    {
-      "title": "「공략본」을 구사하는 최강의 마법사 3권",
-      "link": "https://ridibooks.com/books/3010004075",
-      "author": "마이지마 히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "교토 담배가게 요리코 7권 (완결)",
-      "link": "https://ridibooks.com/books/806006434",
-      "author": "아사노 유키코",
-      "genre": "드라마"
-    },
-    {
-      "title": "녹풍당의 사계절 9권",
-      "link": "https://ridibooks.com/books/297033879",
-      "author": "시미즈 유",
       "genre": "드라마"
     }
   ]
