@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "고래의 아이들은 모래 위에서 노래한다 11권",
+      "link": "https://ridibooks.com/books/1690000856",
+      "author": "우메다 아비",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 방패 용사 성공담 11권",
+      "link": "https://ridibooks.com/books/1690000857",
+      "author": "아이야 큐",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "보이는 여고생 3권",
+      "link": "https://ridibooks.com/books/1690000858",
+      "author": "이즈미 토모키",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "산과 식욕과 나 6권",
+      "link": "https://ridibooks.com/books/1690000859",
+      "author": "시나노가와 히데오",
+      "genre": "코믹"
+    },
+    {
+      "title": "앨리스와 조로쿠 8권",
+      "link": "https://ridibooks.com/books/1690000860",
+      "author": "이마이 테츠야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "에미야 가의 오늘의 밥상 5권",
+      "link": "https://ridibooks.com/books/1690000861",
+      "author": "TAa",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 예를 들어 라스트 던전 앞 마을의 소년이 초반 마을에서 사는 듯한 이야기 3권",
+      "link": "https://ridibooks.com/books/1690000862",
+      "author": "후세마치 하지메",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "이세계 삼촌 4권",
+      "link": "https://ridibooks.com/books/1690000863",
+      "author": "호톤도 신데이루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "시가렛 & 체리 7권",
+      "link": "https://ridibooks.com/books/806006428",
+      "author": "카와카미 다이시로",
+      "genre": "해외 순정"
+    },
+    {
       "title": "쿠로사키 말 따위 안 들을 거야 16권",
       "link": "https://ridibooks.com/books/505026298",
       "author": "마키노",
@@ -65,60 +119,6 @@
       "link": "https://ridibooks.com/books/297033881",
       "author": "와자와 키리",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "한밤의 오컬트 공무원 11권",
-      "link": "https://ridibooks.com/books/845022360",
-      "author": "타모츠 요코",
-      "genre": "드라마"
-    },
-    {
-      "title": "새로운 상사는 귀여운 허당 1권",
-      "link": "https://ridibooks.com/books/2066001669",
-      "author": "이치카와 단",
-      "genre": "코믹"
-    },
-    {
-      "title": "[코믹] 이세계 피크닉 1권",
-      "link": "https://ridibooks.com/books/2066001670",
-      "author": "미즈노 에이타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아가씨라고 부르지 말아줘 1권",
-      "link": "https://ridibooks.com/books/2066001671",
-      "author": "아마쿠라 후유",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "쿠온의 숲 5권",
-      "link": "https://ridibooks.com/books/297033856",
-      "author": "츠리마키 노도카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "청춘×기관총 13권",
-      "link": "https://ridibooks.com/books/845022324",
-      "author": "NAOE",
-      "genre": "액션"
-    },
-    {
-      "title": "죽음의 법칙 [개정판] 20권",
-      "link": "https://ridibooks.com/books/1603052475",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "코믹진 점프 146호",
-      "link": "https://ridibooks.com/books/845022362",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "챔프D 177호(2021.02.01)",
-      "link": "https://ridibooks.com/books/847003402",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
