@@ -1,15 +1,15 @@
 {
   "books": [
     {
-      "title": "고래의 아이들은 모래 위에서 노래한다 11권",
-      "link": "https://ridibooks.com/books/1690000856",
-      "author": "우메다 아비",
+      "title": "이세계 삼촌 4권",
+      "link": "https://ridibooks.com/books/1690000863",
+      "author": "호톤도 신데이루",
       "genre": "판타지/SF"
     },
     {
-      "title": "[코믹] 방패 용사 성공담 11권",
-      "link": "https://ridibooks.com/books/1690000857",
-      "author": "아이야 큐",
+      "title": "고래의 아이들은 모래 위에서 노래한다 11권",
+      "link": "https://ridibooks.com/books/1690000856",
+      "author": "우메다 아비",
       "genre": "판타지/SF"
     },
     {
@@ -19,10 +19,28 @@
       "genre": "공포/추리"
     },
     {
+      "title": "에미야 가의 오늘의 밥상 5권",
+      "link": "https://ridibooks.com/books/1690000861",
+      "author": "TAa",
+      "genre": "드라마"
+    },
+    {
       "title": "산과 식욕과 나 6권",
       "link": "https://ridibooks.com/books/1690000859",
       "author": "시나노가와 히데오",
       "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 방패 용사 성공담 11권",
+      "link": "https://ridibooks.com/books/1690000857",
+      "author": "아이야 큐",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "절대야망 10권",
+      "link": "https://ridibooks.com/books/1603052502",
+      "author": "조명운",
+      "genre": "액션"
     },
     {
       "title": "앨리스와 조로쿠 8권",
@@ -31,21 +49,9 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "에미야 가의 오늘의 밥상 5권",
-      "link": "https://ridibooks.com/books/1690000861",
-      "author": "TAa",
-      "genre": "드라마"
-    },
-    {
       "title": "[코믹] 예를 들어 라스트 던전 앞 마을의 소년이 초반 마을에서 사는 듯한 이야기 3권",
       "link": "https://ridibooks.com/books/1690000862",
       "author": "후세마치 하지메",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "이세계 삼촌 4권",
-      "link": "https://ridibooks.com/books/1690000863",
-      "author": "호톤도 신데이루",
       "genre": "판타지/SF"
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/806006435",
       "author": "카라케미",
       "genre": "드라마"
-    },
-    {
-      "title": "불쾌한 모노노케안 16권",
-      "link": "https://ridibooks.com/books/297033881",
-      "author": "와자와 키리",
-      "genre": "판타지/SF"
     }
   ]
 }
