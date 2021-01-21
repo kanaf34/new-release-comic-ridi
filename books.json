@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "[코믹] 이세계 마법은 뒤떨어졌다! 1권",
+      "link": "https://ridibooks.com/books/2066001812",
+      "author": "COMTA",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 낙제 기사의 영웅담 9권",
+      "link": "https://ridibooks.com/books/2066001813",
+      "author": "소라미치 메구무",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 엘프 신부와 함께하는 이세계 영주생활 2권",
+      "link": "https://ridibooks.com/books/2066001814",
+      "author": "미키 아키라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "한자의 공수도 13권 (완결)",
+      "link": "https://ridibooks.com/books/297034080",
+      "author": "사도가와 준",
+      "genre": "스포츠"
+    },
+    {
+      "title": "마실 거면 너희와 이 시간에 2권",
+      "link": "https://ridibooks.com/books/3010004085",
+      "author": "타메",
+      "genre": "드라마"
+    },
+    {
+      "title": "우동 나라의 황금색 털뭉치 11권",
+      "link": "https://ridibooks.com/books/505026304",
+      "author": "시노마루 노도카",
+      "genre": "드라마"
+    },
+    {
+      "title": "오늘 밤, 늑대 호텔에서 랑데부 2권",
+      "link": "https://ridibooks.com/books/806006446",
+      "author": "코토카와 아야",
+      "genre": "해외 순정"
+    },
+    {
       "title": "주술회전 10권",
       "link": "https://ridibooks.com/books/1019037054",
       "author": "아쿠타미 게게",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/297033913",
       "author": "히로마츠 료",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "라그나 크림슨 7권",
-      "link": "https://ridibooks.com/books/297034067",
-      "author": "코바야시 다이키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "스위치 위치 3권",
-      "link": "https://ridibooks.com/books/297034103",
-      "author": "모기 사야카",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "스트로베리 필즈를 다시 한 번 3권 (완결)",
-      "link": "https://ridibooks.com/books/3802000011",
-      "author": "키노사키 카즈라",
-      "genre": "GL"
-    },
-    {
-      "title": "가형의 앨리스 11권 (완결)",
-      "link": "https://ridibooks.com/books/505026300",
-      "author": "유키 카오리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "이세계 삼촌 4권",
-      "link": "https://ridibooks.com/books/1690000863",
-      "author": "호톤도 신데이루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "에미야 가의 오늘의 밥상 5권",
-      "link": "https://ridibooks.com/books/1690000861",
-      "author": "TAa",
-      "genre": "드라마"
-    },
-    {
-      "title": "보이는 여고생 3권",
-      "link": "https://ridibooks.com/books/1690000858",
-      "author": "이즈미 토모키",
-      "genre": "공포/추리"
     }
   ]
 }
