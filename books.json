@@ -1,16 +1,46 @@
 {
   "books": [
     {
+      "title": "우동 나라의 황금색 털뭉치 11권",
+      "link": "https://ridibooks.com/books/505026304",
+      "author": "시노마루 노도카",
+      "genre": "드라마"
+    },
+    {
       "title": "[코믹] 이세계 마법은 뒤떨어졌다! 1권",
       "link": "https://ridibooks.com/books/2066001812",
       "author": "COMTA",
       "genre": "판타지/SF"
     },
     {
+      "title": "마실 거면 너희와 이 시간에 2권",
+      "link": "https://ridibooks.com/books/3010004085",
+      "author": "타메",
+      "genre": "드라마"
+    },
+    {
       "title": "[코믹] 낙제 기사의 영웅담 9권",
       "link": "https://ridibooks.com/books/2066001813",
       "author": "소라미치 메구무",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "죽음의 법칙 [개정판] 30권",
+      "link": "https://ridibooks.com/books/1603052515",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "우리 오빠는 사람을 죽였습니다 1권",
+      "link": "https://ridibooks.com/books/678012884",
+      "author": "미즈모",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "망상 처형인 후지 요시코 2권",
+      "link": "https://ridibooks.com/books/840034982",
+      "author": "cmp.works",
+      "genre": "해외 순정"
     },
     {
       "title": "[코믹] 엘프 신부와 함께하는 이세계 영주생활 2권",
@@ -23,18 +53,6 @@
       "link": "https://ridibooks.com/books/297034080",
       "author": "사도가와 준",
       "genre": "스포츠"
-    },
-    {
-      "title": "마실 거면 너희와 이 시간에 2권",
-      "link": "https://ridibooks.com/books/3010004085",
-      "author": "타메",
-      "genre": "드라마"
-    },
-    {
-      "title": "우동 나라의 황금색 털뭉치 11권",
-      "link": "https://ridibooks.com/books/505026304",
-      "author": "시노마루 노도카",
-      "genre": "드라마"
     },
     {
       "title": "오늘 밤, 늑대 호텔에서 랑데부 2권",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/1019037064",
       "author": "미츠다 타쿠야",
       "genre": "스포츠"
-    },
-    {
-      "title": "그녀는 거짓말을 너무 사랑해 22권 (완결)",
-      "link": "https://ridibooks.com/books/1019037067",
-      "author": "아오키 코토미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "경계의 린네 37권",
-      "link": "https://ridibooks.com/books/1019037068",
-      "author": "타카하시 루미코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "추남 진성 파이터 2권",
-      "link": "https://ridibooks.com/books/297033913",
-      "author": "히로마츠 료",
-      "genre": "판타지/SF"
     }
   ]
 }
