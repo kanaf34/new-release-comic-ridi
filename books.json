@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "발재주 소녀 코무라 씨 4권 (완결)",
+      "link": "https://ridibooks.com/books/297034140",
+      "author": "네무미 하이바",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 아무래도 제 몸은 완전무적인 것 같아요 4권",
+      "link": "https://ridibooks.com/books/3010004086",
+      "author": "사바네코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "꽃송이 또로록 2권",
+      "link": "https://ridibooks.com/books/4406000005",
+      "author": "토리노 시노",
+      "genre": "GL"
+    },
+    {
+      "title": "너는 봄에 눈을 뜬다 5권",
+      "link": "https://ridibooks.com/books/505026559",
+      "author": "시마 아사토",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아르티스트 (Artiste) 5권",
+      "link": "https://ridibooks.com/books/806006453",
+      "author": "사모에도 타로",
+      "genre": "드라마"
+    },
+    {
+      "title": "루돌프 터키 7권 (완결)",
+      "link": "https://ridibooks.com/books/845022400",
+      "author": "나가쿠라 히로코",
+      "genre": "드라마"
+    },
+    {
       "title": "우동 나라의 황금색 털뭉치 11권",
       "link": "https://ridibooks.com/books/505026304",
       "author": "시노마루 노도카",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/1019037066",
       "author": "타카하시 루미코",
       "genre": "코믹"
-    },
-    {
-      "title": "쿄카 요괴비첩 2권 (완결)",
-      "link": "https://ridibooks.com/books/297034024",
-      "author": "이마 이치코",
-      "genre": "드라마"
-    },
-    {
-      "title": "장미와 늑대 3권 (완결)",
-      "link": "https://ridibooks.com/books/505026239",
-      "author": "유즈키 준",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "하트 기어 3권",
-      "link": "https://ridibooks.com/books/1019037045",
-      "author": "타카키 츠요시",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "집에서 한잔 7권 (완결)",
-      "link": "https://ridibooks.com/books/1019037052",
-      "author": "히노 하루토",
-      "genre": "드라마"
-    },
-    {
-      "title": "바텐더 a paris 6권 (완결)",
-      "link": "https://ridibooks.com/books/1019037062",
-      "author": "카지사 오사무",
-      "genre": "드라마"
-    },
-    {
-      "title": "메이저 세컨드 20권",
-      "link": "https://ridibooks.com/books/1019037064",
-      "author": "미츠다 타쿠야",
-      "genre": "스포츠"
     }
   ]
 }
