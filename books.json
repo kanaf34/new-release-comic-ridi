@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "위국일기 4권",
+      "link": "https://ridibooks.com/books/297034123",
+      "author": "야마시타 토모코",
+      "genre": "드라마"
+    },
+    {
+      "title": "소년마법사 18권",
+      "link": "https://ridibooks.com/books/297034165",
+      "author": "나루시마 유리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사촌오빠의 이삿짐 정리가 끝나지 않아 5권 (완결)",
+      "link": "https://ridibooks.com/books/297034168",
+      "author": "요시베 아쿠로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "프런티어 다이어리 2권",
+      "link": "https://ridibooks.com/books/3010004094",
+      "author": "아베 하나지로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 무직전생 ~이세계에 갔으면 최선을 다한다~ 5권",
+      "link": "https://ridibooks.com/books/505026561",
+      "author": "후지카와 유카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "Dr. 키리코 ~하얀 사신~ 4권",
+      "link": "https://ridibooks.com/books/505026610",
+      "author": "사노린",
+      "genre": "드라마"
+    },
+    {
+      "title": "우주를 가다 1권",
+      "link": "https://ridibooks.com/books/806006457",
+      "author": "아바라보네 헤코스케",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "아르티스트 (Artiste) 5권",
       "link": "https://ridibooks.com/books/806006453",
       "author": "사모에도 타로",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/840034982",
       "author": "cmp.works",
       "genre": "해외 순정"
-    },
-    {
-      "title": "죽음의 법칙 [개정판] 30권",
-      "link": "https://ridibooks.com/books/1603052515",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "우리 오빠는 사람을 죽였습니다 1권",
-      "link": "https://ridibooks.com/books/678012884",
-      "author": "미즈모",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 엘프 신부와 함께하는 이세계 영주생활 2권",
-      "link": "https://ridibooks.com/books/2066001814",
-      "author": "미키 아키라",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "한자의 공수도 13권 (완결)",
-      "link": "https://ridibooks.com/books/297034080",
-      "author": "사도가와 준",
-      "genre": "스포츠"
-    },
-    {
-      "title": "주술회전 10권",
-      "link": "https://ridibooks.com/books/1019037054",
-      "author": "아쿠타미 게게",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사이키 쿠스오의 재난 23권",
-      "link": "https://ridibooks.com/books/1019037056",
-      "author": "아소 슈이치",
-      "genre": "코믹"
-    },
-    {
-      "title": "메종일각 신장판 15권 (완결)",
-      "link": "https://ridibooks.com/books/1019037063",
-      "author": "타카하시 루미코",
-      "genre": "드라마"
     }
   ]
 }
