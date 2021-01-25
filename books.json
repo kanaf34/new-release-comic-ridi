@@ -1,22 +1,10 @@
 {
   "books": [
     {
-      "title": "발재주 소녀 코무라 씨 4권 (완결)",
-      "link": "https://ridibooks.com/books/297034140",
-      "author": "네무미 하이바",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 아무래도 제 몸은 완전무적인 것 같아요 4권",
-      "link": "https://ridibooks.com/books/3010004086",
-      "author": "사바네코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "꽃송이 또로록 2권",
-      "link": "https://ridibooks.com/books/4406000005",
-      "author": "토리노 시노",
-      "genre": "GL"
+      "title": "아르티스트 (Artiste) 5권",
+      "link": "https://ridibooks.com/books/806006453",
+      "author": "사모에도 타로",
+      "genre": "드라마"
     },
     {
       "title": "너는 봄에 눈을 뜬다 5권",
@@ -25,16 +13,34 @@
       "genre": "해외 순정"
     },
     {
-      "title": "아르티스트 (Artiste) 5권",
-      "link": "https://ridibooks.com/books/806006453",
-      "author": "사모에도 타로",
-      "genre": "드라마"
+      "title": "꽃송이 또로록 2권",
+      "link": "https://ridibooks.com/books/4406000005",
+      "author": "토리노 시노",
+      "genre": "GL"
+    },
+    {
+      "title": "[코믹] 아무래도 제 몸은 완전무적인 것 같아요 4권",
+      "link": "https://ridibooks.com/books/3010004086",
+      "author": "사바네코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "발재주 소녀 코무라 씨 4권 (완결)",
+      "link": "https://ridibooks.com/books/297034140",
+      "author": "네무미 하이바",
+      "genre": "해외 순정"
     },
     {
       "title": "루돌프 터키 7권 (완결)",
       "link": "https://ridibooks.com/books/845022400",
       "author": "나가쿠라 히로코",
       "genre": "드라마"
+    },
+    {
+      "title": "영광의 그날을 위하여 18권 (완결)",
+      "link": "https://ridibooks.com/books/1603052538",
+      "author": "오일룡",
+      "genre": "스포츠"
     },
     {
       "title": "우동 나라의 황금색 털뭉치 11권",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/1019037063",
       "author": "타카하시 루미코",
       "genre": "드라마"
-    },
-    {
-      "title": "란마 1/2 애장판 16권",
-      "link": "https://ridibooks.com/books/1019037066",
-      "author": "타카하시 루미코",
-      "genre": "코믹"
     }
   ]
 }
