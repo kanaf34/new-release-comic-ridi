@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "나의 백합은 일입니다! 4권",
+      "link": "https://ridibooks.com/books/2498006436",
+      "author": "미만",
+      "genre": "GL"
+    },
+    {
+      "title": "속삭이듯 사랑을 노래하다 1권",
+      "link": "https://ridibooks.com/books/2498006437",
+      "author": "타케시마 에쿠",
+      "genre": "GL"
+    },
+    {
+      "title": "성별 모나리자인 너에게 5권",
+      "link": "https://ridibooks.com/books/297034208",
+      "author": "요시무라 츠무지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[바닐라] 사십부터 3권",
+      "link": "https://ridibooks.com/books/806006456",
+      "author": "사카이 에리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "비밀 season 0 9권",
+      "link": "https://ridibooks.com/books/845022412",
+      "author": "시미즈 레이코",
+      "genre": "드라마"
+    },
+    {
       "title": "위국일기 4권",
       "link": "https://ridibooks.com/books/297034123",
       "author": "야마시타 토모코",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/1603052538",
       "author": "오일룡",
       "genre": "스포츠"
-    },
-    {
-      "title": "우동 나라의 황금색 털뭉치 11권",
-      "link": "https://ridibooks.com/books/505026304",
-      "author": "시노마루 노도카",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 이세계 마법은 뒤떨어졌다! 1권",
-      "link": "https://ridibooks.com/books/2066001812",
-      "author": "COMTA",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마실 거면 너희와 이 시간에 2권",
-      "link": "https://ridibooks.com/books/3010004085",
-      "author": "타메",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 낙제 기사의 영웅담 9권",
-      "link": "https://ridibooks.com/books/2066001813",
-      "author": "소라미치 메구무",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "오늘 밤, 늑대 호텔에서 랑데부 2권",
-      "link": "https://ridibooks.com/books/806006446",
-      "author": "코토카와 아야",
-      "genre": "해외 순정"
     }
   ]
 }
