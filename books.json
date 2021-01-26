@@ -7,10 +7,22 @@
       "genre": "드라마"
     },
     {
+      "title": "우주를 가다 1권",
+      "link": "https://ridibooks.com/books/806006457",
+      "author": "아바라보네 헤코스케",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "소년마법사 18권",
       "link": "https://ridibooks.com/books/297034165",
       "author": "나루시마 유리",
       "genre": "해외 순정"
+    },
+    {
+      "title": "Dr. 키리코 ~하얀 사신~ 4권",
+      "link": "https://ridibooks.com/books/505026610",
+      "author": "사노린",
+      "genre": "드라마"
     },
     {
       "title": "사촌오빠의 이삿짐 정리가 끝나지 않아 5권 (완결)",
@@ -25,21 +37,15 @@
       "genre": "판타지/SF"
     },
     {
+      "title": "소년왕과 사랑의 각인 1권",
+      "link": "https://ridibooks.com/books/678012901",
+      "author": "코지마 나즈키",
+      "genre": "해외 순정"
+    },
+    {
       "title": "[코믹] 무직전생 ~이세계에 갔으면 최선을 다한다~ 5권",
       "link": "https://ridibooks.com/books/505026561",
       "author": "후지카와 유카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "Dr. 키리코 ~하얀 사신~ 4권",
-      "link": "https://ridibooks.com/books/505026610",
-      "author": "사노린",
-      "genre": "드라마"
-    },
-    {
-      "title": "우주를 가다 1권",
-      "link": "https://ridibooks.com/books/806006457",
-      "author": "아바라보네 헤코스케",
       "genre": "판타지/SF"
     },
     {
@@ -112,12 +118,6 @@
       "title": "오늘 밤, 늑대 호텔에서 랑데부 2권",
       "link": "https://ridibooks.com/books/806006446",
       "author": "코토카와 아야",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "망상 처형인 후지 요시코 2권",
-      "link": "https://ridibooks.com/books/840034982",
-      "author": "cmp.works",
       "genre": "해외 순정"
     }
   ]
