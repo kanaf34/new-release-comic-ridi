@@ -1,6 +1,114 @@
 {
   "books": [
     {
+      "title": "메리의 양 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019037108",
+      "author": "카미오 요코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "텐초, 안 돼, 절대 3권 (완결)",
+      "link": "https://ridibooks.com/books/1019037111",
+      "author": "시바 나츠미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "병아리 사랑 14권 (완결)",
+      "link": "https://ridibooks.com/books/1019037112",
+      "author": "유키마루 모에",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "장난을 잘 치는 전 타카기 양 9권",
+      "link": "https://ridibooks.com/books/1019037123",
+      "author": "이나바 미후미",
+      "genre": "드라마"
+    },
+    {
+      "title": "카구야 님은 고백받고 싶어 18권",
+      "link": "https://ridibooks.com/books/1019037124",
+      "author": "아카사카 아카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아마노 메구미는 빈틈투성이! 16권",
+      "link": "https://ridibooks.com/books/1019037125",
+      "author": "네코구치",
+      "genre": "학원"
+    },
+    {
+      "title": "어쨌든 귀여워 10권",
+      "link": "https://ridibooks.com/books/1019037126",
+      "author": "하타 켄지로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "무지개빛 데이즈 7권",
+      "link": "https://ridibooks.com/books/1019037128",
+      "author": "미즈노 미나미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사랑을 모르는 우리는 7권",
+      "link": "https://ridibooks.com/books/1019037130",
+      "author": "미즈노 미나미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "장밋빛의 약속 6권",
+      "link": "https://ridibooks.com/books/1019037133",
+      "author": "미야사카 카호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "모브코의 사랑 7권",
+      "link": "https://ridibooks.com/books/297034114",
+      "author": "타무라 아카네",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "악역 왕자는 사랑을 할 수 없다 2권 (완결)",
+      "link": "https://ridibooks.com/books/297034116",
+      "author": "요네다 카즈사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "전당포 시노부의 보석 상자 11권",
+      "link": "https://ridibooks.com/books/297034184",
+      "author": "니노미야 토모코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "도서관 전쟁 LOVE&WAR 별책편 7권",
+      "link": "https://ridibooks.com/books/297034199",
+      "author": "유미 키이로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "깨끗하게 해주시겠어요? 5권",
+      "link": "https://ridibooks.com/books/297034210",
+      "author": "하토리 미츠루",
+      "genre": "드라마"
+    },
+    {
+      "title": "마녀의 하인과 마왕의 뿔 13권",
+      "link": "https://ridibooks.com/books/3010004087",
+      "author": "모치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "극주부도 5권",
+      "link": "https://ridibooks.com/books/505026563",
+      "author": "오오노 코우스케",
+      "genre": "코믹"
+    },
+    {
+      "title": "아빠와 아버지의 우리집밥 12권",
+      "link": "https://ridibooks.com/books/505026564",
+      "author": "토요타 유우",
+      "genre": "드라마"
+    },
+    {
       "title": "속삭이듯 사랑을 노래하다 1권",
       "link": "https://ridibooks.com/books/2498006437",
       "author": "타케시마 에쿠",
@@ -11,114 +119,6 @@
       "link": "https://ridibooks.com/books/2498006436",
       "author": "미만",
       "genre": "GL"
-    },
-    {
-      "title": "비밀 season 0 9권",
-      "link": "https://ridibooks.com/books/845022412",
-      "author": "시미즈 레이코",
-      "genre": "드라마"
-    },
-    {
-      "title": "성별 모나리자인 너에게 5권",
-      "link": "https://ridibooks.com/books/297034208",
-      "author": "요시무라 츠무지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "드랍 3권",
-      "link": "https://ridibooks.com/books/806006459",
-      "author": "스즈키 다이",
-      "genre": "액션"
-    },
-    {
-      "title": "[바닐라] 사십부터 3권",
-      "link": "https://ridibooks.com/books/806006456",
-      "author": "사카이 에리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "절대야망 15권 (완결)",
-      "link": "https://ridibooks.com/books/1603052554",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "위국일기 4권",
-      "link": "https://ridibooks.com/books/297034123",
-      "author": "야마시타 토모코",
-      "genre": "드라마"
-    },
-    {
-      "title": "우주를 가다 1권",
-      "link": "https://ridibooks.com/books/806006457",
-      "author": "아바라보네 헤코스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "소년마법사 18권",
-      "link": "https://ridibooks.com/books/297034165",
-      "author": "나루시마 유리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "Dr. 키리코 ~하얀 사신~ 4권",
-      "link": "https://ridibooks.com/books/505026610",
-      "author": "사노린",
-      "genre": "드라마"
-    },
-    {
-      "title": "사촌오빠의 이삿짐 정리가 끝나지 않아 5권 (완결)",
-      "link": "https://ridibooks.com/books/297034168",
-      "author": "요시베 아쿠로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "프런티어 다이어리 2권",
-      "link": "https://ridibooks.com/books/3010004094",
-      "author": "아베 하나지로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "소년왕과 사랑의 각인 1권",
-      "link": "https://ridibooks.com/books/678012901",
-      "author": "코지마 나즈키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 무직전생 ~이세계에 갔으면 최선을 다한다~ 5권",
-      "link": "https://ridibooks.com/books/505026561",
-      "author": "후지카와 유카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아르티스트 (Artiste) 5권",
-      "link": "https://ridibooks.com/books/806006453",
-      "author": "사모에도 타로",
-      "genre": "드라마"
-    },
-    {
-      "title": "너는 봄에 눈을 뜬다 5권",
-      "link": "https://ridibooks.com/books/505026559",
-      "author": "시마 아사토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "꽃송이 또로록 2권",
-      "link": "https://ridibooks.com/books/4406000005",
-      "author": "토리노 시노",
-      "genre": "GL"
-    },
-    {
-      "title": "[코믹] 아무래도 제 몸은 완전무적인 것 같아요 4권",
-      "link": "https://ridibooks.com/books/3010004086",
-      "author": "사바네코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "발재주 소녀 코무라 씨 4권 (완결)",
-      "link": "https://ridibooks.com/books/297034140",
-      "author": "네무미 하이바",
-      "genre": "해외 순정"
     }
   ]
 }
