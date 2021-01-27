@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "드랍 3권",
+      "link": "https://ridibooks.com/books/806006459",
+      "author": "스즈키 다이",
+      "genre": "액션"
+    },
+    {
+      "title": "절대야망 15권 (완결)",
+      "link": "https://ridibooks.com/books/1603052554",
+      "author": "조명운",
+      "genre": "액션"
+    },
+    {
       "title": "나의 백합은 일입니다! 4권",
       "link": "https://ridibooks.com/books/2498006436",
       "author": "미만",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/297034140",
       "author": "네무미 하이바",
       "genre": "해외 순정"
-    },
-    {
-      "title": "루돌프 터키 7권 (완결)",
-      "link": "https://ridibooks.com/books/845022400",
-      "author": "나가쿠라 히로코",
-      "genre": "드라마"
-    },
-    {
-      "title": "영광의 그날을 위하여 18권 (완결)",
-      "link": "https://ridibooks.com/books/1603052538",
-      "author": "오일룡",
-      "genre": "스포츠"
     }
   ]
 }
