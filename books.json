@@ -1,16 +1,10 @@
 {
   "books": [
     {
-      "title": "드랍 3권",
-      "link": "https://ridibooks.com/books/806006459",
-      "author": "스즈키 다이",
-      "genre": "액션"
-    },
-    {
-      "title": "절대야망 15권 (완결)",
-      "link": "https://ridibooks.com/books/1603052554",
-      "author": "조명운",
-      "genre": "액션"
+      "title": "속삭이듯 사랑을 노래하다 1권",
+      "link": "https://ridibooks.com/books/2498006437",
+      "author": "타케시마 에쿠",
+      "genre": "GL"
     },
     {
       "title": "나의 백합은 일입니다! 4권",
@@ -19,10 +13,10 @@
       "genre": "GL"
     },
     {
-      "title": "속삭이듯 사랑을 노래하다 1권",
-      "link": "https://ridibooks.com/books/2498006437",
-      "author": "타케시마 에쿠",
-      "genre": "GL"
+      "title": "비밀 season 0 9권",
+      "link": "https://ridibooks.com/books/845022412",
+      "author": "시미즈 레이코",
+      "genre": "드라마"
     },
     {
       "title": "성별 모나리자인 너에게 5권",
@@ -31,16 +25,22 @@
       "genre": "해외 순정"
     },
     {
+      "title": "드랍 3권",
+      "link": "https://ridibooks.com/books/806006459",
+      "author": "스즈키 다이",
+      "genre": "액션"
+    },
+    {
       "title": "[바닐라] 사십부터 3권",
       "link": "https://ridibooks.com/books/806006456",
       "author": "사카이 에리",
       "genre": "해외 순정"
     },
     {
-      "title": "비밀 season 0 9권",
-      "link": "https://ridibooks.com/books/845022412",
-      "author": "시미즈 레이코",
-      "genre": "드라마"
+      "title": "절대야망 15권 (완결)",
+      "link": "https://ridibooks.com/books/1603052554",
+      "author": "조명운",
+      "genre": "액션"
     },
     {
       "title": "위국일기 4권",
