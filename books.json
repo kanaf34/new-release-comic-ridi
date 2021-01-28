@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "전당포 시노부의 보석 상자 11권",
+      "link": "https://ridibooks.com/books/297034184",
+      "author": "니노미야 토모코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "극주부도 5권",
+      "link": "https://ridibooks.com/books/505026563",
+      "author": "오오노 코우스케",
+      "genre": "코믹"
+    },
+    {
+      "title": "어쨌든 귀여워 10권",
+      "link": "https://ridibooks.com/books/1019037126",
+      "author": "하타 켄지로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "장난을 잘 치는 전 타카기 양 9권",
+      "link": "https://ridibooks.com/books/1019037123",
+      "author": "이나바 미후미",
+      "genre": "드라마"
+    },
+    {
+      "title": "마녀의 하인과 마왕의 뿔 13권",
+      "link": "https://ridibooks.com/books/3010004087",
+      "author": "모치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "P와 여고생 16권 (완결)",
+      "link": "https://ridibooks.com/books/505026562",
+      "author": "미요시 마키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "모브코의 사랑 7권",
+      "link": "https://ridibooks.com/books/297034114",
+      "author": "타무라 아카네",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "도서관 전쟁 LOVE&WAR 별책편 7권",
+      "link": "https://ridibooks.com/books/297034199",
+      "author": "유미 키이로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사랑이 과해요, 아오기리 군 1권",
+      "link": "https://ridibooks.com/books/678012942",
+      "author": "치쿠사 아카리",
+      "genre": "해외 순정"
+    },
+    {
       "title": "메리의 양 5권 (완결)",
       "link": "https://ridibooks.com/books/1019037108",
       "author": "카미오 요코",
@@ -19,12 +73,6 @@
       "genre": "해외 순정"
     },
     {
-      "title": "장난을 잘 치는 전 타카기 양 9권",
-      "link": "https://ridibooks.com/books/1019037123",
-      "author": "이나바 미후미",
-      "genre": "드라마"
-    },
-    {
       "title": "카구야 님은 고백받고 싶어 18권",
       "link": "https://ridibooks.com/books/1019037124",
       "author": "아카사카 아카",
@@ -35,12 +83,6 @@
       "link": "https://ridibooks.com/books/1019037125",
       "author": "네코구치",
       "genre": "학원"
-    },
-    {
-      "title": "어쨌든 귀여워 10권",
-      "link": "https://ridibooks.com/books/1019037126",
-      "author": "하타 켄지로",
-      "genre": "해외 순정"
     },
     {
       "title": "무지개빛 데이즈 7권",
@@ -61,27 +103,9 @@
       "genre": "해외 순정"
     },
     {
-      "title": "모브코의 사랑 7권",
-      "link": "https://ridibooks.com/books/297034114",
-      "author": "타무라 아카네",
-      "genre": "해외 순정"
-    },
-    {
       "title": "악역 왕자는 사랑을 할 수 없다 2권 (완결)",
       "link": "https://ridibooks.com/books/297034116",
       "author": "요네다 카즈사",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "전당포 시노부의 보석 상자 11권",
-      "link": "https://ridibooks.com/books/297034184",
-      "author": "니노미야 토모코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "도서관 전쟁 LOVE&WAR 별책편 7권",
-      "link": "https://ridibooks.com/books/297034199",
-      "author": "유미 키이로",
       "genre": "해외 순정"
     },
     {
@@ -91,34 +115,10 @@
       "genre": "드라마"
     },
     {
-      "title": "마녀의 하인과 마왕의 뿔 13권",
-      "link": "https://ridibooks.com/books/3010004087",
-      "author": "모치",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "극주부도 5권",
-      "link": "https://ridibooks.com/books/505026563",
-      "author": "오오노 코우스케",
-      "genre": "코믹"
-    },
-    {
       "title": "아빠와 아버지의 우리집밥 12권",
       "link": "https://ridibooks.com/books/505026564",
       "author": "토요타 유우",
       "genre": "드라마"
-    },
-    {
-      "title": "속삭이듯 사랑을 노래하다 1권",
-      "link": "https://ridibooks.com/books/2498006437",
-      "author": "타케시마 에쿠",
-      "genre": "GL"
-    },
-    {
-      "title": "나의 백합은 일입니다! 4권",
-      "link": "https://ridibooks.com/books/2498006436",
-      "author": "미만",
-      "genre": "GL"
     }
   ]
 }
