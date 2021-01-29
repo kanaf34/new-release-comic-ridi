@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "빙속성 남자와 쿨한 동료 여자 3권",
+      "link": "https://ridibooks.com/books/297034248",
+      "author": "토노가야 미유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "열대어는 눈을 동경한다 3권",
+      "link": "https://ridibooks.com/books/3802000014",
+      "author": "하기노 마코토",
+      "genre": "GL"
+    },
+    {
+      "title": "이 회사에 좋아하는 사람이 있습니다 3권",
+      "link": "https://ridibooks.com/books/297034256",
+      "author": "에노모토 아카마루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "카케구루이 트윈 6권",
+      "link": "https://ridibooks.com/books/505026727",
+      "author": "사이키 케이",
+      "genre": "학원"
+    },
+    {
       "title": "삼국군영전 화봉요원 29권",
       "link": "https://ridibooks.com/books/1561007332",
       "author": "진모",
@@ -13,28 +37,22 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "빙속성 남자와 쿨한 동료 여자 3권",
-      "link": "https://ridibooks.com/books/297034248",
-      "author": "토노가야 미유키",
+      "title": "열애 프린스 16권",
+      "link": "https://ridibooks.com/books/678012947",
+      "author": "세이즈키 마도카",
       "genre": "해외 순정"
     },
     {
-      "title": "이 회사에 좋아하는 사람이 있습니다 3권",
-      "link": "https://ridibooks.com/books/297034256",
-      "author": "에노모토 아카마루",
-      "genre": "해외 순정"
+      "title": "죽음의 법칙 [개정판] 36권 (완결)",
+      "link": "https://ridibooks.com/books/1603052563",
+      "author": "고행석",
+      "genre": "액션"
     },
     {
-      "title": "열대어는 눈을 동경한다 3권",
-      "link": "https://ridibooks.com/books/3802000014",
-      "author": "하기노 마코토",
-      "genre": "GL"
-    },
-    {
-      "title": "카케구루이 트윈 6권",
-      "link": "https://ridibooks.com/books/505026727",
-      "author": "사이키 케이",
-      "genre": "학원"
+      "title": "코믹진 점프 147호",
+      "link": "https://ridibooks.com/books/845022481",
+      "author": "점프 편집부",
+      "genre": "만화잡지"
     },
     {
       "title": "전당포 시노부의 보석 상자 11권",
@@ -100,24 +118,6 @@
       "title": "메리의 양 5권 (완결)",
       "link": "https://ridibooks.com/books/1019037108",
       "author": "카미오 요코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "텐초, 안 돼, 절대 3권 (완결)",
-      "link": "https://ridibooks.com/books/1019037111",
-      "author": "시바 나츠미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "병아리 사랑 14권 (완결)",
-      "link": "https://ridibooks.com/books/1019037112",
-      "author": "유키마루 모에",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "카구야 님은 고백받고 싶어 18권",
-      "link": "https://ridibooks.com/books/1019037124",
-      "author": "아카사카 아카",
       "genre": "해외 순정"
     }
   ]
