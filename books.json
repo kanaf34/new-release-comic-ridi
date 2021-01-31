@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "세상에서 가장 이른 봄 3권",
+      "link": "https://ridibooks.com/books/297034228",
+      "author": "카와바타 시키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우리가 사랑을 외칠 때 3권 (완결)",
+      "link": "https://ridibooks.com/books/297034229",
+      "author": "키타가와 유카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "꽃은 어느 쪽? 1권",
+      "link": "https://ridibooks.com/books/297034251",
+      "author": "오다와라 미즈에",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "빙과 10권",
+      "link": "https://ridibooks.com/books/297034268",
+      "author": "타스쿠오나",
+      "genre": "드라마"
+    },
+    {
+      "title": "겁쟁이 페달 SPARE BIKE 4권",
+      "link": "https://ridibooks.com/books/297034269",
+      "author": "와타나베 와타루",
+      "genre": "스포츠"
+    },
+    {
+      "title": "개인차 있습니다 6권 (완결)",
+      "link": "https://ridibooks.com/books/3010004096",
+      "author": "히구라시 키노코",
+      "genre": "드라마"
+    },
+    {
+      "title": "무늬뿐인 영애는 왕태자 전하의 고용된 약혼자 2권",
+      "link": "https://ridibooks.com/books/4466000002",
+      "author": "카즈키 와타루",
+      "genre": "해외 순정"
+    },
+    {
       "title": "빙속성 남자와 쿨한 동료 여자 3권",
       "link": "https://ridibooks.com/books/297034248",
       "author": "토노가야 미유키",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/1019037123",
       "author": "이나바 미후미",
       "genre": "드라마"
-    },
-    {
-      "title": "마녀의 하인과 마왕의 뿔 13권",
-      "link": "https://ridibooks.com/books/3010004087",
-      "author": "모치",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "P와 여고생 16권 (완결)",
-      "link": "https://ridibooks.com/books/505026562",
-      "author": "미요시 마키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "모브코의 사랑 7권",
-      "link": "https://ridibooks.com/books/297034114",
-      "author": "타무라 아카네",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "도서관 전쟁 LOVE&WAR 별책편 7권",
-      "link": "https://ridibooks.com/books/297034199",
-      "author": "유미 키이로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "초지일관! 벌거숭이 츠즈이씨 1권",
-      "link": "https://ridibooks.com/books/371002266",
-      "author": "츠즈이",
-      "genre": "드라마"
-    },
-    {
-      "title": "사랑이 과해요, 아오기리 군 1권",
-      "link": "https://ridibooks.com/books/678012942",
-      "author": "치쿠사 아카리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "메리의 양 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019037108",
-      "author": "카미오 요코",
-      "genre": "해외 순정"
     }
   ]
 }
