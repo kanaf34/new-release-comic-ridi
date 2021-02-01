@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "물방울 허니 보이 9권",
+      "link": "https://ridibooks.com/books/297034287",
+      "author": "이케 준코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "뉴 게임!(NEW GAME!) 11권",
+      "link": "https://ridibooks.com/books/297034291",
+      "author": "토쿠노 쇼타로",
+      "genre": "코믹"
+    },
+    {
+      "title": "짐승의 길 3권",
+      "link": "https://ridibooks.com/books/297034292",
+      "author": "맛타쿠 모스케-유메우타",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마법사의 인쇄소 4권",
+      "link": "https://ridibooks.com/books/297034293",
+      "author": "미야마 야스히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "퍼펙트 서비스 16권",
+      "link": "https://ridibooks.com/books/505027088",
+      "author": "아라 타츠야",
+      "genre": "스포츠"
+    },
+    {
+      "title": "라멘 너무 좋아 코이즈미 씨 5권",
+      "link": "https://ridibooks.com/books/806006464",
+      "author": "나루미 나루",
+      "genre": "드라마"
+    },
+    {
+      "title": "오늘 뭐 먹지? 25 배부른 점심식사♪",
+      "link": "https://ridibooks.com/books/806006468",
+      "author": "후쿠마루 야스코",
+      "genre": "드라마"
+    },
+    {
+      "title": "공명의 아내 6권",
+      "link": "https://ridibooks.com/books/908003584",
+      "author": "토코 준",
+      "genre": "드라마"
+    },
+    {
       "title": "무늬뿐인 영애는 왕태자 전하의 고용된 약혼자 2권",
       "link": "https://ridibooks.com/books/4466000002",
       "author": "카즈키 와타루",
@@ -71,54 +119,6 @@
       "link": "https://ridibooks.com/books/297034256",
       "author": "에노모토 아카마루",
       "genre": "해외 순정"
-    },
-    {
-      "title": "카케구루이 트윈 6권",
-      "link": "https://ridibooks.com/books/505026727",
-      "author": "사이키 케이",
-      "genre": "학원"
-    },
-    {
-      "title": "삼국군영전 화봉요원 29권",
-      "link": "https://ridibooks.com/books/1561007332",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "타블로 게이트 8권",
-      "link": "https://ridibooks.com/books/2066001948",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "열애 프린스 16권",
-      "link": "https://ridibooks.com/books/678012947",
-      "author": "세이즈키 마도카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "죽음의 법칙 [개정판] 36권 (완결)",
-      "link": "https://ridibooks.com/books/1603052563",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "코믹진 점프 147호",
-      "link": "https://ridibooks.com/books/845022481",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "전당포 시노부의 보석 상자 11권",
-      "link": "https://ridibooks.com/books/297034184",
-      "author": "니노미야 토모코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "극주부도 5권",
-      "link": "https://ridibooks.com/books/505026563",
-      "author": "오오노 코우스케",
-      "genre": "코믹"
     }
   ]
 }
