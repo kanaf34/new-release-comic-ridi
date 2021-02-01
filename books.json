@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "광해경 [개정판] 1부 48권",
+      "link": "https://ridibooks.com/books/1603052611",
+      "author": "묵검향",
+      "genre": "무협"
+    },
+    {
+      "title": "챔프D 178호(2021.02.15)",
+      "link": "https://ridibooks.com/books/847003416",
+      "author": "챔프D 편집부",
+      "genre": "만화잡지"
+    },
+    {
       "title": "세상에서 가장 이른 봄 3권",
       "link": "https://ridibooks.com/books/297034228",
       "author": "카와바타 시키",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/505026563",
       "author": "오오노 코우스케",
       "genre": "코믹"
-    },
-    {
-      "title": "어쨌든 귀여워 10권",
-      "link": "https://ridibooks.com/books/1019037126",
-      "author": "하타 켄지로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "장난을 잘 치는 전 타카기 양 9권",
-      "link": "https://ridibooks.com/books/1019037123",
-      "author": "이나바 미후미",
-      "genre": "드라마"
     }
   ]
 }
