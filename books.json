@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "[코믹] 슬라임을 잡으면서 300년, 모르는 사이에 레벨MAX가 되었습니다 4권",
+      "link": "https://ridibooks.com/books/1690000864",
+      "author": "시바 유스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "다음에는 하게 해줘 4권",
+      "link": "https://ridibooks.com/books/297034288",
+      "author": "에노키 리카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사쿠라바는 멈추지 않아! 3권",
+      "link": "https://ridibooks.com/books/297034289",
+      "author": "센리 미코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "포테마요 5권 (완결)",
+      "link": "https://ridibooks.com/books/297034295",
+      "author": "오가타야 하루카",
+      "genre": "코믹"
+    },
+    {
+      "title": "스킵과 로퍼 4권",
+      "link": "https://ridibooks.com/books/3010004097",
+      "author": "타카마츠 미사키",
+      "genre": "드라마"
+    },
+    {
+      "title": "결혼반지 이야기 9권",
+      "link": "https://ridibooks.com/books/505027094",
+      "author": "메이비",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "마법사의 인쇄소 4권",
       "link": "https://ridibooks.com/books/297034293",
       "author": "미야마 야스히로",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/297034269",
       "author": "와타나베 와타루",
       "genre": "스포츠"
-    },
-    {
-      "title": "빙과 10권",
-      "link": "https://ridibooks.com/books/297034268",
-      "author": "타스쿠오나",
-      "genre": "드라마"
-    },
-    {
-      "title": "광해경 [개정판] 1부 48권",
-      "link": "https://ridibooks.com/books/1603052611",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "챔프D 178호(2021.02.15)",
-      "link": "https://ridibooks.com/books/847003416",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "우리가 사랑을 외칠 때 3권 (완결)",
-      "link": "https://ridibooks.com/books/297034229",
-      "author": "키타가와 유카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "빙속성 남자와 쿨한 동료 여자 3권",
-      "link": "https://ridibooks.com/books/297034248",
-      "author": "토노가야 미유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "열대어는 눈을 동경한다 3권",
-      "link": "https://ridibooks.com/books/3802000014",
-      "author": "하기노 마코토",
-      "genre": "GL"
     }
   ]
 }
