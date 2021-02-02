@@ -1,28 +1,28 @@
 {
   "books": [
     {
+      "title": "마법사의 인쇄소 4권",
+      "link": "https://ridibooks.com/books/297034293",
+      "author": "미야마 야스히로",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "물방울 허니 보이 9권",
       "link": "https://ridibooks.com/books/297034287",
       "author": "이케 준코",
       "genre": "해외 순정"
     },
     {
+      "title": "[코믹] 괴물 이야기 5권",
+      "link": "https://ridibooks.com/books/505027090",
+      "author": "Oh! Great",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "뉴 게임!(NEW GAME!) 11권",
       "link": "https://ridibooks.com/books/297034291",
       "author": "토쿠노 쇼타로",
       "genre": "코믹"
-    },
-    {
-      "title": "짐승의 길 3권",
-      "link": "https://ridibooks.com/books/297034292",
-      "author": "맛타쿠 모스케-유메우타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마법사의 인쇄소 4권",
-      "link": "https://ridibooks.com/books/297034293",
-      "author": "미야마 야스히로",
-      "genre": "판타지/SF"
     },
     {
       "title": "퍼펙트 서비스 16권",
@@ -47,6 +47,12 @@
       "link": "https://ridibooks.com/books/908003584",
       "author": "토코 준",
       "genre": "드라마"
+    },
+    {
+      "title": "짐승의 길 3권",
+      "link": "https://ridibooks.com/books/297034292",
+      "author": "맛타쿠 모스케-유메우타",
+      "genre": "판타지/SF"
     },
     {
       "title": "무늬뿐인 영애는 왕태자 전하의 고용된 약혼자 2권",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/3802000014",
       "author": "하기노 마코토",
       "genre": "GL"
-    },
-    {
-      "title": "이 회사에 좋아하는 사람이 있습니다 3권",
-      "link": "https://ridibooks.com/books/297034256",
-      "author": "에노모토 아카마루",
-      "genre": "해외 순정"
     }
   ]
 }
