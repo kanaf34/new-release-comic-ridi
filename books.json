@@ -1,16 +1,22 @@
 {
   "books": [
     {
+      "title": "스킵과 로퍼 4권",
+      "link": "https://ridibooks.com/books/3010004097",
+      "author": "타카마츠 미사키",
+      "genre": "드라마"
+    },
+    {
       "title": "[코믹] 슬라임을 잡으면서 300년, 모르는 사이에 레벨MAX가 되었습니다 4권",
       "link": "https://ridibooks.com/books/1690000864",
       "author": "시바 유스케",
       "genre": "판타지/SF"
     },
     {
-      "title": "다음에는 하게 해줘 4권",
-      "link": "https://ridibooks.com/books/297034288",
-      "author": "에노키 리카",
-      "genre": "해외 순정"
+      "title": "결혼반지 이야기 9권",
+      "link": "https://ridibooks.com/books/505027094",
+      "author": "메이비",
+      "genre": "판타지/SF"
     },
     {
       "title": "사쿠라바는 멈추지 않아! 3권",
@@ -19,22 +25,16 @@
       "genre": "해외 순정"
     },
     {
+      "title": "다음에는 하게 해줘 4권",
+      "link": "https://ridibooks.com/books/297034288",
+      "author": "에노키 리카",
+      "genre": "해외 순정"
+    },
+    {
       "title": "포테마요 5권 (완결)",
       "link": "https://ridibooks.com/books/297034295",
       "author": "오가타야 하루카",
       "genre": "코믹"
-    },
-    {
-      "title": "스킵과 로퍼 4권",
-      "link": "https://ridibooks.com/books/3010004097",
-      "author": "타카마츠 미사키",
-      "genre": "드라마"
-    },
-    {
-      "title": "결혼반지 이야기 9권",
-      "link": "https://ridibooks.com/books/505027094",
-      "author": "메이비",
-      "genre": "판타지/SF"
     },
     {
       "title": "마법사의 인쇄소 4권",
