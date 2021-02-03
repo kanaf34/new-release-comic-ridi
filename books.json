@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "title": "레인맨 7권 (완결)",
+      "link": "https://ridibooks.com/books/1019037215",
+      "author": "호시노 유키노부",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "귀멸의 칼날 22권",
+      "link": "https://ridibooks.com/books/1019037218",
+      "author": "고토우게 코요하루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "장난을 잘 치는 타카기 양 14권",
+      "link": "https://ridibooks.com/books/1019037229",
+      "author": "야마모토 소이치로",
+      "genre": "학원"
+    },
+    {
+      "title": "사랑을 사랑하는 유카리짱 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019037230",
+      "author": "스즈 유마",
+      "genre": "드라마"
+    },
+    {
+      "title": "어쨌든 귀여워 11권",
+      "link": "https://ridibooks.com/books/1019037231",
+      "author": "하타 켄지로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "집사들의 침묵 4권",
+      "link": "https://ridibooks.com/books/1019037234",
+      "author": "사쿠라다 히나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "하시바 군은 152cm 3권 (완결)",
+      "link": "https://ridibooks.com/books/297034264",
+      "author": "히나타 쿄",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "송혼의 소녀와 장례여행 4권",
+      "link": "https://ridibooks.com/books/297034316",
+      "author": "로나",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "절대 두근거려서는 안 돼! 4권",
+      "link": "https://ridibooks.com/books/297034364",
+      "author": "츠키시마 하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "N과 S 3권",
+      "link": "https://ridibooks.com/books/297034365",
+      "author": "킨다이치 렌주로",
+      "genre": "해외 순정"
+    },
+    {
       "title": "스킵과 로퍼 4권",
       "link": "https://ridibooks.com/books/3010004097",
       "author": "타카마츠 미사키",
@@ -59,66 +119,6 @@
       "link": "https://ridibooks.com/books/297034291",
       "author": "토쿠노 쇼타로",
       "genre": "코믹"
-    },
-    {
-      "title": "퍼펙트 서비스 16권",
-      "link": "https://ridibooks.com/books/505027088",
-      "author": "아라 타츠야",
-      "genre": "스포츠"
-    },
-    {
-      "title": "라멘 너무 좋아 코이즈미 씨 5권",
-      "link": "https://ridibooks.com/books/806006464",
-      "author": "나루미 나루",
-      "genre": "드라마"
-    },
-    {
-      "title": "오늘 뭐 먹지? 25 배부른 점심식사♪",
-      "link": "https://ridibooks.com/books/806006468",
-      "author": "후쿠마루 야스코",
-      "genre": "드라마"
-    },
-    {
-      "title": "공명의 아내 6권",
-      "link": "https://ridibooks.com/books/908003584",
-      "author": "토코 준",
-      "genre": "드라마"
-    },
-    {
-      "title": "짐승의 길 3권",
-      "link": "https://ridibooks.com/books/297034292",
-      "author": "맛타쿠 모스케-유메우타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "무늬뿐인 영애는 왕태자 전하의 고용된 약혼자 2권",
-      "link": "https://ridibooks.com/books/4466000002",
-      "author": "카즈키 와타루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "꽃은 어느 쪽? 1권",
-      "link": "https://ridibooks.com/books/297034251",
-      "author": "오다와라 미즈에",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "개인차 있습니다 6권 (완결)",
-      "link": "https://ridibooks.com/books/3010004096",
-      "author": "히구라시 키노코",
-      "genre": "드라마"
-    },
-    {
-      "title": "세상에서 가장 이른 봄 3권",
-      "link": "https://ridibooks.com/books/297034228",
-      "author": "카와바타 시키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "겁쟁이 페달 SPARE BIKE 4권",
-      "link": "https://ridibooks.com/books/297034269",
-      "author": "와타나베 와타루",
-      "genre": "스포츠"
     }
   ]
 }
