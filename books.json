@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "[코믹] 약캐 토모자키 군 1권",
+      "link": "https://ridibooks.com/books/2066001952",
+      "author": "치다 에이토",
+      "genre": "학원"
+    },
+    {
+      "title": "[코믹] 유리고코로 : 하 (완결)",
+      "link": "https://ridibooks.com/books/2066001954",
+      "author": "아즈키 료",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "한자와 나오키 2권",
+      "link": "https://ridibooks.com/books/297034301",
+      "author": "후지모토 시게키",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 날씨의 아이 3권 (완결)",
+      "link": "https://ridibooks.com/books/297034380",
+      "author": "쿠보타 와타루",
+      "genre": "드라마"
+    },
+    {
+      "title": "고깔모자의 아틀리에 7권",
+      "link": "https://ridibooks.com/books/505027100",
+      "author": "시라하마 카모메",
+      "genre": "드라마"
+    },
+    {
+      "title": "진격의 거인 32권",
+      "link": "https://ridibooks.com/books/505027109",
+      "author": "이사야마 하지메",
+      "genre": "액션"
+    },
+    {
       "title": "귀멸의 칼날 22권",
       "link": "https://ridibooks.com/books/1019037218",
       "author": "고토우게 코요하루",
@@ -82,42 +118,6 @@
       "title": "결혼반지 이야기 9권",
       "link": "https://ridibooks.com/books/505027094",
       "author": "메이비",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사쿠라바는 멈추지 않아! 3권",
-      "link": "https://ridibooks.com/books/297034289",
-      "author": "센리 미코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "다음에는 하게 해줘 4권",
-      "link": "https://ridibooks.com/books/297034288",
-      "author": "에노키 리카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "포테마요 5권 (완결)",
-      "link": "https://ridibooks.com/books/297034295",
-      "author": "오가타야 하루카",
-      "genre": "코믹"
-    },
-    {
-      "title": "마법사의 인쇄소 4권",
-      "link": "https://ridibooks.com/books/297034293",
-      "author": "미야마 야스히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "물방울 허니 보이 9권",
-      "link": "https://ridibooks.com/books/297034287",
-      "author": "이케 준코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 괴물 이야기 5권",
-      "link": "https://ridibooks.com/books/505027090",
-      "author": "Oh! Great",
       "genre": "판타지/SF"
     }
   ]
