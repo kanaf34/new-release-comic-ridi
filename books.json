@@ -1,28 +1,10 @@
 {
   "books": [
     {
-      "title": "레인맨 7권 (완결)",
-      "link": "https://ridibooks.com/books/1019037215",
-      "author": "호시노 유키노부",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "귀멸의 칼날 22권",
       "link": "https://ridibooks.com/books/1019037218",
       "author": "고토우게 코요하루",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "장난을 잘 치는 타카기 양 14권",
-      "link": "https://ridibooks.com/books/1019037229",
-      "author": "야마모토 소이치로",
-      "genre": "학원"
-    },
-    {
-      "title": "사랑을 사랑하는 유카리짱 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019037230",
-      "author": "스즈 유마",
-      "genre": "드라마"
     },
     {
       "title": "어쨌든 귀여워 11권",
@@ -31,10 +13,40 @@
       "genre": "해외 순정"
     },
     {
+      "title": "장난을 잘 치는 타카기 양 14권",
+      "link": "https://ridibooks.com/books/1019037229",
+      "author": "야마모토 소이치로",
+      "genre": "학원"
+    },
+    {
+      "title": "N과 S 3권",
+      "link": "https://ridibooks.com/books/297034365",
+      "author": "킨다이치 렌주로",
+      "genre": "해외 순정"
+    },
+    {
       "title": "집사들의 침묵 4권",
       "link": "https://ridibooks.com/books/1019037234",
       "author": "사쿠라다 히나",
       "genre": "해외 순정"
+    },
+    {
+      "title": "절대 두근거려서는 안 돼! 4권",
+      "link": "https://ridibooks.com/books/297034364",
+      "author": "츠키시마 하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "레인맨 7권 (완결)",
+      "link": "https://ridibooks.com/books/1019037215",
+      "author": "호시노 유키노부",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사랑을 사랑하는 유카리짱 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019037230",
+      "author": "스즈 유마",
+      "genre": "드라마"
     },
     {
       "title": "하시바 군은 152cm 3권 (완결)",
@@ -47,18 +59,6 @@
       "link": "https://ridibooks.com/books/297034316",
       "author": "로나",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "절대 두근거려서는 안 돼! 4권",
-      "link": "https://ridibooks.com/books/297034364",
-      "author": "츠키시마 하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "N과 S 3권",
-      "link": "https://ridibooks.com/books/297034365",
-      "author": "킨다이치 렌주로",
-      "genre": "해외 순정"
     },
     {
       "title": "스킵과 로퍼 4권",
