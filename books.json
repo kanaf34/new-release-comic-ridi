@@ -1,16 +1,16 @@
 {
   "books": [
     {
+      "title": "고깔모자의 아틀리에 7권",
+      "link": "https://ridibooks.com/books/505027100",
+      "author": "시라하마 카모메",
+      "genre": "드라마"
+    },
+    {
       "title": "[코믹] 약캐 토모자키 군 1권",
       "link": "https://ridibooks.com/books/2066001952",
       "author": "치다 에이토",
       "genre": "학원"
-    },
-    {
-      "title": "[코믹] 유리고코로 : 하 (완결)",
-      "link": "https://ridibooks.com/books/2066001954",
-      "author": "아즈키 료",
-      "genre": "공포/추리"
     },
     {
       "title": "한자와 나오키 2권",
@@ -19,21 +19,27 @@
       "genre": "드라마"
     },
     {
+      "title": "진격의 거인 32권",
+      "link": "https://ridibooks.com/books/505027109",
+      "author": "이사야마 하지메",
+      "genre": "액션"
+    },
+    {
       "title": "[코믹] 날씨의 아이 3권 (완결)",
       "link": "https://ridibooks.com/books/297034380",
       "author": "쿠보타 와타루",
       "genre": "드라마"
     },
     {
-      "title": "고깔모자의 아틀리에 7권",
-      "link": "https://ridibooks.com/books/505027100",
-      "author": "시라하마 카모메",
-      "genre": "드라마"
+      "title": "[코믹] 유리고코로 : 하 (완결)",
+      "link": "https://ridibooks.com/books/2066001954",
+      "author": "아즈키 료",
+      "genre": "공포/추리"
     },
     {
-      "title": "진격의 거인 32권",
-      "link": "https://ridibooks.com/books/505027109",
-      "author": "이사야마 하지메",
+      "title": "개털인생 5권",
+      "link": "https://ridibooks.com/books/1603052639",
+      "author": "박인권",
       "genre": "액션"
     },
     {
@@ -112,12 +118,6 @@
       "title": "[코믹] 슬라임을 잡으면서 300년, 모르는 사이에 레벨MAX가 되었습니다 4권",
       "link": "https://ridibooks.com/books/1690000864",
       "author": "시바 유스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "결혼반지 이야기 9권",
-      "link": "https://ridibooks.com/books/505027094",
-      "author": "메이비",
       "genre": "판타지/SF"
     }
   ]
