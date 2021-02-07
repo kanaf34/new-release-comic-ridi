@@ -1,3 +1,124 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "카카오프렌즈 오피스 3권",
+      "link": "https://ridibooks.com/books/297034410",
+      "author": "안또이",
+      "genre": "코믹"
+    },
+    {
+      "title": "카카오프렌즈 러브 2권",
+      "link": "https://ridibooks.com/books/297034407",
+      "author": "오쭈",
+      "genre": "코믹"
+    },
+    {
+      "title": "고깔모자의 아틀리에 7권",
+      "link": "https://ridibooks.com/books/505027100",
+      "author": "시라하마 카모메",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 약캐 토모자키 군 1권",
+      "link": "https://ridibooks.com/books/2066001952",
+      "author": "치다 에이토",
+      "genre": "학원"
+    },
+    {
+      "title": "한자와 나오키 2권",
+      "link": "https://ridibooks.com/books/297034301",
+      "author": "후지모토 시게키",
+      "genre": "드라마"
+    },
+    {
+      "title": "진격의 거인 32권",
+      "link": "https://ridibooks.com/books/505027109",
+      "author": "이사야마 하지메",
+      "genre": "액션"
+    },
+    {
+      "title": "[코믹] 날씨의 아이 3권 (완결)",
+      "link": "https://ridibooks.com/books/297034380",
+      "author": "쿠보타 와타루",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 유리고코로 : 하 (완결)",
+      "link": "https://ridibooks.com/books/2066001954",
+      "author": "아즈키 료",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "개털인생 5권",
+      "link": "https://ridibooks.com/books/1603052639",
+      "author": "박인권",
+      "genre": "액션"
+    },
+    {
+      "title": "귀멸의 칼날 22권",
+      "link": "https://ridibooks.com/books/1019037218",
+      "author": "고토우게 코요하루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "어쨌든 귀여워 11권",
+      "link": "https://ridibooks.com/books/1019037231",
+      "author": "하타 켄지로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "장난을 잘 치는 타카기 양 14권",
+      "link": "https://ridibooks.com/books/1019037229",
+      "author": "야마모토 소이치로",
+      "genre": "학원"
+    },
+    {
+      "title": "N과 S 3권",
+      "link": "https://ridibooks.com/books/297034365",
+      "author": "킨다이치 렌주로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "집사들의 침묵 4권",
+      "link": "https://ridibooks.com/books/1019037234",
+      "author": "사쿠라다 히나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "절대 두근거려서는 안 돼! 4권",
+      "link": "https://ridibooks.com/books/297034364",
+      "author": "츠키시마 하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "진격의 거인 후회없는 선택 2권 (완결)",
+      "link": "https://ridibooks.com/books/505027347",
+      "author": "스라가 히카루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "레인맨 7권 (완결)",
+      "link": "https://ridibooks.com/books/1019037215",
+      "author": "호시노 유키노부",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사랑을 사랑하는 유카리짱 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019037230",
+      "author": "스즈 유마",
+      "genre": "드라마"
+    },
+    {
+      "title": "하시바 군은 152cm 3권 (완결)",
+      "link": "https://ridibooks.com/books/297034264",
+      "author": "히나타 쿄",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "송혼의 소녀와 장례여행 4권",
+      "link": "https://ridibooks.com/books/297034316",
+      "author": "로나",
+      "genre": "판타지/SF"
+    }
+  ]
 }
