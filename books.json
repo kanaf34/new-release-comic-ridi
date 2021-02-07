@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "카카오프렌즈 오피스 3권",
+      "link": "https://ridibooks.com/books/297034410",
+      "author": "안또이",
+      "genre": "코믹"
+    },
+    {
+      "title": "카카오프렌즈 러브 2권",
+      "link": "https://ridibooks.com/books/297034407",
+      "author": "오쭈",
+      "genre": "코믹"
+    },
+    {
       "title": "고깔모자의 아틀리에 7권",
       "link": "https://ridibooks.com/books/505027100",
       "author": "시라하마 카모메",
@@ -106,18 +118,6 @@
       "title": "송혼의 소녀와 장례여행 4권",
       "link": "https://ridibooks.com/books/297034316",
       "author": "로나",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "스킵과 로퍼 4권",
-      "link": "https://ridibooks.com/books/3010004097",
-      "author": "타카마츠 미사키",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 슬라임을 잡으면서 300년, 모르는 사이에 레벨MAX가 되었습니다 4권",
-      "link": "https://ridibooks.com/books/1690000864",
-      "author": "시바 유스케",
       "genre": "판타지/SF"
     }
   ]
