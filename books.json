@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "개와 고양이 둘 다 키우면 매일이 즐거워 2권",
+      "link": "https://ridibooks.com/books/2066001956",
+      "author": "마츠모토 히데키치",
+      "genre": "코믹"
+    },
+    {
+      "title": "부엌의 드래곤 1권",
+      "link": "https://ridibooks.com/books/2066001957",
+      "author": "미요시 후루마치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "푸른 강철의 아르페지오 15권",
+      "link": "https://ridibooks.com/books/297034402",
+      "author": "아크 퍼포먼스",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "판도라 오픈 8권",
+      "link": "https://ridibooks.com/books/297034424",
+      "author": "마빈",
+      "genre": "액션"
+    },
+    {
+      "title": "[코이] 신☆재생연 ~명 왕조 궁중 비화~ 5권",
+      "link": "https://ridibooks.com/books/806006490",
+      "author": "타키구치 링링",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "허구추리 12권",
+      "link": "https://ridibooks.com/books/845022522",
+      "author": "카타세 챠시바",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "카카오프렌즈 오피스 3권",
       "link": "https://ridibooks.com/books/297034410",
       "author": "안또이",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/1019037234",
       "author": "사쿠라다 히나",
       "genre": "해외 순정"
-    },
-    {
-      "title": "절대 두근거려서는 안 돼! 4권",
-      "link": "https://ridibooks.com/books/297034364",
-      "author": "츠키시마 하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "진격의 거인 후회없는 선택 2권 (완결)",
-      "link": "https://ridibooks.com/books/505027347",
-      "author": "스라가 히카루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "레인맨 7권 (완결)",
-      "link": "https://ridibooks.com/books/1019037215",
-      "author": "호시노 유키노부",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사랑을 사랑하는 유카리짱 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019037230",
-      "author": "스즈 유마",
-      "genre": "드라마"
-    },
-    {
-      "title": "하시바 군은 152cm 3권 (완결)",
-      "link": "https://ridibooks.com/books/297034264",
-      "author": "히나타 쿄",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "송혼의 소녀와 장례여행 4권",
-      "link": "https://ridibooks.com/books/297034316",
-      "author": "로나",
-      "genre": "판타지/SF"
     }
   ]
 }
