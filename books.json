@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 15권",
+      "link": "https://ridibooks.com/books/2066002367",
+      "author": "카와카미 타이키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "러블리 어글리(Lovely Ugly) 7권",
+      "link": "https://ridibooks.com/books/297034404",
+      "author": "이시영",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "녹턴(nocturne) 12권",
+      "link": "https://ridibooks.com/books/297034405",
+      "author": "박은아",
+      "genre": "드라마"
+    },
+    {
+      "title": "열혈강호 82권",
+      "link": "https://ridibooks.com/books/297034438",
+      "author": "전극진",
+      "genre": "무협"
+    },
+    {
+      "title": "얼굴에 드러나지 않는 카시와다 양과 얼굴에 드러나는 오오타 군 4권",
+      "link": "https://ridibooks.com/books/3010004100",
+      "author": "아즈마 후유",
+      "genre": "학원"
+    },
+    {
+      "title": "엉겅퀴성의 마녀 3권",
+      "link": "https://ridibooks.com/books/4129000019",
+      "author": "타라치네 존",
+      "genre": "드라마"
+    },
+    {
+      "title": "반했습니다, 선배 9권",
+      "link": "https://ridibooks.com/books/505027112",
+      "author": "마세 아즈사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "순백의 소리 20권",
+      "link": "https://ridibooks.com/books/505027121",
+      "author": "라가와 마리모",
+      "genre": "드라마"
+    },
+    {
       "title": "허구추리 12권",
       "link": "https://ridibooks.com/books/845022522",
       "author": "카타세 챠시바",
@@ -70,54 +118,6 @@
       "title": "[코믹] 약캐 토모자키 군 1권",
       "link": "https://ridibooks.com/books/2066001952",
       "author": "치다 에이토",
-      "genre": "학원"
-    },
-    {
-      "title": "한자와 나오키 2권",
-      "link": "https://ridibooks.com/books/297034301",
-      "author": "후지모토 시게키",
-      "genre": "드라마"
-    },
-    {
-      "title": "진격의 거인 32권",
-      "link": "https://ridibooks.com/books/505027109",
-      "author": "이사야마 하지메",
-      "genre": "액션"
-    },
-    {
-      "title": "[코믹] 날씨의 아이 3권 (완결)",
-      "link": "https://ridibooks.com/books/297034380",
-      "author": "쿠보타 와타루",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 유리고코로 : 하 (완결)",
-      "link": "https://ridibooks.com/books/2066001954",
-      "author": "아즈키 료",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "개털인생 5권",
-      "link": "https://ridibooks.com/books/1603052639",
-      "author": "박인권",
-      "genre": "액션"
-    },
-    {
-      "title": "귀멸의 칼날 22권",
-      "link": "https://ridibooks.com/books/1019037218",
-      "author": "고토우게 코요하루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "어쨌든 귀여워 11권",
-      "link": "https://ridibooks.com/books/1019037231",
-      "author": "하타 켄지로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "장난을 잘 치는 타카기 양 14권",
-      "link": "https://ridibooks.com/books/1019037229",
-      "author": "야마모토 소이치로",
       "genre": "학원"
     }
   ]
