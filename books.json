@@ -1,10 +1,10 @@
 {
   "books": [
     {
-      "title": "개와 고양이 둘 다 키우면 매일이 즐거워 2권",
-      "link": "https://ridibooks.com/books/2066001956",
-      "author": "마츠모토 히데키치",
-      "genre": "코믹"
+      "title": "허구추리 12권",
+      "link": "https://ridibooks.com/books/845022522",
+      "author": "카타세 챠시바",
+      "genre": "판타지/SF"
     },
     {
       "title": "부엌의 드래곤 1권",
@@ -13,27 +13,15 @@
       "genre": "판타지/SF"
     },
     {
+      "title": "개와 고양이 둘 다 키우면 매일이 즐거워 2권",
+      "link": "https://ridibooks.com/books/2066001956",
+      "author": "마츠모토 히데키치",
+      "genre": "코믹"
+    },
+    {
       "title": "푸른 강철의 아르페지오 15권",
       "link": "https://ridibooks.com/books/297034402",
       "author": "아크 퍼포먼스",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "판도라 오픈 8권",
-      "link": "https://ridibooks.com/books/297034424",
-      "author": "마빈",
-      "genre": "액션"
-    },
-    {
-      "title": "[코이] 신☆재생연 ~명 왕조 궁중 비화~ 5권",
-      "link": "https://ridibooks.com/books/806006490",
-      "author": "타키구치 링링",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "허구추리 12권",
-      "link": "https://ridibooks.com/books/845022522",
-      "author": "카타세 챠시바",
       "genre": "판타지/SF"
     },
     {
@@ -47,6 +35,30 @@
       "link": "https://ridibooks.com/books/297034407",
       "author": "오쭈",
       "genre": "코믹"
+    },
+    {
+      "title": "피터 그릴과 현자의 시간 4권",
+      "link": "https://ridibooks.com/books/2637000020",
+      "author": "히야마 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "Party(파티) 2021년 3월호",
+      "link": "https://ridibooks.com/books/505027407",
+      "author": "파티 편집부",
+      "genre": "만화잡지"
+    },
+    {
+      "title": "판도라 오픈 8권",
+      "link": "https://ridibooks.com/books/297034424",
+      "author": "마빈",
+      "genre": "액션"
+    },
+    {
+      "title": "[코이] 신☆재생연 ~명 왕조 궁중 비화~ 5권",
+      "link": "https://ridibooks.com/books/806006490",
+      "author": "타키구치 링링",
+      "genre": "해외 순정"
     },
     {
       "title": "고깔모자의 아틀리에 7권",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/1019037229",
       "author": "야마모토 소이치로",
       "genre": "학원"
-    },
-    {
-      "title": "N과 S 3권",
-      "link": "https://ridibooks.com/books/297034365",
-      "author": "킨다이치 렌주로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "집사들의 침묵 4권",
-      "link": "https://ridibooks.com/books/1019037234",
-      "author": "사쿠라다 히나",
-      "genre": "해외 순정"
     }
   ]
 }
