@@ -1,6 +1,96 @@
 {
   "books": [
     {
+      "title": "ReRe헬로 3권",
+      "link": "https://ridibooks.com/books/1019037246",
+      "author": "미나미 토코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "M구역의 주민 2권",
+      "link": "https://ridibooks.com/books/1019037248",
+      "author": "미나미 토코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "꽃에, 달려들다 2권 (완결)",
+      "link": "https://ridibooks.com/books/1019037250",
+      "author": "카가 야코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "약속의 네버랜드 20권 (완결)",
+      "link": "https://ridibooks.com/books/1019037251",
+      "author": "데미즈 포스카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "요자쿠라 일가의 대작전 3권",
+      "link": "https://ridibooks.com/books/1019037252",
+      "author": "곤다이라 히츠지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "플래티넘 엔드 13권",
+      "link": "https://ridibooks.com/books/1019037253",
+      "author": "오바 츠구미",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마치다군의 세계 5권",
+      "link": "https://ridibooks.com/books/1019037254",
+      "author": "안도 유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사신 도련님과 검은 메이드 8권",
+      "link": "https://ridibooks.com/books/1019037255",
+      "author": "이노우에 코하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "유가미 군은 친구가 없다 9권",
+      "link": "https://ridibooks.com/books/1019037256",
+      "author": "사쿠라 준",
+      "genre": "코믹"
+    },
+    {
+      "title": "주술회전 11권",
+      "link": "https://ridibooks.com/books/1019037259",
+      "author": "아쿠타미 게게",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "이르베크의 정령술사 2권 (완결)",
+      "link": "https://ridibooks.com/books/2498006444",
+      "author": "이스루기 아유마",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "Q.E.D. iff -증명종료- (큐이디 이프) 13권",
+      "link": "https://ridibooks.com/books/505027320",
+      "author": "카토우 모토히로",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "나츠메 우인장 25권 (한정판)",
+      "link": "https://ridibooks.com/books/505027497",
+      "author": "미도리카와 유키",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 이 멋진 세계에 축복을! 11권",
+      "link": "https://ridibooks.com/books/777083890",
+      "author": "와타리 마사히토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사랑…할듯 말듯 3권",
+      "link": "https://ridibooks.com/books/806006499",
+      "author": "미나세 마유",
+      "genre": "해외 순정"
+    },
+    {
       "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 15권",
       "link": "https://ridibooks.com/books/2066002367",
       "author": "카와카미 타이키",
@@ -29,96 +119,6 @@
       "link": "https://ridibooks.com/books/297034405",
       "author": "박은아",
       "genre": "드라마"
-    },
-    {
-      "title": "러블리 어글리(Lovely Ugly) 7권",
-      "link": "https://ridibooks.com/books/297034404",
-      "author": "이시영",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "얼굴에 드러나지 않는 카시와다 양과 얼굴에 드러나는 오오타 군 4권",
-      "link": "https://ridibooks.com/books/3010004100",
-      "author": "아즈마 후유",
-      "genre": "학원"
-    },
-    {
-      "title": "순백의 소리 20권",
-      "link": "https://ridibooks.com/books/505027121",
-      "author": "라가와 마리모",
-      "genre": "드라마"
-    },
-    {
-      "title": "허구추리 12권",
-      "link": "https://ridibooks.com/books/845022522",
-      "author": "카타세 챠시바",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "부엌의 드래곤 1권",
-      "link": "https://ridibooks.com/books/2066001957",
-      "author": "미요시 후루마치",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "개와 고양이 둘 다 키우면 매일이 즐거워 2권",
-      "link": "https://ridibooks.com/books/2066001956",
-      "author": "마츠모토 히데키치",
-      "genre": "코믹"
-    },
-    {
-      "title": "푸른 강철의 아르페지오 15권",
-      "link": "https://ridibooks.com/books/297034402",
-      "author": "아크 퍼포먼스",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "카카오프렌즈 오피스 3권",
-      "link": "https://ridibooks.com/books/297034410",
-      "author": "안또이",
-      "genre": "코믹"
-    },
-    {
-      "title": "카카오프렌즈 러브 2권",
-      "link": "https://ridibooks.com/books/297034407",
-      "author": "오쭈",
-      "genre": "코믹"
-    },
-    {
-      "title": "피터 그릴과 현자의 시간 4권",
-      "link": "https://ridibooks.com/books/2637000020",
-      "author": "히야마 다이스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "Party(파티) 2021년 3월호",
-      "link": "https://ridibooks.com/books/505027407",
-      "author": "파티 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "판도라 오픈 8권",
-      "link": "https://ridibooks.com/books/297034424",
-      "author": "마빈",
-      "genre": "액션"
-    },
-    {
-      "title": "[코이] 신☆재생연 ~명 왕조 궁중 비화~ 5권",
-      "link": "https://ridibooks.com/books/806006490",
-      "author": "타키구치 링링",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "고깔모자의 아틀리에 7권",
-      "link": "https://ridibooks.com/books/505027100",
-      "author": "시라하마 카모메",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 약캐 토모자키 군 1권",
-      "link": "https://ridibooks.com/books/2066001952",
-      "author": "치다 에이토",
-      "genre": "학원"
     }
   ]
 }
