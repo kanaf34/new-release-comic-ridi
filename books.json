@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "봉황루 12권 (완결)",
+      "link": "https://ridibooks.com/books/1603052698",
+      "author": "천제황",
+      "genre": "무협"
+    },
+    {
       "title": "주술회전 11권",
       "link": "https://ridibooks.com/books/1019037259",
       "author": "아쿠타미 게게",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/2066002367",
       "author": "카와카미 타이키",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "열혈강호 82권",
-      "link": "https://ridibooks.com/books/297034438",
-      "author": "전극진",
-      "genre": "무협"
     }
   ]
 }
