@@ -1,12 +1,6 @@
 {
   "books": [
     {
-      "title": "개털인생 10권",
-      "link": "https://ridibooks.com/books/1603052706",
-      "author": "박인권",
-      "genre": "액션"
-    },
-    {
       "title": "주술회전 11권",
       "link": "https://ridibooks.com/books/1019037259",
       "author": "아쿠타미 게게",
@@ -119,6 +113,12 @@
       "link": "https://ridibooks.com/books/1603052698",
       "author": "천제황",
       "genre": "무협"
+    },
+    {
+      "title": "개털인생 10권",
+      "link": "https://ridibooks.com/books/1603052706",
+      "author": "박인권",
+      "genre": "액션"
     }
   ]
 }
