@@ -1,9 +1,9 @@
 {
   "books": [
     {
-      "title": "거실의 마츠나가 씨 8권",
-      "link": "https://ridibooks.com/books/2007002743",
-      "author": "이와시타 케이코",
+      "title": "새벽의 연화 32권 (한정판)",
+      "link": "https://ridibooks.com/books/505027498",
+      "author": "쿠사나기 미즈호",
       "genre": "해외 순정"
     },
     {
@@ -13,16 +13,16 @@
       "genre": "드라마"
     },
     {
-      "title": "새벽의 연화 32권 (한정판)",
-      "link": "https://ridibooks.com/books/505027498",
-      "author": "쿠사나기 미즈호",
-      "genre": "해외 순정"
-    },
-    {
       "title": "이상한 나라의 버드 4권",
       "link": "https://ridibooks.com/books/806006502",
       "author": "삿사 타이가",
       "genre": "드라마"
+    },
+    {
+      "title": "거실의 마츠나가 씨 8권",
+      "link": "https://ridibooks.com/books/2007002743",
+      "author": "이와시타 케이코",
+      "genre": "해외 순정"
     },
     {
       "title": "따스한 햇살 3권 (완결)",
