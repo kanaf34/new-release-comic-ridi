@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "꽃은 어느 쪽? 2권",
+      "link": "https://ridibooks.com/books/297034506",
+      "author": "오다와라 미즈에",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "벚꽃의 홍차왕자 12권",
+      "link": "https://ridibooks.com/books/297034507",
+      "author": "야마다 난페이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "셰이크 님과 하렘에서 3권",
+      "link": "https://ridibooks.com/books/297034508",
+      "author": "미아사 린",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "안쓰러운 누님은 어떠세요? 6권",
+      "link": "https://ridibooks.com/books/3010004126",
+      "author": "와카나",
+      "genre": "드라마"
+    },
+    {
+      "title": "기숙학교의 줄리엣 16권 (완결)",
+      "link": "https://ridibooks.com/books/505027322",
+      "author": "카네다 유스케",
+      "genre": "드라마"
+    },
+    {
+      "title": "런웨이에서 웃어줘 9권",
+      "link": "https://ridibooks.com/books/505027323",
+      "author": "이노야 코토바",
+      "genre": "드라마"
+    },
+    {
       "title": "새벽의 연화 32권 (한정판)",
       "link": "https://ridibooks.com/books/505027498",
       "author": "쿠사나기 미즈호",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/505027359",
       "author": "후지 모모",
       "genre": "해외 순정"
-    },
-    {
-      "title": "주술회전 11권",
-      "link": "https://ridibooks.com/books/1019037259",
-      "author": "아쿠타미 게게",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "약속의 네버랜드 20권 (완결)",
-      "link": "https://ridibooks.com/books/1019037251",
-      "author": "데미즈 포스카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "나츠메 우인장 25권 (한정판)",
-      "link": "https://ridibooks.com/books/505027497",
-      "author": "미도리카와 유키",
-      "genre": "드라마"
-    },
-    {
-      "title": "이르베크의 정령술사 2권 (완결)",
-      "link": "https://ridibooks.com/books/2498006444",
-      "author": "이스루기 아유마",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사신 도련님과 검은 메이드 8권",
-      "link": "https://ridibooks.com/books/1019037255",
-      "author": "이노우에 코하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "유가미 군은 친구가 없다 9권",
-      "link": "https://ridibooks.com/books/1019037256",
-      "author": "사쿠라 준",
-      "genre": "코믹"
     }
   ]
 }
