@@ -1,10 +1,16 @@
 {
   "books": [
     {
-      "title": "꽃은 어느 쪽? 2권",
-      "link": "https://ridibooks.com/books/297034506",
-      "author": "오다와라 미즈에",
-      "genre": "해외 순정"
+      "title": "기숙학교의 줄리엣 16권 (완결)",
+      "link": "https://ridibooks.com/books/505027322",
+      "author": "카네다 유스케",
+      "genre": "드라마"
+    },
+    {
+      "title": "런웨이에서 웃어줘 9권",
+      "link": "https://ridibooks.com/books/505027323",
+      "author": "이노야 코토바",
+      "genre": "드라마"
     },
     {
       "title": "벚꽃의 홍차왕자 12권",
@@ -19,22 +25,22 @@
       "genre": "해외 순정"
     },
     {
+      "title": "꽃은 어느 쪽? 2권",
+      "link": "https://ridibooks.com/books/297034506",
+      "author": "오다와라 미즈에",
+      "genre": "해외 순정"
+    },
+    {
       "title": "안쓰러운 누님은 어떠세요? 6권",
       "link": "https://ridibooks.com/books/3010004126",
       "author": "와카나",
       "genre": "드라마"
     },
     {
-      "title": "기숙학교의 줄리엣 16권 (완결)",
-      "link": "https://ridibooks.com/books/505027322",
-      "author": "카네다 유스케",
-      "genre": "드라마"
-    },
-    {
-      "title": "런웨이에서 웃어줘 9권",
-      "link": "https://ridibooks.com/books/505027323",
-      "author": "이노야 코토바",
-      "genre": "드라마"
+      "title": "바라건대 이 손에 행복을 1권",
+      "link": "https://ridibooks.com/books/222002547",
+      "author": "숀 타나카",
+      "genre": "액션"
     },
     {
       "title": "새벽의 연화 32권 (한정판)",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/845022592",
       "author": "마츠모토 스이세이",
       "genre": "드라마"
-    },
-    {
-      "title": "첫사랑에 키스 2권 (완결)",
-      "link": "https://ridibooks.com/books/505027359",
-      "author": "후지 모모",
-      "genre": "해외 순정"
     }
   ]
 }
