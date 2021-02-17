@@ -1,6 +1,96 @@
 {
   "books": [
     {
+      "title": "30금 1권",
+      "link": "https://ridibooks.com/books/1019037272",
+      "author": "하타 아키미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "프린세스 메종 6권 (완결)",
+      "link": "https://ridibooks.com/books/1019037278",
+      "author": "이케베 아오이",
+      "genre": "드라마"
+    },
+    {
+      "title": "킹덤 59권",
+      "link": "https://ridibooks.com/books/1019037279",
+      "author": "하라 야스히사",
+      "genre": "무협"
+    },
+    {
+      "title": "리쿠도 21권",
+      "link": "https://ridibooks.com/books/1019037280",
+      "author": "마츠바라 토시미츠",
+      "genre": "스포츠"
+    },
+    {
+      "title": "괴수 8호 1권",
+      "link": "https://ridibooks.com/books/1019037283",
+      "author": "마츠모토 나오야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "아마노 메구미는 빈틈투성이! 17권",
+      "link": "https://ridibooks.com/books/1019037284",
+      "author": "네코구치",
+      "genre": "학원"
+    },
+    {
+      "title": "첫사랑 좀비 13권",
+      "link": "https://ridibooks.com/books/1019037285",
+      "author": "미네나미 료",
+      "genre": "학원"
+    },
+    {
+      "title": "우리는 공부를 못해 13권",
+      "link": "https://ridibooks.com/books/1019037286",
+      "author": "츠츠이 타이시",
+      "genre": "학원"
+    },
+    {
+      "title": "[코믹] 약사의 혼잣말(마오마오의 후궁 수수께끼 풀이수첩) 8권",
+      "link": "https://ridibooks.com/books/1019037287",
+      "author": "쿠라타 미노지",
+      "genre": "드라마"
+    },
+    {
+      "title": "어쩌다 신데렐라 왕궁음모편 이세계에서 왕태자비 시작했습니다. 3권",
+      "link": "https://ridibooks.com/books/297034524",
+      "author": "타케무라 유미코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "시부야 금붕어 8권",
+      "link": "https://ridibooks.com/books/297034553",
+      "author": "히로우미 아오이",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "금색의 마비노기온 -아서 왕의 누이- 3권",
+      "link": "https://ridibooks.com/books/297034557",
+      "author": "야마다 난페이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "블루 록 2권",
+      "link": "https://ridibooks.com/books/505027558",
+      "author": "노무라 유스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "귀여운 사람 7권 (완결)",
+      "link": "https://ridibooks.com/books/505027567",
+      "author": "사이토 켄",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "불완전 부부 2권",
+      "link": "https://ridibooks.com/books/840035270",
+      "author": "나츠카와 유키노",
+      "genre": "해외 순정"
+    },
+    {
       "title": "[코믹] 문호 스트레이독스 19권",
       "link": "https://ridibooks.com/books/1690000871",
       "author": "하루카와 산고",
@@ -29,96 +119,6 @@
       "link": "https://ridibooks.com/books/1690000874",
       "author": "이시다 아키라",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "이세계에서 실패하지 않는 100가지 방법 3권",
-      "link": "https://ridibooks.com/books/4414000010",
-      "author": "아키노 키사라",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "기숙학교의 줄리엣 16권 (완결)",
-      "link": "https://ridibooks.com/books/505027322",
-      "author": "카네다 유스케",
-      "genre": "드라마"
-    },
-    {
-      "title": "런웨이에서 웃어줘 9권",
-      "link": "https://ridibooks.com/books/505027323",
-      "author": "이노야 코토바",
-      "genre": "드라마"
-    },
-    {
-      "title": "벚꽃의 홍차왕자 12권",
-      "link": "https://ridibooks.com/books/297034507",
-      "author": "야마다 난페이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "셰이크 님과 하렘에서 3권",
-      "link": "https://ridibooks.com/books/297034508",
-      "author": "미아사 린",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "꽃은 어느 쪽? 2권",
-      "link": "https://ridibooks.com/books/297034506",
-      "author": "오다와라 미즈에",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "안쓰러운 누님은 어떠세요? 6권",
-      "link": "https://ridibooks.com/books/3010004126",
-      "author": "와카나",
-      "genre": "드라마"
-    },
-    {
-      "title": "바라건대 이 손에 행복을 1권",
-      "link": "https://ridibooks.com/books/222002547",
-      "author": "메이지",
-      "genre": "액션"
-    },
-    {
-      "title": "새벽의 연화 32권 (한정판)",
-      "link": "https://ridibooks.com/books/505027498",
-      "author": "쿠사나기 미즈호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "코우노도리 32권 (완결)",
-      "link": "https://ridibooks.com/books/3010004101",
-      "author": "스즈노키 유우",
-      "genre": "드라마"
-    },
-    {
-      "title": "이상한 나라의 버드 4권",
-      "link": "https://ridibooks.com/books/806006502",
-      "author": "삿사 타이가",
-      "genre": "드라마"
-    },
-    {
-      "title": "거실의 마츠나가 씨 8권",
-      "link": "https://ridibooks.com/books/2007002743",
-      "author": "이와시타 케이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "따스한 햇살 3권 (완결)",
-      "link": "https://ridibooks.com/books/845022589",
-      "author": "나카무라 히나타",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "챔프D 179호(2021.03.01)",
-      "link": "https://ridibooks.com/books/847003434",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "비밀 연애 2권 (완결)",
-      "link": "https://ridibooks.com/books/505027070",
-      "author": "아나신",
-      "genre": "해외 순정"
     }
   ]
 }
