@@ -1,15 +1,9 @@
 {
   "books": [
     {
-      "title": "사신 짱 드롭킥 10권",
-      "link": "https://ridibooks.com/books/2066002429",
-      "author": "유키오",
-      "genre": "코믹"
-    },
-    {
-      "title": "나기의 휴식 6권",
-      "link": "https://ridibooks.com/books/2066002430",
-      "author": "코나리 미사토",
+      "title": "귀엽기만 한 게 아닌 시키모리 양 6권",
+      "link": "https://ridibooks.com/books/845022640",
+      "author": "마키 케이고",
       "genre": "해외 순정"
     },
     {
@@ -19,10 +13,10 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "보석성의 신입 2권",
-      "link": "https://ridibooks.com/books/3010004125",
-      "author": "마리무",
-      "genre": "드라마"
+      "title": "나기의 휴식 6권",
+      "link": "https://ridibooks.com/books/2066002430",
+      "author": "코나리 미사토",
+      "genre": "해외 순정"
     },
     {
       "title": "아인 16권",
@@ -31,16 +25,10 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "히로인 시작했습니다. 2권",
-      "link": "https://ridibooks.com/books/845022639",
-      "author": "아마쿠라 후유",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "귀엽기만 한 게 아닌 시키모리 양 6권",
-      "link": "https://ridibooks.com/books/845022640",
-      "author": "마키 케이고",
-      "genre": "해외 순정"
+      "title": "마법에 걸린 신학기 3권",
+      "link": "https://ridibooks.com/books/845022642",
+      "author": "히가와 쿄코",
+      "genre": "판타지/SF"
     },
     {
       "title": "못난이에게 꽃다발을 4권",
@@ -49,10 +37,34 @@
       "genre": "해외 순정"
     },
     {
-      "title": "마법에 걸린 신학기 3권",
-      "link": "https://ridibooks.com/books/845022642",
-      "author": "히가와 쿄코",
-      "genre": "판타지/SF"
+      "title": "그 종을 울리는 건 적어도 너는 아니야 2권",
+      "link": "https://ridibooks.com/books/4369000163",
+      "author": "아사다 닛키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "개털인생 15권",
+      "link": "https://ridibooks.com/books/1603052730",
+      "author": "박인권",
+      "genre": "액션"
+    },
+    {
+      "title": "사신 짱 드롭킥 10권",
+      "link": "https://ridibooks.com/books/2066002429",
+      "author": "유키오",
+      "genre": "코믹"
+    },
+    {
+      "title": "보석성의 신입 2권",
+      "link": "https://ridibooks.com/books/3010004125",
+      "author": "마리무",
+      "genre": "드라마"
+    },
+    {
+      "title": "히로인 시작했습니다. 2권",
+      "link": "https://ridibooks.com/books/845022639",
+      "author": "아마쿠라 후유",
+      "genre": "해외 순정"
     },
     {
       "title": "아디오스 에이프릴 9권",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/1019037278",
       "author": "이케베 아오이",
       "genre": "드라마"
-    },
-    {
-      "title": "리쿠도 21권",
-      "link": "https://ridibooks.com/books/1019037280",
-      "author": "마츠바라 토시미츠",
-      "genre": "스포츠"
-    },
-    {
-      "title": "아마노 메구미는 빈틈투성이! 17권",
-      "link": "https://ridibooks.com/books/1019037284",
-      "author": "네코구치",
-      "genre": "학원"
     }
   ]
 }
