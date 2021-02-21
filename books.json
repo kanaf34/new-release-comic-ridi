@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "[코믹] 아무래도 제 몸은 완전무적인 것 같아요 5권",
+      "link": "https://ridibooks.com/books/3010004234",
+      "author": "사바네코",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "코하루와 친구들의 애니멀 보이스 2권",
       "link": "https://ridibooks.com/books/2007002745",
       "author": "카토 에리코",
@@ -17,12 +23,6 @@
       "link": "https://ridibooks.com/books/297034649",
       "author": "타케",
       "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 아무래도 제 몸은 완전무적인 것 같아요 5권",
-      "link": "https://ridibooks.com/books/3010004234",
-      "author": "사바네코",
-      "genre": "판타지/SF"
     },
     {
       "title": "기생수 리버시 2권",
