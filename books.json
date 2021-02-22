@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "노부나가의 셰프 23권",
+      "link": "https://ridibooks.com/books/297034650",
+      "author": "카지카와 타쿠로",
+      "genre": "드라마"
+    },
+    {
+      "title": "아이돌 드렁크 2권",
+      "link": "https://ridibooks.com/books/297034672",
+      "author": "사키시마 에노키",
+      "genre": "드라마"
+    },
+    {
+      "title": "어른의 방과 후 3권",
+      "link": "https://ridibooks.com/books/297034673",
+      "author": "이치히",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 29세 독신은 이세계에서 자유롭게 살고…… 싶었다 3권",
+      "link": "https://ridibooks.com/books/3010004235",
+      "author": "오오하마이코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "꽃송이 또로록 4권",
+      "link": "https://ridibooks.com/books/4406000007",
+      "author": "토리노 시노",
+      "genre": "GL"
+    },
+    {
+      "title": "영 블랙 잭 7권",
+      "link": "https://ridibooks.com/books/505027568",
+      "author": "오오쿠마 유우고",
+      "genre": "드라마"
+    },
+    {
+      "title": "사실 나는 6권",
+      "link": "https://ridibooks.com/books/505027569",
+      "author": "마스다 에이지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "파출소PB 2권",
+      "link": "https://ridibooks.com/books/908003577",
+      "author": "이시카와 치카",
+      "genre": "드라마"
+    },
+    {
       "title": "기생수 리버시 2권",
       "link": "https://ridibooks.com/books/505027606",
       "author": "오타 모아레",
@@ -71,54 +119,6 @@
       "link": "https://ridibooks.com/books/845022641",
       "author": "사쿠라 로쿠",
       "genre": "해외 순정"
-    },
-    {
-      "title": "그 종을 울리는 건 적어도 너는 아니야 2권",
-      "link": "https://ridibooks.com/books/4369000163",
-      "author": "아사다 닛키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "개털인생 15권",
-      "link": "https://ridibooks.com/books/1603052730",
-      "author": "박인권",
-      "genre": "액션"
-    },
-    {
-      "title": "사신 짱 드롭킥 10권",
-      "link": "https://ridibooks.com/books/2066002429",
-      "author": "유키오",
-      "genre": "코믹"
-    },
-    {
-      "title": "보석성의 신입 2권",
-      "link": "https://ridibooks.com/books/3010004125",
-      "author": "마리무",
-      "genre": "드라마"
-    },
-    {
-      "title": "히로인 시작했습니다. 2권",
-      "link": "https://ridibooks.com/books/845022639",
-      "author": "아마쿠라 후유",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "아디오스 에이프릴 9권",
-      "link": "https://ridibooks.com/books/845022672",
-      "author": "혜빈",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "괴수 8호 1권",
-      "link": "https://ridibooks.com/books/1019037283",
-      "author": "마츠모토 나오야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 약사의 혼잣말(마오마오의 후궁 수수께끼 풀이수첩) 8권",
-      "link": "https://ridibooks.com/books/1019037287",
-      "author": "쿠라타 미노지",
-      "genre": "드라마"
     }
   ]
 }
