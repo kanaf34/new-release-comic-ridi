@@ -1,24 +1,6 @@
 {
   "books": [
     {
-      "title": "코하루와 친구들의 애니멀 보이스 2권",
-      "link": "https://ridibooks.com/books/2007002745",
-      "author": "카토 에리코",
-      "genre": "드라마"
-    },
-    {
-      "title": "데아이몬-화과자 이야기- 3권",
-      "link": "https://ridibooks.com/books/2007002748",
-      "author": "아사노 린",
-      "genre": "드라마"
-    },
-    {
-      "title": "우자키 양은 놀고 싶어! 5권",
-      "link": "https://ridibooks.com/books/297034649",
-      "author": "타케",
-      "genre": "해외 순정"
-    },
-    {
       "title": "기생수 리버시 2권",
       "link": "https://ridibooks.com/books/505027606",
       "author": "오타 모아레",
@@ -29,6 +11,24 @@
       "link": "https://ridibooks.com/books/845022684",
       "author": "아마기 세이마루",
       "genre": "공포/추리"
+    },
+    {
+      "title": "우자키 양은 놀고 싶어! 5권",
+      "link": "https://ridibooks.com/books/297034649",
+      "author": "타케",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "데아이몬-화과자 이야기- 3권",
+      "link": "https://ridibooks.com/books/2007002748",
+      "author": "아사노 린",
+      "genre": "드라마"
+    },
+    {
+      "title": "코하루와 친구들의 애니멀 보이스 2권",
+      "link": "https://ridibooks.com/books/2007002745",
+      "author": "카토 에리코",
+      "genre": "드라마"
     },
     {
       "title": "[코믹] 아무래도 제 몸은 완전무적인 것 같아요 5권",
