@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "[코믹] 낙제 기사의 영웅담 10권",
+      "link": "https://ridibooks.com/books/2066002434",
+      "author": "소라미치 메구무",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "너는 내 최애가 아니야 3권 (완결)",
+      "link": "https://ridibooks.com/books/2498006457",
+      "author": "아사다 쿄마",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "시원찮은 직장인과 불량 소녀 4권",
+      "link": "https://ridibooks.com/books/297034676",
+      "author": "타마키 나오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "신의 물방울 최종장 마리아주 20권",
+      "link": "https://ridibooks.com/books/505027553",
+      "author": "아기 다다시",
+      "genre": "드라마"
+    },
+    {
+      "title": "하셰릭 ~전생왕자 영웅담~ 2권",
+      "link": "https://ridibooks.com/books/806006537",
+      "author": "키타구니 라토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "카레센 1권",
+      "link": "https://ridibooks.com/books/840035470",
+      "author": "아오키 나기코",
+      "genre": "드라마"
+    },
+    {
       "title": "꽃송이 또로록 4권",
       "link": "https://ridibooks.com/books/4406000007",
       "author": "토리노 시노",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/2007002745",
       "author": "카토 에리코",
       "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 아무래도 제 몸은 완전무적인 것 같아요 5권",
-      "link": "https://ridibooks.com/books/3010004234",
-      "author": "사바네코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "귀엽기만 한 게 아닌 시키모리 양 6권",
-      "link": "https://ridibooks.com/books/845022640",
-      "author": "마키 케이고",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "아인 16권",
-      "link": "https://ridibooks.com/books/505027505",
-      "author": "사쿠라이 가몬",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "SHY(샤이) 1권",
-      "link": "https://ridibooks.com/books/2066002431",
-      "author": "미키 부키미",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "나기의 휴식 6권",
-      "link": "https://ridibooks.com/books/2066002430",
-      "author": "코나리 미사토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마법에 걸린 신학기 3권",
-      "link": "https://ridibooks.com/books/845022642",
-      "author": "히가와 쿄코",
-      "genre": "판타지/SF"
     }
   ]
 }
