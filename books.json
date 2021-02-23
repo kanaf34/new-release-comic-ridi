@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "꽃송이 또로록 4권",
+      "link": "https://ridibooks.com/books/4406000007",
+      "author": "토리노 시노",
+      "genre": "GL"
+    },
+    {
       "title": "노부나가의 셰프 23권",
       "link": "https://ridibooks.com/books/297034650",
       "author": "카지카와 타쿠로",
@@ -13,27 +19,15 @@
       "genre": "드라마"
     },
     {
-      "title": "어른의 방과 후 3권",
-      "link": "https://ridibooks.com/books/297034673",
-      "author": "이치히",
-      "genre": "드라마"
-    },
-    {
       "title": "[코믹] 29세 독신은 이세계에서 자유롭게 살고…… 싶었다 3권",
       "link": "https://ridibooks.com/books/3010004235",
       "author": "오오하마이코",
       "genre": "판타지/SF"
     },
     {
-      "title": "꽃송이 또로록 4권",
-      "link": "https://ridibooks.com/books/4406000007",
-      "author": "토리노 시노",
-      "genre": "GL"
-    },
-    {
-      "title": "영 블랙 잭 7권",
-      "link": "https://ridibooks.com/books/505027568",
-      "author": "오오쿠마 유우고",
+      "title": "파출소PB 2권",
+      "link": "https://ridibooks.com/books/908003577",
+      "author": "이시카와 치카",
       "genre": "드라마"
     },
     {
@@ -43,9 +37,15 @@
       "genre": "해외 순정"
     },
     {
-      "title": "파출소PB 2권",
-      "link": "https://ridibooks.com/books/908003577",
-      "author": "이시카와 치카",
+      "title": "어른의 방과 후 3권",
+      "link": "https://ridibooks.com/books/297034673",
+      "author": "이치히",
+      "genre": "드라마"
+    },
+    {
+      "title": "영 블랙 잭 7권",
+      "link": "https://ridibooks.com/books/505027568",
+      "author": "오오쿠마 유우고",
       "genre": "드라마"
     },
     {
