@@ -1,34 +1,16 @@
 {
   "books": [
     {
-      "title": "드랍 4권",
-      "link": "https://ridibooks.com/books/806006540",
-      "author": "스즈키 다이",
-      "genre": "액션"
-    },
-    {
-      "title": "권왕무적 20권",
-      "link": "https://ridibooks.com/books/845022696",
-      "author": "초우",
-      "genre": "무협"
-    },
-    {
-      "title": "[코믹] 낙제 기사의 영웅담 10권",
-      "link": "https://ridibooks.com/books/2066002434",
-      "author": "소라미치 메구무",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "너는 내 최애가 아니야 3권 (완결)",
       "link": "https://ridibooks.com/books/2498006457",
       "author": "아사다 쿄마",
       "genre": "해외 순정"
     },
     {
-      "title": "시원찮은 직장인과 불량 소녀 4권",
-      "link": "https://ridibooks.com/books/297034676",
-      "author": "타마키 나오",
-      "genre": "해외 순정"
+      "title": "[코믹] 낙제 기사의 영웅담 10권",
+      "link": "https://ridibooks.com/books/2066002434",
+      "author": "소라미치 메구무",
+      "genre": "판타지/SF"
     },
     {
       "title": "신의 물방울 최종장 마리아주 20권",
@@ -47,6 +29,24 @@
       "link": "https://ridibooks.com/books/840035470",
       "author": "아오키 나기코",
       "genre": "드라마"
+    },
+    {
+      "title": "시원찮은 직장인과 불량 소녀 4권",
+      "link": "https://ridibooks.com/books/297034676",
+      "author": "타마키 나오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "드랍 4권",
+      "link": "https://ridibooks.com/books/806006540",
+      "author": "스즈키 다이",
+      "genre": "액션"
+    },
+    {
+      "title": "권왕무적 20권",
+      "link": "https://ridibooks.com/books/845022696",
+      "author": "초우",
+      "genre": "무협"
     },
     {
       "title": "꽃송이 또로록 4권",
