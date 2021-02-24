@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "드랍 4권",
+      "link": "https://ridibooks.com/books/806006540",
+      "author": "스즈키 다이",
+      "genre": "액션"
+    },
+    {
+      "title": "권왕무적 20권",
+      "link": "https://ridibooks.com/books/845022696",
+      "author": "초우",
+      "genre": "무협"
+    },
+    {
       "title": "[코믹] 낙제 기사의 영웅담 10권",
       "link": "https://ridibooks.com/books/2066002434",
       "author": "소라미치 메구무",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/297034649",
       "author": "타케",
       "genre": "해외 순정"
-    },
-    {
-      "title": "데아이몬-화과자 이야기- 3권",
-      "link": "https://ridibooks.com/books/2007002748",
-      "author": "아사노 린",
-      "genre": "드라마"
-    },
-    {
-      "title": "코하루와 친구들의 애니멀 보이스 2권",
-      "link": "https://ridibooks.com/books/2007002745",
-      "author": "카토 에리코",
-      "genre": "드라마"
     }
   ]
 }
