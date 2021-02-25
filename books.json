@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "열대어는 눈을 동경한다 5권",
+      "link": "https://ridibooks.com/books/3802000018",
+      "author": "하기노 마코토",
+      "genre": "GL"
+    },
+    {
+      "title": "[코믹] 내 최애는 악역 영애 1권",
+      "link": "https://ridibooks.com/books/2066002435",
+      "author": "아오노시모",
+      "genre": "GL"
+    },
+    {
+      "title": "타블로 게이트 9권",
+      "link": "https://ridibooks.com/books/2066002440",
+      "author": "스즈키 리카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "도쿄 리벤저스 7권",
+      "link": "https://ridibooks.com/books/505027506",
+      "author": "와쿠이 켄",
+      "genre": "학원"
+    },
+    {
+      "title": "이번에야말로 행복해질 거예요! 4권 (완결)",
+      "link": "https://ridibooks.com/books/4414000012",
+      "author": "후지마루 마메노스케",
+      "genre": "드라마"
+    },
+    {
+      "title": "이과가 사랑에 빠졌기에 증명해 보았다 7권",
+      "link": "https://ridibooks.com/books/2066002437",
+      "author": "야마모토 아리프레드",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "모모노키 가의 네 자매 2권",
+      "link": "https://ridibooks.com/books/806006535",
+      "author": "맥스멜론",
+      "genre": "드라마"
+    },
+    {
       "title": "하이큐!! 44권",
       "link": "https://ridibooks.com/books/1019037309",
       "author": "후루다테 하루이치",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/1019037321",
       "author": "타카하시 신",
       "genre": "드라마"
-    },
-    {
-      "title": "용사가 죽었다! 17권",
-      "link": "https://ridibooks.com/books/1019037326",
-      "author": "스바루이치",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "벌꿀에 첫사랑 5권",
-      "link": "https://ridibooks.com/books/1019037338",
-      "author": "미나세 아이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "삼국군영전 화봉요원 30권",
-      "link": "https://ridibooks.com/books/1561007880",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "늑대아이(코믹) 3권 (완결)",
-      "link": "https://ridibooks.com/books/297034704",
-      "author": "유우",
-      "genre": "드라마"
-    },
-    {
-      "title": "폭식비의 검 2권",
-      "link": "https://ridibooks.com/books/3010004239",
-      "author": "모치론상",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "너는 내 최애가 아니야 3권 (완결)",
-      "link": "https://ridibooks.com/books/2498006457",
-      "author": "아사다 쿄마",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 낙제 기사의 영웅담 10권",
-      "link": "https://ridibooks.com/books/2066002434",
-      "author": "소라미치 메구무",
-      "genre": "판타지/SF"
     }
   ]
 }
