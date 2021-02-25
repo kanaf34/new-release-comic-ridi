@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "하이큐!! 44권",
+      "link": "https://ridibooks.com/books/1019037309",
+      "author": "후루다테 하루이치",
+      "genre": "스포츠"
+    },
+    {
+      "title": "체인소 맨 5권",
+      "link": "https://ridibooks.com/books/1019037308",
+      "author": "후지모토 타츠키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마왕성에서 잘 자요 15권",
+      "link": "https://ridibooks.com/books/1019037325",
+      "author": "쿠마노마타 카기지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "매일 나비 11권 (완결)",
+      "link": "https://ridibooks.com/books/1019037337",
+      "author": "모리시타 수",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "군청에 사이렌 11권",
+      "link": "https://ridibooks.com/books/1019037318",
+      "author": "카와시타 미즈키",
+      "genre": "스포츠"
+    },
+    {
+      "title": "도서관의 주인 15권 (완결)",
+      "link": "https://ridibooks.com/books/297034701",
+      "author": "시노하라 우미하루",
+      "genre": "드라마"
+    },
+    {
+      "title": "사랑이 과해요, 아오기리 군 2권",
+      "link": "https://ridibooks.com/books/678013186",
+      "author": "치쿠사 아카리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "무인보 11권 (완결)",
+      "link": "https://ridibooks.com/books/1603052768",
+      "author": "천제황",
+      "genre": "무협"
+    },
+    {
       "title": "뽀로의 유학일기 2권 (완결)",
       "link": "https://ridibooks.com/books/1019037300",
       "author": "곤다이라 히츠지",
@@ -13,27 +61,9 @@
       "genre": "스포츠"
     },
     {
-      "title": "체인소 맨 5권",
-      "link": "https://ridibooks.com/books/1019037308",
-      "author": "후지모토 타츠키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "하이큐!! 44권",
-      "link": "https://ridibooks.com/books/1019037309",
-      "author": "후루다테 하루이치",
-      "genre": "스포츠"
-    },
-    {
       "title": "신 테니스의 왕자 30권",
       "link": "https://ridibooks.com/books/1019037310",
       "author": "코노미 타케시",
-      "genre": "스포츠"
-    },
-    {
-      "title": "군청에 사이렌 11권",
-      "link": "https://ridibooks.com/books/1019037318",
-      "author": "카와시타 미즈키",
       "genre": "스포츠"
     },
     {
@@ -43,22 +73,10 @@
       "genre": "드라마"
     },
     {
-      "title": "마왕성에서 잘 자요 15권",
-      "link": "https://ridibooks.com/books/1019037325",
-      "author": "쿠마노마타 카기지",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "용사가 죽었다! 17권",
       "link": "https://ridibooks.com/books/1019037326",
       "author": "스바루이치",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "매일 나비 11권 (완결)",
-      "link": "https://ridibooks.com/books/1019037337",
-      "author": "모리시타 수",
-      "genre": "해외 순정"
     },
     {
       "title": "벌꿀에 첫사랑 5권",
@@ -71,12 +89,6 @@
       "link": "https://ridibooks.com/books/1561007880",
       "author": "진모",
       "genre": "무협"
-    },
-    {
-      "title": "도서관의 주인 15권 (완결)",
-      "link": "https://ridibooks.com/books/297034701",
-      "author": "시노하라 우미하루",
-      "genre": "드라마"
     },
     {
       "title": "늑대아이(코믹) 3권 (완결)",
@@ -106,18 +118,6 @@
       "title": "[코믹] 낙제 기사의 영웅담 10권",
       "link": "https://ridibooks.com/books/2066002434",
       "author": "소라미치 메구무",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "신의 물방울 최종장 마리아주 20권",
-      "link": "https://ridibooks.com/books/505027553",
-      "author": "아기 다다시",
-      "genre": "드라마"
-    },
-    {
-      "title": "하셰릭 ~전생왕자 영웅담~ 2권",
-      "link": "https://ridibooks.com/books/806006537",
-      "author": "키타구니 라토",
       "genre": "판타지/SF"
     }
   ]
