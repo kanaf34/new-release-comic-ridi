@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "월간 순정 노자키군 12권",
+      "link": "https://ridibooks.com/books/505027870",
+      "author": "츠바키 이즈미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "케야키 자매의 사계절 2권",
+      "link": "https://ridibooks.com/books/297034780",
+      "author": "오오츠키 이치카",
+      "genre": "드라마"
+    },
+    {
+      "title": "우리 상사는 잘생겼어 2권",
+      "link": "https://ridibooks.com/books/3802000016",
+      "author": "야마사키 하루타",
+      "genre": "드라마"
+    },
+    {
+      "title": "호러 로맨스, 처용 4권 (완결)",
+      "link": "https://ridibooks.com/books/1515017366",
+      "author": "모연",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "[코믹] 악역 영애는 서민에게 시집가고 싶어!! 2권",
+      "link": "https://ridibooks.com/books/806006544",
+      "author": "나비코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "고양이화가 주베의 기묘한 이야기 22권",
+      "link": "https://ridibooks.com/books/297034754",
+      "author": "나가오 마루",
+      "genre": "드라마"
+    },
+    {
+      "title": "퇴마사와 악마짱 4권",
+      "link": "https://ridibooks.com/books/297034755",
+      "author": "토나미 쇼",
+      "genre": "드라마"
+    },
+    {
+      "title": "DAYS(데이즈) 41권",
+      "link": "https://ridibooks.com/books/3010004259",
+      "author": "야스다 츠요시",
+      "genre": "스포츠"
+    },
+    {
+      "title": "헬보이 Vol. 12 (완결)",
+      "link": "https://ridibooks.com/books/862001493",
+      "author": "마이크 미뇰라",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "불의 검(신장판) 12권 (완결)",
       "link": "https://ridibooks.com/books/297034776",
       "author": "김혜린",
@@ -65,60 +119,6 @@
       "link": "https://ridibooks.com/books/1603052776",
       "author": "박인권",
       "genre": "액션"
-    },
-    {
-      "title": "[미즈] 남친인 척해줄까? 3권",
-      "link": "https://ridibooks.com/books/840035641",
-      "author": "타카기 마코토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "코믹진 점프 149호",
-      "link": "https://ridibooks.com/books/845022713",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "이과가 사랑에 빠졌기에 증명해 보았다 7권",
-      "link": "https://ridibooks.com/books/2066002437",
-      "author": "야마모토 아리프레드",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "모모노키 가의 네 자매 2권",
-      "link": "https://ridibooks.com/books/806006535",
-      "author": "맥스멜론",
-      "genre": "드라마"
-    },
-    {
-      "title": "하이큐!! 44권",
-      "link": "https://ridibooks.com/books/1019037309",
-      "author": "후루다테 하루이치",
-      "genre": "스포츠"
-    },
-    {
-      "title": "체인소 맨 5권",
-      "link": "https://ridibooks.com/books/1019037308",
-      "author": "후지모토 타츠키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마왕성에서 잘 자요 15권",
-      "link": "https://ridibooks.com/books/1019037325",
-      "author": "쿠마노마타 카기지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "매일 나비 11권 (완결)",
-      "link": "https://ridibooks.com/books/1019037337",
-      "author": "모리시타 수",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "군청에 사이렌 11권",
-      "link": "https://ridibooks.com/books/1019037318",
-      "author": "카와시타 미즈키",
-      "genre": "스포츠"
     }
   ]
 }
