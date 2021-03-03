@@ -7,10 +7,10 @@
       "genre": "해외 순정"
     },
     {
-      "title": "짐승의 길 4권",
-      "link": "https://ridibooks.com/books/297034785",
-      "author": "맛타쿠 모스케-유메우타",
-      "genre": "판타지/SF"
+      "title": "동네술집 와카오 ~와카코와 술 체인점~ 3권",
+      "link": "https://ridibooks.com/books/806006543",
+      "author": "냔바라 넨즈",
+      "genre": "드라마"
     },
     {
       "title": "오리엔트 10권",
@@ -19,10 +19,16 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "동네술집 와카오 ~와카코와 술 체인점~ 3권",
-      "link": "https://ridibooks.com/books/806006543",
-      "author": "냔바라 넨즈",
-      "genre": "드라마"
+      "title": "짐승의 길 4권",
+      "link": "https://ridibooks.com/books/297034785",
+      "author": "맛타쿠 모스케-유메우타",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "건달의 연인 5권",
+      "link": "https://ridibooks.com/books/1603052836",
+      "author": "조명운",
+      "genre": "액션"
     },
     {
       "title": "월간 순정 노자키군 12권",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/2066002435",
       "author": "아오노시모",
       "genre": "GL"
-    },
-    {
-      "title": "타블로 게이트 9권",
-      "link": "https://ridibooks.com/books/2066002440",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
     }
   ]
 }
