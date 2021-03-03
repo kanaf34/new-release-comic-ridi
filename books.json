@@ -1,6 +1,72 @@
 {
   "books": [
     {
+      "title": "하이큐!! 45권 (완결)",
+      "link": "https://ridibooks.com/books/1019037490",
+      "author": "후루다테 하루이치",
+      "genre": "스포츠"
+    },
+    {
+      "title": "근사한 남친 10권",
+      "link": "https://ridibooks.com/books/1019037503",
+      "author": "카와하라 카즈네",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 어둠의 실력자가 되고 싶어서! 3권",
+      "link": "https://ridibooks.com/books/845022739",
+      "author": "사카노 안리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "청루 오페라 9권",
+      "link": "https://ridibooks.com/books/1019037492",
+      "author": "사쿠라코우지 카노코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "백작과 요정 4권 (완결)",
+      "link": "https://ridibooks.com/books/1019037487",
+      "author": "아유코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "방과 후 찻집에서 3권",
+      "link": "https://ridibooks.com/books/2498006462",
+      "author": "아즈사 키나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "리쿠도 22권",
+      "link": "https://ridibooks.com/books/1019037491",
+      "author": "마츠바라 토시미츠",
+      "genre": "스포츠"
+    },
+    {
+      "title": "꽃보다 맑음(꽃보다 남자 NEXT SEASON) 14권",
+      "link": "https://ridibooks.com/books/1019037510",
+      "author": "카미오 요코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "CITY(시티) 11권",
+      "link": "https://ridibooks.com/books/297034803",
+      "author": "아라이 케이이치",
+      "genre": "코믹"
+    },
+    {
+      "title": "스승 시리즈 6권",
+      "link": "https://ridibooks.com/books/845022734",
+      "author": "카타야마 슈",
+      "genre": "드라마"
+    },
+    {
+      "title": "우폿테!! 12권",
+      "link": "https://ridibooks.com/books/845022735",
+      "author": "텐노지 키츠네",
+      "genre": "코믹"
+    },
+    {
       "title": "그래도 아유무는 다가온다 5권",
       "link": "https://ridibooks.com/books/297034778",
       "author": "야마모토 소이치로",
@@ -53,72 +119,6 @@
       "link": "https://ridibooks.com/books/1515017366",
       "author": "모연",
       "genre": "국내 순정"
-    },
-    {
-      "title": "[코믹] 악역 영애는 서민에게 시집가고 싶어!! 2권",
-      "link": "https://ridibooks.com/books/806006544",
-      "author": "나비코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "고양이화가 주베의 기묘한 이야기 22권",
-      "link": "https://ridibooks.com/books/297034754",
-      "author": "나가오 마루",
-      "genre": "드라마"
-    },
-    {
-      "title": "챔프D 180호(2021.03.15)",
-      "link": "https://ridibooks.com/books/847003446",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "퇴마사와 악마짱 4권 (완결)",
-      "link": "https://ridibooks.com/books/297034755",
-      "author": "토나미 쇼",
-      "genre": "드라마"
-    },
-    {
-      "title": "DAYS(데이즈) 41권",
-      "link": "https://ridibooks.com/books/3010004259",
-      "author": "야스다 츠요시",
-      "genre": "스포츠"
-    },
-    {
-      "title": "헬보이 Vol. 12 (완결)",
-      "link": "https://ridibooks.com/books/862001493",
-      "author": "마이크 미뇰라",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "불의 검(신장판) 12권 (완결)",
-      "link": "https://ridibooks.com/books/297034776",
-      "author": "김혜린",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "파한집(애장판) 4권 (완결)",
-      "link": "https://ridibooks.com/books/297034763",
-      "author": "윤지운",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "용권풍 [개정판] 40권 (완결)",
-      "link": "https://ridibooks.com/books/1603052820",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "열대어는 눈을 동경한다 5권",
-      "link": "https://ridibooks.com/books/3802000018",
-      "author": "하기노 마코토",
-      "genre": "GL"
-    },
-    {
-      "title": "[코믹] 내 최애는 악역 영애 1권",
-      "link": "https://ridibooks.com/books/2066002435",
-      "author": "하나가타",
-      "genre": "GL"
     }
   ]
 }
