@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "내 마음의 위험한 녀석 3권",
+      "link": "https://ridibooks.com/books/2066002448",
+      "author": "사쿠라이 노리오",
+      "genre": "학원"
+    },
+    {
+      "title": "호오즈키의 냉철 31권 (완결)",
+      "link": "https://ridibooks.com/books/297034880",
+      "author": "에구치 나츠미",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 이문 1권",
+      "link": "https://ridibooks.com/books/2066002449",
+      "author": "토노 타에",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "오컬트 짱은 말할 수 없어 4권",
+      "link": "https://ridibooks.com/books/297034881",
+      "author": "혼다 하지메",
+      "genre": "코믹"
+    },
+    {
+      "title": "바닷빛 마치 1권",
+      "link": "https://ridibooks.com/books/2066002450",
+      "author": "미나미토",
+      "genre": "드라마"
+    },
+    {
       "title": "하이큐!! 45권 (완결)",
       "link": "https://ridibooks.com/books/1019037490",
       "author": "후루다테 하루이치",
@@ -88,36 +118,6 @@
       "title": "그래도 아유무는 다가온다 5권",
       "link": "https://ridibooks.com/books/297034778",
       "author": "야마모토 소이치로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "동네술집 와카오 ~와카코와 술 체인점~ 3권",
-      "link": "https://ridibooks.com/books/806006543",
-      "author": "냔바라 넨즈",
-      "genre": "드라마"
-    },
-    {
-      "title": "오리엔트 10권",
-      "link": "https://ridibooks.com/books/297034786",
-      "author": "오타카 시노부",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "짐승의 길 4권",
-      "link": "https://ridibooks.com/books/297034785",
-      "author": "맛타쿠 모스케-유메우타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "건달의 연인 5권",
-      "link": "https://ridibooks.com/books/1603052836",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "월간 순정 노자키군 12권",
-      "link": "https://ridibooks.com/books/505027870",
-      "author": "츠바키 이즈미",
       "genre": "해외 순정"
     }
   ]
