@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "추남 진성 파이터 3권",
+      "link": "https://ridibooks.com/books/297034955",
+      "author": "히로마츠 료",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "이세계 현자의 전생 무쌍 2권",
+      "link": "https://ridibooks.com/books/3010004277",
+      "author": "사토 미소",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "한때는 신이었던 짐승들에게 11권",
+      "link": "https://ridibooks.com/books/505027899",
+      "author": "메이비",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "꿈에서 본 그 아이를 위하여 5권",
+      "link": "https://ridibooks.com/books/505027900",
+      "author": "산베 케이",
+      "genre": "드라마"
+    },
+    {
+      "title": "전설의 중고차 딜러 6권",
+      "link": "https://ridibooks.com/books/806006571",
+      "author": "타시",
+      "genre": "드라마"
+    },
+    {
+      "title": "순결소녀와 유니콘 2권 (완결)",
+      "link": "https://ridibooks.com/books/908003596",
+      "author": "이와토비 네코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "보상밥 4권",
+      "link": "https://ridibooks.com/books/908003597",
+      "author": "코모 토모코",
+      "genre": "드라마"
+    },
+    {
       "title": "내 마음의 위험한 녀석 3권",
       "link": "https://ridibooks.com/books/2066002448",
       "author": "사쿠라이 노리오",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/1019037487",
       "author": "아유코",
       "genre": "해외 순정"
-    },
-    {
-      "title": "방과 후 찻집에서 3권",
-      "link": "https://ridibooks.com/books/2498006462",
-      "author": "아즈사 키나",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "총몽 Last Order 완전판 12권 (2부 완결)",
-      "link": "https://ridibooks.com/books/371002300",
-      "author": "기시로 유키토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아비도 [개정판] 10권",
-      "link": "https://ridibooks.com/books/1603052846",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "리쿠도 22권",
-      "link": "https://ridibooks.com/books/1019037491",
-      "author": "마츠바라 토시미츠",
-      "genre": "스포츠"
-    },
-    {
-      "title": "꽃보다 맑음(꽃보다 남자 NEXT SEASON) 14권",
-      "link": "https://ridibooks.com/books/1019037510",
-      "author": "카미오 요코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "CITY(시티) 11권",
-      "link": "https://ridibooks.com/books/297034803",
-      "author": "아라이 케이이치",
-      "genre": "코믹"
-    },
-    {
-      "title": "[코믹] 스승 시리즈 6권",
-      "link": "https://ridibooks.com/books/845022734",
-      "author": "카타야마 슈",
-      "genre": "드라마"
     }
   ]
 }
