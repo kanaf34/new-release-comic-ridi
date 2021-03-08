@@ -1,6 +1,72 @@
 {
   "books": [
     {
+      "title": "[코믹] 악역 영애이기 때문에 최종 보스를 길러보았습니다 3권 (완결)",
+      "link": "https://ridibooks.com/books/2007002749",
+      "author": "유즈 안코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "게게게의 기타로 10권 (완결)",
+      "link": "https://ridibooks.com/books/806006583",
+      "author": "미즈키 시게루",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "악역 영애는 이웃나라 왕태자의 사랑을 듬뿍 받는다 6권",
+      "link": "https://ridibooks.com/books/2007002751",
+      "author": "푸니짱",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "악마와 노래 2권 (완결)",
+      "link": "https://ridibooks.com/books/297034957",
+      "author": "모리시타 마코토",
+      "genre": "코믹"
+    },
+    {
+      "title": "나와 선생님의 환수진찰록 5권 (완결)",
+      "link": "https://ridibooks.com/books/845022760",
+      "author": "카지야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "코하루와 친구들의 애니멀 보이스 3권",
+      "link": "https://ridibooks.com/books/2007002752",
+      "author": "카토 에리코",
+      "genre": "드라마"
+    },
+    {
+      "title": "생명의 그릇 44권",
+      "link": "https://ridibooks.com/books/845022765",
+      "author": "우에하라 키미코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "오리타타부 1권",
+      "link": "https://ridibooks.com/books/297034877",
+      "author": "콘치키",
+      "genre": "코믹"
+    },
+    {
+      "title": "니시오기쿠보 런스루 3권",
+      "link": "https://ridibooks.com/books/297034964",
+      "author": "유키 링고",
+      "genre": "드라마"
+    },
+    {
+      "title": "Have a Great Sunday 2권",
+      "link": "https://ridibooks.com/books/505027913",
+      "author": "오노 나츠메",
+      "genre": "드라마"
+    },
+    {
+      "title": "농농할멈과 나 2권 (완결)",
+      "link": "https://ridibooks.com/books/806006585",
+      "author": "미즈키 시게루",
+      "genre": "드라마"
+    },
+    {
       "title": "한때는 신이었던 짐승들에게 11권",
       "link": "https://ridibooks.com/books/505027899",
       "author": "메이비",
@@ -53,72 +119,6 @@
       "link": "https://ridibooks.com/books/806006571",
       "author": "타시",
       "genre": "드라마"
-    },
-    {
-      "title": "내 마음의 위험한 녀석 3권",
-      "link": "https://ridibooks.com/books/2066002448",
-      "author": "사쿠라이 노리오",
-      "genre": "학원"
-    },
-    {
-      "title": "호오즈키의 냉철 31권 (완결)",
-      "link": "https://ridibooks.com/books/297034880",
-      "author": "에구치 나츠미",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 이문 1권",
-      "link": "https://ridibooks.com/books/2066002449",
-      "author": "토노 타에",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "오컬트 짱은 말할 수 없어 4권",
-      "link": "https://ridibooks.com/books/297034881",
-      "author": "혼다 하지메",
-      "genre": "코믹"
-    },
-    {
-      "title": "바닷빛 마치 1권",
-      "link": "https://ridibooks.com/books/2066002450",
-      "author": "미나미토",
-      "genre": "드라마"
-    },
-    {
-      "title": "[할리퀸] 파리에서의 재회",
-      "link": "https://ridibooks.com/books/1458005470",
-      "author": "오가타 히로미",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "개털인생 25권",
-      "link": "https://ridibooks.com/books/1603052858",
-      "author": "박인권",
-      "genre": "액션"
-    },
-    {
-      "title": "독사 5권",
-      "link": "https://ridibooks.com/books/1603052853",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "하이큐!! 45권 (완결)",
-      "link": "https://ridibooks.com/books/1019037490",
-      "author": "후루다테 하루이치",
-      "genre": "스포츠"
-    },
-    {
-      "title": "근사한 남친 10권",
-      "link": "https://ridibooks.com/books/1019037503",
-      "author": "카와하라 카즈네",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 어둠의 실력자가 되고 싶어서! 3권",
-      "link": "https://ridibooks.com/books/845022739",
-      "author": "사카노 안리",
-      "genre": "판타지/SF"
     }
   ]
 }
