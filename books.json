@@ -1,27 +1,15 @@
 {
   "books": [
     {
-      "title": "추남 진성 파이터 3권",
-      "link": "https://ridibooks.com/books/297034955",
-      "author": "히로마츠 료",
+      "title": "한때는 신이었던 짐승들에게 11권",
+      "link": "https://ridibooks.com/books/505027899",
+      "author": "메이비",
       "genre": "판타지/SF"
     },
     {
-      "title": "이세계 현자의 전생 무쌍 2권",
-      "link": "https://ridibooks.com/books/3010004277",
-      "author": "사토 미소",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "꿈에서 본 그 아이를 위하여 5권",
-      "link": "https://ridibooks.com/books/505027900",
-      "author": "산베 케이",
-      "genre": "드라마"
-    },
-    {
-      "title": "전설의 중고차 딜러 6권",
-      "link": "https://ridibooks.com/books/806006571",
-      "author": "타시",
+      "title": "보상밥 4권",
+      "link": "https://ridibooks.com/books/908003597",
+      "author": "코모 토모코",
       "genre": "드라마"
     },
     {
@@ -31,16 +19,28 @@
       "genre": "해외 순정"
     },
     {
-      "title": "보상밥 4권",
-      "link": "https://ridibooks.com/books/908003597",
-      "author": "코모 토모코",
+      "title": "꿈에서 본 그 아이를 위하여 5권",
+      "link": "https://ridibooks.com/books/505027900",
+      "author": "산베 케이",
       "genre": "드라마"
     },
     {
-      "title": "한때는 신이었던 짐승들에게 11권",
-      "link": "https://ridibooks.com/books/505027899",
-      "author": "메이비",
+      "title": "이세계 현자의 전생 무쌍 2권",
+      "link": "https://ridibooks.com/books/3010004277",
+      "author": "사토 미소",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "추남 진성 파이터 3권",
+      "link": "https://ridibooks.com/books/297034955",
+      "author": "히로마츠 료",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "전설의 중고차 딜러 6권",
+      "link": "https://ridibooks.com/books/806006571",
+      "author": "타시",
+      "genre": "드라마"
     },
     {
       "title": "내 마음의 위험한 녀석 3권",
