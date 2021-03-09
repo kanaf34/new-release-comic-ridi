@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "코세르테르의 용술사~어린용 이야기~ 7권",
+      "link": "https://ridibooks.com/books/2498006477",
+      "author": "이스루기 아유마",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 괴물 이야기 6권",
+      "link": "https://ridibooks.com/books/505027965",
+      "author": "Oh! Great",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 예를 들어 라스트 던전 앞 마을의 소년이 초반 마을에서 사는 듯한 이야기 4권",
+      "link": "https://ridibooks.com/books/1690000875",
+      "author": "후세마치 하지메",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 현자의 손자 7권",
+      "link": "https://ridibooks.com/books/777085465",
+      "author": "오가타 슌스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 온라인 게임의 신부는 여자아이가 아니라고 생각한 거야? 8권 (완결)",
+      "link": "https://ridibooks.com/books/777085462",
+      "author": "이시가미 카즈이",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "[코믹] 악역 영애이기 때문에 최종 보스를 길러보았습니다 3권 (완결)",
       "link": "https://ridibooks.com/books/2007002749",
       "author": "유즈 안코",
@@ -88,36 +118,6 @@
       "title": "꿈에서 본 그 아이를 위하여 5권",
       "link": "https://ridibooks.com/books/505027900",
       "author": "산베 케이",
-      "genre": "드라마"
-    },
-    {
-      "title": "이세계 현자의 전생 무쌍 2권",
-      "link": "https://ridibooks.com/books/3010004277",
-      "author": "사토 미소",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "추남 진성 파이터 3권",
-      "link": "https://ridibooks.com/books/297034955",
-      "author": "히로마츠 료",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[e북] Party(파티) 2021년 4월호",
-      "link": "https://ridibooks.com/books/505027973",
-      "author": "파티 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "[마블] 마블 나우! 어메이징 스파이더맨 Vol. 4 밤손님",
-      "link": "https://ridibooks.com/books/862001340",
-      "author": "댄 슬롯",
-      "genre": "액션"
-    },
-    {
-      "title": "전설의 중고차 딜러 6권",
-      "link": "https://ridibooks.com/books/806006571",
-      "author": "타시",
       "genre": "드라마"
     }
   ]
