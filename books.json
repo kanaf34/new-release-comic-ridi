@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "주술회전 12권",
+      "link": "https://ridibooks.com/books/1019037552",
+      "author": "아쿠타미 게게",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "코세르테르의 용술사~어린용 이야기~ 7권",
       "link": "https://ridibooks.com/books/2498006477",
       "author": "이스루기 아유마",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/806006585",
       "author": "미즈키 시게루",
       "genre": "드라마"
-    },
-    {
-      "title": "한때는 신이었던 짐승들에게 11권",
-      "link": "https://ridibooks.com/books/505027899",
-      "author": "메이비",
-      "genre": "판타지/SF"
     }
   ]
 }
