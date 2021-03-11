@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "[코믹] 변경의 노기사:발드로엔 5권",
+      "link": "https://ridibooks.com/books/845022774",
+      "author": "키쿠이시 모리오",
+      "genre": "드라마"
+    },
+    {
+      "title": "소년마법사 19권 (완결)",
+      "link": "https://ridibooks.com/books/297035109",
+      "author": "나루시마 유리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "원댄스 1권",
+      "link": "https://ridibooks.com/books/2066002452",
+      "author": "커피",
+      "genre": "학원"
+    },
+    {
+      "title": "쿠온의 숲 6권 (완결)",
+      "link": "https://ridibooks.com/books/297035112",
+      "author": "츠리마키 노도카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "나는 100만 명의 목숨 위에 서 있다 11권",
+      "link": "https://ridibooks.com/books/3010004295",
+      "author": "나오 아키나리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "피치걸 NEXT (피치걸 넥스트) 8권 (완결)",
+      "link": "https://ridibooks.com/books/505027970",
+      "author": "우에다 미와",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "에비가와초 요괴 카페 6권 (완결)",
+      "link": "https://ridibooks.com/books/845022776",
+      "author": "우에다 신슈",
+      "genre": "드라마"
+    },
+    {
+      "title": "꼬르륵 배고픈 남자들의 밥 2권 (완결)",
+      "link": "https://ridibooks.com/books/845022778",
+      "author": "요시카와 유미",
+      "genre": "드라마"
+    },
+    {
       "title": "주술회전 12권",
       "link": "https://ridibooks.com/books/1019037552",
       "author": "아쿠타미 게게",
@@ -71,54 +119,6 @@
       "link": "https://ridibooks.com/books/806006587",
       "author": "안베 마사히로",
       "genre": "학원"
-    },
-    {
-      "title": "아비도 [개정판] 20권",
-      "link": "https://ridibooks.com/books/1603052884",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "[할리퀸] 올드 잉글리시 티룸",
-      "link": "https://ridibooks.com/books/1458005452",
-      "author": "오카다 준코",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "나는야 밤비걸 3권 (완결)",
-      "link": "https://ridibooks.com/books/1019037550",
-      "author": "마키 요코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그 남자, 운명이니까 6권 (완결)",
-      "link": "https://ridibooks.com/books/1019037551",
-      "author": "키타가와 미유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "플런더러 13권",
-      "link": "https://ridibooks.com/books/2007002764",
-      "author": "미나즈키 수",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "꿈을 먹는 맥과 악몽의 아이 3권",
-      "link": "https://ridibooks.com/books/297035097",
-      "author": "쿠사카 미키유키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "우리들의 선택 3권 (완결)",
-      "link": "https://ridibooks.com/books/297035099",
-      "author": "사자나미 미사",
-      "genre": "드라마"
-    },
-    {
-      "title": "츠츠지모리-유품정리 시말록- 3권 (완결)",
-      "link": "https://ridibooks.com/books/297035100",
-      "author": "naked ape",
-      "genre": "드라마"
     }
   ]
 }
