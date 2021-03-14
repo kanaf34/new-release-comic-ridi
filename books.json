@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "비스타즈 (BEASTARS) 10권",
+      "link": "https://ridibooks.com/books/1690000877",
+      "author": "이타가키 파루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "새내기 자매와 두 사람의 식탁 7권",
+      "link": "https://ridibooks.com/books/1690000888",
+      "author": "히이라기 유타카",
+      "genre": "드라마"
+    },
+    {
+      "title": "가까워지고 싶은 미야젠 양 1권",
+      "link": "https://ridibooks.com/books/2066002454",
+      "author": "아키타카",
+      "genre": "학원"
+    },
+    {
+      "title": "사정을 모르는 전학생이 거침없이 다가온다. 4권",
+      "link": "https://ridibooks.com/books/845022779",
+      "author": "카와무라 타쿠",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 오버로드 11권",
+      "link": "https://ridibooks.com/books/1690000889",
+      "author": "미야마 후긴",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 오버로드 불사자의 왕! 3권",
+      "link": "https://ridibooks.com/books/1690000890",
+      "author": "쥬아미",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "낙명 마녀와 시간을 거스르는 서방님의 죽지 않는 혼약인 2권",
+      "link": "https://ridibooks.com/books/3010004302",
+      "author": "아즈야 치토세",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "K2 (닥터 K 3부) 36권",
+      "link": "https://ridibooks.com/books/505027972",
+      "author": "마후네 카즈오",
+      "genre": "드라마"
+    },
+    {
+      "title": "사실 나는 7권",
+      "link": "https://ridibooks.com/books/505027974",
+      "author": "마스다 에이지",
+      "genre": "해외 순정"
+    },
+    {
       "title": "[코믹] 변경의 노기사:발드로엔 5권",
       "link": "https://ridibooks.com/books/845022774",
       "author": "키쿠이시 모리오",
@@ -64,60 +118,6 @@
       "title": "주술회전 12권",
       "link": "https://ridibooks.com/books/1019037552",
       "author": "아쿠타미 게게",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "어제 뭐 먹었어? 17권",
-      "link": "https://ridibooks.com/books/2007002761",
-      "author": "요시나가 후미",
-      "genre": "드라마"
-    },
-    {
-      "title": "괴물사변 10권",
-      "link": "https://ridibooks.com/books/1019037562",
-      "author": "아이모토 슈",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "다이아몬드 에이스 actⅡ 22권",
-      "link": "https://ridibooks.com/books/505027911",
-      "author": "테라지마 유지",
-      "genre": "스포츠"
-    },
-    {
-      "title": "마중 나가는 시부야 군 3권",
-      "link": "https://ridibooks.com/books/1019037540",
-      "author": "마코토 미츠노",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "A코씨의 연인 6권",
-      "link": "https://ridibooks.com/books/297035096",
-      "author": "콘도 아키노",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "평범한 코이코짱 13권",
-      "link": "https://ridibooks.com/books/1019037563",
-      "author": "나나지 나가무",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "엉터리 릴리 13권",
-      "link": "https://ridibooks.com/books/1019037576",
-      "author": "코무라 아유미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "보루토 12권",
-      "link": "https://ridibooks.com/books/1019037585",
-      "author": "이케모토 미키오",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마오 5권",
-      "link": "https://ridibooks.com/books/1019037586",
-      "author": "타카하시 루미코",
       "genre": "판타지/SF"
     }
   ]
