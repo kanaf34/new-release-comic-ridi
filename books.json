@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "푸른 강철의 아르페지오 16권",
+      "link": "https://ridibooks.com/books/297035132",
+      "author": "아크 퍼포먼스",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "하늘색 플러터 3권 (완결)",
+      "link": "https://ridibooks.com/books/297035161",
+      "author": "하시이 코마",
+      "genre": "드라마"
+    },
+    {
+      "title": "발라드×오페라 3권",
+      "link": "https://ridibooks.com/books/297035162",
+      "author": "사마미야 아카자",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "나에게 천사가 내려왔다! 8권",
+      "link": "https://ridibooks.com/books/806006586",
+      "author": "무쿠노키 나나츠",
+      "genre": "학원"
+    },
+    {
+      "title": "고양이 선배, 대단하심돠! 1권",
+      "link": "https://ridibooks.com/books/806006594",
+      "author": "우즈키 요우",
+      "genre": "드라마"
+    },
+    {
+      "title": "내 마음의 유정천 2권 (완결)",
+      "link": "https://ridibooks.com/books/806006595",
+      "author": "아라타 이리",
+      "genre": "GL"
+    },
+    {
+      "title": "슐르스의 마녀 3권",
+      "link": "https://ridibooks.com/books/908003601",
+      "author": "오다와라 미즈에",
+      "genre": "해외 순정"
+    },
+    {
       "title": "비스타즈 (BEASTARS) 10권",
       "link": "https://ridibooks.com/books/1690000877",
       "author": "이타가키 파루",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/505027972",
       "author": "마후네 카즈오",
       "genre": "드라마"
-    },
-    {
-      "title": "사실 나는 7권",
-      "link": "https://ridibooks.com/books/505027974",
-      "author": "마스다 에이지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 변경의 노기사:발드로엔 5권",
-      "link": "https://ridibooks.com/books/845022774",
-      "author": "키쿠이시 모리오",
-      "genre": "드라마"
-    },
-    {
-      "title": "소년마법사 19권 (완결)",
-      "link": "https://ridibooks.com/books/297035109",
-      "author": "나루시마 유리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "원댄스 1권",
-      "link": "https://ridibooks.com/books/2066002452",
-      "author": "커피",
-      "genre": "학원"
-    },
-    {
-      "title": "쿠온의 숲 6권 (완결)",
-      "link": "https://ridibooks.com/books/297035112",
-      "author": "츠리마키 노도카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "나는 100만 명의 목숨 위에 서 있다 11권",
-      "link": "https://ridibooks.com/books/3010004295",
-      "author": "나오 아키나리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "피치걸 NEXT (피치걸 넥스트) 8권 (완결)",
-      "link": "https://ridibooks.com/books/505027970",
-      "author": "우에다 미와",
-      "genre": "해외 순정"
     }
   ]
 }
