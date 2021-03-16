@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "고양이 선배, 대단하심돠! 1권",
+      "link": "https://ridibooks.com/books/806006594",
+      "author": "우즈키 요우",
+      "genre": "드라마"
+    },
+    {
       "title": "푸른 강철의 아르페지오 16권",
       "link": "https://ridibooks.com/books/297035132",
       "author": "아크 퍼포먼스",
@@ -41,12 +47,6 @@
       "link": "https://ridibooks.com/books/297035163",
       "author": "이와토비 네코",
       "genre": "해외 순정"
-    },
-    {
-      "title": "고양이 선배, 대단하심돠! 1권",
-      "link": "https://ridibooks.com/books/806006594",
-      "author": "우즈키 요우",
-      "genre": "드라마"
     },
     {
       "title": "비스타즈 (BEASTARS) 10권",
