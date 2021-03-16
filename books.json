@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "이세계 귀환 용사가 현대 최강! 1권",
+      "link": "https://ridibooks.com/books/297035134",
+      "author": "사메다 코반",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "속세의 [평범]은 어려워 2권",
+      "link": "https://ridibooks.com/books/3802000020",
+      "author": "바타코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "신의 물방울 최종장 마리아주 21권",
+      "link": "https://ridibooks.com/books/505028002",
+      "author": "아기 다다시",
+      "genre": "드라마"
+    },
+    {
       "title": "고양이 선배, 대단하심돠! 1권",
       "link": "https://ridibooks.com/books/806006594",
       "author": "우즈키 요우",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/505028012",
       "author": "이와미 쇼코",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "코믹진 점프 150호",
-      "link": "https://ridibooks.com/books/845022807",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "청춘×기관총 16권",
-      "link": "https://ridibooks.com/books/845022783",
-      "author": "NAOE",
-      "genre": "액션"
-    },
-    {
-      "title": "낙명 마녀와 시간을 거스르는 서방님의 죽지 않는 혼약인 2권",
-      "link": "https://ridibooks.com/books/3010004302",
-      "author": "아즈야 치토세",
-      "genre": "해외 순정"
     }
   ]
 }
