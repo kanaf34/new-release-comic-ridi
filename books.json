@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "이토 군은 사랑을 몰라 3권 (완결)",
+      "link": "https://ridibooks.com/books/297035163",
+      "author": "이와토비 네코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "푸른 강철의 아르페지오 16권",
       "link": "https://ridibooks.com/books/297035132",
       "author": "아크 퍼포먼스",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/3010004302",
       "author": "아즈야 치토세",
       "genre": "해외 순정"
-    },
-    {
-      "title": "K2 (닥터 K 3부) 36권",
-      "link": "https://ridibooks.com/books/505027972",
-      "author": "마후네 카즈오",
-      "genre": "드라마"
     }
   ]
 }
