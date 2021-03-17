@@ -1,12 +1,6 @@
 {
   "books": [
     {
-      "title": "건달의 연인 15권",
-      "link": "https://ridibooks.com/books/1603052912",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
       "title": "이세계 귀환 용사가 현대 최강! 1권",
       "link": "https://ridibooks.com/books/297035134",
       "author": "사메다 코반",
@@ -23,6 +17,12 @@
       "link": "https://ridibooks.com/books/505028002",
       "author": "아기 다다시",
       "genre": "드라마"
+    },
+    {
+      "title": "건달의 연인 15권",
+      "link": "https://ridibooks.com/books/1603052912",
+      "author": "조명운",
+      "genre": "액션"
     },
     {
       "title": "고양이 선배, 대단하심돠! 1권",
