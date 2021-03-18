@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "아비도 [개정판] 30권 (완결)",
+      "link": "https://ridibooks.com/books/1603052922",
+      "author": "묵검향",
+      "genre": "무협"
+    },
+    {
+      "title": "[코이] 우리들의 잼은 달지 않다 3권",
+      "link": "https://ridibooks.com/books/806006606",
+      "author": "타츠모토 미오",
+      "genre": "해외 순정"
+    },
+    {
       "title": "굿바이 미니스커트 2권",
       "link": "https://ridibooks.com/books/1019037598",
       "author": "마키노 아오이",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/297035134",
       "author": "사메다 코반",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "속세의 [평범]은 어려워 2권",
-      "link": "https://ridibooks.com/books/3802000020",
-      "author": "바타코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "신의 물방울 최종장 마리아주 21권",
-      "link": "https://ridibooks.com/books/505028002",
-      "author": "아기 다다시",
-      "genre": "드라마"
     }
   ]
 }
