@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "SHY(샤이) 2권",
+      "link": "https://ridibooks.com/books/2066002463",
+      "author": "미키 부키미",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "나는 편의주의적 해결 담당 왕녀로소이다 2권",
+      "link": "https://ridibooks.com/books/3010004323",
+      "author": "요네다 카츠사",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "대공비 후보지만 견실하게 할 생각입니다 2권",
+      "link": "https://ridibooks.com/books/3010004339",
+      "author": "와타리 마카나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "C.M.B. 박물관 사건목록(씨엠비) 41권",
+      "link": "https://ridibooks.com/books/505028011",
+      "author": "카토우 모토히로",
+      "genre": "학원"
+    },
+    {
+      "title": "7인의 셰익스피어 NON SANZ DROICT 5권",
+      "link": "https://ridibooks.com/books/505028028",
+      "author": "해럴드 사쿠이시",
+      "genre": "드라마"
+    },
+    {
       "title": "블랙 클로버 26권",
       "link": "https://ridibooks.com/books/1019037604",
       "author": "타바타 유키",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/297035178",
       "author": "오오이 마사카즈",
       "genre": "드라마"
-    },
-    {
-      "title": "그에게 의뢰해서는 안 됩니다 3권",
-      "link": "https://ridibooks.com/books/297035212",
-      "author": "유키히로 우타코",
-      "genre": "드라마"
-    },
-    {
-      "title": "해묘장 days 2권",
-      "link": "https://ridibooks.com/books/806006597",
-      "author": "코다마 나오코",
-      "genre": "GL"
-    },
-    {
-      "title": "오니를 키우다 7권 (완결)",
-      "link": "https://ridibooks.com/books/845022820",
-      "author": "요시카와 케이토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아비도 [개정판] 30권 (완결)",
-      "link": "https://ridibooks.com/books/1603052922",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "이세계 귀환 용사가 현대 최강! 1권",
-      "link": "https://ridibooks.com/books/297035134",
-      "author": "사메다 코반",
-      "genre": "판타지/SF"
     }
   ]
 }
