@@ -1,40 +1,10 @@
 {
   "books": [
     {
-      "title": "아비도 [개정판] 30권 (완결)",
-      "link": "https://ridibooks.com/books/1603052922",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "[코이] 우리들의 잼은 달지 않다 3권",
-      "link": "https://ridibooks.com/books/806006606",
-      "author": "타츠모토 미오",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "굿바이 미니스커트 2권",
-      "link": "https://ridibooks.com/books/1019037598",
-      "author": "마키노 아오이",
-      "genre": "드라마"
-    },
-    {
-      "title": "왕에게 바치는 약지 8권 (완결)",
-      "link": "https://ridibooks.com/books/1019037603",
-      "author": "와타나베 시호",
-      "genre": "해외 순정"
-    },
-    {
       "title": "블랙 클로버 26권",
       "link": "https://ridibooks.com/books/1019037604",
       "author": "타바타 유키",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "어쨌든 귀여워 12권",
-      "link": "https://ridibooks.com/books/1019037605",
-      "author": "하타 켄지로",
-      "genre": "해외 순정"
     },
     {
       "title": "장난을 잘 치는 전 타카기 양 10권",
@@ -43,45 +13,9 @@
       "genre": "드라마"
     },
     {
-      "title": "아마노 메구미는 빈틈투성이! 18권",
-      "link": "https://ridibooks.com/books/1019037607",
-      "author": "네코구치",
-      "genre": "학원"
-    },
-    {
-      "title": "미쿠의 큐베 한약방 2권",
-      "link": "https://ridibooks.com/books/2007002766",
-      "author": "네무 요코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "지옥의 걸프렌드 3권 (완결)",
-      "link": "https://ridibooks.com/books/2007002769",
-      "author": "토리카이 아카네",
-      "genre": "드라마"
-    },
-    {
-      "title": "겁쟁이 페달 SPARE BIKE 5권",
-      "link": "https://ridibooks.com/books/297035177",
-      "author": "와타나베 와타루",
-      "genre": "스포츠"
-    },
-    {
-      "title": "우리 옆집 사모님 16권",
-      "link": "https://ridibooks.com/books/297035178",
-      "author": "오오이 마사카즈",
-      "genre": "드라마"
-    },
-    {
       "title": "길티 이노센스 4권",
       "link": "https://ridibooks.com/books/297035211",
       "author": "윤한",
-      "genre": "드라마"
-    },
-    {
-      "title": "그에게 의뢰해서는 안 됩니다 3권",
-      "link": "https://ridibooks.com/books/297035212",
-      "author": "유키히로 우타코",
       "genre": "드라마"
     },
     {
@@ -97,22 +31,88 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "해묘장 days 2권",
-      "link": "https://ridibooks.com/books/806006597",
-      "author": "코다마 나오코",
-      "genre": "GL"
-    },
-    {
       "title": "악마에 입문했습니다! 이루마 군 13권",
       "link": "https://ridibooks.com/books/845022818",
       "author": "니시 오사무",
       "genre": "판타지/SF"
     },
     {
+      "title": "굿바이 미니스커트 2권",
+      "link": "https://ridibooks.com/books/1019037598",
+      "author": "마키노 아오이",
+      "genre": "드라마"
+    },
+    {
+      "title": "어쨌든 귀여워 12권",
+      "link": "https://ridibooks.com/books/1019037605",
+      "author": "하타 켄지로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아마노 메구미는 빈틈투성이! 18권",
+      "link": "https://ridibooks.com/books/1019037607",
+      "author": "네코구치",
+      "genre": "학원"
+    },
+    {
+      "title": "미쿠의 큐베 한약방 2권",
+      "link": "https://ridibooks.com/books/2007002766",
+      "author": "네무 요코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "겁쟁이 페달 SPARE BIKE 5권",
+      "link": "https://ridibooks.com/books/297035177",
+      "author": "와타나베 와타루",
+      "genre": "스포츠"
+    },
+    {
+      "title": "[코이] 우리들의 잼은 달지 않다 3권",
+      "link": "https://ridibooks.com/books/806006606",
+      "author": "타츠모토 미오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "왕에게 바치는 약지 8권 (완결)",
+      "link": "https://ridibooks.com/books/1019037603",
+      "author": "와타나베 시호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "지옥의 걸프렌드 3권 (완결)",
+      "link": "https://ridibooks.com/books/2007002769",
+      "author": "토리카이 아카네",
+      "genre": "드라마"
+    },
+    {
+      "title": "우리 옆집 사모님 16권",
+      "link": "https://ridibooks.com/books/297035178",
+      "author": "오오이 마사카즈",
+      "genre": "드라마"
+    },
+    {
+      "title": "그에게 의뢰해서는 안 됩니다 3권",
+      "link": "https://ridibooks.com/books/297035212",
+      "author": "유키히로 우타코",
+      "genre": "드라마"
+    },
+    {
+      "title": "해묘장 days 2권",
+      "link": "https://ridibooks.com/books/806006597",
+      "author": "코다마 나오코",
+      "genre": "GL"
+    },
+    {
       "title": "오니를 키우다 7권 (완결)",
       "link": "https://ridibooks.com/books/845022820",
       "author": "요시카와 케이토",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "아비도 [개정판] 30권 (완결)",
+      "link": "https://ridibooks.com/books/1603052922",
+      "author": "묵검향",
+      "genre": "무협"
     },
     {
       "title": "이세계 귀환 용사가 현대 최강! 1권",
