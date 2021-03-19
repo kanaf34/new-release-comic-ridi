@@ -1,24 +1,6 @@
 {
   "books": [
     {
-      "title": "독사 15권 (완결)",
-      "link": "https://ridibooks.com/books/1603052927",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "티아라 25권",
-      "link": "https://ridibooks.com/books/845022831",
-      "author": "이윤희",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "이건 좀 아닌 것 같아! 8권",
-      "link": "https://ridibooks.com/books/845022832",
-      "author": "한송이",
-      "genre": "국내 순정"
-    },
-    {
       "title": "SHY(샤이) 2권",
       "link": "https://ridibooks.com/books/2066002463",
       "author": "미키 부키미",
@@ -47,6 +29,24 @@
       "link": "https://ridibooks.com/books/505028028",
       "author": "해럴드 사쿠이시",
       "genre": "드라마"
+    },
+    {
+      "title": "독사 15권 (완결)",
+      "link": "https://ridibooks.com/books/1603052927",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "티아라 25권",
+      "link": "https://ridibooks.com/books/845022831",
+      "author": "이윤희",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "이건 좀 아닌 것 같아! 8권",
+      "link": "https://ridibooks.com/books/845022832",
+      "author": "한송이",
+      "genre": "국내 순정"
     },
     {
       "title": "블랙 클로버 26권",
