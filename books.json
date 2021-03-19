@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "티아라 25권",
+      "link": "https://ridibooks.com/books/845022831",
+      "author": "이윤희",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "이건 좀 아닌 것 같아! 8권",
+      "link": "https://ridibooks.com/books/845022832",
+      "author": "한송이",
+      "genre": "국내 순정"
+    },
+    {
       "title": "SHY(샤이) 2권",
       "link": "https://ridibooks.com/books/2066002463",
       "author": "미키 부키미",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/1019037603",
       "author": "와타나베 시호",
       "genre": "해외 순정"
-    },
-    {
-      "title": "지옥의 걸프렌드 3권 (완결)",
-      "link": "https://ridibooks.com/books/2007002769",
-      "author": "토리카이 아카네",
-      "genre": "드라마"
-    },
-    {
-      "title": "우리 옆집 사모님 16권",
-      "link": "https://ridibooks.com/books/297035178",
-      "author": "오오이 마사카즈",
-      "genre": "드라마"
     }
   ]
 }
