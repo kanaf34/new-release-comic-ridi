@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "독사 15권 (완결)",
+      "link": "https://ridibooks.com/books/1603052927",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
       "title": "티아라 25권",
       "link": "https://ridibooks.com/books/845022831",
       "author": "이윤희",
@@ -112,12 +118,6 @@
       "title": "[코이] 우리들의 잼은 달지 않다 3권",
       "link": "https://ridibooks.com/books/806006606",
       "author": "타츠모토 미오",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "왕에게 바치는 약지 8권 (완결)",
-      "link": "https://ridibooks.com/books/1019037603",
-      "author": "와타나베 시호",
       "genre": "해외 순정"
     }
   ]
