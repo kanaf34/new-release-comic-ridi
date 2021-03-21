@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "부딪치다 8권 (완결)",
+      "link": "https://ridibooks.com/books/1180011078",
+      "author": "지완",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "[코믹] 약캐 토모자키 군 2권",
+      "link": "https://ridibooks.com/books/2066002464",
+      "author": "치다 에이토",
+      "genre": "학원"
+    },
+    {
+      "title": "블루 피리어드 9권",
+      "link": "https://ridibooks.com/books/3010004297",
+      "author": "야마구치 츠바사",
+      "genre": "드라마"
+    },
+    {
+      "title": "페이트 그랜드 오더 -투라스 레알타- 8권",
+      "link": "https://ridibooks.com/books/505028029",
+      "author": "카와구치 타케시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "내세를 기약하고 전생했더니 곤란해졌습니다 3권 (완결)",
+      "link": "https://ridibooks.com/books/806006605",
+      "author": "하치야 하토",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "밝은 기억상실 5권",
+      "link": "https://ridibooks.com/books/845022834",
+      "author": "오쿠 타마무시",
+      "genre": "GL"
+    },
+    {
       "title": "SHY(샤이) 2권",
       "link": "https://ridibooks.com/books/2066002463",
       "author": "미키 부키미",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/845022818",
       "author": "니시 오사무",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "굿바이 미니스커트 2권",
-      "link": "https://ridibooks.com/books/1019037598",
-      "author": "마키노 아오이",
-      "genre": "드라마"
-    },
-    {
-      "title": "어쨌든 귀여워 12권",
-      "link": "https://ridibooks.com/books/1019037605",
-      "author": "하타 켄지로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "아마노 메구미는 빈틈투성이! 18권",
-      "link": "https://ridibooks.com/books/1019037607",
-      "author": "네코구치",
-      "genre": "학원"
-    },
-    {
-      "title": "미쿠의 큐베 한약방 2권",
-      "link": "https://ridibooks.com/books/2007002766",
-      "author": "네무 요코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "겁쟁이 페달 SPARE BIKE 5권",
-      "link": "https://ridibooks.com/books/297035177",
-      "author": "와타나베 와타루",
-      "genre": "스포츠"
-    },
-    {
-      "title": "[코이] 우리들의 잼은 달지 않다 3권",
-      "link": "https://ridibooks.com/books/806006606",
-      "author": "타츠모토 미오",
-      "genre": "해외 순정"
     }
   ]
 }
