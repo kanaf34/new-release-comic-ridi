@@ -1,10 +1,22 @@
 {
   "books": [
     {
-      "title": "불완전 부부 3권",
-      "link": "https://ridibooks.com/books/840036157",
-      "author": "나츠카와 유키노",
+      "title": "내세를 기약하고 전생했더니 곤란해졌습니다 3권 (완결)",
+      "link": "https://ridibooks.com/books/806006605",
+      "author": "하치야 하토",
       "genre": "해외 순정"
+    },
+    {
+      "title": "밝은 기억상실 5권",
+      "link": "https://ridibooks.com/books/845022834",
+      "author": "오쿠 타마무시",
+      "genre": "GL"
+    },
+    {
+      "title": "블루 피리어드 9권",
+      "link": "https://ridibooks.com/books/3010004297",
+      "author": "야마구치 츠바사",
+      "genre": "드라마"
     },
     {
       "title": "부딪치다 8권 (완결)",
@@ -19,28 +31,16 @@
       "genre": "학원"
     },
     {
-      "title": "블루 피리어드 9권",
-      "link": "https://ridibooks.com/books/3010004297",
-      "author": "야마구치 츠바사",
-      "genre": "드라마"
+      "title": "불완전 부부 3권",
+      "link": "https://ridibooks.com/books/840036157",
+      "author": "나츠카와 유키노",
+      "genre": "해외 순정"
     },
     {
       "title": "페이트 그랜드 오더 -투라스 레알타- 8권",
       "link": "https://ridibooks.com/books/505028029",
       "author": "카와구치 타케시",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "내세를 기약하고 전생했더니 곤란해졌습니다 3권 (완결)",
-      "link": "https://ridibooks.com/books/806006605",
-      "author": "하치야 하토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "밝은 기억상실 5권",
-      "link": "https://ridibooks.com/books/845022834",
-      "author": "오쿠 타마무시",
-      "genre": "GL"
     },
     {
       "title": "SHY(샤이) 2권",
