@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "꽃송이 또로록 6권 (완결)",
+      "link": "https://ridibooks.com/books/4406000009",
+      "author": "토리노 시노",
+      "genre": "GL"
+    },
+    {
+      "title": "여친, 빌리겠습니다 11권",
+      "link": "https://ridibooks.com/books/505028045",
+      "author": "미야지마 레이지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "황제의 시녀님은 청혼 당하는 중 2권",
+      "link": "https://ridibooks.com/books/806006612",
+      "author": "치쿠사 아카리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우리들의 비밀사정 4권",
+      "link": "https://ridibooks.com/books/297035260",
+      "author": "코지마 미호코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "늑대의 집 3권 (완결)",
+      "link": "https://ridibooks.com/books/297035248",
+      "author": "후지스에 사쿠라",
+      "genre": "드라마"
+    },
+    {
+      "title": "1학년 A반의 몬스터 3권",
+      "link": "https://ridibooks.com/books/505028037",
+      "author": "히데키",
+      "genre": "드라마"
+    },
+    {
       "title": "내세를 기약하고 전생했더니 곤란해졌습니다 3권 (완결)",
       "link": "https://ridibooks.com/books/806006605",
       "author": "하치야 하토",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/845022831",
       "author": "이윤희",
       "genre": "국내 순정"
-    },
-    {
-      "title": "이건 좀 아닌 것 같아! 8권",
-      "link": "https://ridibooks.com/books/845022832",
-      "author": "한송이",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "블랙 클로버 26권",
-      "link": "https://ridibooks.com/books/1019037604",
-      "author": "타바타 유키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "장난을 잘 치는 전 타카기 양 10권",
-      "link": "https://ridibooks.com/books/1019037606",
-      "author": "이나바 미후미",
-      "genre": "드라마"
-    },
-    {
-      "title": "길티 이노센스 4권",
-      "link": "https://ridibooks.com/books/297035211",
-      "author": "윤한",
-      "genre": "드라마"
-    },
-    {
-      "title": "봄을 기다리는 우리들 14권 (완결)",
-      "link": "https://ridibooks.com/books/505028010",
-      "author": "아나신",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "불꽃 소방대 25권",
-      "link": "https://ridibooks.com/books/505028016",
-      "author": "오오쿠보 아츠시",
-      "genre": "판타지/SF"
     }
   ]
 }
