@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "불완전 부부 3권",
+      "link": "https://ridibooks.com/books/840036157",
+      "author": "나츠카와 유키노",
+      "genre": "해외 순정"
+    },
+    {
       "title": "부딪치다 8권 (완결)",
       "link": "https://ridibooks.com/books/1180011078",
       "author": "지완",
@@ -112,12 +118,6 @@
       "title": "불꽃 소방대 25권",
       "link": "https://ridibooks.com/books/505028016",
       "author": "오오쿠보 아츠시",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "악마에 입문했습니다! 이루마 군 13권",
-      "link": "https://ridibooks.com/books/845022818",
-      "author": "니시 오사무",
       "genre": "판타지/SF"
     }
   ]
