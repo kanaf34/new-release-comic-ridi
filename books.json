@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "서뱀프 14권",
+      "link": "https://ridibooks.com/books/2498006483",
+      "author": "타나카 스트라이크",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "모험에 따라오지 마요, 엄마! 1권",
+      "link": "https://ridibooks.com/books/297035255",
+      "author": "시시마루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "키스해주지 않으면 죽어버려 3권 (완결)",
+      "link": "https://ridibooks.com/books/297035254",
+      "author": "니시키다 케이시",
+      "genre": "해외 순정"
+    },
+    {
       "title": "꽃송이 또로록 6권 (완결)",
       "link": "https://ridibooks.com/books/4406000009",
       "author": "토리노 시노",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/3010004339",
       "author": "와타리 마카나",
       "genre": "해외 순정"
-    },
-    {
-      "title": "C.M.B. 박물관 사건목록(씨엠비) 41권",
-      "link": "https://ridibooks.com/books/505028011",
-      "author": "카토우 모토히로",
-      "genre": "학원"
-    },
-    {
-      "title": "7인의 셰익스피어 NON SANZ DROICT 5권",
-      "link": "https://ridibooks.com/books/505028028",
-      "author": "해럴드 사쿠이시",
-      "genre": "드라마"
-    },
-    {
-      "title": "독사 15권 (완결)",
-      "link": "https://ridibooks.com/books/1603052927",
-      "author": "고행석",
-      "genre": "액션"
     }
   ]
 }
