@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "title": "내일의 죠 12권 (완결)",
+      "link": "https://ridibooks.com/books/505028193",
+      "author": "치바 테츠야",
+      "genre": "스포츠"
+    },
+    {
+      "title": "좋아하는 애가 안경을 깜박했다 6권",
+      "link": "https://ridibooks.com/books/297035449",
+      "author": "후지치카 코우메",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "이 회사에 좋아하는 사람이 있습니다 5권",
+      "link": "https://ridibooks.com/books/297035448",
+      "author": "에노모토 아카마루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 이세계 피크닉 2권",
+      "link": "https://ridibooks.com/books/2066002467",
+      "author": "미즈노 에이타",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "타블로 게이트 10권",
+      "link": "https://ridibooks.com/books/2066002470",
+      "author": "스즈키 리카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "양아치가 고양이에게 구원받는 이야기 1권",
+      "link": "https://ridibooks.com/books/2066002469",
+      "author": "츠네키 네타로",
+      "genre": "드라마"
+    },
+    {
+      "title": "여기는 내게 맡기고 먼저 가라고 말한 지 10년이 지났더니 전설이 되어 있었다. 5권",
+      "link": "https://ridibooks.com/books/3010004345",
+      "author": "아베노 챠코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "언젠가 티파니에서 아침을 11권",
+      "link": "https://ridibooks.com/books/505028200",
+      "author": "마키 히로치",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "장미왕의 장례 행렬 9권",
+      "link": "https://ridibooks.com/books/505028207",
+      "author": "칸노 아야",
+      "genre": "드라마"
+    },
+    {
+      "title": "은하철도 999 ANOTHER STORY 얼티밋 저니 3권",
+      "link": "https://ridibooks.com/books/806006614",
+      "author": "시마자키 유즈루",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "골든 카무이 23권",
       "link": "https://ridibooks.com/books/1019039930",
       "author": "노다 사토루",
@@ -59,66 +119,6 @@
       "link": "https://ridibooks.com/books/297035454",
       "author": "카이도 치토세",
       "genre": "해외 순정"
-    },
-    {
-      "title": "허니 레몬 소다 6권",
-      "link": "https://ridibooks.com/books/1019039901",
-      "author": "무라타 마유",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "보안관 에반스의 거짓말 3권",
-      "link": "https://ridibooks.com/books/1019039904",
-      "author": "쿠리야마 미즈키",
-      "genre": "드라마"
-    },
-    {
-      "title": "시마네의 변호사 13권 (완결)",
-      "link": "https://ridibooks.com/books/1019039917",
-      "author": "카가와 마사히토",
-      "genre": "드라마"
-    },
-    {
-      "title": "장밋빛의 약속 7권",
-      "link": "https://ridibooks.com/books/1019039918",
-      "author": "미야사카 카호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "여기는 지금부터 윤리 시간입니다. 4권",
-      "link": "https://ridibooks.com/books/1019039919",
-      "author": "아마세 시오리",
-      "genre": "드라마"
-    },
-    {
-      "title": "절대가련 칠드런 59권",
-      "link": "https://ridibooks.com/books/1019039933",
-      "author": "시이나 타카시",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "무지개빛 데이즈 8권",
-      "link": "https://ridibooks.com/books/1019039934",
-      "author": "미즈노 미나미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사랑을 모르는 우리는 8권",
-      "link": "https://ridibooks.com/books/1019039935",
-      "author": "미즈노 미나미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "떨어지면 끝장 2권",
-      "link": "https://ridibooks.com/books/297035451",
-      "author": "스에노부 케이코",
-      "genre": "드라마"
-    },
-    {
-      "title": "삽질무쌍 2권",
-      "link": "https://ridibooks.com/books/3010004344",
-      "author": "후쿠하라 렌지",
-      "genre": "판타지/SF"
     }
   ]
 }
