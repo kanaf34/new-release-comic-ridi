@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "다시는 집에 돌아가지 않아요! 1권",
+      "link": "https://ridibooks.com/books/3010004356",
+      "author": "유우키 지로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마왕의 사랑, 마음대로 안돼 1권",
+      "link": "https://ridibooks.com/books/3010004366",
+      "author": "치로리",
+      "genre": "학원"
+    },
+    {
+      "title": "이방의 오즈월드 3권 (완결)",
+      "link": "https://ridibooks.com/books/806006628",
+      "author": "오카자키 사토노",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "장하다! 원조 괴짜가족 6권",
+      "link": "https://ridibooks.com/books/845022909",
+      "author": "하마오카 켄지",
+      "genre": "코믹"
+    },
+    {
       "title": "내일의 죠 12권 (완결)",
       "link": "https://ridibooks.com/books/505028193",
       "author": "치바 테츠야",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/297035256",
       "author": "오자와 유키",
       "genre": "드라마"
-    },
-    {
-      "title": "란마 1/2 애장판 18권",
-      "link": "https://ridibooks.com/books/1019039932",
-      "author": "타카하시 루미코",
-      "genre": "코믹"
-    },
-    {
-      "title": "[할리퀸] 바보 같은 유혹",
-      "link": "https://ridibooks.com/books/1458005456",
-      "author": "코바야시 미네",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "천룡무 10권 (완결)",
-      "link": "https://ridibooks.com/books/1603052971",
-      "author": "천제황",
-      "genre": "무협"
-    },
-    {
-      "title": "20센티미터의 도우미 1권",
-      "link": "https://ridibooks.com/books/678013584",
-      "author": "유즈히",
-      "genre": "해외 순정"
     }
   ]
 }
