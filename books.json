@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "열대어는 눈을 동경한다 6권",
+      "link": "https://ridibooks.com/books/3802000021",
+      "author": "하기노 마코토",
+      "genre": "GL"
+    },
+    {
+      "title": "흰색 화촉 1권",
+      "link": "https://ridibooks.com/books/806006632",
+      "author": "타카야마 시노부",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "선배가 짜증나는 후배이야기 5권",
+      "link": "https://ridibooks.com/books/505028220",
+      "author": "시로만타",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "방과 후, 사랑했다. 6권",
+      "link": "https://ridibooks.com/books/297035530",
+      "author": "미츠이 하루카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아사히 선배의 취향 4권",
+      "link": "https://ridibooks.com/books/297035528",
+      "author": "마치노 이로하",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "여우님의 이종간 혼인담 1권",
+      "link": "https://ridibooks.com/books/806006631",
+      "author": "이나루",
+      "genre": "드라마"
+    },
+    {
       "title": "다시는 집에 돌아가지 않아요! 1권",
       "link": "https://ridibooks.com/books/3010004356",
       "author": "유우키 지로",
@@ -82,42 +118,6 @@
       "title": "장미왕의 장례 행렬 9권",
       "link": "https://ridibooks.com/books/505028207",
       "author": "칸노 아야",
-      "genre": "드라마"
-    },
-    {
-      "title": "은하철도 999 ANOTHER STORY 얼티밋 저니 3권",
-      "link": "https://ridibooks.com/books/806006614",
-      "author": "시마자키 유즈루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "골든 카무이 23권",
-      "link": "https://ridibooks.com/books/1019039930",
-      "author": "노다 사토루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "노부나가의 셰프 24권",
-      "link": "https://ridibooks.com/books/297035258",
-      "author": "카지카와 타쿠로",
-      "genre": "드라마"
-    },
-    {
-      "title": "날마다 존귀한 네코마타장 2권 (완결)",
-      "link": "https://ridibooks.com/books/3981000013",
-      "author": "나라야마 토오루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "우리들은 미쳤다 13권",
-      "link": "https://ridibooks.com/books/297035458",
-      "author": "안도 나츠미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "80세 마리코 14권",
-      "link": "https://ridibooks.com/books/297035256",
-      "author": "오자와 유키",
       "genre": "드라마"
     }
   ]
