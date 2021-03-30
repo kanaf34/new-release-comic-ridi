@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "마그멜 심해수족관 4권",
+      "link": "https://ridibooks.com/books/297035503",
+      "author": "스기시타 키요미",
+      "genre": "드라마"
+    },
+    {
+      "title": "로우 히어로 5권",
+      "link": "https://ridibooks.com/books/297035502",
+      "author": "히라모토 아키라",
+      "genre": "액션"
+    },
+    {
       "title": "열대어는 눈을 동경한다 6권",
       "link": "https://ridibooks.com/books/3802000021",
       "author": "하기노 마코토",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/3010004345",
       "author": "아베노 챠코",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "퍼펙트 서비스 18권",
-      "link": "https://ridibooks.com/books/505028210",
-      "author": "아라 타츠야",
-      "genre": "스포츠"
-    },
-    {
-      "title": "언젠가 티파니에서 아침을 11권",
-      "link": "https://ridibooks.com/books/505028200",
-      "author": "마키 히로치",
-      "genre": "해외 순정"
     }
   ]
 }
