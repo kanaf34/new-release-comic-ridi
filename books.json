@@ -1,10 +1,88 @@
 {
   "books": [
     {
+      "title": "하나노이 군과 상사병 7권 특장판",
+      "link": "https://ridibooks.com/books/297035586",
+      "author": "모리노 메구미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마키와 마미 4권 (완결)",
+      "link": "https://ridibooks.com/books/3802000022",
+      "author": "마치다 카유",
+      "genre": "드라마"
+    },
+    {
+      "title": "체인소 맨 6권",
+      "link": "https://ridibooks.com/books/1019044803",
+      "author": "후지모토 타츠키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "WHITE NOTE PAD(화이트 노트 패드) 2권 (완결)",
+      "link": "https://ridibooks.com/books/297035487",
+      "author": "야마시타 토모코",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 돼지 공작으로 전생했으니까, 이번엔 너에게 좋아한다고 말하고 싶어 1권",
+      "link": "https://ridibooks.com/books/1690000891",
+      "author": "fujy",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사쿠라바는 멈추지 않아! 4권 (완결)",
+      "link": "https://ridibooks.com/books/297035596",
+      "author": "센리 미코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "18세 새댁, 불륜합니다 2권",
+      "link": "https://ridibooks.com/books/1019043553",
+      "author": "와타나베 시호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "나의 히어로 아카데미아 29권",
+      "link": "https://ridibooks.com/books/1019044790",
+      "author": "호리코시 코헤이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "비질랜티 8권",
+      "link": "https://ridibooks.com/books/1019044800",
+      "author": "베텐 코트",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사무라이8 하치마루전 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019044801",
+      "author": "오오쿠보 아키라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "리쿠도 23권 (완결)",
+      "link": "https://ridibooks.com/books/1019044802",
+      "author": "마츠바라 토시미츠",
+      "genre": "스포츠"
+    },
+    {
+      "title": "오쿠모의 플래시백 6권 (완결)",
+      "link": "https://ridibooks.com/books/297035673",
+      "author": "우에시바 리이치",
+      "genre": "드라마"
+    },
+    {
       "title": "마그멜 심해수족관 4권",
       "link": "https://ridibooks.com/books/297035503",
       "author": "스기시타 키요미",
       "genre": "드라마"
+    },
+    {
+      "title": "챔프D 182호(2021.04.15)",
+      "link": "https://ridibooks.com/books/847003473",
+      "author": "챔프D 편집부",
+      "genre": "만화잡지"
     },
     {
       "title": "로우 히어로 5권",
@@ -41,84 +119,6 @@
       "link": "https://ridibooks.com/books/297035528",
       "author": "마치노 이로하",
       "genre": "해외 순정"
-    },
-    {
-      "title": "여우님의 이종간 혼인담 1권",
-      "link": "https://ridibooks.com/books/806006631",
-      "author": "이나루",
-      "genre": "드라마"
-    },
-    {
-      "title": "[할리퀸] 진실한 사랑",
-      "link": "https://ridibooks.com/books/1458005461",
-      "author": "나가사키 마오코",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "다시는 집에 돌아가지 않아요! 1권",
-      "link": "https://ridibooks.com/books/3010004356",
-      "author": "유우키 지로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마왕의 사랑, 마음대로 안돼 1권",
-      "link": "https://ridibooks.com/books/3010004366",
-      "author": "치로리",
-      "genre": "학원"
-    },
-    {
-      "title": "이방의 오즈월드 3권 (완결)",
-      "link": "https://ridibooks.com/books/806006628",
-      "author": "오카자키 사토노",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "장하다! 원조 괴짜가족 6권",
-      "link": "https://ridibooks.com/books/845022909",
-      "author": "하마오카 켄지",
-      "genre": "코믹"
-    },
-    {
-      "title": "내일의 죠 12권 (완결)",
-      "link": "https://ridibooks.com/books/505028193",
-      "author": "치바 테츠야",
-      "genre": "스포츠"
-    },
-    {
-      "title": "좋아하는 애가 안경을 깜박했다 6권",
-      "link": "https://ridibooks.com/books/297035449",
-      "author": "후지치카 코우메",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "이 회사에 좋아하는 사람이 있습니다 5권",
-      "link": "https://ridibooks.com/books/297035448",
-      "author": "에노모토 아카마루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 이세계 피크닉 2권",
-      "link": "https://ridibooks.com/books/2066002467",
-      "author": "미즈노 에이타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "타블로 게이트 10권",
-      "link": "https://ridibooks.com/books/2066002470",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "양아치가 고양이에게 구원받는 이야기 1권",
-      "link": "https://ridibooks.com/books/2066002469",
-      "author": "츠네키 네타로",
-      "genre": "드라마"
-    },
-    {
-      "title": "여기는 내게 맡기고 먼저 가라고 말한 지 10년이 지났더니 전설이 되어 있었다. 5권",
-      "link": "https://ridibooks.com/books/3010004345",
-      "author": "아베노 챠코",
-      "genre": "판타지/SF"
     }
   ]
 }
