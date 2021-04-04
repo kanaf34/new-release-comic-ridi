@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "[코믹] 변경의 팔라딘 6권",
+      "link": "https://ridibooks.com/books/4018000027",
+      "author": "오쿠바시 무츠미",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "백귀야행 28권",
+      "link": "https://ridibooks.com/books/862001522",
+      "author": "이마 이치코",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "[코믹] 슬라임을 잡으면서 300년, 모르는 사이에 레벨MAX가 되었습니다 5권",
+      "link": "https://ridibooks.com/books/1690000892",
+      "author": "시바 유스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 신들에게 주워진 남자 3권",
+      "link": "https://ridibooks.com/books/845022997",
+      "author": "란란",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "노부나가의 셰프 25권",
+      "link": "https://ridibooks.com/books/297035763",
+      "author": "카지카와 타쿠로",
+      "genre": "드라마"
+    },
+    {
+      "title": "암흑기사인 내가 최강의 성기사를 목표로 합니다 3권",
+      "link": "https://ridibooks.com/books/3010004347",
+      "author": "시라누이 안",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "플랜터 플래닛 3권",
+      "link": "https://ridibooks.com/books/297035764",
+      "author": "하보",
+      "genre": "액션"
+    },
+    {
+      "title": "Dr. 키리코 ~하얀 사신~ 5권 (완결)",
+      "link": "https://ridibooks.com/books/505028291",
+      "author": "사노린",
+      "genre": "드라마"
+    },
+    {
       "title": "불멸의 그대에게 14권",
       "link": "https://ridibooks.com/books/297035732",
       "author": "오이마 요시토키",
@@ -70,54 +118,6 @@
       "title": "체인소 맨 6권",
       "link": "https://ridibooks.com/books/1019044803",
       "author": "후지모토 타츠키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "WHITE NOTE PAD(화이트 노트 패드) 2권 (완결)",
-      "link": "https://ridibooks.com/books/297035487",
-      "author": "야마시타 토모코",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 돼지 공작으로 전생했으니까, 이번엔 너에게 좋아한다고 말하고 싶어 1권",
-      "link": "https://ridibooks.com/books/1690000891",
-      "author": "fujy",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사쿠라바는 멈추지 않아! 4권 (완결)",
-      "link": "https://ridibooks.com/books/297035596",
-      "author": "센리 미코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "천검마검 [개정판] 40권 (완결)",
-      "link": "https://ridibooks.com/books/1603053030",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "러브 인 하우스 10권 (완결)",
-      "link": "https://ridibooks.com/books/505028250",
-      "author": "타카스카 유에",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "코믹진 점프 151호",
-      "link": "https://ridibooks.com/books/845023006",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "18세 새댁, 불륜합니다 2권",
-      "link": "https://ridibooks.com/books/1019043553",
-      "author": "와타나베 시호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "나의 히어로 아카데미아 29권",
-      "link": "https://ridibooks.com/books/1019044790",
-      "author": "호리코시 코헤이",
       "genre": "판타지/SF"
     }
   ]
