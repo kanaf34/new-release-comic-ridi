@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "title": "해피해피 쿠루네코 6권",
+      "link": "https://ridibooks.com/books/297035768",
+      "author": "쿠루네코 야마토",
+      "genre": "드라마"
+    },
+    {
+      "title": "케야키 자매의 사계절 3권",
+      "link": "https://ridibooks.com/books/297035844",
+      "author": "오오츠키 이치카",
+      "genre": "드라마"
+    },
+    {
+      "title": "건방진 그 녀석. 19권",
+      "link": "https://ridibooks.com/books/505028293",
+      "author": "미유키 미츠바치",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "하이누즈카 집안의 사남 2권 (완결)",
+      "link": "https://ridibooks.com/books/908003604",
+      "author": "미나야마 카에루",
+      "genre": "드라마"
+    },
+    {
       "title": "[코믹] 변경의 팔라딘 6권",
       "link": "https://ridibooks.com/books/4018000027",
       "author": "오쿠바시 무츠미",
@@ -95,30 +119,6 @@
       "link": "https://ridibooks.com/books/806006635",
       "author": "타시",
       "genre": "액션"
-    },
-    {
-      "title": "아웃 16권",
-      "link": "https://ridibooks.com/books/806006636",
-      "author": "미즈타 마코토",
-      "genre": "액션"
-    },
-    {
-      "title": "하나노이 군과 상사병 7권 특장판",
-      "link": "https://ridibooks.com/books/297035586",
-      "author": "모리노 메구미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마키와 마미 4권 (완결)",
-      "link": "https://ridibooks.com/books/3802000022",
-      "author": "마치다 카유",
-      "genre": "드라마"
-    },
-    {
-      "title": "체인소 맨 6권",
-      "link": "https://ridibooks.com/books/1019044803",
-      "author": "후지모토 타츠키",
-      "genre": "판타지/SF"
     }
   ]
 }
