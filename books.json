@@ -1,15 +1,9 @@
 {
   "books": [
     {
-      "title": "해피해피 쿠루네코 6권",
-      "link": "https://ridibooks.com/books/297035768",
-      "author": "쿠루네코 야마토",
-      "genre": "드라마"
-    },
-    {
-      "title": "케야키 자매의 사계절 3권",
-      "link": "https://ridibooks.com/books/297035844",
-      "author": "오오츠키 이치카",
+      "title": "하이누즈카 집안의 사남 2권 (완결)",
+      "link": "https://ridibooks.com/books/908003604",
+      "author": "미나야마 카에루",
       "genre": "드라마"
     },
     {
@@ -19,9 +13,15 @@
       "genre": "해외 순정"
     },
     {
-      "title": "하이누즈카 집안의 사남 2권 (완결)",
-      "link": "https://ridibooks.com/books/908003604",
-      "author": "미나야마 카에루",
+      "title": "케야키 자매의 사계절 3권",
+      "link": "https://ridibooks.com/books/297035844",
+      "author": "오오츠키 이치카",
+      "genre": "드라마"
+    },
+    {
+      "title": "해피해피 쿠루네코 6권",
+      "link": "https://ridibooks.com/books/297035768",
+      "author": "쿠루네코 야마토",
       "genre": "드라마"
     },
     {
