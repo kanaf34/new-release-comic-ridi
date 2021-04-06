@@ -1,12 +1,6 @@
 {
   "books": [
     {
-      "title": "하이누즈카 집안의 사남 2권 (완결)",
-      "link": "https://ridibooks.com/books/908003604",
-      "author": "미나야마 카에루",
-      "genre": "드라마"
-    },
-    {
       "title": "건방진 그 녀석. 19권",
       "link": "https://ridibooks.com/books/505028293",
       "author": "미유키 미츠바치",
@@ -16,6 +10,12 @@
       "title": "케야키 자매의 사계절 3권",
       "link": "https://ridibooks.com/books/297035844",
       "author": "오오츠키 이치카",
+      "genre": "드라마"
+    },
+    {
+      "title": "하이누즈카 집안의 사남 2권 (완결)",
+      "link": "https://ridibooks.com/books/908003604",
+      "author": "미나야마 카에루",
       "genre": "드라마"
     },
     {
