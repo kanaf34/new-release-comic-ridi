@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "주술회전 13권",
+      "link": "https://ridibooks.com/books/1019044825",
+      "author": "아쿠타미 게게",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "엘프와 헌터의 아이템 공방 4권",
       "link": "https://ridibooks.com/books/297035850",
       "author": "아오이 우메타로",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/3010004347",
       "author": "시라누이 안",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "플랜터 플래닛 3권",
-      "link": "https://ridibooks.com/books/297035764",
-      "author": "하보",
-      "genre": "액션"
     }
   ]
 }
