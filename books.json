@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "진격의 거인 33권",
+      "link": "https://ridibooks.com/books/505029133",
+      "author": "이사야마 하지메",
+      "genre": "액션"
+    },
+    {
+      "title": "[코믹] 악역 영애는 서민에게 시집가고 싶어!! 3권",
+      "link": "https://ridibooks.com/books/806006688",
+      "author": "나비코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "세계의 종말과 마녀의 사랑 2권",
+      "link": "https://ridibooks.com/books/3802000024",
+      "author": "쿠지라",
+      "genre": "GL"
+    },
+    {
+      "title": "이지러진 달과 도넛 1권",
+      "link": "https://ridibooks.com/books/2066002484",
+      "author": "우스이 시오",
+      "genre": "GL"
+    },
+    {
+      "title": "슬로우 루프 1권",
+      "link": "https://ridibooks.com/books/2066002482",
+      "author": "우치노 마이코",
+      "genre": "드라마"
+    },
+    {
+      "title": "뱀파이어 도서관 13권 (완결)",
+      "link": "https://ridibooks.com/books/505029105",
+      "author": "이선영",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "철퇴와 피에타 1권",
+      "link": "https://ridibooks.com/books/2066002483",
+      "author": "마후유 마리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "3X3 EYES 환수의 숲의 조난자 3권",
+      "link": "https://ridibooks.com/books/505028386",
+      "author": "타카다 유조",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "주술회전 13권 [리디북스 특전 포함]",
       "link": "https://ridibooks.com/books/1019044825",
       "author": "아쿠타미 게게",
@@ -70,54 +118,6 @@
       "title": "호시노, 눈을 감아. 13권 (완결)",
       "link": "https://ridibooks.com/books/505029050",
       "author": "나가시이 코헤이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "남자친구는 오렌지색 9권",
-      "link": "https://ridibooks.com/books/505029051",
-      "author": "타마시마 논",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "엘프와 헌터의 아이템 공방 4권",
-      "link": "https://ridibooks.com/books/297035850",
-      "author": "아오이 우메타로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "어른이 되어도 4권",
-      "link": "https://ridibooks.com/books/3010004346",
-      "author": "시무라 타카코",
-      "genre": "GL"
-    },
-    {
-      "title": "[코믹] 이세계 피크닉 3권",
-      "link": "https://ridibooks.com/books/2066002481",
-      "author": "미즈노 에이타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 모험가가 되고 싶다며 도시로 떠났던 딸이 S랭크가 되었다 3권",
-      "link": "https://ridibooks.com/books/777085933",
-      "author": "우루시바라 큐",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 데스마치에서 시작되는 이세계 광상곡 9권",
-      "link": "https://ridibooks.com/books/777085952",
-      "author": "아야 메구무",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "메이드 인 어비스 공식 앤솔로지 3권",
-      "link": "https://ridibooks.com/books/297035842",
-      "author": "츠쿠시 아키히토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "연기가 눈가에 번진다 1권",
-      "link": "https://ridibooks.com/books/840036387",
-      "author": "이이다 요네",
       "genre": "해외 순정"
     }
   ]
