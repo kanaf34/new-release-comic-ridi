@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "미쿠의 큐베 한약방 5권 (완결)",
+      "link": "https://ridibooks.com/books/2007002772",
+      "author": "네무 요코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "코세르테르의 용술사~어린용 이야기~ 8권",
+      "link": "https://ridibooks.com/books/2498006517",
+      "author": "이스루기 아유마",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "복원가의 집 20권",
+      "link": "https://ridibooks.com/books/297035861",
+      "author": "김상엽",
+      "genre": "학원"
+    },
+    {
+      "title": "이세계에서 느긋하게 치유사 시작합니다 1권",
+      "link": "https://ridibooks.com/books/3010004378",
+      "author": "나오 이쿠히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "성녀가 아니어서 왕궁에서 느긋하게 밥을 짓기로 했습니다 2권",
+      "link": "https://ridibooks.com/books/3010004471",
+      "author": "아사타니 코토리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "쿠킹 걸 10권 (완결)",
+      "link": "https://ridibooks.com/books/505029107",
+      "author": "타이요우 마리이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "런웨이에서 웃어줘 10권",
+      "link": "https://ridibooks.com/books/505029134",
+      "author": "이노야 코토바",
+      "genre": "드라마"
+    },
+    {
       "title": "진격의 거인 33권",
       "link": "https://ridibooks.com/books/505029133",
       "author": "이사야마 하지메",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/1603053068",
       "author": "고행석",
       "genre": "액션"
-    },
-    {
-      "title": "주술회전 13권 [리디북스 특전 포함]",
-      "link": "https://ridibooks.com/books/1019044825",
-      "author": "아쿠타미 게게",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사이키 쿠스오의 재난 24권",
-      "link": "https://ridibooks.com/books/1019044835",
-      "author": "아소 슈이치",
-      "genre": "코믹"
-    },
-    {
-      "title": "나의 백합은 일입니다! 5권",
-      "link": "https://ridibooks.com/books/2498006509",
-      "author": "미만",
-      "genre": "GL"
-    },
-    {
-      "title": "속삭이듯 사랑을 노래하다 2권",
-      "link": "https://ridibooks.com/books/2498006507",
-      "author": "타케시마 에쿠",
-      "genre": "GL"
-    },
-    {
-      "title": "ReRe헬로 4권",
-      "link": "https://ridibooks.com/books/1019044834",
-      "author": "미나미 토코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "모험왕 비트 15권",
-      "link": "https://ridibooks.com/books/1019044836",
-      "author": "이나다 코지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "너는 봄에 눈을 뜬다 6권",
-      "link": "https://ridibooks.com/books/505029060",
-      "author": "시마 아사토",
-      "genre": "해외 순정"
     }
   ]
 }
