@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "미쿠의 큐베 한약방 5권 (완결)",
-      "link": "https://ridibooks.com/books/2007002772",
-      "author": "네무 요코",
-      "genre": "해외 순정"
-    },
-    {
       "title": "코세르테르의 용술사~어린용 이야기~ 8권",
       "link": "https://ridibooks.com/books/2498006517",
       "author": "이스루기 아유마",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "미쿠의 큐베 한약방 5권 (완결)",
+      "link": "https://ridibooks.com/books/2007002772",
+      "author": "네무 요코",
+      "genre": "해외 순정"
     },
     {
       "title": "복원가의 집 20권",
