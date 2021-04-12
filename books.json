@@ -1,6 +1,72 @@
 {
   "books": [
     {
+      "title": "스타일리시 치트 할미와 가난한 여고생 2권",
+      "link": "https://ridibooks.com/books/3802000026",
+      "author": "츠유히사 후미",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 여성향 게임 세계는 엑스트라에게 엄격한 세계입니다 5권",
+      "link": "https://ridibooks.com/books/3010004375",
+      "author": "시오사토 준",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "소녀전선 인형의 노래 1권",
+      "link": "https://ridibooks.com/books/806006702",
+      "author": "Ling",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "에덴즈 제로(EDENS ZERO) 11권",
+      "link": "https://ridibooks.com/books/505029136",
+      "author": "마시마 히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "불꽃 소방대 26권",
+      "link": "https://ridibooks.com/books/505029137",
+      "author": "오오쿠보 아츠시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사랑하는 소행성 2권",
+      "link": "https://ridibooks.com/books/297035862",
+      "author": "Quro",
+      "genre": "코믹"
+    },
+    {
+      "title": "빨간 모자의 늑대 제자 3권",
+      "link": "https://ridibooks.com/books/505029142",
+      "author": "모기 사야카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "한가로운 정원 4권",
+      "link": "https://ridibooks.com/books/297035944",
+      "author": "아키야마 카오리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "니시오기쿠보 런스루 4권 (완결)",
+      "link": "https://ridibooks.com/books/297035945",
+      "author": "유키 링고",
+      "genre": "드라마"
+    },
+    {
+      "title": "꼬여버린 BOY meets GIRL! 3권 (완결)",
+      "link": "https://ridibooks.com/books/806006703",
+      "author": "시모츠키 키누사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아지매 SOUL 2권",
+      "link": "https://ridibooks.com/books/908003613",
+      "author": "모리야마 츠루",
+      "genre": "드라마"
+    },
+    {
       "title": "코세르테르의 용술사~어린용 이야기~ 8권",
       "link": "https://ridibooks.com/books/2498006517",
       "author": "이스루기 아유마",
@@ -53,72 +119,6 @@
       "link": "https://ridibooks.com/books/806006688",
       "author": "나비코",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "세계의 종말과 마녀의 사랑 2권",
-      "link": "https://ridibooks.com/books/3802000024",
-      "author": "쿠지라",
-      "genre": "GL"
-    },
-    {
-      "title": "이지러진 달과 도넛 1권",
-      "link": "https://ridibooks.com/books/2066002484",
-      "author": "우스이 시오",
-      "genre": "GL"
-    },
-    {
-      "title": "슬로우 루프 1권",
-      "link": "https://ridibooks.com/books/2066002482",
-      "author": "우치노 마이코",
-      "genre": "드라마"
-    },
-    {
-      "title": "뱀파이어 도서관 13권 (완결)",
-      "link": "https://ridibooks.com/books/505029105",
-      "author": "이선영",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "철퇴와 피에타 1권",
-      "link": "https://ridibooks.com/books/2066002483",
-      "author": "마후유 마리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "3X3 EYES 환수의 숲의 조난자 3권",
-      "link": "https://ridibooks.com/books/505028386",
-      "author": "타카다 유조",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[마블] 스파이더맨/데드풀 Vol. 0 이건 팀업이 아니야",
-      "link": "https://ridibooks.com/books/862000840",
-      "author": "조 켈리",
-      "genre": "액션"
-    },
-    {
-      "title": "디스피커블 데드풀 Vol. 2: 마블 유니버스의 데드풀 죽이기 (완결)",
-      "link": "https://ridibooks.com/books/862001532",
-      "author": "제리 더갠",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "피터 파커 스펙태큘러 스파이더맨 Vol. 2: 어메이징 판타지 (완결)",
-      "link": "https://ridibooks.com/books/862001530",
-      "author": "칩 즈다스키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "토니 스타크 아이언 맨 Vol. 1: 셀프메이드 맨",
-      "link": "https://ridibooks.com/books/862001528",
-      "author": "발레리오 스키티",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "바보형제 불청객 5권",
-      "link": "https://ridibooks.com/books/1603053068",
-      "author": "고행석",
-      "genre": "액션"
     }
   ]
 }
