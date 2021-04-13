@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "[코믹] Re: 제로부터 시작하는 이세계 생활 제3장 9권",
+      "link": "https://ridibooks.com/books/1690000893",
+      "author": "마츠세 다이치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "산과 식욕과 나 7권",
+      "link": "https://ridibooks.com/books/1690000894",
+      "author": "시나노가와 히데오",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 마녀의 여행 1권",
+      "link": "https://ridibooks.com/books/2066002487",
+      "author": "나나오 이츠키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "유루캠△ 10권",
+      "link": "https://ridibooks.com/books/297036032",
+      "author": "AFRO",
+      "genre": "코믹"
+    },
+    {
+      "title": "에나미 군은 사는 게 힘들다 2권",
+      "link": "https://ridibooks.com/books/297036033",
+      "author": "후지타 아토",
+      "genre": "코믹"
+    },
+    {
+      "title": "고양이 한 뭉치 3권",
+      "link": "https://ridibooks.com/books/840036492",
+      "author": "고우모토",
+      "genre": "해외 순정"
+    },
+    {
       "title": "스타일리시 치트 할미와 가난한 여고생 2권",
       "link": "https://ridibooks.com/books/3802000026",
       "author": "츠유히사 후미",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/2007002772",
       "author": "네무 요코",
       "genre": "해외 순정"
-    },
-    {
-      "title": "복원가의 집 20권",
-      "link": "https://ridibooks.com/books/297035861",
-      "author": "김상엽",
-      "genre": "학원"
-    },
-    {
-      "title": "이세계에서 느긋하게 치유사 시작합니다 1권",
-      "link": "https://ridibooks.com/books/3010004378",
-      "author": "나오 이쿠히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "성녀가 아니어서 왕궁에서 느긋하게 밥을 짓기로 했습니다 2권",
-      "link": "https://ridibooks.com/books/3010004471",
-      "author": "아사타니 코토리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "런웨이에서 웃어줘 10권",
-      "link": "https://ridibooks.com/books/505029134",
-      "author": "이노야 코토바",
-      "genre": "드라마"
-    },
-    {
-      "title": "쿠킹 걸 10권 (완결)",
-      "link": "https://ridibooks.com/books/505029107",
-      "author": "타이요우 마리이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "진격의 거인 33권",
-      "link": "https://ridibooks.com/books/505029133",
-      "author": "이사야마 하지메",
-      "genre": "액션"
     }
   ]
 }
