@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "절벽 위의 란 7권",
+      "link": "https://ridibooks.com/books/297036635",
+      "author": "암미츠",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우주 형제 38권",
+      "link": "https://ridibooks.com/books/845023639",
+      "author": "코야마 츄야",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 게이머즈! 7권 (완결)",
+      "link": "https://ridibooks.com/books/845023640",
+      "author": "타카하시 츠바사",
+      "genre": "드라마"
+    },
+    {
+      "title": "리얼 어카운트 17권",
+      "link": "https://ridibooks.com/books/505029227",
+      "author": "오쿠쇼우",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "위치 크래프트 워크스 12권",
+      "link": "https://ridibooks.com/books/845023641",
+      "author": "미즈나기 류",
+      "genre": "학원"
+    },
+    {
       "title": "스바루와 스우 씨 4권",
       "link": "https://ridibooks.com/books/2066002512",
       "author": "타카하시 나츠코",
@@ -89,36 +119,6 @@
       "link": "https://ridibooks.com/books/505029143",
       "author": "시노마루 노도카",
       "genre": "드라마"
-    },
-    {
-      "title": "미스터리라 하지 말지어다 5권",
-      "link": "https://ridibooks.com/books/1019044900",
-      "author": "타무라 유미",
-      "genre": "드라마"
-    },
-    {
-      "title": "프로미스 신데렐라 5권",
-      "link": "https://ridibooks.com/books/1019044899",
-      "author": "타치바나 오레코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "푸른 오케스트라 3권",
-      "link": "https://ridibooks.com/books/1019044888",
-      "author": "아쿠이 마코토",
-      "genre": "학원"
-    },
-    {
-      "title": "블루 자이언트 슈프림 10권",
-      "link": "https://ridibooks.com/books/1019044898",
-      "author": "이시즈카 신이치",
-      "genre": "드라마"
-    },
-    {
-      "title": "코믹진 점프 152호",
-      "link": "https://ridibooks.com/books/845023632",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
