@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "와카코와 술 15권",
+      "link": "https://ridibooks.com/books/806006768",
+      "author": "신큐 치에",
+      "genre": "드라마"
+    },
+    {
+      "title": "커피 문 2권",
+      "link": "https://ridibooks.com/books/3010004491",
+      "author": "보타 모치토",
+      "genre": "GL"
+    },
+    {
+      "title": "언니 같은 남자, 시작합니다. 3권",
+      "link": "https://ridibooks.com/books/297036627",
+      "author": "이케 준코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "영 블랙 잭 11권",
+      "link": "https://ridibooks.com/books/505029541",
+      "author": "오오쿠마 유우고",
+      "genre": "드라마"
+    },
+    {
+      "title": "금색의 코르다 ~대학생편~ 2권",
+      "link": "https://ridibooks.com/books/297036629",
+      "author": "쿠레 유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "엔젤하트 2nd Season 16권 (완결)",
+      "link": "https://ridibooks.com/books/505029539",
+      "author": "호조 츠카사",
+      "genre": "드라마"
+    },
+    {
       "title": "절벽 위의 란 7권",
       "link": "https://ridibooks.com/books/297036635",
       "author": "암미츠",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/1603053092",
       "author": "고행석",
       "genre": "액션"
-    },
-    {
-      "title": "최애 아이돌이 옆집에 이사 왔다 2권",
-      "link": "https://ridibooks.com/books/297035993",
-      "author": "Sekizui hikinuki no kei",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 이세계는 스마트폰과 함께. 9권",
-      "link": "https://ridibooks.com/books/3010004487",
-      "author": "소토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "뤼팽 에뛰드 4권 (완결)",
-      "link": "https://ridibooks.com/books/806006757",
-      "author": "이와사키 요코",
-      "genre": "드라마"
-    },
-    {
-      "title": "삼각창의 밖은 밤 8권",
-      "link": "https://ridibooks.com/books/297036000",
-      "author": "야마시타 토모코",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 약사의 혼잣말(마오마오의 후궁 수수께끼 풀이수첩) 9권",
-      "link": "https://ridibooks.com/books/1019044901",
-      "author": "쿠라타 미노지",
-      "genre": "드라마"
-    },
-    {
-      "title": "우동 나라의 황금색 털뭉치 12권 (완결)",
-      "link": "https://ridibooks.com/books/505029143",
-      "author": "시노마루 노도카",
-      "genre": "드라마"
     }
   ]
 }
