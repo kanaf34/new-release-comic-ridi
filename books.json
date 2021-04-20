@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "조제, 호랑이 그리고 물고기들 : 하 (완결)",
+      "link": "https://ridibooks.com/books/2066002516",
+      "author": "에모토 나오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 모험에 따라오지 마요, 엄마! 2권",
+      "link": "https://ridibooks.com/books/297036693",
+      "author": "시시마루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "추남 진성 파이터 4권",
+      "link": "https://ridibooks.com/books/297036692",
+      "author": "히로마츠 료",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "와카코와 술 15권",
       "link": "https://ridibooks.com/books/806006768",
       "author": "신큐 치에",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/505029153",
       "author": "Oh! Great",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 전생슬라임 일기 4권",
-      "link": "https://ridibooks.com/books/2066002511",
-      "author": "시바",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "펠루아 이야기 14권",
-      "link": "https://ridibooks.com/books/505029103",
-      "author": "김연주",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "사실 나는 9권",
-      "link": "https://ridibooks.com/books/505029162",
-      "author": "마스다 에이지",
-      "genre": "해외 순정"
     }
   ]
 }
