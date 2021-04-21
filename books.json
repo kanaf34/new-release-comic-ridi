@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "허구추리 13권",
+      "link": "https://ridibooks.com/books/845023654",
+      "author": "카타세 챠시바",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "용신 카고메 2권",
+      "link": "https://ridibooks.com/books/4533000002",
+      "author": "마츠오 아키",
+      "genre": "코믹"
+    },
+    {
+      "title": "사랑하는 MOON DOG 2권",
+      "link": "https://ridibooks.com/books/297036719",
+      "author": "야마다 난페이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "벚꽃의 홍차왕자 13권 (완결)",
+      "link": "https://ridibooks.com/books/297036697",
+      "author": "야마다 난페이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "은하영웅전설 12권",
+      "link": "https://ridibooks.com/books/1019045436",
+      "author": "후지사키 류",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "노 건즈 라이프 10권",
+      "link": "https://ridibooks.com/books/1019045437",
+      "author": "카라스마 타스쿠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "W 줄리엣Ⅱ 9권",
+      "link": "https://ridibooks.com/books/297036698",
+      "author": "에무라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "29세 독신 중견 모험가의 일상 7권",
+      "link": "https://ridibooks.com/books/505029654",
+      "author": "나라 잇페이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "시모츠키 선생님의 달콤하지 않은 연애 강좌 2권 (완결)",
+      "link": "https://ridibooks.com/books/1019045430",
+      "author": "아유코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "반드시 사랑하고 만다. 2권",
+      "link": "https://ridibooks.com/books/1019045432",
+      "author": "카즈이 카즈미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "유가미 군은 친구가 없다 10권",
+      "link": "https://ridibooks.com/books/1019045433",
+      "author": "사쿠라 준",
+      "genre": "코믹"
+    },
+    {
+      "title": "격기3반 10권",
+      "link": "https://ridibooks.com/books/297035860",
+      "author": "이학",
+      "genre": "액션"
+    },
+    {
+      "title": "짐승의 길 5권",
+      "link": "https://ridibooks.com/books/297036715",
+      "author": "맛타쿠 모스케-유메우타",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "퍼펙트 서비스 20권",
+      "link": "https://ridibooks.com/books/505029657",
+      "author": "아라 타츠야",
+      "genre": "스포츠"
+    },
+    {
       "title": "조제, 호랑이 그리고 물고기들 : 하 (완결)",
       "link": "https://ridibooks.com/books/2066002516",
       "author": "에모토 나오",
@@ -35,90 +119,6 @@
       "link": "https://ridibooks.com/books/3010004491",
       "author": "보타 모치토",
       "genre": "GL"
-    },
-    {
-      "title": "언니 같은 남자, 시작합니다. 3권",
-      "link": "https://ridibooks.com/books/297036627",
-      "author": "이케 준코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "영 블랙 잭 11권",
-      "link": "https://ridibooks.com/books/505029541",
-      "author": "오오쿠마 유우고",
-      "genre": "드라마"
-    },
-    {
-      "title": "금색의 코르다 ~대학생편~ 2권",
-      "link": "https://ridibooks.com/books/297036629",
-      "author": "쿠레 유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "엔젤하트 2nd Season 16권 (완결)",
-      "link": "https://ridibooks.com/books/505029539",
-      "author": "호조 츠카사",
-      "genre": "드라마"
-    },
-    {
-      "title": "겁없는 아이들 17권 (완결)",
-      "link": "https://ridibooks.com/books/1603053114",
-      "author": "오일룡",
-      "genre": "스포츠"
-    },
-    {
-      "title": "절벽 위의 란 7권",
-      "link": "https://ridibooks.com/books/297036635",
-      "author": "암미츠",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "우주 형제 38권",
-      "link": "https://ridibooks.com/books/845023639",
-      "author": "코야마 츄야",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 게이머즈! 7권 (완결)",
-      "link": "https://ridibooks.com/books/845023640",
-      "author": "타카하시 츠바사",
-      "genre": "드라마"
-    },
-    {
-      "title": "리얼 어카운트 17권",
-      "link": "https://ridibooks.com/books/505029227",
-      "author": "오쿠쇼우",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "위치 크래프트 워크스 12권",
-      "link": "https://ridibooks.com/books/845023641",
-      "author": "미즈나기 류",
-      "genre": "학원"
-    },
-    {
-      "title": "스바루와 스우 씨 4권",
-      "link": "https://ridibooks.com/books/2066002512",
-      "author": "타카하시 나츠코",
-      "genre": "드라마"
-    },
-    {
-      "title": "괴롭히지 말아요, 나가토로 양 9권",
-      "link": "https://ridibooks.com/books/2066002510",
-      "author": "나나시",
-      "genre": "학원"
-    },
-    {
-      "title": "마계왕자 15권 (완결)",
-      "link": "https://ridibooks.com/books/297036186",
-      "author": "유키히로 우타코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "MF 고스트 2권",
-      "link": "https://ridibooks.com/books/505029152",
-      "author": "시게노 슈이치",
-      "genre": "스포츠"
     }
   ]
 }
