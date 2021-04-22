@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "무능한 나나 7권",
+      "link": "https://ridibooks.com/books/297036733",
+      "author": "후루야 이오리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "삼국군영전 화봉요원 31권",
+      "link": "https://ridibooks.com/books/1561008064",
+      "author": "진모",
+      "genre": "무협"
+    },
+    {
+      "title": "유큐홀더!(UQ HOLDER!) 21권",
+      "link": "https://ridibooks.com/books/505029684",
+      "author": "아카마츠 켄",
+      "genre": "액션"
+    },
+    {
+      "title": "원댄스 2권",
+      "link": "https://ridibooks.com/books/2066002527",
+      "author": "커피",
+      "genre": "학원"
+    },
+    {
+      "title": "[코믹] 약캐 토모자키 군 3권",
+      "link": "https://ridibooks.com/books/2066002528",
+      "author": "치다 에이토",
+      "genre": "학원"
+    },
+    {
+      "title": "개와 고양이 둘 다 키우면 매일이 즐거워 3권",
+      "link": "https://ridibooks.com/books/2066002529",
+      "author": "마츠모토 히데키치",
+      "genre": "코믹"
+    },
+    {
+      "title": "천사가 엿본다 5권 (완결)",
+      "link": "https://ridibooks.com/books/505029552",
+      "author": "모토 나오코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "악마 소녀는 엑소시스트와 계약 파기하고 싶다 3권 (완결)",
+      "link": "https://ridibooks.com/books/505029555",
+      "author": "요루다 아카리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "라멘 너무 좋아 코이즈미 씨 6권",
+      "link": "https://ridibooks.com/books/806006769",
+      "author": "나루미 나루",
+      "genre": "드라마"
+    },
+    {
       "title": "허구추리 13권",
       "link": "https://ridibooks.com/books/845023654",
       "author": "카타세 챠시바",
@@ -65,60 +119,6 @@
       "link": "https://ridibooks.com/books/1019045432",
       "author": "카즈이 카즈미",
       "genre": "해외 순정"
-    },
-    {
-      "title": "유가미 군은 친구가 없다 10권",
-      "link": "https://ridibooks.com/books/1019045433",
-      "author": "사쿠라 준",
-      "genre": "코믹"
-    },
-    {
-      "title": "격기3반 10권",
-      "link": "https://ridibooks.com/books/297035860",
-      "author": "이학",
-      "genre": "액션"
-    },
-    {
-      "title": "짐승의 길 5권",
-      "link": "https://ridibooks.com/books/297036715",
-      "author": "맛타쿠 모스케-유메우타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "퍼펙트 서비스 20권",
-      "link": "https://ridibooks.com/books/505029657",
-      "author": "아라 타츠야",
-      "genre": "스포츠"
-    },
-    {
-      "title": "조제, 호랑이 그리고 물고기들 : 하 (완결)",
-      "link": "https://ridibooks.com/books/2066002516",
-      "author": "에모토 나오",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 모험에 따라오지 마요, 엄마! 2권",
-      "link": "https://ridibooks.com/books/297036693",
-      "author": "시시마루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "추남 진성 파이터 4권",
-      "link": "https://ridibooks.com/books/297036692",
-      "author": "히로마츠 료",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "일그러진 도시 15권",
-      "link": "https://ridibooks.com/books/1603053120",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "와카코와 술 15권",
-      "link": "https://ridibooks.com/books/806006768",
-      "author": "신큐 치에",
-      "genre": "드라마"
     }
   ]
 }
