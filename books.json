@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "나의 이탈리아 요리 4권",
+      "link": "https://ridibooks.com/books/806006772",
+      "author": "노자키 후미코",
+      "genre": "드라마"
+    },
+    {
       "title": "무능한 나나 7권",
       "link": "https://ridibooks.com/books/297036733",
       "author": "후루야 이오리",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/1603053131",
       "author": "천제황",
       "genre": "무협"
-    },
-    {
-      "title": "시모츠키 선생님의 달콤하지 않은 연애 강좌 2권 (완결)",
-      "link": "https://ridibooks.com/books/1019045430",
-      "author": "아유코",
-      "genre": "해외 순정"
     }
   ]
 }
