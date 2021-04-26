@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "남고생을 키우고 싶은 누나 이야기 5권",
+      "link": "https://ridibooks.com/books/505029693",
+      "author": "히데키",
+      "genre": "드라마"
+    },
+    {
+      "title": "오늘 뭐 먹지? 26 꼬치구이 홀릭♪",
+      "link": "https://ridibooks.com/books/806006770",
+      "author": "오카이 하루코",
+      "genre": "드라마"
+    },
+    {
       "title": "권왕무적 22권",
       "link": "https://ridibooks.com/books/845023741",
       "author": "초우",
@@ -106,18 +118,6 @@
       "title": "노 건즈 라이프 10권",
       "link": "https://ridibooks.com/books/1019045437",
       "author": "카라스마 타스쿠",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "W 줄리엣Ⅱ 9권",
-      "link": "https://ridibooks.com/books/297036698",
-      "author": "에무라",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "29세 독신 중견 모험가의 일상 7권",
-      "link": "https://ridibooks.com/books/505029654",
-      "author": "나라 잇페이",
       "genre": "판타지/SF"
     }
   ]
