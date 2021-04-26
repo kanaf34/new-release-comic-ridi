@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "오빠의 아내와 살고 있습니다 4권",
+      "link": "https://ridibooks.com/books/297036700",
+      "author": "쿠즈시로",
+      "genre": "드라마"
+    },
+    {
+      "title": "하루와 아오의 도시락 4권",
+      "link": "https://ridibooks.com/books/4129000025",
+      "author": "마치타",
+      "genre": "드라마"
+    },
+    {
+      "title": "은혜는 평생 잊지 않겠습니다 3권 (완결)",
+      "link": "https://ridibooks.com/books/845023675",
+      "author": "키타고 카이",
+      "genre": "코믹"
+    },
+    {
+      "title": "여친, 빌리겠습니다 13권",
+      "link": "https://ridibooks.com/books/505029696",
+      "author": "미야지마 레이지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "오리타타부 2권",
+      "link": "https://ridibooks.com/books/297036843",
+      "author": "콘치키",
+      "genre": "코믹"
+    },
+    {
+      "title": "은반기사 3권",
+      "link": "https://ridibooks.com/books/297036866",
+      "author": "오가와 야요이",
+      "genre": "해외 순정"
+    },
+    {
       "title": "남고생을 키우고 싶은 누나 이야기 5권",
       "link": "https://ridibooks.com/books/505029693",
       "author": "히데키",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/806006769",
       "author": "나루미 나루",
       "genre": "드라마"
-    },
-    {
-      "title": "허구추리 13권",
-      "link": "https://ridibooks.com/books/845023654",
-      "author": "카타세 챠시바",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "용신 카고메 2권",
-      "link": "https://ridibooks.com/books/4533000002",
-      "author": "마츠오 아키",
-      "genre": "코믹"
-    },
-    {
-      "title": "사랑하는 MOON DOG 2권",
-      "link": "https://ridibooks.com/books/297036719",
-      "author": "야마다 난페이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "벚꽃의 홍차왕자 13권 (완결)",
-      "link": "https://ridibooks.com/books/297036697",
-      "author": "야마다 난페이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "은하영웅전설 12권",
-      "link": "https://ridibooks.com/books/1019045436",
-      "author": "후지사키 류",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "노 건즈 라이프 10권",
-      "link": "https://ridibooks.com/books/1019045437",
-      "author": "카라스마 타스쿠",
-      "genre": "판타지/SF"
     }
   ]
 }
