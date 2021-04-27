@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "절망 남자와 중국 소녀 4권 (완결)",
+      "link": "https://ridibooks.com/books/297036847",
+      "author": "리오",
+      "genre": "해외 순정"
+    },
+    {
       "title": "오빠의 아내와 살고 있습니다 4권",
       "link": "https://ridibooks.com/books/297036700",
       "author": "쿠즈시로",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/505029555",
       "author": "요루다 아카리",
       "genre": "해외 순정"
-    },
-    {
-      "title": "라멘 너무 좋아 코이즈미 씨 6권",
-      "link": "https://ridibooks.com/books/806006769",
-      "author": "나루미 나루",
-      "genre": "드라마"
     }
   ]
 }
