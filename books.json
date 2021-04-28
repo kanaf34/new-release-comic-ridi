@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "title": "타카네와 하나 16권",
+      "link": "https://ridibooks.com/books/505029730",
+      "author": "시와스 유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "모브코의 사랑 8권",
+      "link": "https://ridibooks.com/books/297036867",
+      "author": "타무라 아카네",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "로미오가 라이벌 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019045446",
+      "author": "히데 요시코",
+      "genre": "드라마"
+    },
+    {
+      "title": "사이 나쁜 약혼자 이야기 3권 (완결)",
+      "link": "https://ridibooks.com/books/297036868",
+      "author": "하치야 쿠지라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "그럼에도 세상은 아름답다 24권",
+      "link": "https://ridibooks.com/books/505029718",
+      "author": "시이나 다이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "어차피 이제 도망갈 수 없어 6권",
+      "link": "https://ridibooks.com/books/1019045451",
+      "author": "카즈이 카즈미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "내일의 3600초 4권",
+      "link": "https://ridibooks.com/books/1019045455",
+      "author": "콘노 리사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "병아리 왈츠 4권",
+      "link": "https://ridibooks.com/books/1019045473",
+      "author": "사토나카 미카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "10만분의 1 4권",
+      "link": "https://ridibooks.com/books/1019045474",
+      "author": "미야사카 카호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "프리티 보이 NEXT 3권",
+      "link": "https://ridibooks.com/books/505029746",
+      "author": "모리오 마사미",
+      "genre": "해외 순정"
+    },
+    {
       "title": "절망 남자와 중국 소녀 4권 (완결)",
       "link": "https://ridibooks.com/books/297036847",
       "author": "리오",
@@ -59,66 +119,6 @@
       "link": "https://ridibooks.com/books/806006770",
       "author": "오카이 하루코",
       "genre": "드라마"
-    },
-    {
-      "title": "권왕무적 22권",
-      "link": "https://ridibooks.com/books/845023741",
-      "author": "초우",
-      "genre": "무협"
-    },
-    {
-      "title": "나의 이탈리아 요리 4권",
-      "link": "https://ridibooks.com/books/806006772",
-      "author": "노자키 후미코",
-      "genre": "드라마"
-    },
-    {
-      "title": "무능한 나나 7권",
-      "link": "https://ridibooks.com/books/297036733",
-      "author": "후루야 이오리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "삼국군영전 화봉요원 31권",
-      "link": "https://ridibooks.com/books/1561008064",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "유큐홀더!(UQ HOLDER!) 21권",
-      "link": "https://ridibooks.com/books/505029684",
-      "author": "아카마츠 켄",
-      "genre": "액션"
-    },
-    {
-      "title": "원댄스 2권",
-      "link": "https://ridibooks.com/books/2066002527",
-      "author": "커피",
-      "genre": "학원"
-    },
-    {
-      "title": "[코믹] 약캐 토모자키 군 3권",
-      "link": "https://ridibooks.com/books/2066002528",
-      "author": "치다 에이토",
-      "genre": "학원"
-    },
-    {
-      "title": "개와 고양이 둘 다 키우면 매일이 즐거워 3권",
-      "link": "https://ridibooks.com/books/2066002529",
-      "author": "마츠모토 히데키치",
-      "genre": "코믹"
-    },
-    {
-      "title": "바보형제 불청객 16권 (완결)",
-      "link": "https://ridibooks.com/books/1603053142",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "천사가 엿본다 5권 (완결)",
-      "link": "https://ridibooks.com/books/505029552",
-      "author": "모토 나오코",
-      "genre": "해외 순정"
     }
   ]
 }
