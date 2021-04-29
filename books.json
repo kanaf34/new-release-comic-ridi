@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "전당포 시노부의 보석 상자 12권",
+      "link": "https://ridibooks.com/books/297036895",
+      "author": "니노미야 토모코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "창룡의 시종 9권 (완결)",
+      "link": "https://ridibooks.com/books/505029738",
+      "author": "치토세 시키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "타블로 게이트 11권",
+      "link": "https://ridibooks.com/books/2066002537",
+      "author": "스즈키 리카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "떨어지면 끝장 3권",
+      "link": "https://ridibooks.com/books/297036914",
+      "author": "스에노부 케이코",
+      "genre": "드라마"
+    },
+    {
+      "title": "열애 프린스 17권",
+      "link": "https://ridibooks.com/books/678014310",
+      "author": "세이즈키 마도카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "상사는 악녀를 놓치지 않아 4권 (완결)",
+      "link": "https://ridibooks.com/books/845024365",
+      "author": "아메미야 에이코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "슬리피 바메이드 5권",
+      "link": "https://ridibooks.com/books/845024366",
+      "author": "하야카와 파오",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 낙제 기사의 영웅담 11권 (완결)",
+      "link": "https://ridibooks.com/books/2066002533",
+      "author": "소라미치 메구무",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "드랍 5권",
+      "link": "https://ridibooks.com/books/806006797",
+      "author": "스즈키 다이",
+      "genre": "액션"
+    },
+    {
       "title": "타카네와 하나 16권",
       "link": "https://ridibooks.com/books/505029730",
       "author": "시와스 유키",
@@ -65,60 +119,6 @@
       "link": "https://ridibooks.com/books/505029746",
       "author": "모리오 마사미",
       "genre": "해외 순정"
-    },
-    {
-      "title": "절망 남자와 중국 소녀 4권 (완결)",
-      "link": "https://ridibooks.com/books/297036847",
-      "author": "리오",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "일그러진 도시 19권 (완결)",
-      "link": "https://ridibooks.com/books/1603053150",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "오빠의 아내와 살고 있습니다 4권",
-      "link": "https://ridibooks.com/books/297036700",
-      "author": "쿠즈시로",
-      "genre": "드라마"
-    },
-    {
-      "title": "하루와 아오의 도시락 4권",
-      "link": "https://ridibooks.com/books/4129000025",
-      "author": "마치타",
-      "genre": "드라마"
-    },
-    {
-      "title": "은혜는 평생 잊지 않겠습니다 3권 (완결)",
-      "link": "https://ridibooks.com/books/845023675",
-      "author": "키타고 카이",
-      "genre": "코믹"
-    },
-    {
-      "title": "여친, 빌리겠습니다 13권",
-      "link": "https://ridibooks.com/books/505029696",
-      "author": "미야지마 레이지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "오리타타부 2권",
-      "link": "https://ridibooks.com/books/297036843",
-      "author": "콘치키",
-      "genre": "코믹"
-    },
-    {
-      "title": "은반기사 3권",
-      "link": "https://ridibooks.com/books/297036866",
-      "author": "오가와 야요이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "남고생을 키우고 싶은 누나 이야기 5권",
-      "link": "https://ridibooks.com/books/505029693",
-      "author": "히데키",
-      "genre": "드라마"
     }
   ]
 }
