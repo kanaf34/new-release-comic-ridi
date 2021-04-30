@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "코믹진 점프 153호",
+      "link": "https://ridibooks.com/books/845024396",
+      "author": "점프 편집부",
+      "genre": "만화잡지"
+    },
+    {
       "title": "전당포 시노부의 보석 상자 12권",
       "link": "https://ridibooks.com/books/297036895",
       "author": "니노미야 토모코",
@@ -112,12 +118,6 @@
       "title": "병아리 왈츠 4권",
       "link": "https://ridibooks.com/books/1019045473",
       "author": "사토나카 미카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "10만분의 1 4권",
-      "link": "https://ridibooks.com/books/1019045474",
-      "author": "미야사카 카호",
       "genre": "해외 순정"
     }
   ]
