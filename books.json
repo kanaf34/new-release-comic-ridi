@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "미소녀 전사 세일러 문 완전판 10권 (완결)",
+      "link": "https://ridibooks.com/books/786000206",
+      "author": "다케우치 나오코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "코믹진 점프 153호",
       "link": "https://ridibooks.com/books/845024396",
       "author": "점프 편집부",
@@ -112,12 +118,6 @@
       "title": "내일의 3600초 4권",
       "link": "https://ridibooks.com/books/1019045455",
       "author": "콘노 리사",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "병아리 왈츠 4권",
-      "link": "https://ridibooks.com/books/1019045473",
-      "author": "사토나카 미카",
       "genre": "해외 순정"
     }
   ]
