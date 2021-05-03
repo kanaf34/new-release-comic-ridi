@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "학원 베이비시터즈 21권",
+      "link": "https://ridibooks.com/books/845024381",
+      "author": "토케이노 하리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아~ 우리들의 먀오 장군님 2권",
+      "link": "https://ridibooks.com/books/297036964",
+      "author": "모리치카",
+      "genre": "코믹"
+    },
+    {
+      "title": "당신이 해주지 않더라도 5권",
+      "link": "https://ridibooks.com/books/806006807",
+      "author": "하루노 하루",
+      "genre": "해외 순정"
+    },
+    {
       "title": "하나노이 군과 상사병 7권",
       "link": "https://ridibooks.com/books/297035585",
       "author": "모리노 메구미",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/678014310",
       "author": "세이즈키 마도카",
       "genre": "해외 순정"
-    },
-    {
-      "title": "상사는 악녀를 놓치지 않아 4권 (완결)",
-      "link": "https://ridibooks.com/books/845024365",
-      "author": "아메미야 에이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "슬리피 바메이드 5권",
-      "link": "https://ridibooks.com/books/845024366",
-      "author": "하야카와 파오",
-      "genre": "드라마"
-    },
-    {
-      "title": "챔프D 184호(2021.05.15)",
-      "link": "https://ridibooks.com/books/847004062",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
