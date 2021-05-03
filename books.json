@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "하나노이 군과 상사병 7권",
+      "link": "https://ridibooks.com/books/297035585",
+      "author": "모리노 메구미",
+      "genre": "해외 순정"
+    },
+    {
       "title": "미소녀 전사 세일러 문 완전판 10권 (완결)",
       "link": "https://ridibooks.com/books/786000206",
       "author": "다케우치 나오코",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/847004062",
       "author": "챔프D 편집부",
       "genre": "만화잡지"
-    },
-    {
-      "title": "[코믹] 낙제 기사의 영웅담 11권 (완결)",
-      "link": "https://ridibooks.com/books/2066002533",
-      "author": "소라미치 메구무",
-      "genre": "판타지/SF"
     }
   ]
 }
