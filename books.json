@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "악역 영애? 아니, 극악 영애인걸요 2권",
+      "link": "https://ridibooks.com/books/3010004531",
+      "author": "코나미 아사토",
+      "genre": "드라마"
+    },
+    {
+      "title": "워스트 외전 구리코 5권",
+      "link": "https://ridibooks.com/books/505029771",
+      "author": "다카하시 히로시",
+      "genre": "학원"
+    },
+    {
+      "title": "워스트 외전 도쿠로 3권",
+      "link": "https://ridibooks.com/books/505029777",
+      "author": "다카하시 히로시",
+      "genre": "액션"
+    },
+    {
+      "title": "사키 -Saki- 20권",
+      "link": "https://ridibooks.com/books/505029840",
+      "author": "코바야시 리츠",
+      "genre": "학원"
+    },
+    {
+      "title": "바운서 10권",
+      "link": "https://ridibooks.com/books/806006823",
+      "author": "미즈타 마코토",
+      "genre": "액션"
+    },
+    {
+      "title": "아웃 17권",
+      "link": "https://ridibooks.com/books/806006829",
+      "author": "미즈타 마코토",
+      "genre": "액션"
+    },
+    {
+      "title": "중졸 노동자부터 시작하는 고교생활 11권",
+      "link": "https://ridibooks.com/books/908003621",
+      "author": "사사키 미노루",
+      "genre": "학원"
+    },
+    {
       "title": "악마에 입문했습니다! 이루마 군 16권",
       "link": "https://ridibooks.com/books/845024427",
       "author": "니시 오사무",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/505029745",
       "author": "아사미 요우",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "은여우 15권",
-      "link": "https://ridibooks.com/books/1019045523",
-      "author": "오치아이 사요리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "첫사랑 좀비 14권",
-      "link": "https://ridibooks.com/books/1019045520",
-      "author": "미네나미 료",
-      "genre": "학원"
-    },
-    {
-      "title": "허니 레몬 소다 7권",
-      "link": "https://ridibooks.com/books/1019045521",
-      "author": "무라타 마유",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "후궁비의 관리인 2권",
-      "link": "https://ridibooks.com/books/3010004514",
-      "author": "히로모토 시오리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "홍하후궁 이야기 ~소옥전~ 9권",
-      "link": "https://ridibooks.com/books/2498006593",
-      "author": "쿠리미 아이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "Party(파티) 2021년 6월호",
-      "link": "https://ridibooks.com/books/505029843",
-      "author": "파티 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "유향도수 [개정판] 10권",
-      "link": "https://ridibooks.com/books/1603053221",
-      "author": "묵검향",
-      "genre": "무협"
     }
   ]
 }
