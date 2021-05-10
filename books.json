@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "title": "흑집사 30권",
+      "link": "https://ridibooks.com/books/505029841",
+      "author": "토보소 야나",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "툇마루에서 모든 게 달라졌다 5권 (완결)",
+      "link": "https://ridibooks.com/books/593000860",
+      "author": "쓰루타니 가오리",
+      "genre": "드라마"
+    },
+    {
+      "title": "그 사람의 위장에는 내가 부족해 4권",
+      "link": "https://ridibooks.com/books/845024447",
+      "author": "쵸모란",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "금색의 마비노기온 -아서 왕의 누이- 4권",
+      "link": "https://ridibooks.com/books/297037062",
+      "author": "야마다 난페이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "최강 마도사. 무릎에 화살을 맞아서 시골 경비병이 되다 2권",
+      "link": "https://ridibooks.com/books/3010004541",
+      "author": "아야노 마사키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "블루 록 5권",
+      "link": "https://ridibooks.com/books/505029809",
+      "author": "노무라 유스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "친구게임 13권",
+      "link": "https://ridibooks.com/books/505029837",
+      "author": "사토 유키",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "C.M.B. 박물관 사건목록(씨엠비) 42권",
+      "link": "https://ridibooks.com/books/505029838",
+      "author": "카토우 모토히로",
+      "genre": "학원"
+    },
+    {
+      "title": "템플 4권",
+      "link": "https://ridibooks.com/books/297037071",
+      "author": "요시오카 키미타케",
+      "genre": "코믹"
+    },
+    {
+      "title": "IDOL DTI 2권 (완결)",
+      "link": "https://ridibooks.com/books/845024449",
+      "author": "토우카 아키하루",
+      "genre": "드라마"
+    },
+    {
       "title": "사키 -Saki- 20권",
       "link": "https://ridibooks.com/books/505029840",
       "author": "코바야시 리츠",
@@ -59,66 +119,6 @@
       "link": "https://ridibooks.com/books/297037069",
       "author": "스즈카",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "열대어는 눈을 동경한다 7권",
-      "link": "https://ridibooks.com/books/3802000027",
-      "author": "하기노 마코토",
-      "genre": "GL"
-    },
-    {
-      "title": "장국의 알타이르 23권",
-      "link": "https://ridibooks.com/books/505029758",
-      "author": "카토 코토노",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "하루츠게와 눈의 아이 2권 (완결)",
-      "link": "https://ridibooks.com/books/2066002550",
-      "author": "hagi",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "여장 여왕님과 백설공주 1권",
-      "link": "https://ridibooks.com/books/2066002551",
-      "author": "아즈사 키나",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 이상적인 기둥서방 생활 2권",
-      "link": "https://ridibooks.com/books/1561008153",
-      "author": "히노츠키 네코",
-      "genre": "코믹"
-    },
-    {
-      "title": "일하지 않는 두 사람 11권",
-      "link": "https://ridibooks.com/books/297037070",
-      "author": "요시다 사토루",
-      "genre": "코믹"
-    },
-    {
-      "title": "퍼펙트 서비스 22권",
-      "link": "https://ridibooks.com/books/505029784",
-      "author": "아라 타츠야",
-      "genre": "스포츠"
-    },
-    {
-      "title": "여고생 괴식가 키리타니 8권",
-      "link": "https://ridibooks.com/books/806006822",
-      "author": "폰토고탄다",
-      "genre": "코믹"
-    },
-    {
-      "title": "너는 귀여운 여자아이 10권",
-      "link": "https://ridibooks.com/books/297036952",
-      "author": "이치노헤 루미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사랑스런 무코 17권 (완결)",
-      "link": "https://ridibooks.com/books/297036972",
-      "author": "미즈시나 타카유키",
-      "genre": "코믹"
     }
   ]
 }
