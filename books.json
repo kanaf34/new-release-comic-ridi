@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "[할리퀸] 프린스의 숙명",
+      "link": "https://ridibooks.com/books/1458005560",
+      "author": "발레리 파브",
+      "genre": "할리퀸"
+    },
+    {
       "title": "악역 영애? 아니, 극악 영애인걸요 2권",
       "link": "https://ridibooks.com/books/3010004531",
       "author": "코나미 아사토",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/297036972",
       "author": "미즈시나 타카유키",
       "genre": "코믹"
-    },
-    {
-      "title": "종말의 세라프 - 이치노세 구렌, 16세의 파멸 9권",
-      "link": "https://ridibooks.com/books/505029745",
-      "author": "아사미 요우",
-      "genre": "판타지/SF"
     }
   ]
 }
