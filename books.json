@@ -1,16 +1,28 @@
 {
   "books": [
     {
-      "title": "[할리퀸] 프린스의 숙명",
-      "link": "https://ridibooks.com/books/1458005560",
-      "author": "발레리 파브",
-      "genre": "할리퀸"
+      "title": "사키 -Saki- 20권",
+      "link": "https://ridibooks.com/books/505029840",
+      "author": "코바야시 리츠",
+      "genre": "학원"
     },
     {
       "title": "악역 영애? 아니, 극악 영애인걸요 2권",
       "link": "https://ridibooks.com/books/3010004531",
       "author": "코나미 아사토",
       "genre": "드라마"
+    },
+    {
+      "title": "중졸 노동자부터 시작하는 고교생활 11권",
+      "link": "https://ridibooks.com/books/908003621",
+      "author": "사사키 미노루",
+      "genre": "학원"
+    },
+    {
+      "title": "[할리퀸] 프린스의 숙명",
+      "link": "https://ridibooks.com/books/1458005560",
+      "author": "발레리 파브",
+      "genre": "할리퀸"
     },
     {
       "title": "워스트 외전 구리코 5권",
@@ -25,12 +37,6 @@
       "genre": "액션"
     },
     {
-      "title": "사키 -Saki- 20권",
-      "link": "https://ridibooks.com/books/505029840",
-      "author": "코바야시 리츠",
-      "genre": "학원"
-    },
-    {
       "title": "바운서 10권",
       "link": "https://ridibooks.com/books/806006823",
       "author": "미즈타 마코토",
@@ -41,12 +47,6 @@
       "link": "https://ridibooks.com/books/806006829",
       "author": "미즈타 마코토",
       "genre": "액션"
-    },
-    {
-      "title": "중졸 노동자부터 시작하는 고교생활 11권",
-      "link": "https://ridibooks.com/books/908003621",
-      "author": "사사키 미노루",
-      "genre": "학원"
     },
     {
       "title": "악마에 입문했습니다! 이루마 군 16권",
