@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "주술회전 14권 [리디북스 특전 한정판]",
+      "link": "https://ridibooks.com/books/1019045620",
+      "author": "아쿠타미 게게",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "속세의 [평범]은 어려워 3권",
       "link": "https://ridibooks.com/books/3802000028",
       "author": "바타코",
@@ -113,12 +119,6 @@
       "link": "https://ridibooks.com/books/593000860",
       "author": "쓰루타니 가오리",
       "genre": "드라마"
-    },
-    {
-      "title": "그 사람의 위장에는 내가 부족해 4권",
-      "link": "https://ridibooks.com/books/845024447",
-      "author": "쵸모란",
-      "genre": "해외 순정"
     }
   ]
 }
