@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 16권",
+      "link": "https://ridibooks.com/books/2066002559",
+      "author": "카와카미 타이키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "귀엽기만 한 게 아닌 시키모리 양 7권",
+      "link": "https://ridibooks.com/books/845025181",
+      "author": "마키 케이고",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "갸루와 공룡 4권",
+      "link": "https://ridibooks.com/books/2066002561",
+      "author": "토미무라 코타",
+      "genre": "코믹"
+    },
+    {
+      "title": "못난이에게 꽃다발을 5권",
+      "link": "https://ridibooks.com/books/845025161",
+      "author": "사쿠라 로쿠",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "SHY(샤이) 3권",
+      "link": "https://ridibooks.com/books/2066002570",
+      "author": "미키 부키미",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "삼국군영전 화봉요원 32권",
+      "link": "https://ridibooks.com/books/1561008203",
+      "author": "진모",
+      "genre": "무협"
+    },
+    {
+      "title": "이세계 현자의 전생 무쌍 3권",
+      "link": "https://ridibooks.com/books/3010004777",
+      "author": "사토 미소",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "디어 보이스 OVER TIME 2권",
+      "link": "https://ridibooks.com/books/505029860",
+      "author": "야가미 히로키",
+      "genre": "스포츠"
+    },
+    {
+      "title": "[코믹] 포션빨로 연명합니다! 2권",
+      "link": "https://ridibooks.com/books/2066002560",
+      "author": "코코노에 히비키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "갱킹(GANG KING)(개정판) 29권",
+      "link": "https://ridibooks.com/books/297037188",
+      "author": "야나우치 다이쥬",
+      "genre": "액션"
+    },
+    {
+      "title": "사실 나는 10권",
+      "link": "https://ridibooks.com/books/505029858",
+      "author": "마스다 에이지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "영 블랙 잭 13권",
+      "link": "https://ridibooks.com/books/505029883",
+      "author": "오오쿠마 유우고",
+      "genre": "드라마"
+    },
+    {
+      "title": "돈게쓰 24권",
+      "link": "https://ridibooks.com/books/806006853",
+      "author": "타시",
+      "genre": "액션"
+    },
+    {
+      "title": "아빠와 여고생의 게임 방송 1권",
+      "link": "https://ridibooks.com/books/806006854",
+      "author": "이토요시 료이치",
+      "genre": "드라마"
+    },
+    {
       "title": "주술회전 14권 [리디북스 특전 한정판]",
       "link": "https://ridibooks.com/books/1019045620",
       "author": "아쿠타미 게게",
@@ -35,90 +119,6 @@
       "link": "https://ridibooks.com/books/1019045645",
       "author": "코노미 타케시",
       "genre": "스포츠"
-    },
-    {
-      "title": "겁쟁이 페달 SPARE BIKE 6권",
-      "link": "https://ridibooks.com/books/297037177",
-      "author": "와타나베 와타루",
-      "genre": "스포츠"
-    },
-    {
-      "title": "무림여걸짱 22권 (완결)",
-      "link": "https://ridibooks.com/books/1603053266",
-      "author": "천제황",
-      "genre": "무협"
-    },
-    {
-      "title": "유향도수 [개정판] 20권",
-      "link": "https://ridibooks.com/books/1603053254",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "아이스 레볼루션 3권 (완결)",
-      "link": "https://ridibooks.com/books/1019045632",
-      "author": "츠츠미 아야",
-      "genre": "스포츠"
-    },
-    {
-      "title": "토리코 39권",
-      "link": "https://ridibooks.com/books/1019045644",
-      "author": "시마부쿠로 미츠토시",
-      "genre": "드라마"
-    },
-    {
-      "title": "메이저 세컨드 21권",
-      "link": "https://ridibooks.com/books/1019045646",
-      "author": "미츠다 타쿠야",
-      "genre": "스포츠"
-    },
-    {
-      "title": "이상한 나라의 아리스가와 4권",
-      "link": "https://ridibooks.com/books/1019045647",
-      "author": "오자키 아키라",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "요자쿠라 일가의 대작전 5권",
-      "link": "https://ridibooks.com/books/1019045657",
-      "author": "곤다이라 히츠지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "언니 같은 남자, 시작합니다. 4권 (완결)",
-      "link": "https://ridibooks.com/books/297037137",
-      "author": "이케 준코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "꽃이 지더라도 7권 (완결)",
-      "link": "https://ridibooks.com/books/297037139",
-      "author": "송하",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "로우 히어로 6권 (완결)",
-      "link": "https://ridibooks.com/books/297037163",
-      "author": "히라모토 아키라",
-      "genre": "액션"
-    },
-    {
-      "title": "사건이랑께! 5권",
-      "link": "https://ridibooks.com/books/806006852",
-      "author": "야스다 코스케",
-      "genre": "학원"
-    },
-    {
-      "title": "속세의 [평범]은 어려워 3권",
-      "link": "https://ridibooks.com/books/3802000028",
-      "author": "바타코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "비스타즈 (BEASTARS) 11권",
-      "link": "https://ridibooks.com/books/1690000896",
-      "author": "이타가키 파루",
-      "genre": "판타지/SF"
     }
   ]
 }
