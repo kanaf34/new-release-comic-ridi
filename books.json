@@ -1,6 +1,42 @@
 {
   "books": [
     {
+      "title": "푸른 강철의 아르페지오 17권",
+      "link": "https://ridibooks.com/books/297037222",
+      "author": "아크 퍼포먼스",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "벚꽃사중주 [신장판] 24권",
+      "link": "https://ridibooks.com/books/505029975",
+      "author": "야스다 스즈히토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "동군(東君) 7권",
+      "link": "https://ridibooks.com/books/297037201",
+      "author": "이단이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "저승의 사랑은 염라대왕 나름! 3권",
+      "link": "https://ridibooks.com/books/297037217",
+      "author": "히라이 루나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "시노비 사중주 7권",
+      "link": "https://ridibooks.com/books/297037216",
+      "author": "히무카 토오루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사신과 은의 기사 5권",
+      "link": "https://ridibooks.com/books/297037218",
+      "author": "이로노",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 16권",
       "link": "https://ridibooks.com/books/2066002559",
       "author": "카와카미 타이키",
@@ -83,42 +119,6 @@
       "link": "https://ridibooks.com/books/505029883",
       "author": "오오쿠마 유우고",
       "genre": "드라마"
-    },
-    {
-      "title": "돈게쓰 24권",
-      "link": "https://ridibooks.com/books/806006853",
-      "author": "타시",
-      "genre": "액션"
-    },
-    {
-      "title": "아빠와 여고생의 게임 방송 1권",
-      "link": "https://ridibooks.com/books/806006854",
-      "author": "이토요시 료이치",
-      "genre": "드라마"
-    },
-    {
-      "title": "주술회전 14권 [리디북스 특전 한정판]",
-      "link": "https://ridibooks.com/books/1019045620",
-      "author": "아쿠타미 게게",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "치하야후루 40권",
-      "link": "https://ridibooks.com/books/505029894",
-      "author": "스에츠구 유키",
-      "genre": "드라마"
-    },
-    {
-      "title": "대다크 2권",
-      "link": "https://ridibooks.com/books/1019045634",
-      "author": "하야시다 큐",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 괴물 이야기 8권",
-      "link": "https://ridibooks.com/books/505029861",
-      "author": "Oh! Great",
-      "genre": "판타지/SF"
     }
   ]
 }
