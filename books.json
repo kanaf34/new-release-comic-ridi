@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "열대 데라시네 보석점 4권",
+      "link": "https://ridibooks.com/books/2007003076",
+      "author": "나츠메 이사쿠",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "노부나가의 셰프 26권",
+      "link": "https://ridibooks.com/books/297037225",
+      "author": "카지카와 타쿠로",
+      "genre": "드라마"
+    },
+    {
+      "title": "동네술집 와카오 ~와카코와 술 체인점~ 4권",
+      "link": "https://ridibooks.com/books/806006868",
+      "author": "냔바라 넨즈",
+      "genre": "드라마"
+    },
+    {
+      "title": "거실의 마츠나가 씨 9권",
+      "link": "https://ridibooks.com/books/2007003077",
+      "author": "이와시타 케이코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "장미왕의 장례 행렬 11권",
+      "link": "https://ridibooks.com/books/505029978",
+      "author": "칸노 아야",
+      "genre": "드라마"
+    },
+    {
+      "title": "술 한잔 인생 한입 46권",
+      "link": "https://ridibooks.com/books/806006869",
+      "author": "라즈웰 호소키",
+      "genre": "드라마"
+    },
+    {
+      "title": "훈제요리 라이프 2권",
+      "link": "https://ridibooks.com/books/806006872",
+      "author": "오시마 치하루",
+      "genre": "드라마"
+    },
+    {
+      "title": "극도 패러사이츠 4권",
+      "link": "https://ridibooks.com/books/297037174",
+      "author": "BroccoLee",
+      "genre": "코믹"
+    },
+    {
       "title": "푸른 강철의 아르페지오 17권",
       "link": "https://ridibooks.com/books/297037222",
       "author": "아크 퍼포먼스",
@@ -71,54 +119,6 @@
       "link": "https://ridibooks.com/books/845025161",
       "author": "사쿠라 로쿠",
       "genre": "해외 순정"
-    },
-    {
-      "title": "SHY(샤이) 3권",
-      "link": "https://ridibooks.com/books/2066002570",
-      "author": "미키 부키미",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "삼국군영전 화봉요원 32권",
-      "link": "https://ridibooks.com/books/1561008203",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "이세계 현자의 전생 무쌍 3권",
-      "link": "https://ridibooks.com/books/3010004777",
-      "author": "사토 미소",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "디어 보이스 OVER TIME 2권",
-      "link": "https://ridibooks.com/books/505029860",
-      "author": "야가미 히로키",
-      "genre": "스포츠"
-    },
-    {
-      "title": "돌빡충돌 5권",
-      "link": "https://ridibooks.com/books/1603053276",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "챔프D 185호(2021.06.01)",
-      "link": "https://ridibooks.com/books/847004076",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "[코믹] 포션빨로 연명합니다! 2권",
-      "link": "https://ridibooks.com/books/2066002560",
-      "author": "코코노에 히비키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "갱킹(GANG KING)(개정판) 29권",
-      "link": "https://ridibooks.com/books/297037188",
-      "author": "야나우치 다이쥬",
-      "genre": "액션"
     }
   ]
 }
