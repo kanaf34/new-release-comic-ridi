@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "title": "괴물사변 11권",
+      "link": "https://ridibooks.com/books/1019045663",
+      "author": "아이모토 슈",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "쌍망정은 부숴야 한다 11권",
+      "link": "https://ridibooks.com/books/1019045664",
+      "author": "후지타 카즈히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "4월의 너, 스피카. 10권 (완결)",
+      "link": "https://ridibooks.com/books/1019045665",
+      "author": "스기야마 미와코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우국의 모리아티 13권",
+      "link": "https://ridibooks.com/books/1019045668",
+      "author": "미요시 히카루",
+      "genre": "드라마"
+    },
+    {
+      "title": "아이 엠 셜록 2권",
+      "link": "https://ridibooks.com/books/1019045679",
+      "author": "이오 나오미치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "소곤소곤 6권 (완결)",
+      "link": "https://ridibooks.com/books/297037248",
+      "author": "후지타니 요우코",
+      "genre": "드라마"
+    },
+    {
+      "title": "소란스럽게 밥 3권",
+      "link": "https://ridibooks.com/books/297037290",
+      "author": "오카자키 마리",
+      "genre": "드라마"
+    },
+    {
+      "title": "소년의 흔적 2권",
+      "link": "https://ridibooks.com/books/3981000014",
+      "author": "이나바 하치",
+      "genre": "드라마"
+    },
+    {
+      "title": "전 양아치가 우리 할머니를 노리고 있어요! 2권 (완결)",
+      "link": "https://ridibooks.com/books/4018000058",
+      "author": "호시쿠라 하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "모모 환생 전기 20권",
+      "link": "https://ridibooks.com/books/505029984",
+      "author": "사콘도 에리",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "열대 데라시네 보석점 4권",
       "link": "https://ridibooks.com/books/2007003076",
       "author": "나츠메 이사쿠",
@@ -59,66 +119,6 @@
       "link": "https://ridibooks.com/books/505029975",
       "author": "야스다 스즈히토",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "동군(東君) 7권",
-      "link": "https://ridibooks.com/books/297037201",
-      "author": "이단이",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "저승의 사랑은 염라대왕 나름! 3권",
-      "link": "https://ridibooks.com/books/297037217",
-      "author": "히라이 루나",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "시노비 사중주 7권",
-      "link": "https://ridibooks.com/books/297037216",
-      "author": "히무카 토오루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사신과 은의 기사 5권",
-      "link": "https://ridibooks.com/books/297037218",
-      "author": "이로노",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마경선종 [개정판] 2부 40권 (완결)",
-      "link": "https://ridibooks.com/books/1603053328",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "코믹진 점프 154호",
-      "link": "https://ridibooks.com/books/845025190",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 16권",
-      "link": "https://ridibooks.com/books/2066002559",
-      "author": "카와카미 타이키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "귀엽기만 한 게 아닌 시키모리 양 7권",
-      "link": "https://ridibooks.com/books/845025181",
-      "author": "마키 케이고",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "갸루와 공룡 4권",
-      "link": "https://ridibooks.com/books/2066002561",
-      "author": "토미무라 코타",
-      "genre": "코믹"
-    },
-    {
-      "title": "못난이에게 꽃다발을 5권",
-      "link": "https://ridibooks.com/books/845025161",
-      "author": "사쿠라 로쿠",
-      "genre": "해외 순정"
     }
   ]
 }
