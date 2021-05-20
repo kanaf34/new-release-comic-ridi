@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "얼굴에 드러나지 않는 카시와다 양과 얼굴에 드러나는 오오타 군 5권",
+      "link": "https://ridibooks.com/books/3010006232",
+      "author": "아즈마 후유",
+      "genre": "학원"
+    },
+    {
       "title": "괴물사변 11권",
       "link": "https://ridibooks.com/books/1019045663",
       "author": "아이모토 슈",
@@ -112,12 +118,6 @@
       "title": "푸른 강철의 아르페지오 17권",
       "link": "https://ridibooks.com/books/297037222",
       "author": "아크 퍼포먼스",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "벚꽃사중주 [신장판] 24권",
-      "link": "https://ridibooks.com/books/505029975",
-      "author": "야스다 스즈히토",
       "genre": "판타지/SF"
     }
   ]
