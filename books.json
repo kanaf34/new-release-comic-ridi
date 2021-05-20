@@ -1,6 +1,60 @@
 {
   "books": [
     {
+      "title": "논논비요리 13권",
+      "link": "https://ridibooks.com/books/1561008242",
+      "author": "앗토",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 ~마물의 나라를 즐기는 법~ 7권",
+      "link": "https://ridibooks.com/books/2066002746",
+      "author": "오카기리 쇼",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "가까워지고 싶은 미야젠 양 2권",
+      "link": "https://ridibooks.com/books/2066002750",
+      "author": "아키타카",
+      "genre": "학원"
+    },
+    {
+      "title": "[코믹] 백련의 패왕과 성약의 발키리 1권",
+      "link": "https://ridibooks.com/books/2066002751",
+      "author": "chany",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "메시아의 철퇴 1권",
+      "link": "https://ridibooks.com/books/2066002752",
+      "author": "아미다무쿠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] S랭크 몬스터 베헤모스지만 고양이라고 착각하길래 엘프 소녀의 기사(애완묘)로 살고 있습니다 1권",
+      "link": "https://ridibooks.com/books/2066002753",
+      "author": "시노노메 타로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 이세계 미궁의 최심부로 향하자 1권",
+      "link": "https://ridibooks.com/books/2066002754",
+      "author": "사토 케이스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "프리스트 스쿨 11권 (완결)",
+      "link": "https://ridibooks.com/books/297037330",
+      "author": "치아키 타로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "크게 휘두르며 33권",
+      "link": "https://ridibooks.com/books/505029985",
+      "author": "히구치 아사",
+      "genre": "스포츠"
+    },
+    {
       "title": "괴물사변 11권",
       "link": "https://ridibooks.com/books/1019045663",
       "author": "아이모토 슈",
@@ -65,60 +119,6 @@
       "link": "https://ridibooks.com/books/848033124",
       "author": "하스미 나츠메",
       "genre": "학원"
-    },
-    {
-      "title": "소곤소곤 6권 (완결)",
-      "link": "https://ridibooks.com/books/297037248",
-      "author": "후지타니 요우코",
-      "genre": "드라마"
-    },
-    {
-      "title": "전 양아치가 우리 할머니를 노리고 있어요! 2권 (완결)",
-      "link": "https://ridibooks.com/books/4018000058",
-      "author": "호시쿠라 하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "열대 데라시네 보석점 4권",
-      "link": "https://ridibooks.com/books/2007003076",
-      "author": "나츠메 이사쿠",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "노부나가의 셰프 26권",
-      "link": "https://ridibooks.com/books/297037225",
-      "author": "카지카와 타쿠로",
-      "genre": "드라마"
-    },
-    {
-      "title": "동네술집 와카오 ~와카코와 술 체인점~ 4권",
-      "link": "https://ridibooks.com/books/806006868",
-      "author": "냔바라 넨즈",
-      "genre": "드라마"
-    },
-    {
-      "title": "거실의 마츠나가 씨 9권",
-      "link": "https://ridibooks.com/books/2007003077",
-      "author": "이와시타 케이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "장미왕의 장례 행렬 11권",
-      "link": "https://ridibooks.com/books/505029978",
-      "author": "칸노 아야",
-      "genre": "드라마"
-    },
-    {
-      "title": "술 한잔 인생 한입 46권",
-      "link": "https://ridibooks.com/books/806006869",
-      "author": "라즈웰 호소키",
-      "genre": "드라마"
-    },
-    {
-      "title": "훈제요리 라이프 2권",
-      "link": "https://ridibooks.com/books/806006872",
-      "author": "오시마 치하루",
-      "genre": "드라마"
     }
   ]
 }
