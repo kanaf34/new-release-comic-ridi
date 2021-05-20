@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "유향도수 [개정판] 28권 (완결)",
+      "link": "https://ridibooks.com/books/1603053339",
+      "author": "묵검향",
+      "genre": "무협"
+    },
+    {
+      "title": "도시 전설 탐정 사무소 9권",
+      "link": "https://ridibooks.com/books/848033124",
+      "author": "하스미 나츠메",
+      "genre": "학원"
+    },
+    {
       "title": "얼굴에 드러나지 않는 카시와다 양과 얼굴에 드러나는 오오타 군 5권",
       "link": "https://ridibooks.com/books/3010006232",
       "author": "아즈마 후유",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/806006872",
       "author": "오시마 치하루",
       "genre": "드라마"
-    },
-    {
-      "title": "극도 패러사이츠 4권",
-      "link": "https://ridibooks.com/books/297037174",
-      "author": "BroccoLee",
-      "genre": "코믹"
-    },
-    {
-      "title": "푸른 강철의 아르페지오 17권",
-      "link": "https://ridibooks.com/books/297037222",
-      "author": "아크 퍼포먼스",
-      "genre": "판타지/SF"
     }
   ]
 }
