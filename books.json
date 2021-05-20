@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "괴물사변 11권",
+      "link": "https://ridibooks.com/books/1019045663",
+      "author": "아이모토 슈",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "소년의 흔적 2권",
+      "link": "https://ridibooks.com/books/3981000014",
+      "author": "이나바 하치",
+      "genre": "드라마"
+    },
+    {
+      "title": "쌍망정은 부숴야 한다 11권",
+      "link": "https://ridibooks.com/books/1019045664",
+      "author": "후지타 카즈히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "우국의 모리아티 13권",
+      "link": "https://ridibooks.com/books/1019045668",
+      "author": "미요시 히카루",
+      "genre": "드라마"
+    },
+    {
+      "title": "4월의 너, 스피카. 10권 (완결)",
+      "link": "https://ridibooks.com/books/1019045665",
+      "author": "스기야마 미와코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "소란스럽게 밥 3권",
+      "link": "https://ridibooks.com/books/297037290",
+      "author": "오카자키 마리",
+      "genre": "드라마"
+    },
+    {
+      "title": "아이 엠 셜록 2권",
+      "link": "https://ridibooks.com/books/1019045679",
+      "author": "이오 나오미치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "모모 환생 전기 20권",
+      "link": "https://ridibooks.com/books/505029984",
+      "author": "사콘도 에리",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "유향도수 [개정판] 28권 (완결)",
       "link": "https://ridibooks.com/books/1603053339",
       "author": "묵검향",
@@ -19,51 +67,9 @@
       "genre": "학원"
     },
     {
-      "title": "괴물사변 11권",
-      "link": "https://ridibooks.com/books/1019045663",
-      "author": "아이모토 슈",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "쌍망정은 부숴야 한다 11권",
-      "link": "https://ridibooks.com/books/1019045664",
-      "author": "후지타 카즈히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "4월의 너, 스피카. 10권 (완결)",
-      "link": "https://ridibooks.com/books/1019045665",
-      "author": "스기야마 미와코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "우국의 모리아티 13권",
-      "link": "https://ridibooks.com/books/1019045668",
-      "author": "미요시 히카루",
-      "genre": "드라마"
-    },
-    {
-      "title": "아이 엠 셜록 2권",
-      "link": "https://ridibooks.com/books/1019045679",
-      "author": "이오 나오미치",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "소곤소곤 6권 (완결)",
       "link": "https://ridibooks.com/books/297037248",
       "author": "후지타니 요우코",
-      "genre": "드라마"
-    },
-    {
-      "title": "소란스럽게 밥 3권",
-      "link": "https://ridibooks.com/books/297037290",
-      "author": "오카자키 마리",
-      "genre": "드라마"
-    },
-    {
-      "title": "소년의 흔적 2권",
-      "link": "https://ridibooks.com/books/3981000014",
-      "author": "이나바 하치",
       "genre": "드라마"
     },
     {
@@ -71,12 +77,6 @@
       "link": "https://ridibooks.com/books/4018000058",
       "author": "호시쿠라 하루",
       "genre": "해외 순정"
-    },
-    {
-      "title": "모모 환생 전기 20권",
-      "link": "https://ridibooks.com/books/505029984",
-      "author": "사콘도 에리",
-      "genre": "판타지/SF"
     },
     {
       "title": "열대 데라시네 보석점 4권",
