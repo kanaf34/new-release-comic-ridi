@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "퍼펙트 월드 11권",
+      "link": "https://ridibooks.com/books/505030092",
+      "author": "아루가 리에",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "약혼자가 악역이라 곤란합니다 2권",
+      "link": "https://ridibooks.com/books/806006875",
+      "author": "미츠노 하치",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 내 용맹에 떨어라 천지여 5권",
+      "link": "https://ridibooks.com/books/3010006262",
+      "author": "사토 유",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "크게 휘두르며 33권",
       "link": "https://ridibooks.com/books/505029985",
       "author": "히구치 아사",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/297037290",
       "author": "오카자키 마리",
       "genre": "드라마"
-    },
-    {
-      "title": "아이 엠 셜록 2권",
-      "link": "https://ridibooks.com/books/1019045679",
-      "author": "이오 나오미치",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "얼굴에 드러나지 않는 카시와다 양과 얼굴에 드러나는 오오타 군 5권",
-      "link": "https://ridibooks.com/books/3010006232",
-      "author": "아즈마 후유",
-      "genre": "학원"
-    },
-    {
-      "title": "모모 환생 전기 20권",
-      "link": "https://ridibooks.com/books/505029984",
-      "author": "사콘도 에리",
-      "genre": "판타지/SF"
     }
   ]
 }
