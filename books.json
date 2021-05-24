@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "내 주먹을 받아라! 4권 (완결)",
+      "link": "https://ridibooks.com/books/3802000032",
+      "author": "무라타",
+      "genre": "GL"
+    },
+    {
+      "title": "내가 인기 없는 건 아무리 생각해도 너희들 탓이야! 17권",
+      "link": "https://ridibooks.com/books/297037344",
+      "author": "타니가와 니코",
+      "genre": "코믹"
+    },
+    {
+      "title": "도쿄 리벤저스 8권",
+      "link": "https://ridibooks.com/books/505030095",
+      "author": "와쿠이 켄",
+      "genre": "학원"
+    },
+    {
+      "title": "고양이 손은 빌리지 않아! 2권",
+      "link": "https://ridibooks.com/books/908003623",
+      "author": "콘노 키타",
+      "genre": "드라마"
+    },
+    {
+      "title": "메이드 인 허니 6권 (완결)",
+      "link": "https://ridibooks.com/books/297037456",
+      "author": "요시노 마리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "슈퍼 청춘 남매s 4권",
+      "link": "https://ridibooks.com/books/297037460",
+      "author": "신모토 신",
+      "genre": "드라마"
+    },
+    {
+      "title": "수라의 도시 5권",
+      "link": "https://ridibooks.com/books/845025268",
+      "author": "YAKSU",
+      "genre": "액션"
+    },
+    {
+      "title": "권왕무적 23권",
+      "link": "https://ridibooks.com/books/845025269",
+      "author": "초우",
+      "genre": "무협"
+    },
+    {
       "title": "퍼펙트 월드 11권",
       "link": "https://ridibooks.com/books/505030092",
       "author": "아루가 리에",
@@ -71,54 +119,6 @@
       "link": "https://ridibooks.com/books/1603053344",
       "author": "고행석",
       "genre": "액션"
-    },
-    {
-      "title": "오니즈카 양과 사와리다 군 1권",
-      "link": "https://ridibooks.com/books/4369000201",
-      "author": "나카하라 카이헤이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "가까워지고 싶은 미야젠 양 2권",
-      "link": "https://ridibooks.com/books/2066002750",
-      "author": "아키타카",
-      "genre": "학원"
-    },
-    {
-      "title": "프리스트 스쿨 11권 (완결)",
-      "link": "https://ridibooks.com/books/297037330",
-      "author": "치아키 타로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "괴물사변 11권",
-      "link": "https://ridibooks.com/books/1019045663",
-      "author": "아이모토 슈",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "소년의 흔적 2권",
-      "link": "https://ridibooks.com/books/3981000014",
-      "author": "이나바 하치",
-      "genre": "드라마"
-    },
-    {
-      "title": "쌍망정은 부숴야 한다 11권",
-      "link": "https://ridibooks.com/books/1019045664",
-      "author": "후지타 카즈히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "우국의 모리아티 13권",
-      "link": "https://ridibooks.com/books/1019045668",
-      "author": "미요시 히카루",
-      "genre": "드라마"
-    },
-    {
-      "title": "4월의 너, 스피카. 10권 (완결)",
-      "link": "https://ridibooks.com/books/1019045665",
-      "author": "스기야마 미와코",
-      "genre": "해외 순정"
     }
   ]
 }
