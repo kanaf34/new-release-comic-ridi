@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "괴수 도마뱀 3권 (완결)",
+      "link": "https://ridibooks.com/books/297037453",
+      "author": "후쿠치 카미오",
+      "genre": "코믹"
+    },
+    {
+      "title": "은반기사 4권",
+      "link": "https://ridibooks.com/books/297037473",
+      "author": "오가와 야요이",
+      "genre": "해외 순정"
+    },
+    {
       "title": "내 주먹을 받아라! 4권 (완결)",
       "link": "https://ridibooks.com/books/3802000032",
       "author": "무라타",
@@ -106,18 +118,6 @@
       "title": "메시아의 철퇴 1권",
       "link": "https://ridibooks.com/books/2066002752",
       "author": "아미다무쿠",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 백련의 패왕과 성약의 발키리 1권",
-      "link": "https://ridibooks.com/books/2066002751",
-      "author": "chany",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] S랭크 몬스터 베헤모스지만 고양이라고 착각하길래 엘프 소녀의 기사(애완묘)로 살고 있습니다 1권",
-      "link": "https://ridibooks.com/books/2066002753",
-      "author": "시노노메 타로",
       "genre": "판타지/SF"
     }
   ]
