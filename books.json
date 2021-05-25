@@ -43,12 +43,6 @@
       "genre": "드라마"
     },
     {
-      "title": "스킵 비트! 46권",
-      "link": "https://ridibooks.com/books/862001547",
-      "author": "나카무라 요시키",
-      "genre": "해외 순정"
-    },
-    {
       "title": "필드의 플레이보이 14권 (완결)",
       "link": "https://ridibooks.com/books/1603053374",
       "author": "오일룡",
@@ -118,6 +112,12 @@
       "title": "[코믹] 백련의 패왕과 성약의 발키리 1권",
       "link": "https://ridibooks.com/books/2066002751",
       "author": "chany",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] S랭크 몬스터 베헤모스지만 고양이라고 착각하길래 엘프 소녀의 기사(애완묘)로 살고 있습니다 1권",
+      "link": "https://ridibooks.com/books/2066002753",
+      "author": "시노노메 타로",
       "genre": "판타지/SF"
     }
   ]
