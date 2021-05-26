@@ -1,6 +1,78 @@
 {
   "books": [
     {
+      "title": "드래곤 볼 신장판 42권 (완결)",
+      "link": "https://ridibooks.com/books/1019045747",
+      "author": "토리야마 아키라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "심야식당 23권",
+      "link": "https://ridibooks.com/books/1019045763",
+      "author": "아베 야로",
+      "genre": "드라마"
+    },
+    {
+      "title": "코미 양은 커뮤증입니다 17권",
+      "link": "https://ridibooks.com/books/1019045765",
+      "author": "오다 토모히토",
+      "genre": "코믹"
+    },
+    {
+      "title": "왕자가 나를 포기하지 않아! 8권",
+      "link": "https://ridibooks.com/books/505030171",
+      "author": "아사다 닛키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우리는 공부를 못해 14권",
+      "link": "https://ridibooks.com/books/1019045767",
+      "author": "츠츠이 타이시",
+      "genre": "학원"
+    },
+    {
+      "title": "수다는 아침식사 후에. 2권",
+      "link": "https://ridibooks.com/books/1019045749",
+      "author": "히데 요시코",
+      "genre": "드라마"
+    },
+    {
+      "title": "마티네와 소와레 3권",
+      "link": "https://ridibooks.com/books/1019045752",
+      "author": "오스가 메구미",
+      "genre": "드라마"
+    },
+    {
+      "title": "집사들의 침묵 5권",
+      "link": "https://ridibooks.com/books/1019045762",
+      "author": "사쿠라다 히나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "보안관 에반스의 거짓말 4권",
+      "link": "https://ridibooks.com/books/1019045764",
+      "author": "쿠리야마 미즈키",
+      "genre": "드라마"
+    },
+    {
+      "title": "사람은 겉모습이 100퍼센트 4권",
+      "link": "https://ridibooks.com/books/297037492",
+      "author": "오쿠보 히로미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사랑하는 고슴도치 4권",
+      "link": "https://ridibooks.com/books/1019045766",
+      "author": "히나치 나오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "18세 새댁, 불륜합니다 3권",
+      "link": "https://ridibooks.com/books/1019045768",
+      "author": "와타나베 시호",
+      "genre": "해외 순정"
+    },
+    {
       "title": "괴수 도마뱀 3권 (완결)",
       "link": "https://ridibooks.com/books/297037453",
       "author": "후쿠치 카미오",
@@ -47,78 +119,6 @@
       "link": "https://ridibooks.com/books/908003623",
       "author": "콘노 키타",
       "genre": "드라마"
-    },
-    {
-      "title": "메이드 인 허니 6권 (완결)",
-      "link": "https://ridibooks.com/books/297037456",
-      "author": "요시노 마리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "슈퍼 청춘 남매s 4권",
-      "link": "https://ridibooks.com/books/297037460",
-      "author": "신모토 신",
-      "genre": "드라마"
-    },
-    {
-      "title": "필드의 플레이보이 14권 (완결)",
-      "link": "https://ridibooks.com/books/1603053374",
-      "author": "오일룡",
-      "genre": "스포츠"
-    },
-    {
-      "title": "수라의 도시 5권",
-      "link": "https://ridibooks.com/books/845025268",
-      "author": "YAKSU",
-      "genre": "액션"
-    },
-    {
-      "title": "권왕무적 23권",
-      "link": "https://ridibooks.com/books/845025269",
-      "author": "초우",
-      "genre": "무협"
-    },
-    {
-      "title": "퍼펙트 월드 11권",
-      "link": "https://ridibooks.com/books/505030092",
-      "author": "아루가 리에",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "약혼자가 악역이라 곤란합니다 2권",
-      "link": "https://ridibooks.com/books/806006875",
-      "author": "미츠노 하치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 내 용맹에 떨어라 천지여 5권",
-      "link": "https://ridibooks.com/books/3010006262",
-      "author": "사토 유",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "진한 맛 룸셰어 1권",
-      "link": "https://ridibooks.com/books/840037326",
-      "author": "하루미 치히로",
-      "genre": "드라마"
-    },
-    {
-      "title": "크게 휘두르며 33권",
-      "link": "https://ridibooks.com/books/505029985",
-      "author": "히구치 아사",
-      "genre": "스포츠"
-    },
-    {
-      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 ~마물의 나라를 즐기는 법~ 7권",
-      "link": "https://ridibooks.com/books/2066002746",
-      "author": "오카기리 쇼",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "논논비요리 13권",
-      "link": "https://ridibooks.com/books/1561008242",
-      "author": "앗토",
-      "genre": "코믹"
     }
   ]
 }
