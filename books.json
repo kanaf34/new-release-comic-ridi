@@ -1,6 +1,72 @@
 {
   "books": [
     {
+      "title": "코노하나정 기담 : 상",
+      "link": "https://ridibooks.com/books/2066002796",
+      "author": "아마노 사쿠야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "커피전문점 고양이 1권",
+      "link": "https://ridibooks.com/books/2066002797",
+      "author": "스기사키 유키루",
+      "genre": "드라마"
+    },
+    {
+      "title": "타블로 게이트 12권",
+      "link": "https://ridibooks.com/books/2066002798",
+      "author": "스즈키 리카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마녀와 야수 7권",
+      "link": "https://ridibooks.com/books/297037504",
+      "author": "사타케 코우스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "요괴 아파트의 우아한 일상 21권",
+      "link": "https://ridibooks.com/books/297037505",
+      "author": "미야마 와카",
+      "genre": "드라마"
+    },
+    {
+      "title": "스킵과 로퍼 5권",
+      "link": "https://ridibooks.com/books/3010006606",
+      "author": "타카마츠 미사키",
+      "genre": "드라마"
+    },
+    {
+      "title": "아리마군은 마법사 2권 (완결)",
+      "link": "https://ridibooks.com/books/3802000031",
+      "author": "덴시 렌지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "기생수 리버시 4권",
+      "link": "https://ridibooks.com/books/505030174",
+      "author": "오타 모아레",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "[코믹] 약사의 혼잣말 7권",
+      "link": "https://ridibooks.com/books/505030375",
+      "author": "네코쿠라게",
+      "genre": "드라마"
+    },
+    {
+      "title": "해묘장 days 3권 (완결)",
+      "link": "https://ridibooks.com/books/806006877",
+      "author": "코다마 나오코",
+      "genre": "GL"
+    },
+    {
+      "title": "달과 사랑은 가득차면 기운다 2권 (완결)",
+      "link": "https://ridibooks.com/books/806006880",
+      "author": "토쿠오츠무",
+      "genre": "GL"
+    },
+    {
       "title": "드래곤 볼 신장판 42권 (완결)",
       "link": "https://ridibooks.com/books/1019045747",
       "author": "토리야마 아키라",
@@ -53,72 +119,6 @@
       "link": "https://ridibooks.com/books/1019045764",
       "author": "쿠리야마 미즈키",
       "genre": "드라마"
-    },
-    {
-      "title": "사람은 겉모습이 100퍼센트 4권",
-      "link": "https://ridibooks.com/books/297037492",
-      "author": "오쿠보 히로미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "콩고양이 10권",
-      "link": "https://ridibooks.com/books/1570000200",
-      "author": "네코마키",
-      "genre": "드라마"
-    },
-    {
-      "title": "사랑하는 고슴도치 4권",
-      "link": "https://ridibooks.com/books/1019045766",
-      "author": "히나치 나오",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "18세 새댁, 불륜합니다 3권",
-      "link": "https://ridibooks.com/books/1019045768",
-      "author": "와타나베 시호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "괴수 도마뱀 3권 (완결)",
-      "link": "https://ridibooks.com/books/297037453",
-      "author": "후쿠치 카미오",
-      "genre": "코믹"
-    },
-    {
-      "title": "은반기사 4권",
-      "link": "https://ridibooks.com/books/297037473",
-      "author": "오가와 야요이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "양아치 4권",
-      "link": "https://ridibooks.com/books/1603053379",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "내 주먹을 받아라! 4권 (완결)",
-      "link": "https://ridibooks.com/books/3802000032",
-      "author": "무라타",
-      "genre": "GL"
-    },
-    {
-      "title": "다이아몬드 에이스 actⅡ 23권",
-      "link": "https://ridibooks.com/books/505030091",
-      "author": "테라지마 유지",
-      "genre": "스포츠"
-    },
-    {
-      "title": "내가 인기 없는 건 아무리 생각해도 너희들 탓이야! 17권",
-      "link": "https://ridibooks.com/books/297037344",
-      "author": "타니가와 니코",
-      "genre": "코믹"
-    },
-    {
-      "title": "도쿄 리벤저스 8권",
-      "link": "https://ridibooks.com/books/505030095",
-      "author": "와쿠이 켄",
-      "genre": "학원"
     }
   ]
 }
