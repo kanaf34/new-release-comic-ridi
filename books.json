@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "title": "스킵과 로퍼 5권",
+      "link": "https://ridibooks.com/books/3010006606",
+      "author": "타카마츠 미사키",
+      "genre": "드라마"
+    },
+    {
+      "title": "아리마군은 마법사 2권 (완결)",
+      "link": "https://ridibooks.com/books/3802000031",
+      "author": "덴시 렌지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 약사의 혼잣말 7권",
+      "link": "https://ridibooks.com/books/505030375",
+      "author": "네코쿠라게",
+      "genre": "드라마"
+    },
+    {
+      "title": "요괴 아파트의 우아한 일상 21권",
+      "link": "https://ridibooks.com/books/297037505",
+      "author": "미야마 와카",
+      "genre": "드라마"
+    },
+    {
+      "title": "마녀와 야수 7권",
+      "link": "https://ridibooks.com/books/297037504",
+      "author": "사타케 코우스케",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "코노하나정 기담 : 상",
       "link": "https://ridibooks.com/books/2066002796",
       "author": "아마노 사쿠야",
@@ -19,40 +49,10 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "마녀와 야수 7권",
-      "link": "https://ridibooks.com/books/297037504",
-      "author": "사타케 코우스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "요괴 아파트의 우아한 일상 21권",
-      "link": "https://ridibooks.com/books/297037505",
-      "author": "미야마 와카",
-      "genre": "드라마"
-    },
-    {
-      "title": "스킵과 로퍼 5권",
-      "link": "https://ridibooks.com/books/3010006606",
-      "author": "타카마츠 미사키",
-      "genre": "드라마"
-    },
-    {
-      "title": "아리마군은 마법사 2권 (완결)",
-      "link": "https://ridibooks.com/books/3802000031",
-      "author": "덴시 렌지",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "기생수 리버시 4권",
       "link": "https://ridibooks.com/books/505030174",
       "author": "오타 모아레",
       "genre": "공포/추리"
-    },
-    {
-      "title": "[코믹] 약사의 혼잣말 7권",
-      "link": "https://ridibooks.com/books/505030375",
-      "author": "네코쿠라게",
-      "genre": "드라마"
     },
     {
       "title": "해묘장 days 3권 (완결)",
