@@ -1,12 +1,6 @@
 {
   "books": [
     {
-      "title": "아사히 선배의 취향 5권",
-      "link": "https://ridibooks.com/books/297037519",
-      "author": "마치노 이로하",
-      "genre": "해외 순정"
-    },
-    {
       "title": "한 번쯤 여친이 되고 싶어! 3권",
       "link": "https://ridibooks.com/books/297037523",
       "author": "사코우 와타리",
@@ -19,18 +13,6 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "창천의 권 리제네시스 3권",
-      "link": "https://ridibooks.com/books/505030157",
-      "author": "츠지 히데키",
-      "genre": "액션"
-    },
-    {
-      "title": "프리티 보이 NEXT 4권",
-      "link": "https://ridibooks.com/books/505030159",
-      "author": "모리오 마사미",
-      "genre": "해외 순정"
-    },
-    {
       "title": "오늘부터 너의 닌자 4권",
       "link": "https://ridibooks.com/books/505030177",
       "author": "스즈키 줄리에타",
@@ -40,6 +22,24 @@
       "title": "왕가의 문장 21권",
       "link": "https://ridibooks.com/books/505030186",
       "author": "호소카와 후민",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아사히 선배의 취향 5권",
+      "link": "https://ridibooks.com/books/297037519",
+      "author": "마치노 이로하",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "창천의 권 리제네시스 3권",
+      "link": "https://ridibooks.com/books/505030157",
+      "author": "츠지 히데키",
+      "genre": "액션"
+    },
+    {
+      "title": "프리티 보이 NEXT 4권",
+      "link": "https://ridibooks.com/books/505030159",
+      "author": "모리오 마사미",
       "genre": "해외 순정"
     },
     {
