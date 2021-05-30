@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "아사히 선배의 취향 5권",
+      "link": "https://ridibooks.com/books/297037519",
+      "author": "마치노 이로하",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "한 번쯤 여친이 되고 싶어! 3권",
+      "link": "https://ridibooks.com/books/297037523",
+      "author": "사코우 와타리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "푸른 강철의 아르페지오 18권",
+      "link": "https://ridibooks.com/books/297037551",
+      "author": "아크 퍼포먼스",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "창천의 권 리제네시스 3권",
+      "link": "https://ridibooks.com/books/505030157",
+      "author": "츠지 히데키",
+      "genre": "액션"
+    },
+    {
+      "title": "프리티 보이 NEXT 4권",
+      "link": "https://ridibooks.com/books/505030159",
+      "author": "모리오 마사미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "오늘부터 너의 닌자 4권",
+      "link": "https://ridibooks.com/books/505030177",
+      "author": "스즈키 줄리에타",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "왕가의 문장 21권",
+      "link": "https://ridibooks.com/books/505030186",
+      "author": "호소카와 후민",
+      "genre": "해외 순정"
+    },
+    {
       "title": "스킵과 로퍼 5권",
       "link": "https://ridibooks.com/books/3010006606",
       "author": "타카마츠 미사키",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/806006886",
       "author": "코노모토 카즈야",
       "genre": "코믹"
-    },
-    {
-      "title": "드래곤 볼 신장판 42권 (완결)",
-      "link": "https://ridibooks.com/books/1019045747",
-      "author": "토리야마 아키라",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "심야식당 23권",
-      "link": "https://ridibooks.com/books/1019045763",
-      "author": "아베 야로",
-      "genre": "드라마"
-    },
-    {
-      "title": "코미 양은 커뮤증입니다 17권",
-      "link": "https://ridibooks.com/books/1019045765",
-      "author": "오다 토모히토",
-      "genre": "코믹"
-    },
-    {
-      "title": "왕자가 나를 포기하지 않아! 8권",
-      "link": "https://ridibooks.com/books/505030171",
-      "author": "아사다 닛키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "우리는 공부를 못해 14권",
-      "link": "https://ridibooks.com/books/1019045767",
-      "author": "츠츠이 타이시",
-      "genre": "학원"
-    },
-    {
-      "title": "수다는 아침식사 후에. 2권",
-      "link": "https://ridibooks.com/books/1019045749",
-      "author": "히데 요시코",
-      "genre": "드라마"
-    },
-    {
-      "title": "마티네와 소와레 3권",
-      "link": "https://ridibooks.com/books/1019045752",
-      "author": "오스가 메구미",
-      "genre": "드라마"
     }
   ]
 }
