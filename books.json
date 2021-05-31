@@ -1,6 +1,54 @@
 {
   "books": [
     {
+      "title": "스킵 비트! 46권",
+      "link": "https://ridibooks.com/books/862001547",
+      "author": "나카무라 요시키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "살애 9권",
+      "link": "https://ridibooks.com/books/1690000909",
+      "author": "Fe",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 레이디 로즈는 평민이 되고 싶어 2권",
+      "link": "https://ridibooks.com/books/3010007381",
+      "author": "키요세 유라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "이세계 역사의 찻집 2권",
+      "link": "https://ridibooks.com/books/297037583",
+      "author": "칸나 유유",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "토모에 마미의 평범한 일상 8권",
+      "link": "https://ridibooks.com/books/297037567",
+      "author": "아라타 마이",
+      "genre": "코믹"
+    },
+    {
+      "title": "요괴야화담 7권",
+      "link": "https://ridibooks.com/books/297037556",
+      "author": "마츠리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 무직전생 ~록시도 최선을 다합니다~ 5권",
+      "link": "https://ridibooks.com/books/505030370",
+      "author": "이와미 쇼코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "코다마 마리아 문학집성 2권",
+      "link": "https://ridibooks.com/books/806006885",
+      "author": "미시마 요시하루",
+      "genre": "드라마"
+    },
+    {
       "title": "한 번쯤 여친이 되고 싶어! 3권",
       "link": "https://ridibooks.com/books/297037523",
       "author": "사코우 와타리",
@@ -71,54 +119,6 @@
       "link": "https://ridibooks.com/books/297037504",
       "author": "사타케 코우스케",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "코노하나정 기담 : 상",
-      "link": "https://ridibooks.com/books/2066002796",
-      "author": "아마노 사쿠야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "커피전문점 고양이 1권",
-      "link": "https://ridibooks.com/books/2066002797",
-      "author": "스기사키 유키루",
-      "genre": "드라마"
-    },
-    {
-      "title": "타블로 게이트 12권",
-      "link": "https://ridibooks.com/books/2066002798",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "기생수 리버시 4권",
-      "link": "https://ridibooks.com/books/505030174",
-      "author": "오타 모아레",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "해묘장 days 3권 (완결)",
-      "link": "https://ridibooks.com/books/806006877",
-      "author": "코다마 나오코",
-      "genre": "GL"
-    },
-    {
-      "title": "달과 사랑은 가득차면 기운다 2권 (완결)",
-      "link": "https://ridibooks.com/books/806006880",
-      "author": "토쿠오츠무",
-      "genre": "GL"
-    },
-    {
-      "title": "돌빡충돌 14권 (완결)",
-      "link": "https://ridibooks.com/books/1603053384",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "세토우츠미 6권",
-      "link": "https://ridibooks.com/books/806006886",
-      "author": "코노모토 카즈야",
-      "genre": "코믹"
     }
   ]
 }
