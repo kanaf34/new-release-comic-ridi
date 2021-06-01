@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "천지창조 디자인부 6권",
+      "link": "https://ridibooks.com/books/297037584",
+      "author": "타라코",
+      "genre": "코믹"
+    },
+    {
+      "title": "칸무리 씨의 시계 공방 2권",
+      "link": "https://ridibooks.com/books/297037590",
+      "author": "히와타리 린",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 이세계 귀환 용사가 현대 최강! 2권",
+      "link": "https://ridibooks.com/books/297037591",
+      "author": "사메다 코반",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "스킵 비트! 46권",
       "link": "https://ridibooks.com/books/862001547",
       "author": "나카무라 요시키",
@@ -101,24 +119,6 @@
       "link": "https://ridibooks.com/books/297037519",
       "author": "마치노 이로하",
       "genre": "해외 순정"
-    },
-    {
-      "title": "창천의 권 리제네시스 3권",
-      "link": "https://ridibooks.com/books/505030157",
-      "author": "츠지 히데키",
-      "genre": "액션"
-    },
-    {
-      "title": "프리티 보이 NEXT 4권",
-      "link": "https://ridibooks.com/books/505030159",
-      "author": "모리오 마사미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "스킵과 로퍼 5권",
-      "link": "https://ridibooks.com/books/3010006606",
-      "author": "타카마츠 미사키",
-      "genre": "드라마"
     }
   ]
 }
