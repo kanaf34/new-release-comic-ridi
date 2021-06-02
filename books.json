@@ -1,6 +1,102 @@
 {
   "books": [
     {
+      "title": "호리미야 15권",
+      "link": "https://ridibooks.com/books/505030893",
+      "author": "하기와라 다이스케",
+      "genre": "학원"
+    },
+    {
+      "title": "스틸 볼 런 21권",
+      "link": "https://ridibooks.com/books/1019045801",
+      "author": "아라키 히로히코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "프로미스 신데렐라 6권",
+      "link": "https://ridibooks.com/books/1019045813",
+      "author": "타치바나 오레코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "세계의 종말과 마녀의 사랑 3권 (완결)",
+      "link": "https://ridibooks.com/books/3802000033",
+      "author": "쿠지라",
+      "genre": "GL"
+    },
+    {
+      "title": "완전 귀여운 남자가 집에서 기다리고 있습니다 2권",
+      "link": "https://ridibooks.com/books/1019045778",
+      "author": "타케세 와카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "세월이 흘러 다리로 간다 4권",
+      "link": "https://ridibooks.com/books/1019045814",
+      "author": "히다카 쇼코",
+      "genre": "드라마"
+    },
+    {
+      "title": "군청에 사이렌 12권",
+      "link": "https://ridibooks.com/books/1019045815",
+      "author": "카와시타 미즈키",
+      "genre": "스포츠"
+    },
+    {
+      "title": "어차피 이제 도망갈 수 없어 7권",
+      "link": "https://ridibooks.com/books/1019045825",
+      "author": "카즈이 카즈미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사신 도련님과 검은 메이드 9권",
+      "link": "https://ridibooks.com/books/1019045836",
+      "author": "이노우에 코하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "로스트 프린세스 5권",
+      "link": "https://ridibooks.com/books/505030437",
+      "author": "KATINO",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "키류 선생님은 연애 감정을 모른다 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019045799",
+      "author": "오노 하루카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "5시부터 9시까지 13권",
+      "link": "https://ridibooks.com/books/1019045802",
+      "author": "아이하라 미키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "컴온 어 마이 하우스 3권",
+      "link": "https://ridibooks.com/books/297037614",
+      "author": "난바 아츠코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "세상에서 제일, 내가 OO 4권",
+      "link": "https://ridibooks.com/books/297037615",
+      "author": "미즈시로 세토나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아웃 18권",
+      "link": "https://ridibooks.com/books/806006944",
+      "author": "미즈타 마코토",
+      "genre": "액션"
+    },
+    {
+      "title": "아저씨와 고양이와 소녀 3권 (완결)",
+      "link": "https://ridibooks.com/books/845025879",
+      "author": "유사 하루카",
+      "genre": "드라마"
+    },
+    {
       "title": "천지창조 디자인부 6권",
       "link": "https://ridibooks.com/books/297037584",
       "author": "타라코",
@@ -23,102 +119,6 @@
       "link": "https://ridibooks.com/books/1603053458",
       "author": "조명운",
       "genre": "액션"
-    },
-    {
-      "title": "[할리퀸] 리턴 매치",
-      "link": "https://ridibooks.com/books/1458005601",
-      "author": "아소 아유무",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "스킵 비트! 46권",
-      "link": "https://ridibooks.com/books/862001547",
-      "author": "나카무라 요시키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "살애 9권",
-      "link": "https://ridibooks.com/books/1690000909",
-      "author": "Fe",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 레이디 로즈는 평민이 되고 싶어 2권",
-      "link": "https://ridibooks.com/books/3010007381",
-      "author": "키요세 유라",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "이세계 역사의 찻집 2권",
-      "link": "https://ridibooks.com/books/297037583",
-      "author": "칸나 유유",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "토모에 마미의 평범한 일상 8권",
-      "link": "https://ridibooks.com/books/297037567",
-      "author": "아라타 마이",
-      "genre": "코믹"
-    },
-    {
-      "title": "요괴야화담 7권",
-      "link": "https://ridibooks.com/books/297037556",
-      "author": "마츠리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 무직전생 ~록시도 최선을 다합니다~ 5권",
-      "link": "https://ridibooks.com/books/505030370",
-      "author": "이와미 쇼코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "코다마 마리아 문학집성 2권",
-      "link": "https://ridibooks.com/books/806006885",
-      "author": "미시마 요시하루",
-      "genre": "드라마"
-    },
-    {
-      "title": "자객전서 [개정판] 2부 32권 (2부 완결)",
-      "link": "https://ridibooks.com/books/1603053454",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "[할리퀸] 금빛 새장에 갇힌 신부",
-      "link": "https://ridibooks.com/books/1458005569",
-      "author": "나카무라 리에",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "코믹진 점프 155호",
-      "link": "https://ridibooks.com/books/845025867",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "챔프D 186호(2021.06.15)",
-      "link": "https://ridibooks.com/books/847004086",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "한 번쯤 여친이 되고 싶어! 3권",
-      "link": "https://ridibooks.com/books/297037523",
-      "author": "사코우 와타리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "푸른 강철의 아르페지오 18권",
-      "link": "https://ridibooks.com/books/297037551",
-      "author": "아크 퍼포먼스",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "오늘부터 너의 닌자 4권",
-      "link": "https://ridibooks.com/books/505030177",
-      "author": "스즈키 줄리에타",
-      "genre": "해외 순정"
     }
   ]
 }
