@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 이문 2권",
+      "link": "https://ridibooks.com/books/2066002807",
+      "author": "토노 타에",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "위그드라실버 1권",
+      "link": "https://ridibooks.com/books/2066002814",
+      "author": "카라아게 타로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "요괴 선술집 논베레케 1권",
+      "link": "https://ridibooks.com/books/2066002815",
+      "author": "nonco",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "리얼(REAL) 15권",
+      "link": "https://ridibooks.com/books/297037669",
+      "author": "이노우에 타케히코",
+      "genre": "드라마"
+    },
+    {
+      "title": "히프노시스 마이크 -Division Rap Battle- B.B & M.T.C 1권",
+      "link": "https://ridibooks.com/books/505030430",
+      "author": "모모세 유이치로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "히프노시스 마이크 -Division Rap Battle- F.P & M 1권",
+      "link": "https://ridibooks.com/books/505030431",
+      "author": "카니에 테츠지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "히프노시스 마이크 -Before the Battle- The Dirty Dawg 1권",
+      "link": "https://ridibooks.com/books/505030432",
+      "author": "카니에 테츠지",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "호리미야 15권",
       "link": "https://ridibooks.com/books/505030893",
       "author": "하기와라 다이스케",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/1019045802",
       "author": "아이하라 미키",
       "genre": "해외 순정"
-    },
-    {
-      "title": "컴온 어 마이 하우스 3권",
-      "link": "https://ridibooks.com/books/297037614",
-      "author": "난바 아츠코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "세상에서 제일, 내가 OO 4권",
-      "link": "https://ridibooks.com/books/297037615",
-      "author": "미즈시로 세토나",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "아웃 18권",
-      "link": "https://ridibooks.com/books/806006944",
-      "author": "미즈타 마코토",
-      "genre": "액션"
-    },
-    {
-      "title": "아저씨와 고양이와 소녀 3권 (완결)",
-      "link": "https://ridibooks.com/books/845025879",
-      "author": "유사 하루카",
-      "genre": "드라마"
-    },
-    {
-      "title": "천지창조 디자인부 6권",
-      "link": "https://ridibooks.com/books/297037584",
-      "author": "타라코",
-      "genre": "코믹"
-    },
-    {
-      "title": "칸무리 씨의 시계 공방 2권",
-      "link": "https://ridibooks.com/books/297037590",
-      "author": "히와타리 린",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 이세계 귀환 용사가 현대 최강! 2권",
-      "link": "https://ridibooks.com/books/297037591",
-      "author": "사메다 코반",
-      "genre": "판타지/SF"
     }
   ]
 }
