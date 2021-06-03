@@ -1,28 +1,10 @@
 {
   "books": [
     {
-      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 이문 2권",
-      "link": "https://ridibooks.com/books/2066002807",
-      "author": "토노 타에",
+      "title": "히프노시스 마이크 -Before the Battle- The Dirty Dawg 1권",
+      "link": "https://ridibooks.com/books/505030432",
+      "author": "카니에 테츠지",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "위그드라실버 1권",
-      "link": "https://ridibooks.com/books/2066002814",
-      "author": "카라아게 타로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "요괴 선술집 논베레케 1권",
-      "link": "https://ridibooks.com/books/2066002815",
-      "author": "nonco",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "리얼(REAL) 15권",
-      "link": "https://ridibooks.com/books/297037669",
-      "author": "이노우에 타케히코",
-      "genre": "드라마"
     },
     {
       "title": "히프노시스 마이크 -Division Rap Battle- B.B & M.T.C 1권",
@@ -37,10 +19,28 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "히프노시스 마이크 -Before the Battle- The Dirty Dawg 1권",
-      "link": "https://ridibooks.com/books/505030432",
-      "author": "카니에 테츠지",
+      "title": "요괴 선술집 논베레케 1권",
+      "link": "https://ridibooks.com/books/2066002815",
+      "author": "nonco",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 이문 2권",
+      "link": "https://ridibooks.com/books/2066002807",
+      "author": "토노 타에",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "위그드라실버 1권",
+      "link": "https://ridibooks.com/books/2066002814",
+      "author": "카라아게 타로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "리얼(REAL) 15권",
+      "link": "https://ridibooks.com/books/297037669",
+      "author": "이노우에 타케히코",
+      "genre": "드라마"
     },
     {
       "title": "호리미야 15권",
