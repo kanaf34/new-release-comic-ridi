@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "그래도 아유무는 다가온다 6권",
+      "link": "https://ridibooks.com/books/297037667",
+      "author": "야마모토 소이치로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 세계 최강의 후위 2권",
+      "link": "https://ridibooks.com/books/3010008148",
+      "author": "리키조",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "히프노시스 마이크 -Before the Battle- The Dirty Dawg 1권",
       "link": "https://ridibooks.com/books/505030432",
       "author": "카니에 테츠지",
@@ -107,18 +119,6 @@
       "link": "https://ridibooks.com/books/505030437",
       "author": "KATINO",
       "genre": "국내 순정"
-    },
-    {
-      "title": "백만마루 10권",
-      "link": "https://ridibooks.com/books/1603053469",
-      "author": "천제황",
-      "genre": "무협"
-    },
-    {
-      "title": "키류 선생님은 연애 감정을 모른다 5권 (완결)",
-      "link": "https://ridibooks.com/books/1019045799",
-      "author": "오노 하루카",
-      "genre": "해외 순정"
     }
   ]
 }
