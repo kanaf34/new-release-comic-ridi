@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "반지가 선택한 혼약자 3권",
+      "link": "https://ridibooks.com/books/3010008165",
+      "author": "하야세 준",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "보상밥 5권",
+      "link": "https://ridibooks.com/books/908003629",
+      "author": "코모 토모코",
+      "genre": "드라마"
+    },
+    {
+      "title": "민트 초콜릿 6권",
+      "link": "https://ridibooks.com/books/845025896",
+      "author": "오리카사 마미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "이웃사촌 콤플렉스 3권",
+      "link": "https://ridibooks.com/books/297037701",
+      "author": "노노무라 사쿠",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "코하루와 친구들의 애니멀 보이스 4권",
+      "link": "https://ridibooks.com/books/2007003082",
+      "author": "카토 에리코",
+      "genre": "드라마"
+    },
+    {
+      "title": "용신님과 산다면 3권 (완결)",
+      "link": "https://ridibooks.com/books/297037668",
+      "author": "카제마치 후쿠",
+      "genre": "드라마"
+    },
+    {
+      "title": "안녕, 아름다운 날 3권",
+      "link": "https://ridibooks.com/books/297037700",
+      "author": "아카네다 유키",
+      "genre": "해외 순정"
+    },
+    {
       "title": "[코믹] 세계 최강의 후위 2권",
       "link": "https://ridibooks.com/books/3010008148",
       "author": "리키조",
@@ -77,48 +119,6 @@
       "link": "https://ridibooks.com/books/505030893",
       "author": "하기와라 다이스케",
       "genre": "학원"
-    },
-    {
-      "title": "스틸 볼 런 21권",
-      "link": "https://ridibooks.com/books/1019045801",
-      "author": "아라키 히로히코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "프로미스 신데렐라 6권",
-      "link": "https://ridibooks.com/books/1019045813",
-      "author": "타치바나 오레코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "세계의 종말과 마녀의 사랑 3권 (완결)",
-      "link": "https://ridibooks.com/books/3802000033",
-      "author": "쿠지라",
-      "genre": "GL"
-    },
-    {
-      "title": "완전 귀여운 남자가 집에서 기다리고 있습니다 2권",
-      "link": "https://ridibooks.com/books/1019045778",
-      "author": "타카세 와카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "세월이 흘러 다리로 간다 4권",
-      "link": "https://ridibooks.com/books/1019045814",
-      "author": "히다카 쇼코",
-      "genre": "드라마"
-    },
-    {
-      "title": "군청에 사이렌 12권",
-      "link": "https://ridibooks.com/books/1019045815",
-      "author": "카와시타 미즈키",
-      "genre": "스포츠"
-    },
-    {
-      "title": "어차피 이제 도망갈 수 없어 7권",
-      "link": "https://ridibooks.com/books/1019045825",
-      "author": "카즈이 카즈미",
-      "genre": "해외 순정"
     }
   ]
 }
