@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "킹덤 60권",
+      "link": "https://ridibooks.com/books/1019046023?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "하라 야스히사",
+      "genre": "무협"
+    },
+    {
+      "title": "골든 카무이 24권",
+      "link": "https://ridibooks.com/books/1019046027?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "노다 사토루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "괴수 8호 2권",
+      "link": "https://ridibooks.com/books/1019046041?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "마츠모토 나오야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "파도여 들어다오 8권",
+      "link": "https://ridibooks.com/books/297038005?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "사무라 히로아키",
+      "genre": "코믹"
+    },
+    {
+      "title": "코미 양은 커뮤증입니다 18권",
+      "link": "https://ridibooks.com/books/1019046029?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "오다 토모히토",
+      "genre": "코믹"
+    },
+    {
+      "title": "꿈의 물방울, 황금의 새장 14권",
+      "link": "https://ridibooks.com/books/1019046017?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "시노하라 치에",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "에노시마 와이키키 식당 11권",
+      "link": "https://ridibooks.com/books/297037993?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "오카이 하루코",
+      "genre": "드라마"
+    },
+    {
+      "title": "스텔라의 마법 3권",
+      "link": "https://ridibooks.com/books/297037996?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "CLOBA. U",
+      "genre": "드라마"
+    },
+    {
+      "title": "대공비 후보지만 견실하게 할 생각입니다 3권",
+      "link": "https://ridibooks.com/books/3010008221?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "와타리 마카나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 괴물 이야기 9권",
+      "link": "https://ridibooks.com/books/505030903?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "Oh! Great",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "꽃에게 폭풍 2권",
+      "link": "https://ridibooks.com/books/1019046016?_rdt_sid=new-release&_rdt_idx=10",
+      "author": "코바치 루카",
+      "genre": "GL"
+    },
+    {
+      "title": "마오 6권",
+      "link": "https://ridibooks.com/books/1019046051?_rdt_sid=new-release&_rdt_idx=11",
+      "author": "타카하시 루미코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "오! 취준의 여신님 2권",
+      "link": "https://ridibooks.com/books/297037997?_rdt_sid=new-release&_rdt_idx=12",
+      "author": "요시즈키 쿠미치",
+      "genre": "코믹"
+    },
+    {
+      "title": "슈거리스 18권 (완결)",
+      "link": "https://ridibooks.com/books/505030457?_rdt_sid=new-release&_rdt_idx=13",
+      "author": "호소카와 마사미",
+      "genre": "액션"
+    },
+    {
+      "title": "워스트 외전 도쿠로 4권",
+      "link": "https://ridibooks.com/books/505030900?_rdt_sid=new-release&_rdt_idx=14",
+      "author": "다카하시 히로시",
+      "genre": "액션"
+    },
+    {
+      "title": "오늘 뭐 먹지? 외전 학생식당 편",
+      "link": "https://ridibooks.com/books/806007002?_rdt_sid=new-release&_rdt_idx=15",
+      "author": "이모바타 샐리",
+      "genre": "드라마"
+    },
+    {
+      "title": "생명의 그릇 48권",
+      "link": "https://ridibooks.com/books/845025970?_rdt_sid=new-release&_rdt_idx=16",
+      "author": "우에하라 키미코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "산과 식욕과 나 8권",
-      "link": "https://ridibooks.com/books/1690000914?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/1690000914?_rdt_sid=new-release&_rdt_idx=17",
       "author": "시나노가와 히데오",
       "genre": "코믹"
     },
     {
       "title": "페이트/그랜드 오더 코믹 아라카르트 10권",
-      "link": "https://ridibooks.com/books/1690000916?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1690000916?_rdt_sid=new-release&_rdt_idx=18",
       "author": "콤프에이스 편집부",
       "genre": "판타지/SF"
     },
     {
       "title": "오리엔트 11권",
-      "link": "https://ridibooks.com/books/297037946?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/297037946?_rdt_sid=new-release&_rdt_idx=19",
       "author": "오타카 시노부",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "그녀의 이데아 2권",
-      "link": "https://ridibooks.com/books/1690000911?_rdt_sid=new-release&_rdt_idx=3",
-      "author": "후유메 사야",
-      "genre": "GL"
-    },
-    {
-      "title": "메시누마 1권",
-      "link": "https://ridibooks.com/books/806006995?_rdt_sid=new-release&_rdt_idx=4",
-      "author": "아미다무쿠",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 돼지 공작으로 전생했으니까, 이번엔 너에게 좋아한다고 말하고 싶어 2권",
-      "link": "https://ridibooks.com/books/1690000912?_rdt_sid=new-release&_rdt_idx=5",
-      "author": "fujy",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 문호 스트레이독스 공식 앤솔로지 4권",
-      "link": "https://ridibooks.com/books/1690000913?_rdt_sid=new-release&_rdt_idx=6",
-      "author": "아사기리 카프카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 전생 현자의 이세계 라이프 2권",
-      "link": "https://ridibooks.com/books/1690000915?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "펑제",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "호쿠사이와 밥만 있으면 2권",
-      "link": "https://ridibooks.com/books/1690000917?_rdt_sid=new-release&_rdt_idx=8",
-      "author": "스즈키 사나미",
-      "genre": "코믹"
-    },
-    {
-      "title": "양아치 14권 (완결)",
-      "link": "https://ridibooks.com/books/1603053493?_rdt_sid=new-release&_rdt_idx=9",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "새벽의 연화 33권",
-      "link": "https://ridibooks.com/books/505030897?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "쿠사나기 미즈호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "술과 사랑은 취해야 제맛 2권",
-      "link": "https://ridibooks.com/books/806006993?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "미나미 하루코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "절벽 위의 하나씨 1권",
-      "link": "https://ridibooks.com/books/908003630?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "무라타 코우지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "짱구 아빠 노하라 히로시의 점심 7권",
-      "link": "https://ridibooks.com/books/806006994?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "츠카하라 요이치",
-      "genre": "드라마"
-    },
-    {
-      "title": "타임슬립 덕후 걸 4권",
-      "link": "https://ridibooks.com/books/297037894?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "사사키 요우코",
-      "genre": "드라마"
-    },
-    {
-      "title": "피코피코 소년 SUPER",
-      "link": "https://ridibooks.com/books/297037861?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "오시키리 렌스케",
-      "genre": "코믹"
-    },
-    {
-      "title": "우메이도 히요와 주인님의 야망 3권",
-      "link": "https://ridibooks.com/books/297037893?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "코메야마 시우",
-      "genre": "코믹"
-    },
-    {
-      "title": "이노센트 데빌 3권",
-      "link": "https://ridibooks.com/books/297037895?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "소이치로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "코믹진 점프 156호",
-      "link": "https://ridibooks.com/books/845025951?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "챔프D 187호(2021.07.01)",
-      "link": "https://ridibooks.com/books/847004103?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
