@@ -1,33 +1,33 @@
 {
   "books": [
     {
+      "title": "전생했더니 내가 히로인이고 그 녀석이 용사였다 1권",
+      "link": "https://ridibooks.com/books/4018000059?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "미즈노모토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "나는 한밤중 3권 (완결)",
+      "link": "https://ridibooks.com/books/908003636?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "이토이 노조",
+      "genre": "해외 순정"
+    },
+    {
       "title": "아사미 선생님의 비밀 4권 (완결)",
-      "link": "https://ridibooks.com/books/505031122?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505031122?_rdt_sid=new-release&_rdt_idx=2",
       "author": "치카",
       "genre": "해외 순정"
     },
     {
-      "title": "걸어서 가자 3권",
-      "link": "https://ridibooks.com/books/505031131?_rdt_sid=new-release&_rdt_idx=1",
-      "author": "우에다 미와",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "녹지않는 사랑과 초콜릿 2권 (완결)",
-      "link": "https://ridibooks.com/books/505031126?_rdt_sid=new-release&_rdt_idx=2",
-      "author": "모모치 레이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "잘생겼으니 용서한다 2권 (완결)",
-      "link": "https://ridibooks.com/books/505031128?_rdt_sid=new-release&_rdt_idx=3",
-      "author": "하라다 유이",
-      "genre": "해외 순정"
-    },
-    {
       "title": "선생님은 나쁜 아이 2권 (완결)",
-      "link": "https://ridibooks.com/books/505031115?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/505031115?_rdt_sid=new-release&_rdt_idx=3",
       "author": "미사키 나츠미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "걸어서 가자 3권",
+      "link": "https://ridibooks.com/books/505031131?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "우에다 미와",
       "genre": "해외 순정"
     },
     {
@@ -43,15 +43,15 @@
       "genre": "해외 순정"
     },
     {
-      "title": "전생했더니 내가 히로인이고 그 녀석이 용사였다 1권",
-      "link": "https://ridibooks.com/books/4018000059?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "미즈노모토",
-      "genre": "판타지/SF"
+      "title": "녹지않는 사랑과 초콜릿 2권 (완결)",
+      "link": "https://ridibooks.com/books/505031126?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "모모치 레이코",
+      "genre": "해외 순정"
     },
     {
-      "title": "나는 한밤중 3권 (완결)",
-      "link": "https://ridibooks.com/books/908003636?_rdt_sid=new-release&_rdt_idx=8",
-      "author": "이토이 노조",
+      "title": "잘생겼으니 용서한다 2권 (완결)",
+      "link": "https://ridibooks.com/books/505031128?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "하라다 유이",
       "genre": "해외 순정"
     },
     {
