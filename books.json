@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "속삭이듯 사랑을 노래하다 3권",
+      "link": "https://ridibooks.com/books/2498007370?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "타케시마 에쿠",
+      "genre": "GL"
+    },
+    {
+      "title": "나의 백합은 일입니다! 6권",
+      "link": "https://ridibooks.com/books/2498007366?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "미만",
+      "genre": "GL"
+    },
+    {
+      "title": "자는 여자 1권",
+      "link": "https://ridibooks.com/books/908003639?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "토리카와 소라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "고기건달 2권",
+      "link": "https://ridibooks.com/books/908003638?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "모리오 마사히로",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 세계 최강의 후위 3권",
+      "link": "https://ridibooks.com/books/3010008301?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "리키조",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "미기와 다리 5권",
+      "link": "https://ridibooks.com/books/297038428?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "사노 나미",
+      "genre": "코믹"
+    },
+    {
+      "title": "금색의 코르다 ~대학생편~ 3권",
+      "link": "https://ridibooks.com/books/297038472?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "쿠레 유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "발라드×오페라 4권",
+      "link": "https://ridibooks.com/books/297038473?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "사마미야 아카자",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "오리타타부 3권",
-      "link": "https://ridibooks.com/books/297038431?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/297038431?_rdt_sid=new-release&_rdt_idx=8",
       "author": "콘치키",
       "genre": "코믹"
     },
     {
       "title": "도쿄 리벤저스 9권",
-      "link": "https://ridibooks.com/books/505031390?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505031390?_rdt_sid=new-release&_rdt_idx=9",
       "author": "와쿠이 켄",
       "genre": "학원"
     },
     {
       "title": "일하는 세포 BLACK 6권",
-      "link": "https://ridibooks.com/books/505031377?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505031377?_rdt_sid=new-release&_rdt_idx=10",
       "author": "하츠요시야 이세이",
       "genre": "판타지/SF"
     },
     {
       "title": "일하는 세포 프렌드 2권",
-      "link": "https://ridibooks.com/books/505031378?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/505031378?_rdt_sid=new-release&_rdt_idx=11",
       "author": "이즈미 미오",
       "genre": "판타지/SF"
     },
     {
       "title": "일하는 세포 BABY 1권",
-      "link": "https://ridibooks.com/books/505031380?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/505031380?_rdt_sid=new-release&_rdt_idx=12",
       "author": "후쿠다 야스히로",
       "genre": "판타지/SF"
     },
     {
       "title": "일하는 혈소판짱 1권",
-      "link": "https://ridibooks.com/books/505031379?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/505031379?_rdt_sid=new-release&_rdt_idx=13",
       "author": "야스",
       "genre": "판타지/SF"
     },
     {
       "title": "레이리 3권",
-      "link": "https://ridibooks.com/books/2066002870?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/2066002870?_rdt_sid=new-release&_rdt_idx=14",
       "author": "무로이 다이스케",
       "genre": "액션"
     },
     {
       "title": "득도할 수 없어! 卍 2권 (완결)",
-      "link": "https://ridibooks.com/books/297038328?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/297038328?_rdt_sid=new-release&_rdt_idx=15",
       "author": "이스즈",
       "genre": "해외 순정"
     },
     {
       "title": "노부나가의 셰프 27권",
-      "link": "https://ridibooks.com/books/297038420?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/297038420?_rdt_sid=new-release&_rdt_idx=16",
       "author": "카지카와 타쿠로",
       "genre": "드라마"
     },
     {
       "title": "오디션 [개정판] 30권",
-      "link": "https://ridibooks.com/books/1603053614?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/1603053614?_rdt_sid=new-release&_rdt_idx=17",
       "author": "고행석",
       "genre": "액션"
     },
     {
       "title": "오타쿠에게 사랑은 어려워 9권",
-      "link": "https://ridibooks.com/books/1987001595?_rdt_sid=new-release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/1987001595?_rdt_sid=new-release&_rdt_idx=18",
       "author": "후지타",
       "genre": "해외 순정"
     },
     {
       "title": "[코믹] 약사의 혼잣말(마오마오의 후궁 수수께끼 풀이수첩) 10권",
-      "link": "https://ridibooks.com/books/1019046174?_rdt_sid=new-release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/1019046174?_rdt_sid=new-release&_rdt_idx=19",
       "author": "쿠라타 미노지",
       "genre": "드라마"
-    },
-    {
-      "title": "사랑하는 MOON DOG 3권",
-      "link": "https://ridibooks.com/books/297038401?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "야마다 난페이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "켄간 아슈라 12권",
-      "link": "https://ridibooks.com/books/1019046165?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "다로메온",
-      "genre": "액션"
-    },
-    {
-      "title": "스틸 볼 런 24권 (완결)",
-      "link": "https://ridibooks.com/books/1019046284?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "아라키 히로히코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "신 없는 세계의 신 활동 2권",
-      "link": "https://ridibooks.com/books/4593000002?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "한게츠반 손쇼",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "세상이 가르쳐 준 비밀 18권",
-      "link": "https://ridibooks.com/books/862001559?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "하츠 아키코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "궁서의 약속 -위장 Ω(오메가)- 2권",
-      "link": "https://ridibooks.com/books/1019046131?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "시라이시 유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "마법사의 절친 2권",
-      "link": "https://ridibooks.com/books/1019046153?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "아유코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "허니 레몬 소다 8권",
-      "link": "https://ridibooks.com/books/1019046171?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "무라타 마유",
-      "genre": "해외 순정"
     }
   ]
 }
