@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "드래곤볼 슈퍼 15권",
+      "link": "https://ridibooks.com/books/1019047041?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "토요타로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "오늘, 코시바 아오이를 만날 수 있다면. 2권",
+      "link": "https://ridibooks.com/books/4466000031?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "타케오카 하즈키",
+      "genre": "GL"
+    },
+    {
+      "title": "성실하게 불순이성교제 2권 (완결)",
+      "link": "https://ridibooks.com/books/297039679?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "핫타 아카리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "서머타임 렌더 4권",
+      "link": "https://ridibooks.com/books/1019047016?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "타나카 야스키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "경계의 린네 38권",
+      "link": "https://ridibooks.com/books/1019047048?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "타카하시 루미코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사랑을 모르는 우리는 9권",
+      "link": "https://ridibooks.com/books/1019047043?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "미즈노 미나미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "켄간 아슈라 14권",
+      "link": "https://ridibooks.com/books/1019047046?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "다로메온",
+      "genre": "액션"
+    },
+    {
+      "title": "노 건즈 라이프 11권",
+      "link": "https://ridibooks.com/books/1019047047?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "카라스마 타스쿠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "나의 히어로 아카데미아 30권",
+      "link": "https://ridibooks.com/books/1019047029?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "호리코시 코헤이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "무지개빛 데이즈 9권",
+      "link": "https://ridibooks.com/books/1019047042?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "미즈노 미나미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "ReRe헬로 5권",
+      "link": "https://ridibooks.com/books/1019047044?_rdt_sid=new-release&_rdt_idx=10",
+      "author": "미나미 토코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마법진 구루구루2 14권",
+      "link": "https://ridibooks.com/books/297039943?_rdt_sid=new-release&_rdt_idx=11",
+      "author": "에토 히로유키",
+      "genre": "코믹"
+    },
+    {
+      "title": "최강 마도사. 무릎에 화살을 맞아서 시골 경비병이 되다 3권",
+      "link": "https://ridibooks.com/books/3010008387?_rdt_sid=new-release&_rdt_idx=12",
+      "author": "아야노 마사키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "돈게쓰 외전 6권",
+      "link": "https://ridibooks.com/books/806007115?_rdt_sid=new-release&_rdt_idx=13",
+      "author": "타시",
+      "genre": "액션"
+    },
+    {
       "title": "백귀야경 1권",
-      "link": "https://ridibooks.com/books/297039742?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/297039742?_rdt_sid=new-release&_rdt_idx=14",
       "author": "마츠모토 아스무",
       "genre": "판타지/SF"
     },
     {
       "title": "마녀 마리는 마녀가 아니야 2권",
-      "link": "https://ridibooks.com/books/3010008376?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/3010008376?_rdt_sid=new-release&_rdt_idx=15",
       "author": "코바야시 아즈미",
       "genre": "판타지/SF"
     },
     {
       "title": "초지일관! 벌거숭이 츠즈이씨 2권",
-      "link": "https://ridibooks.com/books/371002446?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/371002446?_rdt_sid=new-release&_rdt_idx=16",
       "author": "츠즈이",
       "genre": "드라마"
     },
     {
       "title": "짐승의 길 7권",
-      "link": "https://ridibooks.com/books/297039937?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/297039937?_rdt_sid=new-release&_rdt_idx=17",
       "author": "맛타쿠 모스케-유메우타",
       "genre": "판타지/SF"
     },
     {
       "title": "블루 록 6권",
-      "link": "https://ridibooks.com/books/505036473?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/505036473?_rdt_sid=new-release&_rdt_idx=18",
       "author": "노무라 유스케",
       "genre": "판타지/SF"
     },
     {
       "title": "보석성의 신입 3권 (완결)",
-      "link": "https://ridibooks.com/books/3010008386?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/3010008386?_rdt_sid=new-release&_rdt_idx=19",
       "author": "마리무",
       "genre": "드라마"
-    },
-    {
-      "title": "고양이가 서쪽으로 향하면 3권 (완결)",
-      "link": "https://ridibooks.com/books/297039778?_rdt_sid=new-release&_rdt_idx=6",
-      "author": "우루시바라 유키",
-      "genre": "드라마"
-    },
-    {
-      "title": "오! 취준의 여신님 3권",
-      "link": "https://ridibooks.com/books/297039779?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "요시즈키 쿠미치",
-      "genre": "코믹"
-    },
-    {
-      "title": "인간을 사랑한 오니는 웃는다 3권",
-      "link": "https://ridibooks.com/books/806007110?_rdt_sid=new-release&_rdt_idx=8",
-      "author": "유키모리 네네",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "특이취향 여고생과 시간을 달리는 아저씨 1권",
-      "link": "https://ridibooks.com/books/806007111?_rdt_sid=new-release&_rdt_idx=9",
-      "author": "모모탄",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그놈이다 10권",
-      "link": "https://ridibooks.com/books/1603053777?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "고깔모자의 아틀리에 8권",
-      "link": "https://ridibooks.com/books/505033132?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "시라하마 카모메",
-      "genre": "드라마"
-    },
-    {
-      "title": "불멸의 그대에게 15권",
-      "link": "https://ridibooks.com/books/297039757?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "오이마 요시토키",
-      "genre": "드라마"
-    },
-    {
-      "title": "시트러스 + 2권",
-      "link": "https://ridibooks.com/books/1987001596?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "사부로우타",
-      "genre": "GL"
-    },
-    {
-      "title": "공정 드래곤즈 10권",
-      "link": "https://ridibooks.com/books/297039741?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "쿠와바라 타쿠",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "방과 후, 사랑했다. 7권",
-      "link": "https://ridibooks.com/books/297039745?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "미츠이 하루카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "절대 두근거려서는 안 돼! 5권",
-      "link": "https://ridibooks.com/books/297039744?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "츠키시마 하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "자룡팽봉 [개정판] 1부 40권 (1부 완결)",
-      "link": "https://ridibooks.com/books/1603053770?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "브레이크 에이지 외전 2권 (완결)",
-      "link": "https://ridibooks.com/books/2984000014?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "바토 치메이",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "코믹진 점프 159호",
-      "link": "https://ridibooks.com/books/845026662?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
