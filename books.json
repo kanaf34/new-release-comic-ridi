@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "골등품점 호네츠기 2권",
+      "link": "https://ridibooks.com/books/3981000023?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "호조이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "경애하는 「얼음 기사와 못난이 공주」 였던 우리들에게 1권",
+      "link": "https://ridibooks.com/books/806007116?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "유키 유키코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "약혼자가 악역이라 곤란합니다 3권",
+      "link": "https://ridibooks.com/books/806007117?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "미츠노 하치",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "드라마틱 아이러니 5권",
+      "link": "https://ridibooks.com/books/297039969?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "나마코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "악역영애지만, 행복해질거예요! 앤솔로지 코믹스 2권",
+      "link": "https://ridibooks.com/books/806007118?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "호시노 소우메이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "네크로망스 4권",
+      "link": "https://ridibooks.com/books/3010008403?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "도모토 유우키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "「공략본」을 구사하는 최강의 마법사 4권",
+      "link": "https://ridibooks.com/books/3010008413?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "마이지마 히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "텐도 가 이야기 7권",
+      "link": "https://ridibooks.com/books/505041444?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "사이토 켄",
+      "genre": "해외 순정"
+    },
+    {
       "title": "남자친구는 오렌지색 10권",
-      "link": "https://ridibooks.com/books/505040636?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505040636?_rdt_sid=new-release&_rdt_idx=8",
       "author": "타마시마 논",
       "genre": "해외 순정"
     },
     {
       "title": "시부야 금붕어 9권",
-      "link": "https://ridibooks.com/books/297039996?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/297039996?_rdt_sid=new-release&_rdt_idx=9",
       "author": "히로우미 아오이",
       "genre": "공포/추리"
     },
     {
       "title": "은하의 죽지 않는 아이들에게 2권",
-      "link": "https://ridibooks.com/books/371002450?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/371002450?_rdt_sid=new-release&_rdt_idx=10",
       "author": "시카와 유우키",
       "genre": "판타지/SF"
     },
     {
       "title": "허구추리 15권",
-      "link": "https://ridibooks.com/books/845026675?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/845026675?_rdt_sid=new-release&_rdt_idx=11",
       "author": "카타세 챠시바",
       "genre": "판타지/SF"
     },
     {
       "title": "불쾌한 모노노케안 17권",
-      "link": "https://ridibooks.com/books/297039949?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297039949?_rdt_sid=new-release&_rdt_idx=12",
       "author": "와자와 키리",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 누가 이 상황을 설명 좀 해주세요! 4권",
-      "link": "https://ridibooks.com/books/2066002934?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/2066002934?_rdt_sid=new-release&_rdt_idx=13",
       "author": "키노사키 카즈라",
       "genre": "해외 순정"
     },
     {
       "title": "환상이여 또 만나 1권",
-      "link": "https://ridibooks.com/books/2066002933?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/2066002933?_rdt_sid=new-release&_rdt_idx=14",
       "author": "이토 나츠미",
       "genre": "드라마"
     },
     {
       "title": "[코믹] 늑대는 잠들지 않는다 1권",
-      "link": "https://ridibooks.com/books/2066002941?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/2066002941?_rdt_sid=new-release&_rdt_idx=15",
       "author": "신카와 곤베",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 이세계 묵시록 마이노그라 1권",
-      "link": "https://ridibooks.com/books/3010008421?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/3010008421?_rdt_sid=new-release&_rdt_idx=16",
       "author": "미도리하나 야사이코",
       "genre": "판타지/SF"
     },
     {
       "title": "Party(파티) 2021년 9월호",
-      "link": "https://ridibooks.com/books/505041065?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/505041065?_rdt_sid=new-release&_rdt_idx=17",
       "author": "파티 편집부",
       "genre": "만화잡지"
     },
     {
       "title": "동방비틀검법 5권",
-      "link": "https://ridibooks.com/books/1603053787?_rdt_sid=new-release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/1603053787?_rdt_sid=new-release&_rdt_idx=18",
       "author": "고행석",
       "genre": "무협"
     },
     {
       "title": "슈퍼 청춘 남매s 5권",
-      "link": "https://ridibooks.com/books/297039942?_rdt_sid=new-release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/297039942?_rdt_sid=new-release&_rdt_idx=19",
       "author": "신모토 신",
       "genre": "드라마"
-    },
-    {
-      "title": "갬블러즈 퍼레이드 2권",
-      "link": "https://ridibooks.com/books/505035497?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "나카야마 아츠시",
-      "genre": "드라마"
-    },
-    {
-      "title": "에덴즈 제로(EDENS ZERO) 13권",
-      "link": "https://ridibooks.com/books/505036483?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "마시마 히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "한밤의 오컬트 공무원 12권",
-      "link": "https://ridibooks.com/books/845026676?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "타모츠 요코",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 스승 시리즈 7권 (완결)",
-      "link": "https://ridibooks.com/books/845026677?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "카타야마 슈",
-      "genre": "드라마"
-    },
-    {
-      "title": "드래곤볼 슈퍼 15권",
-      "link": "https://ridibooks.com/books/1019047041?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "토요타로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "오늘, 코시바 아오이를 만날 수 있다면. 2권",
-      "link": "https://ridibooks.com/books/4466000031?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "타케오카 하즈키",
-      "genre": "GL"
-    },
-    {
-      "title": "성실하게 불순이성교제 2권 (완결)",
-      "link": "https://ridibooks.com/books/297039679?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "핫타 아카리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "서머타임 렌더 4권",
-      "link": "https://ridibooks.com/books/1019047016?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "타나카 야스키",
-      "genre": "판타지/SF"
     }
   ]
 }
