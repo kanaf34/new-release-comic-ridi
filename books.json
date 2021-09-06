@@ -1,22 +1,22 @@
 {
   "books": [
     {
-      "title": "케가레, 란의 노래 1권",
-      "link": "https://ridibooks.com/books/297040499?_rdt_sid=new-release&_rdt_idx=0",
-      "author": "오사와 유스케",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "카드캡터 사쿠라 클리어 카드 편 10권",
-      "link": "https://ridibooks.com/books/505052504?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505052504?_rdt_sid=new-release&_rdt_idx=0",
       "author": "CLAMP",
       "genre": "드라마"
     },
     {
       "title": "KOBAN #0",
-      "link": "https://ridibooks.com/books/908003645?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/908003645?_rdt_sid=new-release&_rdt_idx=1",
       "author": "이시카와 치카",
       "genre": "드라마"
+    },
+    {
+      "title": "케가레, 란의 노래 1권",
+      "link": "https://ridibooks.com/books/297040499?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "오사와 유스케",
+      "genre": "판타지/SF"
     },
     {
       "title": "요츠바랑! 15권",
