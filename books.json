@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "카케구루이 14권",
+      "link": "https://ridibooks.com/books/505053082?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "나오무라 토오루",
+      "genre": "학원"
+    },
+    {
+      "title": "[코믹] 탐정은 이미 죽었다 1권",
+      "link": "https://ridibooks.com/books/1690000964?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "무기코",
+      "genre": "액션"
+    },
+    {
+      "title": "아뢰옵니다··· 킬러 양과 결혼했습니다 2권",
+      "link": "https://ridibooks.com/books/297040626?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "코사카 돈텐",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 실격문장의 최강 현자 6권",
+      "link": "https://ridibooks.com/books/1690000959?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "칸쇼&효코 (Friendly Land)",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 전생 현자의 이세계 라이프 4권",
+      "link": "https://ridibooks.com/books/1690000961?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "펑제",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "VR 아저씨의 첫사랑 1권",
+      "link": "https://ridibooks.com/books/1690000958?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "바이올런스 토모코",
+      "genre": "GL"
+    },
+    {
+      "title": "아빠가 미소녀가 된 이야기 2권",
+      "link": "https://ridibooks.com/books/1690000960?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "아카신고 와타루",
+      "genre": "코믹"
+    },
+    {
+      "title": "카쿠리요의 여관밥 2권",
+      "link": "https://ridibooks.com/books/1690000963?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "이오카 와코",
+      "genre": "드라마"
+    },
+    {
+      "title": "은반기사 7권",
+      "link": "https://ridibooks.com/books/297040702?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "오가와 야요이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "얼간이 봉봉 DIY하우스 4권 (완결)",
+      "link": "https://ridibooks.com/books/2007003107?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "네무 요코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "세인트 영멘 19권",
-      "link": "https://ridibooks.com/books/505052928?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505052928?_rdt_sid=new-release&_rdt_idx=10",
       "author": "나카무라 히카루",
       "genre": "코믹"
     },
     {
       "title": "3개월 전에 헤어진 선배와 후배의 이야기 1권",
-      "link": "https://ridibooks.com/books/806007300?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/806007300?_rdt_sid=new-release&_rdt_idx=11",
       "author": "미이 미츠키",
       "genre": "드라마"
     },
     {
       "title": "요괴야화담 8권",
-      "link": "https://ridibooks.com/books/297040683?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/297040683?_rdt_sid=new-release&_rdt_idx=12",
       "author": "마츠리",
       "genre": "판타지/SF"
     },
     {
       "title": "밤과 바다 1권",
-      "link": "https://ridibooks.com/books/806007299?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/806007299?_rdt_sid=new-release&_rdt_idx=13",
       "author": "고우모토",
       "genre": "GL"
     },
     {
       "title": "우리들의 비밀사정 5권",
-      "link": "https://ridibooks.com/books/297040620?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297040620?_rdt_sid=new-release&_rdt_idx=14",
       "author": "코지마 미호코",
       "genre": "해외 순정"
     },
     {
       "title": "처녀순정성애천국 2권",
-      "link": "https://ridibooks.com/books/297040684?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/297040684?_rdt_sid=new-release&_rdt_idx=15",
       "author": "나루미 유키",
       "genre": "해외 순정"
     },
     {
       "title": "행복한 타카코 씨 6권 (완결)",
-      "link": "https://ridibooks.com/books/806007301?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/806007301?_rdt_sid=new-release&_rdt_idx=16",
       "author": "신큐 치에",
       "genre": "드라마"
     },
     {
       "title": "흰색 화촉 2권",
-      "link": "https://ridibooks.com/books/806007302?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/806007302?_rdt_sid=new-release&_rdt_idx=17",
       "author": "타카야마 시노부",
       "genre": "판타지/SF"
     },
     {
       "title": "코세르테르의 용술사 ~어린용 이야기~ 13권",
-      "link": "https://ridibooks.com/books/2498007664?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/2498007664?_rdt_sid=new-release&_rdt_idx=18",
       "author": "이스루기 아유마",
       "genre": "판타지/SF"
     },
     {
       "title": "미세스 머메이드 2권",
-      "link": "https://ridibooks.com/books/297040519?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/297040519?_rdt_sid=new-release&_rdt_idx=19",
       "author": "타카오 시게루",
       "genre": "해외 순정"
-    },
-    {
-      "title": "고양이 한 뭉치 4권 (완결)",
-      "link": "https://ridibooks.com/books/840039422?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "고우모토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "루어(RURE) 36권",
-      "link": "https://ridibooks.com/books/505052555?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "서문다미",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "거실의 마츠나가 씨 10권",
-      "link": "https://ridibooks.com/books/2007003099?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "이와시타 케이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 이세계는 스마트폰과 함께. 10권",
-      "link": "https://ridibooks.com/books/3010008582?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "소토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "오늘부터 마가 붙는 자유업! 19권",
-      "link": "https://ridibooks.com/books/845027094?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "마츠모토 테마리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "고양이 여덟 마리와 살았다 2권",
-      "link": "https://ridibooks.com/books/297040669?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "통이",
-      "genre": "드라마"
-    },
-    {
-      "title": "플랜터 플래닛 4권",
-      "link": "https://ridibooks.com/books/297040673?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "하보",
-      "genre": "액션"
-    },
-    {
-      "title": "내세에는 남남이 좋겠어 5권",
-      "link": "https://ridibooks.com/books/2066002991?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "코니시 아스카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 17권",
-      "link": "https://ridibooks.com/books/2066002998?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "카와카미 타이키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "히나마츠리 16권",
-      "link": "https://ridibooks.com/books/1561008561?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "오타케 마사오",
-      "genre": "액션"
     }
   ]
 }
