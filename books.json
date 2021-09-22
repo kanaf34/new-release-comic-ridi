@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "Q.E.D. iff -증명종료- (큐이디 이프) 15권",
+      "link": "https://ridibooks.com/books/505053114?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "카토우 모토히로",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "스펠드 레그혼 2권",
+      "link": "https://ridibooks.com/books/4571000005?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "이츠츠지 미도로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "유루유리 17권",
+      "link": "https://ridibooks.com/books/845027291?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "나모리",
+      "genre": "GL"
+    },
+    {
+      "title": "절대가련 칠드런 61권",
+      "link": "https://ridibooks.com/books/1019053541?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "시이나 타카시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "블랙 클로버 28권",
+      "link": "https://ridibooks.com/books/1019053168?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "타바타 유키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사신 도련님과 검은 메이드 10권",
+      "link": "https://ridibooks.com/books/1019053166?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "이노우에 코하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "GS미카미 극락대작전!! 13권",
+      "link": "https://ridibooks.com/books/1019054190?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "시이나 타카시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "페르소나5 3권",
+      "link": "https://ridibooks.com/books/1019054223?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "무라사키 히사토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "카미이나 보탄, 취한 모습은 백합의 꽃 1권",
+      "link": "https://ridibooks.com/books/845027290?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "헤이",
+      "genre": "GL"
+    },
+    {
+      "title": "장밋빛의 약속 8권",
+      "link": "https://ridibooks.com/books/1019053052?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "미야사카 카호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마중 나가는 시부야 군 6권",
+      "link": "https://ridibooks.com/books/1019053053?_rdt_sid=new-release&_rdt_idx=10",
+      "author": "마코토 미츠노",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "비질랜티 10권",
+      "link": "https://ridibooks.com/books/1019053455?_rdt_sid=new-release&_rdt_idx=11",
+      "author": "베텐 코트",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "5시부터 9시까지 14권",
+      "link": "https://ridibooks.com/books/1019054144?_rdt_sid=new-release&_rdt_idx=12",
+      "author": "아이하라 미키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "빠져드는 한숨에 달콤한 키스 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019054155?_rdt_sid=new-release&_rdt_idx=13",
+      "author": "키사라기 히이로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 정령환상기 3권",
+      "link": "https://ridibooks.com/books/2066003027?_rdt_sid=new-release&_rdt_idx=14",
+      "author": "미나즈키 후타고",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "언젠가 티파니에서 아침을 12권",
+      "link": "https://ridibooks.com/books/505053180?_rdt_sid=new-release&_rdt_idx=15",
+      "author": "마키 히로치",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "모모노키 가의 네 자매 3권 (완결)",
+      "link": "https://ridibooks.com/books/806007310?_rdt_sid=new-release&_rdt_idx=16",
+      "author": "맥스멜론",
+      "genre": "드라마"
+    },
+    {
+      "title": "헬로 멜랑꼴리! 3권",
+      "link": "https://ridibooks.com/books/806007311?_rdt_sid=new-release&_rdt_idx=17",
+      "author": "오사와 야요이",
+      "genre": "GL"
+    },
+    {
       "title": "진격의 거인 34권 (한정판)",
-      "link": "https://ridibooks.com/books/505053090?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505053090?_rdt_sid=new-release&_rdt_idx=18",
       "author": "이사야마 하지메",
       "genre": "액션"
     },
     {
       "title": "던전밥 10권",
-      "link": "https://ridibooks.com/books/2066003009?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/2066003009?_rdt_sid=new-release&_rdt_idx=19",
       "author": "쿠이 료코",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "새벽의 연화 34권",
-      "link": "https://ridibooks.com/books/505053089?_rdt_sid=new-release&_rdt_idx=2",
-      "author": "쿠사나기 미즈호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "삼국군영전 화봉요원 35권",
-      "link": "https://ridibooks.com/books/1561008574?_rdt_sid=new-release&_rdt_idx=3",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "겁쟁이 페달 70권",
-      "link": "https://ridibooks.com/books/297040731?_rdt_sid=new-release&_rdt_idx=4",
-      "author": "와타나베 와타루",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 던전에서 만남을 추구하면 안 되는 걸까 Ⅱ 1권",
-      "link": "https://ridibooks.com/books/2066003019?_rdt_sid=new-release&_rdt_idx=5",
-      "author": "야마치 타이세이",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "위그드라실버 2권 (완결)",
-      "link": "https://ridibooks.com/books/2066003020?_rdt_sid=new-release&_rdt_idx=6",
-      "author": "카라아게 타로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "키이타로 소년의 요괴 그림일기 1권",
-      "link": "https://ridibooks.com/books/2066003024?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "카게야마 리이치",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "저희 사역마가 죄송합니다 9권",
-      "link": "https://ridibooks.com/books/3010008598?_rdt_sid=new-release&_rdt_idx=8",
-      "author": "야구라바 뎃카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "휴먼 [개정판] 2부 32권 (완결)",
-      "link": "https://ridibooks.com/books/1603054123?_rdt_sid=new-release&_rdt_idx=9",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "파이팅 적토마 4권",
-      "link": "https://ridibooks.com/books/1603054127?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "강촌",
-      "genre": "액션"
-    },
-    {
-      "title": "[할리퀸] 아름다운 상처",
-      "link": "https://ridibooks.com/books/1458005682?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "오카다 준코",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "원피스 99권",
-      "link": "https://ridibooks.com/books/1019052453?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "오다 에이치로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "근사한 남친 12권",
-      "link": "https://ridibooks.com/books/1019052676?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "카와하라 카즈네",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "우리들은 미쳤다 14권",
-      "link": "https://ridibooks.com/books/297040643?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "안도 나츠미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그녀도 여친 3권",
-      "link": "https://ridibooks.com/books/297040712?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "히로유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "C.M.B. 박물관 사건목록(씨엠비) 43권",
-      "link": "https://ridibooks.com/books/505053088?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "카토우 모토히로",
-      "genre": "학원"
-    },
-    {
-      "title": "마왕성에서 잘 자요 17권",
-      "link": "https://ridibooks.com/books/1019052786?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "쿠마노마타 카기지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "도라에몽 개정 완전판 45권 (완결)",
-      "link": "https://ridibooks.com/books/1019052831?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "후지코・F・후지오",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "우국의 모리아티 14권",
-      "link": "https://ridibooks.com/books/1019053051?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "미요시 히카루",
-      "genre": "드라마"
     }
   ]
 }
