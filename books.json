@@ -1,9 +1,9 @@
 {
   "books": [
     {
-      "title": "플런더러 15권",
-      "link": "https://ridibooks.com/books/2007003108?_rdt_sid=new-release&_rdt_idx=0",
-      "author": "미나즈키 수",
+      "title": "[코믹] 레이디 로즈는 평민이 되고 싶어 4권",
+      "link": "https://ridibooks.com/books/3010008606?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "키요세 유라",
       "genre": "판타지/SF"
     },
     {
@@ -13,28 +13,28 @@
       "genre": "코믹"
     },
     {
-      "title": "[코믹] 레이디 로즈는 평민이 되고 싶어 4권",
-      "link": "https://ridibooks.com/books/3010008606?_rdt_sid=new-release&_rdt_idx=2",
-      "author": "키요세 유라",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "LOST 2권 (완결)",
-      "link": "https://ridibooks.com/books/845027343?_rdt_sid=new-release&_rdt_idx=3",
-      "author": "야츠메 세이지",
-      "genre": "공포/추리"
-    },
-    {
       "title": "RACK -13계 잔혹 기계- 13권 (완결)",
-      "link": "https://ridibooks.com/books/845027344?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/845027344?_rdt_sid=new-release&_rdt_idx=2",
       "author": "이바라키 바이토",
       "genre": "판타지/SF"
     },
     {
       "title": "자는 여자 2권",
-      "link": "https://ridibooks.com/books/908003651?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/908003651?_rdt_sid=new-release&_rdt_idx=3",
       "author": "토리카와 소라",
       "genre": "해외 순정"
+    },
+    {
+      "title": "플런더러 15권",
+      "link": "https://ridibooks.com/books/2007003108?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "미나즈키 수",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "LOST 2권 (완결)",
+      "link": "https://ridibooks.com/books/845027343?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "야츠메 세이지",
+      "genre": "공포/추리"
     },
     {
       "title": "바니타스의 수기 9권",
