@@ -1,123 +1,123 @@
 {
   "books": [
     {
+      "title": "귀족 전생 3권",
+      "link": "https://ridibooks.com/books/3010008679?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "하나시마 히스이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "영 블랙 잭 16권 (완결)",
+      "link": "https://ridibooks.com/books/505053294?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "오오쿠마 유우고",
+      "genre": "드라마"
+    },
+    {
+      "title": "눈을 떴더니 최강 무장과 우주선을 가지고 있어서, 집 한채를 목표로 용병으로 자유롭게 살고 싶다 2권",
+      "link": "https://ridibooks.com/books/3010008689?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "마츠이 슌이치",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "걸 크러시 1권",
-      "link": "https://ridibooks.com/books/4395000010?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/4395000010?_rdt_sid=new-release&_rdt_idx=3",
       "author": "타야마 미도리",
       "genre": "드라마"
     },
     {
       "title": "나츠메 우인장 26권",
-      "link": "https://ridibooks.com/books/505054055?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505054055?_rdt_sid=new-release&_rdt_idx=4",
       "author": "미도리카와 유키",
       "genre": "드라마"
     },
     {
       "title": "그 비스크 돌은 사랑을 한다 7권 [리디북스 기간 한정 특전]",
-      "link": "https://ridibooks.com/books/2066003072?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/2066003072?_rdt_sid=new-release&_rdt_idx=5",
       "author": "후쿠다 신이치",
       "genre": "학원"
     },
     {
       "title": "80세 마리코 16권 (완결)",
-      "link": "https://ridibooks.com/books/297041235?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/297041235?_rdt_sid=new-release&_rdt_idx=6",
       "author": "오자와 유키",
       "genre": "드라마"
     },
     {
       "title": "요괴 아파트의 우아한 일상 22권",
-      "link": "https://ridibooks.com/books/297041236?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297041236?_rdt_sid=new-release&_rdt_idx=7",
       "author": "미야마 와카",
       "genre": "드라마"
     },
     {
       "title": "가정교사 나즈나 1권",
-      "link": "https://ridibooks.com/books/2066003070?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/2066003070?_rdt_sid=new-release&_rdt_idx=8",
       "author": "헤리야마",
       "genre": "판타지/SF"
     },
     {
       "title": "흡혈귀는 툭하면 죽는다 6권",
-      "link": "https://ridibooks.com/books/2258001935?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/2258001935?_rdt_sid=new-release&_rdt_idx=9",
       "author": "본노키 이타루",
       "genre": "코믹"
     },
     {
       "title": "친구게임 15권",
-      "link": "https://ridibooks.com/books/505053291?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/505053291?_rdt_sid=new-release&_rdt_idx=10",
       "author": "사토 유키",
       "genre": "공포/추리"
     },
     {
       "title": "왕가의 문장 25권",
-      "link": "https://ridibooks.com/books/505053341?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/505053341?_rdt_sid=new-release&_rdt_idx=11",
       "author": "호소카와 후민",
       "genre": "해외 순정"
     },
     {
       "title": "청춘×기관총 18권 (완결)",
-      "link": "https://ridibooks.com/books/845027505?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/845027505?_rdt_sid=new-release&_rdt_idx=12",
       "author": "NAOE",
       "genre": "액션"
     },
     {
       "title": "엎치락 뒤치락 불청객 7권",
-      "link": "https://ridibooks.com/books/1603054292?_rdt_sid=new-release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/1603054292?_rdt_sid=new-release&_rdt_idx=13",
       "author": "고행석",
       "genre": "액션"
     },
     {
       "title": "코믹진 점프 164호",
-      "link": "https://ridibooks.com/books/845027567?_rdt_sid=new-release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/845027567?_rdt_sid=new-release&_rdt_idx=14",
       "author": "점프 편집부",
       "genre": "만화잡지"
     },
     {
       "title": "챔프D 195호(2021.11.01)",
-      "link": "https://ridibooks.com/books/847004208?_rdt_sid=new-release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/847004208?_rdt_sid=new-release&_rdt_idx=15",
       "author": "챔프D 편집부",
       "genre": "만화잡지"
     },
     {
       "title": "스파이 패밀리 7권",
-      "link": "https://ridibooks.com/books/1019055399?_rdt_sid=new-release&_rdt_idx=13",
+      "link": "https://ridibooks.com/books/1019055399?_rdt_sid=new-release&_rdt_idx=16",
       "author": "엔도 타츠야",
       "genre": "액션"
     },
     {
       "title": "살애 10권",
-      "link": "https://ridibooks.com/books/1690000993?_rdt_sid=new-release&_rdt_idx=14",
+      "link": "https://ridibooks.com/books/1690000993?_rdt_sid=new-release&_rdt_idx=17",
       "author": "Fe",
       "genre": "해외 순정"
     },
     {
       "title": "치하야후루 41권",
-      "link": "https://ridibooks.com/books/505054046?_rdt_sid=new-release&_rdt_idx=15",
+      "link": "https://ridibooks.com/books/505054046?_rdt_sid=new-release&_rdt_idx=18",
       "author": "스에츠구 유키",
       "genre": "드라마"
     },
     {
       "title": "불쾌한 모노노케안 18권 (완결)",
-      "link": "https://ridibooks.com/books/297041222?_rdt_sid=new-release&_rdt_idx=16",
+      "link": "https://ridibooks.com/books/297041222?_rdt_sid=new-release&_rdt_idx=19",
       "author": "와자와 키리",
-      "genre": "드라마"
-    },
-    {
-      "title": "어제 뭐 먹었어? 18권",
-      "link": "https://ridibooks.com/books/2007003110?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "요시나가 후미",
-      "genre": "드라마"
-    },
-    {
-      "title": "별 볼 일 없는 나를 사랑해 주세요 4권",
-      "link": "https://ridibooks.com/books/1019055365?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "나카하라 아야",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "중쇄를 찍자! 12권",
-      "link": "https://ridibooks.com/books/1019055402?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "마츠다 나오코",
       "genre": "드라마"
     }
   ]
