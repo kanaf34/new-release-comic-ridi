@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "신부 이야기 13권",
+      "link": "https://ridibooks.com/books/297041358?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "모리 카오루",
+      "genre": "드라마"
+    },
+    {
+      "title": "꼭두각시 서커스 완전판 24권",
+      "link": "https://ridibooks.com/books/1019056318?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "후지타 카즈히로",
+      "genre": "액션"
+    },
+    {
+      "title": "쌍망정은 부숴야 한다 13권",
+      "link": "https://ridibooks.com/books/1019056331?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "후지타 카즈히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "종말의 세라프 23권",
+      "link": "https://ridibooks.com/books/1019056342?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "야마모토 야마토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "서머타임 렌더 8권",
+      "link": "https://ridibooks.com/books/1019056330?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "타나카 야스키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "허니 레몬 소다 13권",
+      "link": "https://ridibooks.com/books/1019056542?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "무라타 마유",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "이 힐러, 귀찮아 1권",
+      "link": "https://ridibooks.com/books/297041324?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "탄넨 니 핫코",
+      "genre": "코믹"
+    },
+    {
+      "title": "뉴 게임!(NEW GAME!) 12권",
+      "link": "https://ridibooks.com/books/297041393?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "토쿠노 쇼타로",
+      "genre": "코믹"
+    },
+    {
+      "title": "나는 이룰 수 없는 사랑을 한다 3권 (완결)",
+      "link": "https://ridibooks.com/books/505053375?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "오카노 쿠코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "장미왕의 장례 행렬 13권",
+      "link": "https://ridibooks.com/books/505054369?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "칸노 아야",
+      "genre": "드라마"
+    },
+    {
       "title": "악마에 입문했습니다! 이루마 군 19권",
-      "link": "https://ridibooks.com/books/845027642?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/845027642?_rdt_sid=new-release&_rdt_idx=10",
       "author": "니시 오사무",
       "genre": "판타지/SF"
     },
     {
       "title": "우시오와 잇세이 2권 (완결)",
-      "link": "https://ridibooks.com/books/4129000027?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/4129000027?_rdt_sid=new-release&_rdt_idx=11",
       "author": "우노 유키아키",
       "genre": "드라마"
     },
     {
       "title": "천호와 봉인시 1권",
-      "link": "https://ridibooks.com/books/297041377?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/297041377?_rdt_sid=new-release&_rdt_idx=12",
       "author": "네코 히마코",
       "genre": "판타지/SF"
     },
     {
       "title": "[코이] 이 중에 석유왕이 있습니다 2권 (완결)",
-      "link": "https://ridibooks.com/books/806007483?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/806007483?_rdt_sid=new-release&_rdt_idx=13",
       "author": "타케바 쿠미코",
       "genre": "해외 순정"
     },
     {
       "title": "메시누마 5권",
-      "link": "https://ridibooks.com/books/806007480?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/806007480?_rdt_sid=new-release&_rdt_idx=14",
       "author": "아미다무쿠",
       "genre": "드라마"
     },
     {
       "title": "마도의 계보 1권",
-      "link": "https://ridibooks.com/books/297041328?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/297041328?_rdt_sid=new-release&_rdt_idx=15",
       "author": "이누즈카 히로",
       "genre": "판타지/SF"
     },
     {
       "title": "네크로망스 5권 (완결)",
-      "link": "https://ridibooks.com/books/3010008713?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/3010008713?_rdt_sid=new-release&_rdt_idx=16",
       "author": "도모토 유우키",
       "genre": "판타지/SF"
     },
     {
       "title": "고양이 남자 냥키 하이스쿨 2권 (완결)",
-      "link": "https://ridibooks.com/books/297041339?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/297041339?_rdt_sid=new-release&_rdt_idx=17",
       "author": "시바미야 유키",
       "genre": "코믹"
     },
     {
       "title": "훈제요리 라이프 5권",
-      "link": "https://ridibooks.com/books/806007478?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/806007478?_rdt_sid=new-release&_rdt_idx=18",
       "author": "오시마 치하루",
       "genre": "드라마"
     },
     {
       "title": "그라운드의 독종 12권 (완결)",
-      "link": "https://ridibooks.com/books/1603054347?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/1603054347?_rdt_sid=new-release&_rdt_idx=19",
       "author": "오일룡",
       "genre": "스포츠"
-    },
-    {
-      "title": "소꿉친구가 과잉보호라 힘들어 2권 (완결)",
-      "link": "https://ridibooks.com/books/505054217?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "나구사 아다",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "삽질무쌍 3권",
-      "link": "https://ridibooks.com/books/3010008705?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "후쿠하라 렌지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "출몰! 맥주녀 1권",
-      "link": "https://ridibooks.com/books/806007474?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "냔바라 넨즈",
-      "genre": "드라마"
-    },
-    {
-      "title": "도쿄 리벤저스 12권",
-      "link": "https://ridibooks.com/books/505054096?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "와쿠이 켄",
-      "genre": "학원"
-    },
-    {
-      "title": "유큐홀더!(UQ HOLDER!) 22권",
-      "link": "https://ridibooks.com/books/505053296?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "아카마츠 켄",
-      "genre": "액션"
-    },
-    {
-      "title": "복원가의 집 21권",
-      "link": "https://ridibooks.com/books/297041321?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "김상엽",
-      "genre": "학원"
-    },
-    {
-      "title": "커피전문점 고양이 3권",
-      "link": "https://ridibooks.com/books/2066003088?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "스기사키 유키루",
-      "genre": "드라마"
-    },
-    {
-      "title": "니지와 쿠로 3권 (완결)",
-      "link": "https://ridibooks.com/books/2066003090?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "타케나시 에리",
-      "genre": "코믹"
-    },
-    {
-      "title": "엎치락 뒤치락 불청객 13권 (완결)",
-      "link": "https://ridibooks.com/books/1603054327?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "돈게쓰 제2부 4권",
-      "link": "https://ridibooks.com/books/806007444?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "타시",
-      "genre": "액션"
     }
   ]
 }
