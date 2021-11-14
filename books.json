@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "총몽 화성전기 7권",
+      "link": "https://ridibooks.com/books/371002556?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "기시로 유키토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "오타쿠에게 사랑은 어려워 10권",
+      "link": "https://ridibooks.com/books/1987001613?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "후지타",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "불꽃 소방대 28권",
+      "link": "https://ridibooks.com/books/505054636?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "오오쿠보 아츠시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사정을 모르는 전학생이 거침없이 다가온다. 5권",
+      "link": "https://ridibooks.com/books/845027760?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "카와무라 타쿠",
+      "genre": "학원"
+    },
+    {
+      "title": "비아이즈 (B-EYES) 4권 (완결)",
+      "link": "https://ridibooks.com/books/505054480?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "시오미 치카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "생명의 그릇 51권",
+      "link": "https://ridibooks.com/books/845027763?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "우에하라 키미코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "아인 17권 (완결)",
-      "link": "https://ridibooks.com/books/505054622?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505054622?_rdt_sid=new-release&_rdt_idx=6",
       "author": "사쿠라이 가몬",
       "genre": "판타지/SF"
     },
     {
       "title": "열혈강호 84권",
-      "link": "https://ridibooks.com/books/297041723?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/297041723?_rdt_sid=new-release&_rdt_idx=7",
       "author": "전극진",
       "genre": "무협"
     },
     {
       "title": "우리들의 기적 6권",
-      "link": "https://ridibooks.com/books/4466000038?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/4466000038?_rdt_sid=new-release&_rdt_idx=8",
       "author": "쿠메타 나츠오",
       "genre": "판타지/SF"
     },
     {
       "title": "갸루와 공룡 5권",
-      "link": "https://ridibooks.com/books/2066003133?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/2066003133?_rdt_sid=new-release&_rdt_idx=9",
       "author": "토미무라 코타",
       "genre": "코믹"
     },
     {
       "title": "고바야시네 메이드래곤 칸나의 일상 4권",
-      "link": "https://ridibooks.com/books/1561008718?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/1561008718?_rdt_sid=new-release&_rdt_idx=10",
       "author": "기무라 미츠히로",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 전생한 대성녀는 성녀임을 숨긴다 2권",
-      "link": "https://ridibooks.com/books/2066003131?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/2066003131?_rdt_sid=new-release&_rdt_idx=11",
       "author": "아오베 마히토",
       "genre": "판타지/SF"
     },
     {
       "title": "원댄스 4권",
-      "link": "https://ridibooks.com/books/2066003142?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/2066003142?_rdt_sid=new-release&_rdt_idx=12",
       "author": "커피",
       "genre": "학원"
     },
     {
       "title": "마왕의 사랑, 마음대로 안돼 2권 (완결)",
-      "link": "https://ridibooks.com/books/3010008744?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/3010008744?_rdt_sid=new-release&_rdt_idx=13",
       "author": "치로리",
       "genre": "해외 순정"
     },
     {
       "title": "인간폐기물 5권",
-      "link": "https://ridibooks.com/books/1603054481?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/1603054481?_rdt_sid=new-release&_rdt_idx=14",
       "author": "박인권",
       "genre": "액션"
     },
     {
       "title": "갱킹(GANG KING)(개정판) 34권",
-      "link": "https://ridibooks.com/books/297041735?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/297041735?_rdt_sid=new-release&_rdt_idx=15",
       "author": "야나우치 다이쥬",
       "genre": "액션"
     },
     {
       "title": "비리게쓰 1권",
-      "link": "https://ridibooks.com/books/806007515?_rdt_sid=new-release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/806007515?_rdt_sid=new-release&_rdt_idx=16",
       "author": "타시",
       "genre": "액션"
     },
     {
       "title": "우라미치 선생님 5권",
-      "link": "https://ridibooks.com/books/3010008785?_rdt_sid=new-release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/3010008785?_rdt_sid=new-release&_rdt_idx=17",
       "author": "쿠제 가쿠",
       "genre": "드라마"
     },
     {
       "title": "골든 카무이 26권",
-      "link": "https://ridibooks.com/books/1019057378?_rdt_sid=new-release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/1019057378?_rdt_sid=new-release&_rdt_idx=18",
       "author": "노다 사토루",
       "genre": "판타지/SF"
     },
     {
       "title": "키시베 로한은 움직이지 않는다 2권",
-      "link": "https://ridibooks.com/books/1019057125?_rdt_sid=new-release&_rdt_idx=13",
+      "link": "https://ridibooks.com/books/1019057125?_rdt_sid=new-release&_rdt_idx=19",
       "author": "아라키 히로히코",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "근사한 남친 13권",
-      "link": "https://ridibooks.com/books/1019057173?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "카와하라 카즈네",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "중쇄를 찍자! 13권",
-      "link": "https://ridibooks.com/books/1019057240?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "마츠다 나오코",
-      "genre": "드라마"
-    },
-    {
-      "title": "월드 트리거 23권",
-      "link": "https://ridibooks.com/books/1019057412?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "아시하라 다이스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마왕성에서 잘 자요 18권",
-      "link": "https://ridibooks.com/books/1019057617?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "쿠마노마타 카기지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "겁쟁이 페달 71권",
-      "link": "https://ridibooks.com/books/297041702?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "와타나베 와타루",
-      "genre": "드라마"
-    },
-    {
-      "title": "블랙 걸즈 토크 2권",
-      "link": "https://ridibooks.com/books/1019057164?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "마키노 마키",
-      "genre": "해외 순정"
     }
   ]
 }
