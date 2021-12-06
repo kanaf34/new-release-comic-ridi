@@ -1,22 +1,22 @@
 {
   "books": [
     {
-      "title": "다시 태어난 ≪검성≫은 편히 살고 싶다 3권 (완결)",
-      "link": "https://ridibooks.com/books/3010008846?_rdt_sid=new-release&_rdt_idx=0",
-      "author": "텟타 엔지",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "이래서 게임 만들기는 그만둘 수 없어 1권",
-      "link": "https://ridibooks.com/books/505055081?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505055081?_rdt_sid=new-release&_rdt_idx=0",
       "author": "타카시",
       "genre": "드라마"
     },
     {
       "title": "왕자가 나를 포기하지 않아! 9권",
-      "link": "https://ridibooks.com/books/505055097?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505055097?_rdt_sid=new-release&_rdt_idx=1",
       "author": "아사다 닛키",
       "genre": "해외 순정"
+    },
+    {
+      "title": "다시 태어난 ≪검성≫은 편히 살고 싶다 3권 (완결)",
+      "link": "https://ridibooks.com/books/3010008846?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "텟타 엔지",
+      "genre": "판타지/SF"
     },
     {
       "title": "더 화이팅 신장재편판 18권",
