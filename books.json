@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "위국일기 6권",
+      "link": "https://ridibooks.com/books/297042088?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "야마시타 토모코",
+      "genre": "드라마"
+    },
+    {
+      "title": "킹덤 62권",
+      "link": "https://ridibooks.com/books/1019058740?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "하라 야스히사",
+      "genre": "무협"
+    },
+    {
+      "title": "사라진 첫사랑 4권",
+      "link": "https://ridibooks.com/books/1019058752?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "아루코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "녹풍당의 사계절 11권",
+      "link": "https://ridibooks.com/books/297042087?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "시미즈 유",
+      "genre": "드라마"
+    },
+    {
+      "title": "프로미스 신데렐라 7권",
+      "link": "https://ridibooks.com/books/1019058912?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "타치바나 오레코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "세월이 흘러 다리로 간다 5권",
+      "link": "https://ridibooks.com/books/1019058762?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "히다카 쇼코",
+      "genre": "드라마"
+    },
+    {
+      "title": "쌍망정은 부숴야 한다 14권",
+      "link": "https://ridibooks.com/books/1019058923?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "후지타 카즈히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "우리 회사의 작은 선배 이야기 2권",
+      "link": "https://ridibooks.com/books/3010008920?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "사이소우",
+      "genre": "드라마"
+    },
+    {
+      "title": "사키 -Saki- 21권",
+      "link": "https://ridibooks.com/books/505055112?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "코바야시 리츠",
+      "genre": "스포츠"
+    },
+    {
+      "title": "미완성 사이코로트닉스 4권 (완결)",
+      "link": "https://ridibooks.com/books/845027967?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "타카야마 시노부",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "컬러맨 2권",
+      "link": "https://ridibooks.com/books/1019058718?_rdt_sid=new-release&_rdt_idx=10",
+      "author": "타무라 유미",
+      "genre": "드라마"
+    },
+    {
+      "title": "서머타임 렌더 10권",
+      "link": "https://ridibooks.com/books/1019058936?_rdt_sid=new-release&_rdt_idx=11",
+      "author": "타나카 야스키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "가브릴 드롭아웃 10권",
+      "link": "https://ridibooks.com/books/297042109?_rdt_sid=new-release&_rdt_idx=12",
+      "author": "우카미",
+      "genre": "코믹"
+    },
+    {
+      "title": "Bestia(베스티아) 3권 (완결)",
+      "link": "https://ridibooks.com/books/297042110?_rdt_sid=new-release&_rdt_idx=13",
+      "author": "아리사카 아코",
+      "genre": "액션"
+    },
+    {
       "title": "이해할 수 없는 나의 모든 것을 1권",
-      "link": "https://ridibooks.com/books/1690001008?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/1690001008?_rdt_sid=new-release&_rdt_idx=14",
       "author": "코나야마 카타",
       "genre": "드라마"
     },
     {
       "title": "대전 감사합니다 2권",
-      "link": "https://ridibooks.com/books/1690001006?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1690001006?_rdt_sid=new-release&_rdt_idx=15",
       "author": "에지마 에리",
       "genre": "GL"
     },
     {
       "title": "만남 사이트에서 여동생과 만나는 이야기 ~333일째~ (완결)",
-      "link": "https://ridibooks.com/books/1690001007?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/1690001007?_rdt_sid=new-release&_rdt_idx=16",
       "author": "모치오레",
       "genre": "GL"
     },
     {
       "title": "라이드 온 킹 6권",
-      "link": "https://ridibooks.com/books/297042094?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/297042094?_rdt_sid=new-release&_rdt_idx=17",
       "author": "바바 야스시",
       "genre": "액션"
     },
     {
       "title": "[코믹] 전생한 대성녀는 성녀임을 숨긴다 3권",
-      "link": "https://ridibooks.com/books/2066003186?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/2066003186?_rdt_sid=new-release&_rdt_idx=18",
       "author": "아오베 마히토",
       "genre": "판타지/SF"
     },
     {
       "title": "수진아 10권",
-      "link": "https://ridibooks.com/books/1603054697?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/1603054697?_rdt_sid=new-release&_rdt_idx=19",
       "author": "조명운",
       "genre": "액션"
-    },
-    {
-      "title": "너는 봄에 눈을 뜬다 7권",
-      "link": "https://ridibooks.com/books/505055115?_rdt_sid=new-release&_rdt_idx=6",
-      "author": "시마 아사토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "기사담은 성벽 안에서 꽃핀다 2권",
-      "link": "https://ridibooks.com/books/806007653?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "유즈카 마사나리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "머리 자르러 왔습니다. 3권",
-      "link": "https://ridibooks.com/books/297041922?_rdt_sid=new-release&_rdt_idx=8",
-      "author": "타카하시 신",
-      "genre": "드라마"
-    },
-    {
-      "title": "와, 같은. 2권",
-      "link": "https://ridibooks.com/books/297041927?_rdt_sid=new-release&_rdt_idx=9",
-      "author": "아소우 카이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "금화 1닢으로 바뀌는 모험가 생활 2권",
-      "link": "https://ridibooks.com/books/806007637?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "츠키시마 사토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[할리퀸] 모래 왕관",
-      "link": "https://ridibooks.com/books/1458005841?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "아소 아유무",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "[할리퀸] 독신남 길들이기",
-      "link": "https://ridibooks.com/books/1458005840?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "사가라 쿄코",
-      "genre": "할리퀸"
-    },
-    {
-      "title": "이래서 게임 만들기는 그만둘 수 없어 1권",
-      "link": "https://ridibooks.com/books/505055081?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "타카시",
-      "genre": "드라마"
-    },
-    {
-      "title": "왕자가 나를 포기하지 않아! 9권",
-      "link": "https://ridibooks.com/books/505055097?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "아사다 닛키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "다시 태어난 ≪검성≫은 편히 살고 싶다 3권 (완결)",
-      "link": "https://ridibooks.com/books/3010008846?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "텟타 엔지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "Party(파티) 2022년 1월호",
-      "link": "https://ridibooks.com/books/505055180?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "파티 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "더 화이팅 신장재편판 18권",
-      "link": "https://ridibooks.com/books/505055079?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "모리카와 죠지",
-      "genre": "스포츠"
-    },
-    {
-      "title": "아르테 14권",
-      "link": "https://ridibooks.com/books/297042020?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "오쿠보 케이",
-      "genre": "드라마"
-    },
-    {
-      "title": "언성 신데렐라 병원 약사 아오이 미도리 6권",
-      "link": "https://ridibooks.com/books/297042067?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "아라이 마마레",
-      "genre": "드라마"
     }
   ]
 }
