@@ -1,22 +1,22 @@
 {
   "books": [
     {
+      "title": "이해할 수 없는 나의 모든 것을 1권",
+      "link": "https://ridibooks.com/books/1690001008?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "코나야마 카타",
+      "genre": "드라마"
+    },
+    {
       "title": "대전 감사합니다 2권",
-      "link": "https://ridibooks.com/books/1690001006?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/1690001006?_rdt_sid=new-release&_rdt_idx=1",
       "author": "에지마 에리",
       "genre": "GL"
     },
     {
       "title": "만남 사이트에서 여동생과 만나는 이야기 ~333일째~ (완결)",
-      "link": "https://ridibooks.com/books/1690001007?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1690001007?_rdt_sid=new-release&_rdt_idx=2",
       "author": "모치오레",
       "genre": "GL"
-    },
-    {
-      "title": "이해할 수 없는 나의 모든 것을 1권",
-      "link": "https://ridibooks.com/books/1690001008?_rdt_sid=new-release&_rdt_idx=2",
-      "author": "코나야마 카타",
-      "genre": "드라마"
     },
     {
       "title": "라이드 온 킹 6권",
