@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "메시누마 7권",
+      "link": "https://ridibooks.com/books/806007713?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "아미다무쿠",
+      "genre": "드라마"
+    },
+    {
+      "title": "코다마 마리아 문학집성 3권",
+      "link": "https://ridibooks.com/books/806007690?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "미시마 요시하루",
+      "genre": "드라마"
+    },
+    {
+      "title": "왕가의 문장 30권",
+      "link": "https://ridibooks.com/books/505055194?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "호소카와 후민",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사랑 잡담 3권",
+      "link": "https://ridibooks.com/books/845027983?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "후쿠야마 료코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "메이데어 전생 이야기 3권",
+      "link": "https://ridibooks.com/books/3010008880?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "나츠니시 나나",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "술 한잔 인생 한입 47권",
+      "link": "https://ridibooks.com/books/806007695?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "라즈웰 호소키",
+      "genre": "드라마"
+    },
+    {
+      "title": "싫어할 거예요, 사야마 군 4권 (완결)",
+      "link": "https://ridibooks.com/books/845027980?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "나츠 사마코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "밀혈공주와 뱀파이어 4권 (완결)",
+      "link": "https://ridibooks.com/books/845027998?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "후유오리 토마",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "이 힐러, 귀찮아 2권",
+      "link": "https://ridibooks.com/books/297042181?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "탄넨 니 핫코",
+      "genre": "코믹"
+    },
+    {
+      "title": "여고생 괴식가 키리타니 9권",
+      "link": "https://ridibooks.com/books/806007705?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "폰토고탄다",
+      "genre": "코믹"
+    },
+    {
       "title": "K2 (닥터 K 3부) 38권",
-      "link": "https://ridibooks.com/books/505055174?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505055174?_rdt_sid=new-release&_rdt_idx=10",
       "author": "마후네 카즈오",
       "genre": "드라마"
     },
     {
       "title": "기억상실 후작님께 익애당하고 있습니다 2권",
-      "link": "https://ridibooks.com/books/3010008953?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/3010008953?_rdt_sid=new-release&_rdt_idx=11",
       "author": "코코아",
       "genre": "드라마"
     },
     {
       "title": "우리들의 기적 9권",
-      "link": "https://ridibooks.com/books/4466000041?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/4466000041?_rdt_sid=new-release&_rdt_idx=12",
       "author": "쿠메타 나츠오",
       "genre": "판타지/SF"
     },
     {
       "title": "속삭이듯 사랑을 노래하다 4권",
-      "link": "https://ridibooks.com/books/2498007778?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/2498007778?_rdt_sid=new-release&_rdt_idx=13",
       "author": "타케시마 에쿠",
       "genre": "GL"
     },
     {
       "title": "너와 잇는 물거품 1권",
-      "link": "https://ridibooks.com/books/2498007780?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/2498007780?_rdt_sid=new-release&_rdt_idx=14",
       "author": "유아마",
       "genre": "GL"
     },
     {
       "title": "도우미 여우 센코 씨 8권",
-      "link": "https://ridibooks.com/books/2066003200?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/2066003200?_rdt_sid=new-release&_rdt_idx=15",
       "author": "리무코로",
       "genre": "코믹"
     },
     {
       "title": "아내, 초등학생이 되다 6권",
-      "link": "https://ridibooks.com/books/2066003189?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/2066003189?_rdt_sid=new-release&_rdt_idx=16",
       "author": "무라타 야유",
       "genre": "드라마"
     },
     {
       "title": "유급! 토도메 선배 1권",
-      "link": "https://ridibooks.com/books/2066003198?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/2066003198?_rdt_sid=new-release&_rdt_idx=17",
       "author": "카와무라 타쿠",
       "genre": "코믹"
     },
     {
       "title": "피코피코 소년 EX (완결)",
-      "link": "https://ridibooks.com/books/297042141?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/297042141?_rdt_sid=new-release&_rdt_idx=18",
       "author": "오시키리 렌스케",
       "genre": "코믹"
     },
     {
       "title": "좁은 세계의 아이덴티티 5권 (완결)",
-      "link": "https://ridibooks.com/books/297042143?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/297042143?_rdt_sid=new-release&_rdt_idx=19",
       "author": "오시키리 렌스케",
       "genre": "코믹"
-    },
-    {
-      "title": "요괴 선술집 논베레케 3권",
-      "link": "https://ridibooks.com/books/2066003199?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "nonco",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "소설왕 3권",
-      "link": "https://ridibooks.com/books/222002710?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "오오사와 케이가",
-      "genre": "드라마"
-    },
-    {
-      "title": "더러운 개 10권",
-      "link": "https://ridibooks.com/books/1603054702?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "박인권",
-      "genre": "액션"
-    },
-    {
-      "title": "SHONAN 세븐 3권",
-      "link": "https://ridibooks.com/books/806007702?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "타카하시 신스케",
-      "genre": "액션"
-    },
-    {
-      "title": "미세스 머메이드 3권",
-      "link": "https://ridibooks.com/books/297042128?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "타카오 시게루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "히어로 탐정 닉 2권",
-      "link": "https://ridibooks.com/books/3010008884?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "자키 미츠노리",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "위국일기 6권",
-      "link": "https://ridibooks.com/books/297042088?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "야마시타 토모코",
-      "genre": "드라마"
-    },
-    {
-      "title": "사라진 첫사랑 4권",
-      "link": "https://ridibooks.com/books/1019058752?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "아루코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "킹덤 62권",
-      "link": "https://ridibooks.com/books/1019058740?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "하라 야스히사",
-      "genre": "무협"
-    },
-    {
-      "title": "녹풍당의 사계절 11권",
-      "link": "https://ridibooks.com/books/297042087?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "시미즈 유",
-      "genre": "드라마"
     }
   ]
 }
