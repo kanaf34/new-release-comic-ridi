@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "카케구루이 트윈 9권",
+      "link": "https://ridibooks.com/books/505055219?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "사이키 케이",
+      "genre": "학원"
+    },
+    {
+      "title": "암흑기사인 내가 최강의 성기사를 목표로 합니다 5권",
+      "link": "https://ridibooks.com/books/3010008975?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "시라누이 안",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "그 남자의 이중생활 아미♂밤비",
+      "link": "https://ridibooks.com/books/908003656?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "사카이 미와",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "워스트 외전 구리코 7권",
+      "link": "https://ridibooks.com/books/505055238?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "다카하시 히로시",
+      "genre": "학원"
+    },
+    {
       "title": "고바야시네 메이드래곤 9권",
-      "link": "https://ridibooks.com/books/1561008794?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/1561008794?_rdt_sid=new-release&_rdt_idx=4",
       "author": "쿨교신자",
       "genre": "판타지/SF"
     },
     {
       "title": "아저씨와 고양이 5권",
-      "link": "https://ridibooks.com/books/777095843?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/777095843?_rdt_sid=new-release&_rdt_idx=5",
       "author": "사쿠라이 우미",
       "genre": "드라마"
     },
     {
       "title": "새로운 상사는 귀여운 허당 2권",
-      "link": "https://ridibooks.com/books/2066003208?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/2066003208?_rdt_sid=new-release&_rdt_idx=6",
       "author": "이치카와 단",
       "genre": "코믹"
     },
     {
       "title": "최근 고용한 메이드가 수상하다 3권",
-      "link": "https://ridibooks.com/books/297042242?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/297042242?_rdt_sid=new-release&_rdt_idx=7",
       "author": "콘부 와카메",
       "genre": "해외 순정"
     },
     {
       "title": "조난입니까? 6권",
-      "link": "https://ridibooks.com/books/2066003207?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/2066003207?_rdt_sid=new-release&_rdt_idx=8",
       "author": "사가라 리리",
       "genre": "코믹"
     },
     {
       "title": "시원찮은 직장인과 불량 소녀 5권 (완결)",
-      "link": "https://ridibooks.com/books/297042243?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/297042243?_rdt_sid=new-release&_rdt_idx=9",
       "author": "타마키 나오",
       "genre": "해외 순정"
     },
     {
       "title": "동거 생활 1권",
-      "link": "https://ridibooks.com/books/3802000048?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/3802000048?_rdt_sid=new-release&_rdt_idx=10",
       "author": "사츠마아게",
       "genre": "GL"
     },
     {
       "title": "마왕님과 결혼하고 싶어 3권 (완결)",
-      "link": "https://ridibooks.com/books/4144000024?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/4144000024?_rdt_sid=new-release&_rdt_idx=11",
       "author": "이케우치 타누마",
       "genre": "해외 순정"
     },
     {
       "title": "우주건달전설 5권",
-      "link": "https://ridibooks.com/books/1603054744?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/1603054744?_rdt_sid=new-release&_rdt_idx=12",
       "author": "고행석",
       "genre": "액션"
     },
     {
       "title": "더러운 개 15권",
-      "link": "https://ridibooks.com/books/1603054739?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/1603054739?_rdt_sid=new-release&_rdt_idx=13",
       "author": "박인권",
       "genre": "액션"
     },
     {
       "title": "인외 씨의 신부 1권",
-      "link": "https://ridibooks.com/books/2066003209?_rdt_sid=new-release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/2066003209?_rdt_sid=new-release&_rdt_idx=14",
       "author": "야츠사카 아키오",
       "genre": "코믹"
     },
     {
       "title": "사사키와 미야노 4권",
-      "link": "https://ridibooks.com/books/297042201?_rdt_sid=new-release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/297042201?_rdt_sid=new-release&_rdt_idx=15",
       "author": "하루소노 쇼",
       "genre": "해외 순정"
     },
     {
       "title": "발라드×오페라 5권 (완결)",
-      "link": "https://ridibooks.com/books/297042202?_rdt_sid=new-release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/297042202?_rdt_sid=new-release&_rdt_idx=16",
       "author": "사마미야 아카자",
       "genre": "판타지/SF"
     },
     {
       "title": "MF 고스트 5권",
-      "link": "https://ridibooks.com/books/505055216?_rdt_sid=new-release&_rdt_idx=13",
+      "link": "https://ridibooks.com/books/505055216?_rdt_sid=new-release&_rdt_idx=17",
       "author": "시게노 슈이치",
       "genre": "스포츠"
     },
     {
       "title": "[코이] 신☆재생연 ~명 왕조 궁중 비화~ 8권",
-      "link": "https://ridibooks.com/books/806007725?_rdt_sid=new-release&_rdt_idx=14",
+      "link": "https://ridibooks.com/books/806007725?_rdt_sid=new-release&_rdt_idx=18",
       "author": "타키구치 링링",
       "genre": "해외 순정"
     },
     {
       "title": "원피스 100권",
-      "link": "https://ridibooks.com/books/1019059499?_rdt_sid=new-release&_rdt_idx=15",
+      "link": "https://ridibooks.com/books/1019059499?_rdt_sid=new-release&_rdt_idx=19",
       "author": "오다 에이치로",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "주술회전 17권",
-      "link": "https://ridibooks.com/books/1019059521?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "아쿠타미 게게",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "우리들은 미쳤다 15권",
-      "link": "https://ridibooks.com/books/297042188?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "안도 나츠미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "저승의 사랑은 염라대왕 나름! 4권",
-      "link": "https://ridibooks.com/books/297042198?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "히라이 루나",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "벨제붑 아가씨의 뜻대로. 12권 (완결)",
-      "link": "https://ridibooks.com/books/505055215?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "matoba",
-      "genre": "코믹"
     }
   ]
 }
