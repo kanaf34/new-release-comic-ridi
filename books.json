@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "삼각창의 밖은 밤 10권 (완결)",
+      "link": "https://ridibooks.com/books/297042499?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "야마시타 토모코",
+      "genre": "드라마"
+    },
+    {
+      "title": "근사한 남친 14권 (완결)",
+      "link": "https://ridibooks.com/books/1019059924?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "카와하라 카즈네",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "괴물사변 14권",
+      "link": "https://ridibooks.com/books/1019059946?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "아이모토 쇼",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "두 사람의 이스케이프 2권",
+      "link": "https://ridibooks.com/books/4466000043?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "타구치 쇼우이치",
+      "genre": "GL"
+    },
+    {
+      "title": "오컬트 짱은 말할 수 없어 5권",
+      "link": "https://ridibooks.com/books/297042518?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "혼다 하지메",
+      "genre": "코믹"
+    },
+    {
+      "title": "우국의 모리아티 15권",
+      "link": "https://ridibooks.com/books/1019059983?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "미요시 히카루",
+      "genre": "드라마"
+    },
+    {
+      "title": "옆집은 뭐 먹지? ~어른의 맛~ 6권",
+      "link": "https://ridibooks.com/books/505055662?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "후지츠카 유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "완전 귀여운 남자가 집에서 기다리고 있습니다 4권",
+      "link": "https://ridibooks.com/books/1019059923?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "타카세 와카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사신 도련님과 검은 메이드 11권",
+      "link": "https://ridibooks.com/books/1019060056?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "이노우에 코하루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "홍하후궁 이야기 ~소옥전~ 10권",
+      "link": "https://ridibooks.com/books/2498007846?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "쿠리미 아이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "염한 -수려한 남자- 14권",
+      "link": "https://ridibooks.com/books/297042500?_rdt_sid=new-release&_rdt_idx=10",
+      "author": "츠키지 나오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "나의 오리온 5권",
+      "link": "https://ridibooks.com/books/1019059879?_rdt_sid=new-release&_rdt_idx=11",
+      "author": "카와바타 시키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "벌꿀에 첫사랑 7권",
+      "link": "https://ridibooks.com/books/1019059945?_rdt_sid=new-release&_rdt_idx=12",
+      "author": "미나세 아이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "코타로는 1인 가구 5권",
+      "link": "https://ridibooks.com/books/1019059974?_rdt_sid=new-release&_rdt_idx=13",
+      "author": "츠무라 마미",
+      "genre": "드라마"
+    },
+    {
+      "title": "서머타임 렌더 11권",
+      "link": "https://ridibooks.com/books/1019059994?_rdt_sid=new-release&_rdt_idx=14",
+      "author": "타나카 야스키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 모험에 따라오지 마요, 엄마! 4권",
+      "link": "https://ridibooks.com/books/297042517?_rdt_sid=new-release&_rdt_idx=15",
+      "author": "시시마루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "폭식비의 검 3권",
+      "link": "https://ridibooks.com/books/3010009046?_rdt_sid=new-release&_rdt_idx=16",
+      "author": "모치론상",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "장하다! 원조 괴짜가족 9권",
+      "link": "https://ridibooks.com/books/845028330?_rdt_sid=new-release&_rdt_idx=17",
+      "author": "하마오카 켄지",
+      "genre": "코믹"
+    },
+    {
       "title": "[코믹] 무직전생 ~록시도 최선을 다합니다~ 6권",
-      "link": "https://ridibooks.com/books/505055660?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505055660?_rdt_sid=new-release&_rdt_idx=18",
       "author": "이와미 쇼코",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 무직전생 ~이세계에 갔으면 최선을 다한다~ 6권",
-      "link": "https://ridibooks.com/books/505055661?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505055661?_rdt_sid=new-release&_rdt_idx=19",
       "author": "후지카와 유카",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "오늘부터 가정부입니다만! 4권",
-      "link": "https://ridibooks.com/books/678016248?_rdt_sid=new-release&_rdt_idx=2",
-      "author": "나츠바 준",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "가극 소녀!! 11권",
-      "link": "https://ridibooks.com/books/845028329?_rdt_sid=new-release&_rdt_idx=3",
-      "author": "사이키 쿠미코",
-      "genre": "드라마"
-    },
-    {
-      "title": "미츠바는 형의 아내랑 1권",
-      "link": "https://ridibooks.com/books/806007808?_rdt_sid=new-release&_rdt_idx=4",
-      "author": "이토카츠",
-      "genre": "드라마"
-    },
-    {
-      "title": "갬블러즈 퍼레이드 4권 (완결)",
-      "link": "https://ridibooks.com/books/505055621?_rdt_sid=new-release&_rdt_idx=5",
-      "author": "나카야마 아츠시",
-      "genre": "드라마"
-    },
-    {
-      "title": "여친, 빌리겠습니다 17권",
-      "link": "https://ridibooks.com/books/505055623?_rdt_sid=new-release&_rdt_idx=6",
-      "author": "미야지마 레이지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "한 번쯤 여친이 되고 싶어! 4권 (완결)",
-      "link": "https://ridibooks.com/books/297042437?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "사코우 와타리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "경국의 재봉사 로즈 베르탱 4권",
-      "link": "https://ridibooks.com/books/297042495?_rdt_sid=new-release&_rdt_idx=8",
-      "author": "이소미 진게츠",
-      "genre": "드라마"
-    },
-    {
-      "title": "아빠와 여고생의 게임 방송 3권",
-      "link": "https://ridibooks.com/books/806007807?_rdt_sid=new-release&_rdt_idx=9",
-      "author": "이토요시 료이치",
-      "genre": "드라마"
-    },
-    {
-      "title": "어둠속에서 5권",
-      "link": "https://ridibooks.com/books/1603054856?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "[코믹] 북구 귀족과 군인 아내의 눈나라 수렵생활 5권",
-      "link": "https://ridibooks.com/books/4715000005?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "시라카바 시카요",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사랑하는 MOON DOG 5권",
-      "link": "https://ridibooks.com/books/297042459?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "야마다 난페이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "세계가 끝나도 산다는 건 즐거워 1권",
-      "link": "https://ridibooks.com/books/4018000066?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "톳토리 사큐",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "허당 선도부원과 스커트 길이가 부적절한 여고생의 이야기 2권",
-      "link": "https://ridibooks.com/books/505055644?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "요코타 타쿠마",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "유루캠△ 12권",
-      "link": "https://ridibooks.com/books/297042485?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "AFRO",
-      "genre": "코믹"
-    },
-    {
-      "title": "우리 동네 치바 군은. 4권",
-      "link": "https://ridibooks.com/books/505055617?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "토카사 오카모토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "골든 골드 4권",
-      "link": "https://ridibooks.com/books/505055612?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "세이타 호리오",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "용혈진천하 [개정판] 40권 (완결)",
-      "link": "https://ridibooks.com/books/1603054845?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "코믹진 점프 169호",
-      "link": "https://ridibooks.com/books/845028321?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
