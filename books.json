@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "[코믹] 문호 스트레이독스 21권",
+      "link": "https://ridibooks.com/books/1690001035?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "하루카와 산고",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "문호 스트레이독스 BEAST 2권",
+      "link": "https://ridibooks.com/books/1690001036?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "호시카와 시와스",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 문호 스트레이독스 데드 애플 3권",
+      "link": "https://ridibooks.com/books/1690001037?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "간지이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "이해할 수 없는 나의 모든 것을 2권",
+      "link": "https://ridibooks.com/books/1690001039?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "코나야마 카타",
+      "genre": "드라마"
+    },
+    {
+      "title": "그와 그녀의 선택 1권",
+      "link": "https://ridibooks.com/books/1690001033?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "오하라 히로키",
+      "genre": "드라마"
+    },
+    {
+      "title": "남자인 내가 여자로 되기까지 2권",
+      "link": "https://ridibooks.com/books/1690001034?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "사토 하츠키",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 실격문장의 최강 현자 8권",
+      "link": "https://ridibooks.com/books/1690001038?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "칸쇼&효코 (Friendly Land)",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 전생 현자의 이세계 라이프 6권",
+      "link": "https://ridibooks.com/books/1690001040?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "펑제",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "악역 영애는 이웃나라 왕태자의 사랑을 듬뿍 받는다 8권",
+      "link": "https://ridibooks.com/books/2007003123?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "호시나",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "데아이몬-화과자 이야기- 7권",
+      "link": "https://ridibooks.com/books/2007003130?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "아사노 린",
+      "genre": "드라마"
+    },
+    {
+      "title": "블라드 드러쿨레아 4권",
+      "link": "https://ridibooks.com/books/297042585?_rdt_sid=new-release&_rdt_idx=10",
+      "author": "오쿠보 아키요",
+      "genre": "드라마"
+    },
+    {
       "title": "김전일 37세의 사건부 10권",
-      "link": "https://ridibooks.com/books/845028401?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/845028401?_rdt_sid=new-release&_rdt_idx=11",
       "author": "아마기 세이마루",
       "genre": "공포/추리"
     },
     {
       "title": "굽고 있는 두 사람 2권",
-      "link": "https://ridibooks.com/books/3010009015?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/3010009015?_rdt_sid=new-release&_rdt_idx=12",
       "author": "하나츠카 시오리",
       "genre": "드라마"
     },
     {
       "title": "짱구 아빠 노하라 히로시의 점심 8권",
-      "link": "https://ridibooks.com/books/806007840?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/806007840?_rdt_sid=new-release&_rdt_idx=13",
       "author": "츠카하라 요이치",
       "genre": "드라마"
     },
     {
       "title": "리얼 어카운트 20권",
-      "link": "https://ridibooks.com/books/505055669?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/505055669?_rdt_sid=new-release&_rdt_idx=14",
       "author": "오쿠쇼우",
       "genre": "판타지/SF"
     },
     {
       "title": "오늘 뭐 먹지? 28 볶음밥과 교자♪",
-      "link": "https://ridibooks.com/books/806007829?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/806007829?_rdt_sid=new-release&_rdt_idx=15",
       "author": "이모바타 샐리",
       "genre": "드라마"
     },
     {
       "title": "우자키 양은 놀고 싶어! 6권",
-      "link": "https://ridibooks.com/books/297042574?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/297042574?_rdt_sid=new-release&_rdt_idx=16",
       "author": "타케",
       "genre": "학원"
     },
     {
       "title": "좋아해요, 이웃집 오빠! 3권",
-      "link": "https://ridibooks.com/books/297042577?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/297042577?_rdt_sid=new-release&_rdt_idx=17",
       "author": "신모토 신",
       "genre": "해외 순정"
     },
     {
       "title": "호박의 꿈에서 취해봅시다 3권",
-      "link": "https://ridibooks.com/books/806007841?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/806007841?_rdt_sid=new-release&_rdt_idx=18",
       "author": "요다 노도카",
       "genre": "드라마"
     },
     {
       "title": "라멘 너무 좋아 코이즈미 씨 8권",
-      "link": "https://ridibooks.com/books/806007849?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/806007849?_rdt_sid=new-release&_rdt_idx=19",
       "author": "나루미 나루",
       "genre": "드라마"
-    },
-    {
-      "title": "예쁜 나를 만드는 방법 2권",
-      "link": "https://ridibooks.com/books/908003659?_rdt_sid=new-release&_rdt_idx=9",
-      "author": "롯타 이쿠미",
-      "genre": "드라마"
-    },
-    {
-      "title": "에미야 가의 오늘의 밥상 6권",
-      "link": "https://ridibooks.com/books/1690001029?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "TAa",
-      "genre": "드라마"
-    },
-    {
-      "title": "당신에게 바치는 붉은 장미 1권",
-      "link": "https://ridibooks.com/books/3010009004?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "이치 멜카",
-      "genre": "드라마"
-    },
-    {
-      "title": "계×약 -위험한 파트너- 2권",
-      "link": "https://ridibooks.com/books/505055667?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "카오루하라 요시에",
-      "genre": "드라마"
-    },
-    {
-      "title": "페이트/그랜드 오더 프롬 로스트벨트 1권",
-      "link": "https://ridibooks.com/books/1690001030?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "나카타니",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "페이트/그랜드 오더 -에픽 오브 렘넌트- 아종 특이점 Ⅱ : 아가르타의 여자 1권",
-      "link": "https://ridibooks.com/books/1690001031?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "타케나가 히데오",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "페이트/그랜드 오더 -에픽 오브 렘넌트- 아종 특이점 EX : 심해전뇌낙토 세라프 1권",
-      "link": "https://ridibooks.com/books/1690001032?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "니시데 겐고로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "별 내리는 왕국의 니나 4권",
-      "link": "https://ridibooks.com/books/297042561?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "리카치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "세상에서 가장 이른 봄 4권",
-      "link": "https://ridibooks.com/books/297042562?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "카와바타 시키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "일하는 혈소판짱 2권",
-      "link": "https://ridibooks.com/books/505055725?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "야스",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "일하는 세포 프렌드 3권",
-      "link": "https://ridibooks.com/books/505055726?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "이즈미 미오",
-      "genre": "판타지/SF"
     }
   ]
 }
