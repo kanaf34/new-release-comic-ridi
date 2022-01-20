@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "불꽃 소방대 29권",
+      "link": "https://ridibooks.com/books/505055783?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "오오쿠보 아츠시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "삼국군영전 화봉요원 38권",
+      "link": "https://ridibooks.com/books/1561008986?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "진모",
+      "genre": "무협"
+    },
+    {
+      "title": "소년, 잠깐 땡땡이 칠래? 4권 (완결)",
+      "link": "https://ridibooks.com/books/2066003269?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "아카기 아사히토",
+      "genre": "드라마"
+    },
+    {
+      "title": "너의 마법이 닿으면 8권 (완결)",
+      "link": "https://ridibooks.com/books/505055829?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "허현주",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "[코믹] 보석상 리처드 씨의 수수께끼 감정 2권",
+      "link": "https://ridibooks.com/books/297042736?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "아카츠키 미카",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "우주군 사관, 모험가가 되다 1권",
+      "link": "https://ridibooks.com/books/1561008897?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "타쿠마 토모히사",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 악역 영애의 부하 노릇은 그만두려고 합니다 2권",
+      "link": "https://ridibooks.com/books/2066003272?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "후지와라 리카",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "로도스도 전기 서약의 보관 2권",
+      "link": "https://ridibooks.com/books/297042740?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "스즈미 아츠시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "꽃보다도 꽃처럼 20권",
+      "link": "https://ridibooks.com/books/505055768?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "나리타 미나코",
+      "genre": "드라마"
+    },
+    {
       "title": "사이키 쿠스오의 재난 26권 (완결)",
-      "link": "https://ridibooks.com/books/1019060608?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/1019060608?_rdt_sid=new-release&_rdt_idx=9",
       "author": "아소 슈이치",
       "genre": "코믹"
     },
     {
       "title": "대다크 3권",
-      "link": "https://ridibooks.com/books/1019060960?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1019060960?_rdt_sid=new-release&_rdt_idx=10",
       "author": "하야시다 큐",
       "genre": "판타지/SF"
     },
     {
       "title": "재앙의 신은 바라지 않아 2권 (완결)",
-      "link": "https://ridibooks.com/books/845028570?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/845028570?_rdt_sid=new-release&_rdt_idx=11",
       "author": "오히츠지 에이",
       "genre": "판타지/SF"
     },
     {
       "title": "마중 나가는 시부야 군 7권 (완결)",
-      "link": "https://ridibooks.com/books/1019060915?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/1019060915?_rdt_sid=new-release&_rdt_idx=12",
       "author": "마코토 미츠노",
       "genre": "해외 순정"
     },
     {
       "title": "토끼는 정의 3권",
-      "link": "https://ridibooks.com/books/297042715?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297042715?_rdt_sid=new-release&_rdt_idx=13",
       "author": "Ichthy Hospital",
       "genre": "코믹"
     },
     {
       "title": "악역 영애? 아니, 극악 영애인걸요 3권",
-      "link": "https://ridibooks.com/books/3010009074?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/3010009074?_rdt_sid=new-release&_rdt_idx=14",
       "author": "코나미 아사토",
       "genre": "드라마"
     },
     {
       "title": "이누야샤 와이드판 16권",
-      "link": "https://ridibooks.com/books/1019060546?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/1019060546?_rdt_sid=new-release&_rdt_idx=15",
       "author": "타카하시 루미코",
       "genre": "판타지/SF"
     },
     {
       "title": "치르, 치르, 미치루 2권 (완결)",
-      "link": "https://ridibooks.com/books/1019060565?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/1019060565?_rdt_sid=new-release&_rdt_idx=16",
       "author": "코토 마츠",
       "genre": "해외 순정"
     },
     {
       "title": "GS미카미 극락대작전!! 16권",
-      "link": "https://ridibooks.com/books/1019060912?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/1019060912?_rdt_sid=new-release&_rdt_idx=17",
       "author": "시이나 타카시",
       "genre": "판타지/SF"
     },
     {
       "title": "별 볼 일 없는 나를 사랑해 주세요 10권 (완결)",
-      "link": "https://ridibooks.com/books/1019060917?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/1019060917?_rdt_sid=new-release&_rdt_idx=18",
       "author": "나카하라 아야",
       "genre": "해외 순정"
     },
     {
       "title": "걷고 있어 8권",
-      "link": "https://ridibooks.com/books/1019060946?_rdt_sid=new-release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/1019060946?_rdt_sid=new-release&_rdt_idx=19",
       "author": "나나지 나가무",
       "genre": "해외 순정"
-    },
-    {
-      "title": "결혼반지 이야기 10권",
-      "link": "https://ridibooks.com/books/505055779?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "메이비",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "바람의검 15권 (완결)",
-      "link": "https://ridibooks.com/books/1603054949?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "천제황",
-      "genre": "무협"
-    },
-    {
-      "title": "여기는 지금부터 윤리 시간입니다. 6권",
-      "link": "https://ridibooks.com/books/1019060914?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "아마세 시오리",
-      "genre": "드라마"
-    },
-    {
-      "title": "여러 사정 때문에 남장 공주는 도망 중! 1권",
-      "link": "https://ridibooks.com/books/297042733?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "아키라 나카조",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "골목 미궁의 로지 3권 (완결)",
-      "link": "https://ridibooks.com/books/297042753?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "토오츠키 시야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "은하철도 999 ANOTHER STORY 얼티밋 저니 5권",
-      "link": "https://ridibooks.com/books/806007898?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "시마자키 유즈루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "그녀도 여친 6권",
-      "link": "https://ridibooks.com/books/297042590?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "히로유키",
-      "genre": "학원"
-    },
-    {
-      "title": "[코믹] 황제의 시녀님은 청혼 당하는 중 4권",
-      "link": "https://ridibooks.com/books/806007885?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "치쿠사 아카리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 레이디 로즈는 평민이 되고 싶어 5권",
-      "link": "https://ridibooks.com/books/3010009057?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "키요세 유라",
-      "genre": "판타지/SF"
     }
   ]
 }
