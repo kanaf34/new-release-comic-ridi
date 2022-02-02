@@ -1,123 +1,123 @@
 {
   "books": [
     {
+      "title": "스파이 패밀리 8권",
+      "link": "https://ridibooks.com/books/1019061963?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "엔도 타츠야",
+      "genre": "액션"
+    },
+    {
+      "title": "명탐정 코난 100권",
+      "link": "https://ridibooks.com/books/1019061967?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "아오야마 고쇼",
+      "genre": "공포/추리"
+    },
+    {
+      "title": "명탐정 코난 제로의 일상 5권",
+      "link": "https://ridibooks.com/books/1019061958?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "아라이 타카히로",
+      "genre": "드라마"
+    },
+    {
+      "title": "명탐정 코난 범인 한자와씨 6권",
+      "link": "https://ridibooks.com/books/1019061959?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "칸바 마유코",
+      "genre": "코믹"
+    },
+    {
+      "title": "너에게 닿기를 번외편 2권",
+      "link": "https://ridibooks.com/books/1019061966?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "시이나 카루호",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "히프노시스 마이크 -Before the Battle- The Dirty Dawg 4권 (완결)",
+      "link": "https://ridibooks.com/books/505055922?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "카니에 테츠지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "커피&바닐라 8권",
+      "link": "https://ridibooks.com/books/1019061961?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "아케가미 타카라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "스미카 스미레 8권",
+      "link": "https://ridibooks.com/books/1019061962?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "타카나시 미츠바",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "만난 지 5초 만에 배틀 13권",
+      "link": "https://ridibooks.com/books/1019061965?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "미야코 카시와",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "굿 나잇, 아이 러브 유 4권 (완결)",
+      "link": "https://ridibooks.com/books/297042989?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "타라치네 존",
+      "genre": "드라마"
+    },
+    {
+      "title": "히토리 봇치의 OO생활 7권",
+      "link": "https://ridibooks.com/books/297043017?_rdt_sid=new-release&_rdt_idx=10",
+      "author": "카츠오",
+      "genre": "학원"
+    },
+    {
+      "title": "최근 고용한 메이드가 수상하다 4권",
+      "link": "https://ridibooks.com/books/297043018?_rdt_sid=new-release&_rdt_idx=11",
+      "author": "콘부 와카메",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "굽고 있는 두 사람 3권",
+      "link": "https://ridibooks.com/books/3010009090?_rdt_sid=new-release&_rdt_idx=12",
+      "author": "하나츠카 시오리",
+      "genre": "드라마"
+    },
+    {
+      "title": "비질랜티 11권",
+      "link": "https://ridibooks.com/books/1019061964?_rdt_sid=new-release&_rdt_idx=13",
+      "author": "베텐 코트",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "도쿄 리벤저스 18권",
-      "link": "https://ridibooks.com/books/505055834?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505055834?_rdt_sid=new-release&_rdt_idx=14",
       "author": "와쿠이 켄",
       "genre": "학원"
     },
     {
       "title": "다정다감 18권 (리디북스 한정 특전) (완결)",
-      "link": "https://ridibooks.com/books/505055889?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505055889?_rdt_sid=new-release&_rdt_idx=15",
       "author": "박은아",
       "genre": "국내 순정"
     },
     {
       "title": "아기와 나 오리지널 18권 (완결)",
-      "link": "https://ridibooks.com/books/297042949?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/297042949?_rdt_sid=new-release&_rdt_idx=16",
       "author": "라가와 마리모",
       "genre": "드라마"
     },
     {
       "title": "최유기 리로드 블래스트 3권",
-      "link": "https://ridibooks.com/books/505055838?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/505055838?_rdt_sid=new-release&_rdt_idx=17",
       "author": "미네쿠라 카즈야",
       "genre": "판타지/SF"
     },
     {
       "title": "요괴 아파트의 우아한 일상 23권",
-      "link": "https://ridibooks.com/books/297042977?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297042977?_rdt_sid=new-release&_rdt_idx=18",
       "author": "미야마 와카",
       "genre": "드라마"
     },
     {
       "title": "주작의 활 신장판 8권 (완결)",
-      "link": "https://ridibooks.com/books/4395000017?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/4395000017?_rdt_sid=new-release&_rdt_idx=19",
       "author": "이노우에 준야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "타블로 게이트 20권",
-      "link": "https://ridibooks.com/books/2066003360?_rdt_sid=new-release&_rdt_idx=6",
-      "author": "스즈키 리카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "왕실교사 하이네 17권 (완결)",
-      "link": "https://ridibooks.com/books/297042976?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "아카이 히가사",
-      "genre": "코믹"
-    },
-    {
-      "title": "챔프D 202호(2022.02.15)",
-      "link": "https://ridibooks.com/books/847004284?_rdt_sid=new-release&_rdt_idx=8",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "부활 20권 (완결)",
-      "link": "https://ridibooks.com/books/1603055028?_rdt_sid=new-release&_rdt_idx=9",
-      "author": "박인권",
-      "genre": "액션"
-    },
-    {
-      "title": "꽃피는 헤이안 요리 두루마리 ~벚꽃 공주의 맛있는 일상~ 2권 (완결)",
-      "link": "https://ridibooks.com/books/806007932?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "나나오",
-      "genre": "드라마"
-    },
-    {
-      "title": "장송의 프리렌 3권",
-      "link": "https://ridibooks.com/books/1019061369?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "아베 츠카사",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "학원 베이비시터즈 22권",
-      "link": "https://ridibooks.com/books/845028618?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "토케이노 하리",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그 사랑은 딸기처럼 4권 (완결)",
-      "link": "https://ridibooks.com/books/297042849?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "이로노",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "더 화이팅 신장재편판 19권",
-      "link": "https://ridibooks.com/books/505055832?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "모리카와 죠지",
-      "genre": "스포츠"
-    },
-    {
-      "title": "청루 오페라 11권",
-      "link": "https://ridibooks.com/books/1019060969?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "사쿠라코우지 카노코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "쌍망정은 부숴야 한다 15권",
-      "link": "https://ridibooks.com/books/1019061396?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "후지타 카즈히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "창공의 아리아드네 12권",
-      "link": "https://ridibooks.com/books/1019061528?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "야기 노리히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "유가미 군은 친구가 없다 14권",
-      "link": "https://ridibooks.com/books/1019061332?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "사쿠라 준",
-      "genre": "코믹"
-    },
-    {
-      "title": "어그래비티 보이즈 7권 (완결)",
-      "link": "https://ridibooks.com/books/1019061398?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "나카무라 아츠시",
       "genre": "판타지/SF"
     }
   ]
