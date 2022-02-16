@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "별 볼 일 없는 나를 사랑해 주세요 R(리턴즈) 2권",
+      "link": "https://ridibooks.com/books/1019062544?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "나카하라 아야",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "보루토 15권",
+      "link": "https://ridibooks.com/books/1019062549?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "이케모토 미키오",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "토리코 42권",
+      "link": "https://ridibooks.com/books/1019062624?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "시마부쿠로 미츠토시",
+      "genre": "드라마"
+    },
+    {
+      "title": "우리들의 기적 13권",
+      "link": "https://ridibooks.com/books/4466000047?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "쿠메타 나츠오",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "비리게쓰 2권 (완결)",
+      "link": "https://ridibooks.com/books/806008023?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "타시",
+      "genre": "액션"
+    },
+    {
+      "title": "일부러 보여주는 카모이 양 4권",
+      "link": "https://ridibooks.com/books/806008025?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "에무",
+      "genre": "학원"
+    },
+    {
+      "title": "사랑이 이뤄지지 않는 셰어하우스 3권 (완결)",
+      "link": "https://ridibooks.com/books/806008032?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "모치즈키 사쿠라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "괴수 8호 5권",
+      "link": "https://ridibooks.com/books/1019062548?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "마츠모토 나오야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "블루 피리어드 11권",
+      "link": "https://ridibooks.com/books/3010009146?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "야마구치 츠바사",
+      "genre": "드라마"
+    },
+    {
+      "title": "혈계전선 Back 2 Back 9권",
+      "link": "https://ridibooks.com/books/1019062614?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "나이토 야스히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "여친, 빌리겠습니다 18권",
+      "link": "https://ridibooks.com/books/505055955?_rdt_sid=new-release&_rdt_idx=10",
+      "author": "미야지마 레이지",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "허니 레몬 소다 15권",
+      "link": "https://ridibooks.com/books/1019062546?_rdt_sid=new-release&_rdt_idx=11",
+      "author": "무라타 마유",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "이런 미래는 들은 적 없어! 4권",
+      "link": "https://ridibooks.com/books/1019062545?_rdt_sid=new-release&_rdt_idx=12",
+      "author": "야스코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "비밀의 아이 13권",
+      "link": "https://ridibooks.com/books/1019062547?_rdt_sid=new-release&_rdt_idx=13",
+      "author": "카오리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "서머타임 렌더 12권",
+      "link": "https://ridibooks.com/books/1019062551?_rdt_sid=new-release&_rdt_idx=14",
+      "author": "타나카 야스키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "아츠모리 군의 아내(←미정) 5권",
+      "link": "https://ridibooks.com/books/297043310?_rdt_sid=new-release&_rdt_idx=15",
+      "author": "타아모",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "공정 드래곤즈 11권",
+      "link": "https://ridibooks.com/books/297043311?_rdt_sid=new-release&_rdt_idx=16",
+      "author": "쿠와바라 타쿠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "우주를 가다 2권",
+      "link": "https://ridibooks.com/books/806008030?_rdt_sid=new-release&_rdt_idx=17",
+      "author": "아바라보네 헤코스케",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "지박소년 하나코 군 16권",
-      "link": "https://ridibooks.com/books/845028611?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/845028611?_rdt_sid=new-release&_rdt_idx=18",
       "author": "아이다 이로",
       "genre": "판타지/SF"
     },
     {
       "title": "무지갯빛 포토그래프 3권 (완결)",
-      "link": "https://ridibooks.com/books/840041819?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/840041819?_rdt_sid=new-release&_rdt_idx=19",
       "author": "쿠라사키 모로코",
       "genre": "드라마"
-    },
-    {
-      "title": "오리타타부 4권 (완결)",
-      "link": "https://ridibooks.com/books/297043300?_rdt_sid=new-release&_rdt_idx=2",
-      "author": "콘치키",
-      "genre": "코믹"
-    },
-    {
-      "title": "비밀 season 0 10권",
-      "link": "https://ridibooks.com/books/845028815?_rdt_sid=new-release&_rdt_idx=3",
-      "author": "시미즈 레이코",
-      "genre": "드라마"
-    },
-    {
-      "title": "펠루아 이야기 15권",
-      "link": "https://ridibooks.com/books/505055995?_rdt_sid=new-release&_rdt_idx=4",
-      "author": "김연주",
-      "genre": "국내 순정"
-    },
-    {
-      "title": "와카코와 술 17권",
-      "link": "https://ridibooks.com/books/806007985?_rdt_sid=new-release&_rdt_idx=5",
-      "author": "신큐 치에",
-      "genre": "드라마"
-    },
-    {
-      "title": "메시누마 8권",
-      "link": "https://ridibooks.com/books/806008021?_rdt_sid=new-release&_rdt_idx=6",
-      "author": "아미다무쿠",
-      "genre": "드라마"
-    },
-    {
-      "title": "용사님의 신부가 되고 싶어서(￣∇￣)ゞ 2권 (완결)",
-      "link": "https://ridibooks.com/books/3010009137?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "야마 토모히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "여학교의 별 1권",
-      "link": "https://ridibooks.com/books/371002616?_rdt_sid=new-release&_rdt_idx=8",
-      "author": "와야마 야마",
-      "genre": "드라마"
-    },
-    {
-      "title": "동네술집 와카오 ~와카코와 술 체인점~ 5권",
-      "link": "https://ridibooks.com/books/806007986?_rdt_sid=new-release&_rdt_idx=9",
-      "author": "냔바라 넨즈",
-      "genre": "드라마"
-    },
-    {
-      "title": "거실의 마츠나가 씨 11권 (완결)",
-      "link": "https://ridibooks.com/books/2007003131?_rdt_sid=new-release&_rdt_idx=10",
-      "author": "이와시타 케이코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "데아이몬-화과자 이야기- 8권",
-      "link": "https://ridibooks.com/books/2007003132?_rdt_sid=new-release&_rdt_idx=11",
-      "author": "아사노 린",
-      "genre": "드라마"
-    },
-    {
-      "title": "플런더러 17권",
-      "link": "https://ridibooks.com/books/2007003133?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "미나즈키 수",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "컴온 어 마이 하우스 4권",
-      "link": "https://ridibooks.com/books/297043259?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "난바 아츠코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "루리코의 애정만점 레시피 3권",
-      "link": "https://ridibooks.com/books/806008010?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "사카키 신",
-      "genre": "드라마"
-    },
-    {
-      "title": "챔프D 203호(2022.03.01)",
-      "link": "https://ridibooks.com/books/847004295?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "코믹진 점프 172호",
-      "link": "https://ridibooks.com/books/845028810?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "점프 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "주먹밥 16권 (완결)",
-      "link": "https://ridibooks.com/books/1603055119?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "새내기 자매와 두 사람의 식탁 8권",
-      "link": "https://ridibooks.com/books/1690001055?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "히이라기 유타카",
-      "genre": "드라마"
-    },
-    {
-      "title": "비스타즈 (BEASTARS) 16권",
-      "link": "https://ridibooks.com/books/1690001045?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "이타가키 파루",
-      "genre": "판타지/SF"
     }
   ]
 }
