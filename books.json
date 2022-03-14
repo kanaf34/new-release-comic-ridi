@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "만약 사랑이 보인다면 1권",
-      "link": "https://ridibooks.com/books/1690001060?_rdt_sid=new-release&_rdt_idx=0",
-      "author": "나나지 유우키",
-      "genre": "해외 순정"
+      "title": "아르티스트 (Artiste) 6권",
+      "link": "https://ridibooks.com/books/806008117?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "사모에도 타로",
+      "genre": "드라마"
     },
     {
-      "title": "해피해피 쿠루네코 8권",
-      "link": "https://ridibooks.com/books/297043792?_rdt_sid=new-release&_rdt_idx=1",
-      "author": "쿠루네코 야마토",
-      "genre": "드라마"
+      "title": "카케구루이 트윈 10권",
+      "link": "https://ridibooks.com/books/505056194?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "사이키 케이",
+      "genre": "학원"
     },
     {
       "title": "아톰 더 비기닝 8권",
@@ -19,15 +19,15 @@
       "genre": "판타지/SF"
     },
     {
-      "title": "카케구루이 트윈 10권",
-      "link": "https://ridibooks.com/books/505056194?_rdt_sid=new-release&_rdt_idx=3",
-      "author": "사이키 케이",
-      "genre": "학원"
+      "title": "만약 사랑이 보인다면 1권",
+      "link": "https://ridibooks.com/books/1690001060?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "나나지 유우키",
+      "genre": "해외 순정"
     },
     {
-      "title": "아르티스트 (Artiste) 6권",
-      "link": "https://ridibooks.com/books/806008117?_rdt_sid=new-release&_rdt_idx=4",
-      "author": "사모에도 타로",
+      "title": "해피해피 쿠루네코 8권",
+      "link": "https://ridibooks.com/books/297043792?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "쿠루네코 야마토",
       "genre": "드라마"
     },
     {
