@@ -1,64 +1,64 @@
 {
   "books": [
     {
-      "title": "삼국군영전 화봉요원 39권",
-      "link": "https://ridibooks.com/books/1561009112?_rdt_sid=new-release&_rdt_idx=0",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "단칸방의 마녀 라이프 1권",
-      "link": "https://ridibooks.com/books/2066003468?_rdt_sid=new-release&_rdt_idx=1",
-      "author": "아키타카",
-      "genre": "코믹"
-    },
-    {
-      "title": "톰슨 3권 (완결)",
-      "link": "https://ridibooks.com/books/2066003469?_rdt_sid=new-release&_rdt_idx=2",
-      "author": "하라야스",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "환상이여 또 만나 3권 (완결)",
-      "link": "https://ridibooks.com/books/2066003470?_rdt_sid=new-release&_rdt_idx=3",
-      "author": "이토 나츠미",
-      "genre": "드라마"
-    },
-    {
-      "title": "와, 같은. 3권",
-      "link": "https://ridibooks.com/books/297043888?_rdt_sid=new-release&_rdt_idx=4",
-      "author": "아소우 카이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "천지창조 디자인부 7권",
-      "link": "https://ridibooks.com/books/297043889?_rdt_sid=new-release&_rdt_idx=5",
-      "author": "타라코",
-      "genre": "코믹"
-    },
-    {
-      "title": "복원가의 집 22권",
-      "link": "https://ridibooks.com/books/297043896?_rdt_sid=new-release&_rdt_idx=6",
-      "author": "김상엽",
-      "genre": "학원"
-    },
-    {
-      "title": "악역영애의 나태한 한숨 2권",
-      "link": "https://ridibooks.com/books/3010009254?_rdt_sid=new-release&_rdt_idx=7",
-      "author": "호시노 소우메이",
-      "genre": "드라마"
-    },
-    {
       "title": "치하야후루 42권",
-      "link": "https://ridibooks.com/books/505056232?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/505056232?_rdt_sid=new-release&_rdt_idx=0",
       "author": "스에츠구 유키",
       "genre": "드라마"
     },
     {
       "title": "더 화이팅 신장재편판 21권",
-      "link": "https://ridibooks.com/books/505056234?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/505056234?_rdt_sid=new-release&_rdt_idx=1",
       "author": "모리카와 죠지",
       "genre": "스포츠"
+    },
+    {
+      "title": "삼국군영전 화봉요원 39권",
+      "link": "https://ridibooks.com/books/1561009112?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "진모",
+      "genre": "무협"
+    },
+    {
+      "title": "천지창조 디자인부 7권",
+      "link": "https://ridibooks.com/books/297043889?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "타라코",
+      "genre": "코믹"
+    },
+    {
+      "title": "단칸방의 마녀 라이프 1권",
+      "link": "https://ridibooks.com/books/2066003468?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "아키타카",
+      "genre": "코믹"
+    },
+    {
+      "title": "복원가의 집 22권",
+      "link": "https://ridibooks.com/books/297043896?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "김상엽",
+      "genre": "학원"
+    },
+    {
+      "title": "톰슨 3권 (완결)",
+      "link": "https://ridibooks.com/books/2066003469?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "하라야스",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "환상이여 또 만나 3권 (완결)",
+      "link": "https://ridibooks.com/books/2066003470?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "이토 나츠미",
+      "genre": "드라마"
+    },
+    {
+      "title": "와, 같은. 3권",
+      "link": "https://ridibooks.com/books/297043888?_rdt_sid=new-release&_rdt_idx=8",
+      "author": "아소우 카이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "악역영애의 나태한 한숨 2권",
+      "link": "https://ridibooks.com/books/3010009254?_rdt_sid=new-release&_rdt_idx=9",
+      "author": "호시노 소우메이",
+      "genre": "드라마"
     },
     {
       "title": "장송의 프리렌 6권",
