@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "런웨이에서 웃어줘 15권",
+      "link": "https://ridibooks.com/books/505056240?_rdt_sid=new-release&_rdt_idx=0",
+      "author": "이노야 코토바",
+      "genre": "드라마"
+    },
+    {
+      "title": "스쿨 존 3권",
+      "link": "https://ridibooks.com/books/3981000034?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "닌기야우",
+      "genre": "GL"
+    },
+    {
+      "title": "악역 영애지만 공략 대상들의 상태가 좋지 않습니다 2권",
+      "link": "https://ridibooks.com/books/806008160?_rdt_sid=new-release&_rdt_idx=2",
+      "author": "아타카",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "경애하는 「얼음 기사와 못난이 공주」 였던 우리들에게 2권",
+      "link": "https://ridibooks.com/books/806008161?_rdt_sid=new-release&_rdt_idx=3",
+      "author": "유키 유키코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "금색의 마비노기온 -아서 왕의 누이- 5권",
+      "link": "https://ridibooks.com/books/297043900?_rdt_sid=new-release&_rdt_idx=4",
+      "author": "야마다 난페이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "카니발 25권",
+      "link": "https://ridibooks.com/books/297043901?_rdt_sid=new-release&_rdt_idx=5",
+      "author": "미카나기 토우야",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "죽기 쉬운 공작 영애와 7명의 귀공자 1권",
+      "link": "https://ridibooks.com/books/806008157?_rdt_sid=new-release&_rdt_idx=6",
+      "author": "스즈키 이조",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사랑…할듯 말듯 5권",
+      "link": "https://ridibooks.com/books/806008159?_rdt_sid=new-release&_rdt_idx=7",
+      "author": "미나세 마유",
+      "genre": "드라마"
+    },
+    {
       "title": "제물공주와 짐승의 왕 13권",
-      "link": "https://ridibooks.com/books/505056238?_rdt_sid=new-release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505056238?_rdt_sid=new-release&_rdt_idx=8",
       "author": "토모후지 유",
       "genre": "해외 순정"
     },
     {
       "title": "마리는 해피 엔딩으로 부탁드려요 4권 (완결)",
-      "link": "https://ridibooks.com/books/505056239?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505056239?_rdt_sid=new-release&_rdt_idx=9",
       "author": "히츠지 하루미",
       "genre": "해외 순정"
     },
     {
       "title": "치하야후루 42권",
-      "link": "https://ridibooks.com/books/505056232?_rdt_sid=new-release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505056232?_rdt_sid=new-release&_rdt_idx=10",
       "author": "스에츠구 유키",
       "genre": "드라마"
     },
     {
       "title": "더 화이팅 신장재편판 21권",
-      "link": "https://ridibooks.com/books/505056234?_rdt_sid=new-release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/505056234?_rdt_sid=new-release&_rdt_idx=11",
       "author": "모리카와 죠지",
       "genre": "스포츠"
     },
     {
       "title": "삼국군영전 화봉요원 39권",
-      "link": "https://ridibooks.com/books/1561009112?_rdt_sid=new-release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/1561009112?_rdt_sid=new-release&_rdt_idx=12",
       "author": "진모",
       "genre": "무협"
     },
     {
       "title": "천지창조 디자인부 7권",
-      "link": "https://ridibooks.com/books/297043889?_rdt_sid=new-release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/297043889?_rdt_sid=new-release&_rdt_idx=13",
       "author": "타라코",
       "genre": "코믹"
     },
     {
       "title": "단칸방의 마녀 라이프 1권",
-      "link": "https://ridibooks.com/books/2066003468?_rdt_sid=new-release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/2066003468?_rdt_sid=new-release&_rdt_idx=14",
       "author": "아키타카",
       "genre": "코믹"
     },
     {
       "title": "복원가의 집 22권",
-      "link": "https://ridibooks.com/books/297043896?_rdt_sid=new-release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/297043896?_rdt_sid=new-release&_rdt_idx=15",
       "author": "김상엽",
       "genre": "학원"
     },
     {
       "title": "톰슨 3권 (완결)",
-      "link": "https://ridibooks.com/books/2066003469?_rdt_sid=new-release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/2066003469?_rdt_sid=new-release&_rdt_idx=16",
       "author": "하라야스",
       "genre": "판타지/SF"
     },
     {
       "title": "환상이여 또 만나 3권 (완결)",
-      "link": "https://ridibooks.com/books/2066003470?_rdt_sid=new-release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/2066003470?_rdt_sid=new-release&_rdt_idx=17",
       "author": "이토 나츠미",
       "genre": "드라마"
     },
     {
       "title": "와, 같은. 3권",
-      "link": "https://ridibooks.com/books/297043888?_rdt_sid=new-release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/297043888?_rdt_sid=new-release&_rdt_idx=18",
       "author": "아소우 카이",
       "genre": "해외 순정"
     },
     {
       "title": "작전명 벌레 12권 (완결)",
-      "link": "https://ridibooks.com/books/1603055397?_rdt_sid=new-release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/1603055397?_rdt_sid=new-release&_rdt_idx=19",
       "author": "박인권",
       "genre": "액션"
-    },
-    {
-      "title": "악역영애의 나태한 한숨 2권",
-      "link": "https://ridibooks.com/books/3010009254?_rdt_sid=new-release&_rdt_idx=12",
-      "author": "호시노 소우메이",
-      "genre": "드라마"
-    },
-    {
-      "title": "장송의 프리렌 6권",
-      "link": "https://ridibooks.com/books/1019063970?_rdt_sid=new-release&_rdt_idx=13",
-      "author": "아베 츠카사",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "최애의 아이 5권",
-      "link": "https://ridibooks.com/books/1019063922?_rdt_sid=new-release&_rdt_idx=14",
-      "author": "요코야리 멘고",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "우리들의 기적 15권",
-      "link": "https://ridibooks.com/books/4466000049?_rdt_sid=new-release&_rdt_idx=15",
-      "author": "쿠메타 나츠오",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "완전 귀여운 남자가 집에서 기다리고 있습니다 5권",
-      "link": "https://ridibooks.com/books/1019063911?_rdt_sid=new-release&_rdt_idx=16",
-      "author": "타카세 와카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "어제 뭐 먹었어? 19권",
-      "link": "https://ridibooks.com/books/2007003138?_rdt_sid=new-release&_rdt_idx=17",
-      "author": "요시나가 후미",
-      "genre": "드라마"
-    },
-    {
-      "title": "철야의 노래 8권",
-      "link": "https://ridibooks.com/books/1019063981?_rdt_sid=new-release&_rdt_idx=18",
-      "author": "코토야마",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "코미 양은 커뮤증입니다 21권",
-      "link": "https://ridibooks.com/books/1019063933?_rdt_sid=new-release&_rdt_idx=19",
-      "author": "오다 토모히토",
-      "genre": "코믹"
     }
   ]
 }
