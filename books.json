@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "열혈강호 85권",
-      "link": "https://ridibooks.com/books/297044246?_rdt_sid=new-release&_rdt_idx=0",
-      "author": "전극진",
-      "genre": "무협"
-    },
-    {
       "title": "그 비스크 돌은 사랑을 한다 8권 [리디북스 기간한정 특전판]",
-      "link": "https://ridibooks.com/books/2066003514?_rdt_sid=new-release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/2066003514?_rdt_sid=new-release&_rdt_idx=0",
       "author": "후쿠다 신이치",
       "genre": "학원"
+    },
+    {
+      "title": "열혈강호 85권",
+      "link": "https://ridibooks.com/books/297044246?_rdt_sid=new-release&_rdt_idx=1",
+      "author": "전극진",
+      "genre": "무협"
     },
     {
       "title": "엔드롤 백 1권",
