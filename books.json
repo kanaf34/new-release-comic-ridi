@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "유큐홀더!(UQ HOLDER!) 23권",
+      "link": "https://ridibooks.com/books/505056558?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "아카마츠 켄",
+      "genre": "액션"
+    },
+    {
+      "title": "메시누마 9권",
+      "link": "https://ridibooks.com/books/806008283?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "아미다무쿠",
+      "genre": "드라마"
+    },
+    {
+      "title": "또다시, 짝사랑 3권 (완결)",
+      "link": "https://ridibooks.com/books/2007003150?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "타치바나 로쿠",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "목소리를 못 내는 소녀는 그녀가 너무 착하다고 생각한다 1권",
+      "link": "https://ridibooks.com/books/297044818?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "이치 야무라",
+      "genre": "GL"
+    },
+    {
+      "title": "줄무늬 고양이 코우메 19권",
+      "link": "https://ridibooks.com/books/297044820?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "호시노 나츠미",
+      "genre": "드라마"
+    },
+    {
+      "title": "여고생 괴식가 키리타니 11권",
+      "link": "https://ridibooks.com/books/806008285?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "폰토고탄다",
+      "genre": "코믹"
+    },
+    {
+      "title": "이웃집 요괴씨 3권",
+      "link": "https://ridibooks.com/books/297044821?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "노호",
+      "genre": "드라마"
+    },
+    {
+      "title": "라멘 너무 좋아 코이즈미 씨 9권",
+      "link": "https://ridibooks.com/books/806008284?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "나루미 나루",
+      "genre": "드라마"
+    },
+    {
+      "title": "신 에키벤 ~철도 도시락 출사 여행~ 3권",
+      "link": "https://ridibooks.com/books/806008286?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "하야세 준",
+      "genre": "드라마"
+    },
+    {
+      "title": "루리코의 애정만점 레시피 4권",
+      "link": "https://ridibooks.com/books/806008304?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "사카키 신",
+      "genre": "드라마"
+    },
+    {
       "title": "메이데어 전생 이야기 4권",
-      "link": "https://ridibooks.com/books/3010009423?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/3010009423?_rdt_sid=new_release&_rdt_idx=10",
       "author": "나츠니시 나나",
       "genre": "판타지/SF"
     },
     {
       "title": "왼손을 위한 이중주 4권",
-      "link": "https://ridibooks.com/books/3010009406?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/3010009406?_rdt_sid=new_release&_rdt_idx=11",
       "author": "마츠오카 켄타",
       "genre": "드라마"
     },
     {
       "title": "호리미야 16권 (한정판) (완결)",
-      "link": "https://ridibooks.com/books/505056524?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505056524?_rdt_sid=new_release&_rdt_idx=12",
       "author": "하기와라 다이스케",
       "genre": "학원"
     },
     {
       "title": "[코믹] 터무니없는 스킬로 이세계 방랑 밥 5권",
-      "link": "https://ridibooks.com/books/2066003535?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/2066003535?_rdt_sid=new_release&_rdt_idx=13",
       "author": "아카기시K",
       "genre": "판타지/SF"
     },
     {
       "title": "아저씨와 고양이 6권",
-      "link": "https://ridibooks.com/books/777100233?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/777100233?_rdt_sid=new_release&_rdt_idx=14",
       "author": "사쿠라이 우미",
       "genre": "드라마"
     },
     {
       "title": "파티피플 공명 5권",
-      "link": "https://ridibooks.com/books/297044403?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/297044403?_rdt_sid=new_release&_rdt_idx=15",
       "author": "오가와 료",
       "genre": "코믹"
     },
     {
       "title": "도원암귀 3권",
-      "link": "https://ridibooks.com/books/2066003534?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/2066003534?_rdt_sid=new_release&_rdt_idx=16",
       "author": "우루시바라 유라",
       "genre": "판타지/SF"
     },
     {
       "title": "캐릭캐릭 체인지! 신장판 6권 (완결)",
-      "link": "https://ridibooks.com/books/845029585?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/845029585?_rdt_sid=new_release&_rdt_idx=17",
       "author": "PEACH-PIT",
       "genre": "해외 순정"
     },
     {
       "title": "이세계 약국 6권",
-      "link": "https://ridibooks.com/books/297044404?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/297044404?_rdt_sid=new_release&_rdt_idx=18",
       "author": "타카노 세이",
       "genre": "판타지/SF"
     },
     {
       "title": "코믹진 점프 176권",
-      "link": "https://ridibooks.com/books/845029962?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/845029962?_rdt_sid=new_release&_rdt_idx=19",
       "author": "점프 편집부",
       "genre": "만화잡지"
-    },
-    {
-      "title": "챔프D 207호(2022.05.01)",
-      "link": "https://ridibooks.com/books/847004335?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
-    },
-    {
-      "title": "살인자 1부 8권",
-      "link": "https://ridibooks.com/books/1603055582?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "박인권",
-      "genre": "액션"
-    },
-    {
-      "title": "우리동네 악질 5권",
-      "link": "https://ridibooks.com/books/1603055587?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "고행석",
-      "genre": "액션"
-    },
-    {
-      "title": "눈물비와 세레나데 8권",
-      "link": "https://ridibooks.com/books/2007003148?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "카와치 하루카",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "이노센트 데빌 4권 (완결)",
-      "link": "https://ridibooks.com/books/297044367?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "소이치로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "악역영애의 나태한 한숨 3권",
-      "link": "https://ridibooks.com/books/3010009415?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "호시노 소우메이",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 마왕님의 마을 만들기 5권",
-      "link": "https://ridibooks.com/books/3010009450?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "요시카와 히데아키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "원피스 101권",
-      "link": "https://ridibooks.com/books/1019064801?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "오다 에이치로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "고깔모자의 아틀리에 9권",
-      "link": "https://ridibooks.com/books/505056516?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "시라하마 카모메",
-      "genre": "드라마"
-    },
-    {
-      "title": "전당포 시노부의 보석상자 15권",
-      "link": "https://ridibooks.com/books/297044324?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "니노미야 토모코",
-      "genre": "해외 순정"
     }
   ]
 }
