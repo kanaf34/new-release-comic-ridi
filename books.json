@@ -1,88 +1,88 @@
 {
   "books": [
     {
-      "title": "생과 사 15권 (완결)",
-      "link": "https://ridibooks.com/books/1603055609?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
       "title": "유큐홀더!(UQ HOLDER!) 23권",
-      "link": "https://ridibooks.com/books/505056558?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505056558?_rdt_sid=new_release&_rdt_idx=0",
       "author": "아카마츠 켄",
       "genre": "액션"
     },
     {
       "title": "메시누마 9권",
-      "link": "https://ridibooks.com/books/806008283?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/806008283?_rdt_sid=new_release&_rdt_idx=1",
       "author": "아미다무쿠",
       "genre": "드라마"
     },
     {
       "title": "또다시, 짝사랑 3권 (완결)",
-      "link": "https://ridibooks.com/books/2007003150?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/2007003150?_rdt_sid=new_release&_rdt_idx=2",
       "author": "타치바나 로쿠",
       "genre": "해외 순정"
     },
     {
       "title": "목소리를 못 내는 소녀는 그녀가 너무 착하다고 생각한다 1권",
-      "link": "https://ridibooks.com/books/297044818?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297044818?_rdt_sid=new_release&_rdt_idx=3",
       "author": "이치 야무라",
       "genre": "GL"
     },
     {
       "title": "줄무늬 고양이 코우메 19권",
-      "link": "https://ridibooks.com/books/297044820?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/297044820?_rdt_sid=new_release&_rdt_idx=4",
       "author": "호시노 나츠미",
       "genre": "드라마"
     },
     {
       "title": "여고생 괴식가 키리타니 11권",
-      "link": "https://ridibooks.com/books/806008285?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/806008285?_rdt_sid=new_release&_rdt_idx=5",
       "author": "폰토고탄다",
       "genre": "코믹"
     },
     {
       "title": "이웃집 요괴씨 3권",
-      "link": "https://ridibooks.com/books/297044821?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/297044821?_rdt_sid=new_release&_rdt_idx=6",
       "author": "노호",
       "genre": "드라마"
     },
     {
       "title": "라멘 너무 좋아 코이즈미 씨 9권",
-      "link": "https://ridibooks.com/books/806008284?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/806008284?_rdt_sid=new_release&_rdt_idx=7",
       "author": "나루미 나루",
       "genre": "드라마"
     },
     {
       "title": "신 에키벤 ~철도 도시락 출사 여행~ 3권",
-      "link": "https://ridibooks.com/books/806008286?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/806008286?_rdt_sid=new_release&_rdt_idx=8",
       "author": "하야세 준",
       "genre": "드라마"
     },
     {
       "title": "루리코의 애정만점 레시피 4권",
-      "link": "https://ridibooks.com/books/806008304?_rdt_sid=new_release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/806008304?_rdt_sid=new_release&_rdt_idx=9",
       "author": "사카키 신",
       "genre": "드라마"
     },
     {
       "title": "다이아몬드 에이스 actⅡ 28권",
-      "link": "https://ridibooks.com/books/505056561?_rdt_sid=new_release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/505056561?_rdt_sid=new_release&_rdt_idx=10",
       "author": "테라지마 유지",
       "genre": "스포츠"
     },
     {
       "title": "명물 골잡이 10권 (완결)",
-      "link": "https://ridibooks.com/books/1603055602?_rdt_sid=new_release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/1603055602?_rdt_sid=new_release&_rdt_idx=11",
       "author": "오일룡",
       "genre": "스포츠"
     },
     {
       "title": "[할리퀸] 알레지오 공국의 신부",
-      "link": "https://ridibooks.com/books/1458005999?_rdt_sid=new_release&_rdt_idx=13",
+      "link": "https://ridibooks.com/books/1458005999?_rdt_sid=new_release&_rdt_idx=12",
       "author": "호시아이 미사오",
       "genre": "해외 순정"
+    },
+    {
+      "title": "생과 사 15권 (완결)",
+      "link": "https://ridibooks.com/books/1603055609?_rdt_sid=new_release&_rdt_idx=13",
+      "author": "조명운",
+      "genre": "액션"
     },
     {
       "title": "메이데어 전생 이야기 4권",
