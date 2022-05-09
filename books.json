@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "최약 테이머는 폐지 줍는 여행을 시작했습니다 2권",
+      "link": "https://ridibooks.com/books/806008461?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "후키노 토우",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "히로인? 성녀? 아니요, 올 워크스 메이드 입니다! (자랑) 1권",
+      "link": "https://ridibooks.com/books/806008495?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "케이코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "서뱀프 16권",
+      "link": "https://ridibooks.com/books/2498008873?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "타나카 스트라이크",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "MF 고스트 7권",
+      "link": "https://ridibooks.com/books/505057267?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "시게노 슈이치",
+      "genre": "스포츠"
+    },
+    {
+      "title": "더 화이팅 신장재편판 22권",
+      "link": "https://ridibooks.com/books/505057256?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "모리카와 죠지",
+      "genre": "스포츠"
+    },
+    {
+      "title": "어서 와! 오컬트 연구부 9권",
+      "link": "https://ridibooks.com/books/806008498?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "안베 마사히로",
+      "genre": "학원"
+    },
+    {
+      "title": "내 런치를 방해하지마! 3권 (완결)",
+      "link": "https://ridibooks.com/books/297045256?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "카호",
+      "genre": "코믹"
+    },
+    {
+      "title": "아저씨는 귀여운 것을 좋아해 4권",
+      "link": "https://ridibooks.com/books/297045292?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "츠토무",
+      "genre": "드라마"
+    },
+    {
+      "title": "사건이랑께! 7권 (완결)",
+      "link": "https://ridibooks.com/books/806008497?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "야스다 코스케",
+      "genre": "학원"
+    },
+    {
+      "title": "101번째의 트라바유 2권 (완결)",
+      "link": "https://ridibooks.com/books/908003679?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "사카이 미와",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[바닐라] 지금, 너를 구해줄게 5권",
+      "link": "https://ridibooks.com/books/806008487?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "혼다 케이코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "보상밥 7권",
-      "link": "https://ridibooks.com/books/908003676?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/908003676?_rdt_sid=new_release&_rdt_idx=11",
       "author": "코모 토모코",
       "genre": "드라마"
     },
     {
       "title": "1학년 A반의 몬스터 5권",
-      "link": "https://ridibooks.com/books/505057245?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505057245?_rdt_sid=new_release&_rdt_idx=12",
       "author": "히데키",
       "genre": "학원"
     },
     {
       "title": "[코믹] 실격문장의 최강 현자 11권",
-      "link": "https://ridibooks.com/books/1690001104?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/1690001104?_rdt_sid=new_release&_rdt_idx=13",
       "author": "칸쇼&효코 (Friendly Land)",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 섬멸마도의 최강 현자 2권",
-      "link": "https://ridibooks.com/books/1690001107?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/1690001107?_rdt_sid=new_release&_rdt_idx=14",
       "author": "루나미&펑제 (Friendly Land)",
       "genre": "판타지/SF"
     },
     {
       "title": "에덴즈 제로(EDENS ZERO) 16권",
-      "link": "https://ridibooks.com/books/505057205?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/505057205?_rdt_sid=new_release&_rdt_idx=15",
       "author": "마시마 히로",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 내 용맹에 떨어라 천지여 6권",
-      "link": "https://ridibooks.com/books/3010009900?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/3010009900?_rdt_sid=new_release&_rdt_idx=16",
       "author": "사토 유",
       "genre": "판타지/SF"
     },
     {
       "title": "드랍 11권",
-      "link": "https://ridibooks.com/books/806008492?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/806008492?_rdt_sid=new_release&_rdt_idx=17",
       "author": "스즈키 다이",
       "genre": "액션"
     },
     {
       "title": "진격의 에로코 씨 3권",
-      "link": "https://ridibooks.com/books/297045297?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/297045297?_rdt_sid=new_release&_rdt_idx=18",
       "author": "코노기 요시루",
       "genre": "해외 순정"
     },
     {
       "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 19권",
-      "link": "https://ridibooks.com/books/2066003640?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/2066003640?_rdt_sid=new_release&_rdt_idx=19",
       "author": "카와카미 타이키",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "네가 죽을 때까지 사랑하고 싶어 4권",
-      "link": "https://ridibooks.com/books/505057104?_rdt_sid=new_release&_rdt_idx=9",
-      "author": "아오노 나치",
-      "genre": "GL"
-    },
-    {
-      "title": "[코믹] 내 최애는 악역 영애 3권",
-      "link": "https://ridibooks.com/books/2066003641?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "아오노시모",
-      "genre": "GL"
-    },
-    {
-      "title": "도원암귀 4권",
-      "link": "https://ridibooks.com/books/2066003642?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "우루시바라 유라",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "요괴 아파트의 우아한 일상 24권",
-      "link": "https://ridibooks.com/books/297045273?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "미야마 와카",
-      "genre": "드라마"
-    },
-    {
-      "title": "악역 영애, 세실리아 실비는 죽기 싫으므로 남장하기로 했습니다 2권",
-      "link": "https://ridibooks.com/books/3010009929?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "아키야마 시노",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "치히로는 나 중독. 2권",
-      "link": "https://ridibooks.com/books/297045235?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "이토 사토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "절대 두근거려서는 안 돼! 8권",
-      "link": "https://ridibooks.com/books/297045236?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "츠키시마 하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "천호와 봉인시 2권",
-      "link": "https://ridibooks.com/books/297045274?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "네코 히마코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "퍼펙트 서비스 ACE 10권",
-      "link": "https://ridibooks.com/books/505057122?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "아라 타츠야",
-      "genre": "스포츠"
-    },
-    {
-      "title": "살인자 2부 4권",
-      "link": "https://ridibooks.com/books/1603055708?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "박인권",
-      "genre": "액션"
-    },
-    {
-      "title": "지빠귀 3권",
-      "link": "https://ridibooks.com/books/1603055711?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "고행석",
-      "genre": "액션"
     }
   ]
 }
