@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "실례하겠습니다, 신사님! ~100명의 미남과의 플래그는 모두 꺾어버리겠습니다~ 1권",
-      "link": "https://ridibooks.com/books/3010010342?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "세로타",
-      "genre": "해외 순정"
-    },
-    {
       "title": "중화일미 극 7권",
-      "link": "https://ridibooks.com/books/505060340?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505060340?_rdt_sid=new_release&_rdt_idx=0",
       "author": "오가와 에츠시",
       "genre": "드라마"
+    },
+    {
+      "title": "실례하겠습니다, 신사님! ~100명의 미남과의 플래그는 모두 꺾어버리겠습니다~ 1권",
+      "link": "https://ridibooks.com/books/3010010342?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "세로타",
+      "genre": "해외 순정"
     },
     {
       "title": "여친, 빌리겠습니다 20권",
