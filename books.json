@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "사치코, 살아있습니다 3권",
+      "link": "https://ridibooks.com/books/297046812?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "츠게 아야",
+      "genre": "드라마"
+    },
+    {
+      "title": "노부나가의 셰프 31권",
+      "link": "https://ridibooks.com/books/297046816?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "카지카와 타쿠로",
+      "genre": "드라마"
+    },
+    {
+      "title": "펠루아 이야기 16권",
+      "link": "https://ridibooks.com/books/505060547?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "김연주",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "남자친구는 오렌지색 11권",
+      "link": "https://ridibooks.com/books/505060605?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "타마시마 논",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "계×약 -위험한 파트너- 4권",
+      "link": "https://ridibooks.com/books/505060618?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "카오루하라 요시에",
+      "genre": "드라마"
+    },
+    {
+      "title": "누더기 영애는 언니의 전 약혼자에게 익애받는다 1권",
+      "link": "https://ridibooks.com/books/806009098?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "나카쿠라 치카게",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "여성향 게임의 히로인으로 최강 서바이벌 1권",
+      "link": "https://ridibooks.com/books/806009105?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "와카사 코바토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "티아라 30권",
+      "link": "https://ridibooks.com/books/845031419?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "이윤희",
+      "genre": "국내 순정"
+    },
+    {
       "title": "둘이서 솔로 캠프 2권",
-      "link": "https://ridibooks.com/books/3010010381?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/3010010381?_rdt_sid=new_release&_rdt_idx=8",
       "author": "데바타 유다이",
       "genre": "드라마"
     },
     {
       "title": "바깥 나라의 소녀 9권",
-      "link": "https://ridibooks.com/books/505060596?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505060596?_rdt_sid=new_release&_rdt_idx=9",
       "author": "나가베",
       "genre": "드라마"
     },
     {
       "title": "용랑전 왕패입국편 7권",
-      "link": "https://ridibooks.com/books/505060708?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505060708?_rdt_sid=new_release&_rdt_idx=10",
       "author": "야마하라 요시토",
       "genre": "판타지/SF"
     },
     {
       "title": "도쿄 리벤저스 25권",
-      "link": "https://ridibooks.com/books/505060570?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/505060570?_rdt_sid=new_release&_rdt_idx=11",
       "author": "와쿠이 켄",
       "genre": "학원"
     },
     {
       "title": "금색의 갓슈!! 완전판 13권",
-      "link": "https://ridibooks.com/books/297046607?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297046607?_rdt_sid=new_release&_rdt_idx=12",
       "author": "라이쿠 마코토",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 20권",
-      "link": "https://ridibooks.com/books/2066004043?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/2066004043?_rdt_sid=new_release&_rdt_idx=13",
       "author": "카와카미 타이키",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 북구 귀족과 군인 아내의 눈나라 수렵생활 6권",
-      "link": "https://ridibooks.com/books/4715000006?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/4715000006?_rdt_sid=new_release&_rdt_idx=14",
       "author": "시라카바 시카요",
       "genre": "해외 순정"
     },
     {
       "title": "내 옆에 은하 1권",
-      "link": "https://ridibooks.com/books/2066004044?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/2066004044?_rdt_sid=new_release&_rdt_idx=15",
       "author": "아마가쿠레 기도",
       "genre": "해외 순정"
     },
     {
       "title": "분위기를 「읽을 수 있는」신입사원과 무표정한 선배 1권",
-      "link": "https://ridibooks.com/books/845031411?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/845031411?_rdt_sid=new_release&_rdt_idx=16",
       "author": "토리하라 슈",
       "genre": "해외 순정"
     },
     {
       "title": "전 남친이 부남자가 되었습니다. 4권",
-      "link": "https://ridibooks.com/books/297046786?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/297046786?_rdt_sid=new_release&_rdt_idx=17",
       "author": "무기이모",
       "genre": "해외 순정"
     },
     {
       "title": "도원암귀 6권",
-      "link": "https://ridibooks.com/books/2066004045?_rdt_sid=new_release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/2066004045?_rdt_sid=new_release&_rdt_idx=18",
       "author": "우루시바라 유라",
       "genre": "판타지/SF"
     },
     {
       "title": "이세계 약국 7권",
-      "link": "https://ridibooks.com/books/297046770?_rdt_sid=new_release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/297046770?_rdt_sid=new_release&_rdt_idx=19",
       "author": "타카노 세이",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 나의 행복한 결혼 3권",
-      "link": "https://ridibooks.com/books/845031380?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "코우사카 리토",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "나는 지구와 노래한다 -나의 지구 차세대편 Ⅱ- 4권",
-      "link": "https://ridibooks.com/books/297046631?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "히와타리 사키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "뻐꾸기 커플 5권",
-      "link": "https://ridibooks.com/books/505060568?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "요시카와 미키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "생존게임 3권",
-      "link": "https://ridibooks.com/books/297046591?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "사이토 타카오",
-      "genre": "액션"
-    },
-    {
-      "title": "마녀의 세계에서 최강인 것은 물리입니다만, 문제라도? 3권",
-      "link": "https://ridibooks.com/books/3010010370?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "이치",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[마블] 토르 & 로키: 모든 것이 불탄다",
-      "link": "https://ridibooks.com/books/862001671?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "키에론 길렌",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "생사마도 [개정판] 1부 34권 (1부 완결)",
-      "link": "https://ridibooks.com/books/1603056105?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "묵검향",
-      "genre": "무협"
-    },
-    {
-      "title": "챔프D 212호(2022.07.15)",
-      "link": "https://ridibooks.com/books/847004382?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "챔프D 편집부",
-      "genre": "만화잡지"
     }
   ]
 }
