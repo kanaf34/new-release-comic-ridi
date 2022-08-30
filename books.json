@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "[코믹] 용기사의 최애 그녀 5권",
-      "link": "https://ridibooks.com/books/806009741?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "아오자키 리츠",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "메달리스트 2권",
-      "link": "https://ridibooks.com/books/505062820?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505062820?_rdt_sid=new_release&_rdt_idx=0",
       "author": "츠루마 이카다",
       "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 용기사의 최애 그녀 5권",
+      "link": "https://ridibooks.com/books/806009741?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "아오자키 리츠",
+      "genre": "판타지/SF"
     },
     {
       "title": "매리지 퍼플 6권 (완결)",
