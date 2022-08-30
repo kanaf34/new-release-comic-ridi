@@ -1,3 +1,124 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "메달리스트 2권",
+      "link": "https://ridibooks.com/books/505062820?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "츠루마 이카다",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 용기사의 최애 그녀 5권",
+      "link": "https://ridibooks.com/books/806009741?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "아오자키 리츠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "매리지 퍼플 6권 (완결)",
+      "link": "https://ridibooks.com/books/505062844?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "하야시 미카세",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "몰락 영애의 이국 결혼록 2권",
+      "link": "https://ridibooks.com/books/806009852?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "히노 안쥬",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "필드의 행운아 16권 (완결)",
+      "link": "https://ridibooks.com/books/1603056403?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "오일룡",
+      "genre": "스포츠"
+    },
+    {
+      "title": "월화국 기의전 3권",
+      "link": "https://ridibooks.com/books/505062871?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "히무카 토오루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "마녀의 하인과 마왕의 뿔 15권",
+      "link": "https://ridibooks.com/books/3010010869?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "모치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "성녀였는데 어째선지 아니게 되었습니다 2권",
+      "link": "https://ridibooks.com/books/505062824?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "지사마",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "옆집 그 오빠 2권",
+      "link": "https://ridibooks.com/books/505062859?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "루카나",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "디저트는 잠시 미뤄두고 2권",
+      "link": "https://ridibooks.com/books/845032687?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "카나에 사토",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "목소리를 못 내는 소녀는 그녀가 너무 착하다고 생각한다 5권",
+      "link": "https://ridibooks.com/books/297049230?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "이치 야무라",
+      "genre": "GL"
+    },
+    {
+      "title": "귀엽기만 한 게 아닌 시키모리 양 12권",
+      "link": "https://ridibooks.com/books/845032663?_rdt_sid=new_release&_rdt_idx=11",
+      "author": "마키 케이고",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 슈퍼 커브 2권",
+      "link": "https://ridibooks.com/books/845032650?_rdt_sid=new_release&_rdt_idx=12",
+      "author": "카니탄",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 너와 나의 최후의 전장, 혹은 세계가 시작되는 성전 2권",
+      "link": "https://ridibooks.com/books/2066004331?_rdt_sid=new_release&_rdt_idx=13",
+      "author": "okama",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "코하루 노트 4권",
+      "link": "https://ridibooks.com/books/2066004337?_rdt_sid=new_release&_rdt_idx=14",
+      "author": "후지타 마키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "정말 있었다! 영매 선생 20권 (완결)",
+      "link": "https://ridibooks.com/books/297049226?_rdt_sid=new_release&_rdt_idx=15",
+      "author": "마츠모토 히데키치",
+      "genre": "코믹"
+    },
+    {
+      "title": "월야오초지 6권 (완결)",
+      "link": "https://ridibooks.com/books/505062691?_rdt_sid=new_release&_rdt_idx=16",
+      "author": "오요카와 나오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "우리 메이드가 너무 짜증 나! 6권",
+      "link": "https://ridibooks.com/books/2066004338?_rdt_sid=new_release&_rdt_idx=17",
+      "author": "나카무라 칸코",
+      "genre": "코믹"
+    },
+    {
+      "title": "토모에 마미의 평범한 일상 9권",
+      "link": "https://ridibooks.com/books/297049204?_rdt_sid=new_release&_rdt_idx=18",
+      "author": "아라타 마이",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 바티칸 기적 조사관 4권",
+      "link": "https://ridibooks.com/books/297048830?_rdt_sid=new_release&_rdt_idx=19",
+      "author": "히노 안쥬",
+      "genre": "판타지/SF"
+    }
+  ]
 }
