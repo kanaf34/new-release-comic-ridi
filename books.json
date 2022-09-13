@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "마지막으로 하나만 부탁드려도 될까요 3권",
+      "link": "https://ridibooks.com/books/4414000026?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "호오노키 소라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "먼작귀(먼가 작고 귀여운 녀석) 2권",
+      "link": "https://ridibooks.com/books/297049640?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "나가노",
+      "genre": "코믹"
+    },
+    {
+      "title": "죽음도 또한 죽는 것이니 4권 (완결)",
+      "link": "https://ridibooks.com/books/3802000124?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "코마쿠",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "일하지 않는 두 사람 15권",
+      "link": "https://ridibooks.com/books/297049639?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "요시다 사토루",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 무직전생 ~이세계에 갔으면 최선을 다한다~ 8권",
+      "link": "https://ridibooks.com/books/505063142?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "후지카와 유카",
+      "genre": "드라마"
+    },
+    {
+      "title": "후궁에 별이 깃든다 3권 (완결)",
+      "link": "https://ridibooks.com/books/3010010904?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "hagi",
+      "genre": "드라마"
+    },
+    {
       "title": "카케구루이 15권",
-      "link": "https://ridibooks.com/books/505063125?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505063125?_rdt_sid=new_release&_rdt_idx=6",
       "author": "나오무라 토오루",
       "genre": "학원"
     },
     {
       "title": "술과 사랑은 취해야 제맛 4권",
-      "link": "https://ridibooks.com/books/806009975?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/806009975?_rdt_sid=new_release&_rdt_idx=7",
       "author": "미나미 하루코",
       "genre": "해외 순정"
     },
     {
       "title": "야구장에서 잘 먹겠습니다 2권",
-      "link": "https://ridibooks.com/books/3010010878?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/3010010878?_rdt_sid=new_release&_rdt_idx=8",
       "author": "이데우치 테츠오",
       "genre": "드라마"
     },
     {
       "title": "W 줄리엣Ⅱ 12권",
-      "link": "https://ridibooks.com/books/297049523?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/297049523?_rdt_sid=new_release&_rdt_idx=9",
       "author": "에무라",
       "genre": "해외 순정"
     },
     {
       "title": "사랑하는(여자아이)를 만드는 법 2권",
-      "link": "https://ridibooks.com/books/806009977?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/806009977?_rdt_sid=new_release&_rdt_idx=10",
       "author": "반죠 아즈사",
       "genre": "해외 순정"
     },
     {
       "title": "배신자 10권",
-      "link": "https://ridibooks.com/books/1603056516?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/1603056516?_rdt_sid=new_release&_rdt_idx=11",
       "author": "박원빈",
       "genre": "액션"
     },
     {
       "title": "아메리카 불청객 20권",
-      "link": "https://ridibooks.com/books/1603056507?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/1603056507?_rdt_sid=new_release&_rdt_idx=12",
       "author": "고행석",
       "genre": "스포츠"
     },
     {
       "title": "여친, 빌리겠습니다 22권",
-      "link": "https://ridibooks.com/books/505063132?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/505063132?_rdt_sid=new_release&_rdt_idx=13",
       "author": "미야지마 레이지",
       "genre": "해외 순정"
     },
     {
       "title": "연애전사 슈라반 2권",
-      "link": "https://ridibooks.com/books/806010023?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/806010023?_rdt_sid=new_release&_rdt_idx=14",
       "author": "아오키 하야토",
       "genre": "코믹"
     },
     {
       "title": "야쿠자의 덕질 1권",
-      "link": "https://ridibooks.com/books/2066004371?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/2066004371?_rdt_sid=new_release&_rdt_idx=15",
       "author": "야츠다 테키",
       "genre": "코믹"
     },
     {
       "title": "열혈강호 86권",
-      "link": "https://ridibooks.com/books/297049592?_rdt_sid=new_release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/297049592?_rdt_sid=new_release&_rdt_idx=16",
       "author": "전극진",
       "genre": "무협"
     },
     {
       "title": "블루 피리어드 12권",
-      "link": "https://ridibooks.com/books/3010010934?_rdt_sid=new_release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/3010010934?_rdt_sid=new_release&_rdt_idx=17",
       "author": "야마구치 츠바사",
       "genre": "드라마"
     },
     {
       "title": "러브 미 퐁포코! 4권",
-      "link": "https://ridibooks.com/books/505063070?_rdt_sid=new_release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/505063070?_rdt_sid=new_release&_rdt_idx=18",
       "author": "아카가와라 모도무",
       "genre": "해외 순정"
     },
     {
       "title": "괴롭히지 말아요, 나가토로 양 13권",
-      "link": "https://ridibooks.com/books/2066004382?_rdt_sid=new_release&_rdt_idx=13",
+      "link": "https://ridibooks.com/books/2066004382?_rdt_sid=new_release&_rdt_idx=19",
       "author": "나나시",
       "genre": "학원"
-    },
-    {
-      "title": "우리들의 기적 21권",
-      "link": "https://ridibooks.com/books/4466000127?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "쿠메타 나츠오",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "이세계 미소녀가 되어 버린 아저씨와 3권",
-      "link": "https://ridibooks.com/books/1019071346?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "이케자와 신",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "타다노 공고의 일상 4권",
-      "link": "https://ridibooks.com/books/1019071345?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "오가 치사토",
-      "genre": "코믹"
-    },
-    {
-      "title": "묵시록의 4기사 1권",
-      "link": "https://ridibooks.com/books/505063052?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "스즈키 나카바",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "고양이와 키스 3권",
-      "link": "https://ridibooks.com/books/297049488?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "센리 미코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "댄스댄스 당쇠르 10권",
-      "link": "https://ridibooks.com/books/1019071352?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "조지 아사쿠라",
-      "genre": "스포츠"
     }
   ]
 }
