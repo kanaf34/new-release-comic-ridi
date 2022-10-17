@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "한때는 신이었던 짐승들에게 13권",
+      "link": "https://ridibooks.com/books/505064543?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "메이비",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "나에게 천사가 내려왔다! 11권",
+      "link": "https://ridibooks.com/books/806010284?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "무쿠노키 나나츠",
+      "genre": "학원"
+    },
+    {
+      "title": "히메노는 공주가 되고 싶지 않아 2권 (완결)",
+      "link": "https://ridibooks.com/books/505064551?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "미카즈키 램프",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "만능 「마을 만들기」 치트로 간편 슬로 라이프 ~마을입니다만 문제라도?~ 1권",
+      "link": "https://ridibooks.com/books/3010011182?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "쿠즈 시치오",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "세계 최속의 레벨업 1권",
+      "link": "https://ridibooks.com/books/3010011178?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "스즈미 아츠시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "라이드 온 킹 8권",
+      "link": "https://ridibooks.com/books/297050761?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "바바 야스시",
+      "genre": "액션"
+    },
+    {
+      "title": "서른 즈음이지만 첫사랑입니다 5권",
+      "link": "https://ridibooks.com/books/297050353?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "사토",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사랑…할듯 말듯 6권",
+      "link": "https://ridibooks.com/books/806010301?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "미나세 마유",
+      "genre": "드라마"
+    },
+    {
+      "title": "사랑하는(여자아이)를 만드는 법 3권",
+      "link": "https://ridibooks.com/books/806010300?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "반죠 아즈사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "생명의 그릇 65권",
+      "link": "https://ridibooks.com/books/845034175?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "우에하라 키미코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "밤은 고양이와 함께 2권",
-      "link": "https://ridibooks.com/books/3802000156?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/3802000156?_rdt_sid=new_release&_rdt_idx=10",
       "author": "큐르Z",
       "genre": "드라마"
     },
     {
       "title": "짓궂은 안죠 양 9권",
-      "link": "https://ridibooks.com/books/806010285?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/806010285?_rdt_sid=new_release&_rdt_idx=11",
       "author": "카토 유이치",
       "genre": "학원"
     },
     {
       "title": "사랑은 세계정복 후에 4권",
-      "link": "https://ridibooks.com/books/505064516?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505064516?_rdt_sid=new_release&_rdt_idx=12",
       "author": "와카마츠 타카히로",
       "genre": "해외 순정"
     },
     {
       "title": "어서 와! 오컬트 연구부 10권",
-      "link": "https://ridibooks.com/books/806010296?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/806010296?_rdt_sid=new_release&_rdt_idx=13",
       "author": "안베 마사히로",
       "genre": "학원"
     },
     {
       "title": "유큐홀더!(UQ HOLDER!) 25권",
-      "link": "https://ridibooks.com/books/505064515?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/505064515?_rdt_sid=new_release&_rdt_idx=14",
       "author": "아카마츠 켄",
       "genre": "액션"
     },
     {
       "title": "츠치다와 하나오카 1권",
-      "link": "https://ridibooks.com/books/3010011127?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/3010011127?_rdt_sid=new_release&_rdt_idx=15",
       "author": "미즈히라",
       "genre": "학원"
     },
     {
       "title": "1학년 A반의 몬스터 6권",
-      "link": "https://ridibooks.com/books/505064525?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/505064525?_rdt_sid=new_release&_rdt_idx=16",
       "author": "히데키",
       "genre": "학원"
     },
     {
       "title": "소녀의 장난감 2권",
-      "link": "https://ridibooks.com/books/297050467?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/297050467?_rdt_sid=new_release&_rdt_idx=17",
       "author": "쇼우토 아야",
       "genre": "해외 순정"
     },
     {
       "title": "계×약 -위험한 파트너- 5권",
-      "link": "https://ridibooks.com/books/505064534?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/505064534?_rdt_sid=new_release&_rdt_idx=18",
       "author": "카오루하라 요시에",
       "genre": "드라마"
     },
     {
       "title": "내세에는 남남이 좋겠어 6권 [기간 한정 특전]",
-      "link": "https://ridibooks.com/books/2066004486?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/2066004486?_rdt_sid=new_release&_rdt_idx=19",
       "author": "코니시 아스카",
       "genre": "해외 순정"
-    },
-    {
-      "title": "아오노 군에게 닿고 싶으니까 죽고 싶어 3권",
-      "link": "https://ridibooks.com/books/297050630?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "시이나 우미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "비스타즈 (BEASTARS) 19권",
-      "link": "https://ridibooks.com/books/1690001315?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "이타가키 파루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "새벽의 연화 37권",
-      "link": "https://ridibooks.com/books/505064413?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "쿠사나기 미즈호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "보스 따님과 돌보미 7권",
-      "link": "https://ridibooks.com/books/2066004498?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "츠키야",
-      "genre": "코믹"
-    },
-    {
-      "title": "이세계 주점 노부 13권",
-      "link": "https://ridibooks.com/books/297050628?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "버지니아 이등병",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아라시 군의 안는 베개 2권",
-      "link": "https://ridibooks.com/books/297050310?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "와타나베 아유",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "쓸모없다는 말을 들었기 때문에, 저희 집은 독립합니다! 1권",
-      "link": "https://ridibooks.com/books/3010011169?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "쿠로노 유우",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[코믹] 슬라임을 잡으면서 300년, 모르는 사이에 레벨MAX가 되었습니다 8권",
-      "link": "https://ridibooks.com/books/1690001316?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "시바 유스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사랑하는 과자와 에트랑제 1권",
-      "link": "https://ridibooks.com/books/3010011160?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "사노 마리나",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "빙과 14권",
-      "link": "https://ridibooks.com/books/297050629?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "타스쿠오나",
-      "genre": "공포/추리"
     }
   ]
 }
