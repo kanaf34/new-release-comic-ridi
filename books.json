@@ -1,57 +1,57 @@
 {
   "books": [
     {
+      "title": "밤은 고양이와 함께 2권",
+      "link": "https://ridibooks.com/books/3802000156?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "큐르Z",
+      "genre": "드라마"
+    },
+    {
       "title": "짓궂은 안죠 양 9권",
-      "link": "https://ridibooks.com/books/806010285?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/806010285?_rdt_sid=new_release&_rdt_idx=1",
       "author": "카토 유이치",
       "genre": "학원"
     },
     {
       "title": "사랑은 세계정복 후에 4권",
-      "link": "https://ridibooks.com/books/505064516?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505064516?_rdt_sid=new_release&_rdt_idx=2",
       "author": "와카마츠 타카히로",
       "genre": "해외 순정"
     },
     {
       "title": "어서 와! 오컬트 연구부 10권",
-      "link": "https://ridibooks.com/books/806010296?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/806010296?_rdt_sid=new_release&_rdt_idx=3",
       "author": "안베 마사히로",
       "genre": "학원"
     },
     {
       "title": "츠치다와 하나오카 1권",
-      "link": "https://ridibooks.com/books/3010011127?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/3010011127?_rdt_sid=new_release&_rdt_idx=4",
       "author": "미즈히라",
       "genre": "학원"
     },
     {
       "title": "유큐홀더!(UQ HOLDER!) 25권",
-      "link": "https://ridibooks.com/books/505064515?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/505064515?_rdt_sid=new_release&_rdt_idx=5",
       "author": "아카마츠 켄",
       "genre": "액션"
     },
     {
       "title": "1학년 A반의 몬스터 6권",
-      "link": "https://ridibooks.com/books/505064525?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/505064525?_rdt_sid=new_release&_rdt_idx=6",
       "author": "히데키",
       "genre": "학원"
     },
     {
       "title": "소녀의 장난감 2권",
-      "link": "https://ridibooks.com/books/297050467?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/297050467?_rdt_sid=new_release&_rdt_idx=7",
       "author": "쇼우토 아야",
       "genre": "해외 순정"
     },
     {
       "title": "계×약 -위험한 파트너- 5권",
-      "link": "https://ridibooks.com/books/505064534?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/505064534?_rdt_sid=new_release&_rdt_idx=8",
       "author": "카오루하라 요시에",
-      "genre": "드라마"
-    },
-    {
-      "title": "밤은 고양이와 함께 2권",
-      "link": "https://ridibooks.com/books/3802000156?_rdt_sid=new_release&_rdt_idx=8",
-      "author": "큐르Z",
       "genre": "드라마"
     },
     {
