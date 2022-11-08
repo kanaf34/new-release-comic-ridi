@@ -1,57 +1,57 @@
 {
   "books": [
     {
-      "title": "치하야후루 45권",
-      "link": "https://ridibooks.com/books/505065215?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "스에츠구 유키",
-      "genre": "드라마"
-    },
-    {
-      "title": "뻐꾸기 커플 7권",
-      "link": "https://ridibooks.com/books/505065233?_rdt_sid=new_release&_rdt_idx=1",
-      "author": "요시카와 미키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "사랑하는(여자아이)를 만드는 법 4권",
-      "link": "https://ridibooks.com/books/806010510?_rdt_sid=new_release&_rdt_idx=2",
-      "author": "반죠 아즈사",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "꽃은 음옥에 떨어지지 않는가 -전생 조연의 분투- 1권",
-      "link": "https://ridibooks.com/books/806010480?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "사쿠라 마로",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "무사안일 영애의 맛있는 계약 사정 1권",
-      "link": "https://ridibooks.com/books/806010488?_rdt_sid=new_release&_rdt_idx=4",
-      "author": "아오노키",
-      "genre": "해외 순정"
-    },
-    {
       "title": "진실한 사랑을 찾았다는 이유로 혼약파기 당했으니, 이제 와 되돌리자고 해도 너무 늦었어요! 1권",
-      "link": "https://ridibooks.com/books/806010500?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/806010500?_rdt_sid=new_release&_rdt_idx=0",
       "author": "타치바나 카이무",
       "genre": "해외 순정"
     },
     {
       "title": "돌아온! 지켜줘! 롤리팝 6권 (완결)",
-      "link": "https://ridibooks.com/books/505064805?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/505064805?_rdt_sid=new_release&_rdt_idx=1",
       "author": "키쿠타 미치요",
       "genre": "해외 순정"
     },
     {
       "title": "옆집은 뭐 먹지? ~어른의 맛~ 7권",
-      "link": "https://ridibooks.com/books/505065224?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/505065224?_rdt_sid=new_release&_rdt_idx=2",
       "author": "후지츠카 유키",
       "genre": "해외 순정"
     },
     {
       "title": "실연 소녀 6권",
-      "link": "https://ridibooks.com/books/297051333?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/297051333?_rdt_sid=new_release&_rdt_idx=3",
       "author": "츠츠미 카케루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "치하야후루 45권",
+      "link": "https://ridibooks.com/books/505065215?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "스에츠구 유키",
+      "genre": "드라마"
+    },
+    {
+      "title": "뻐꾸기 커플 7권",
+      "link": "https://ridibooks.com/books/505065233?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "요시카와 미키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "꽃은 음옥에 떨어지지 않는가 -전생 조연의 분투- 1권",
+      "link": "https://ridibooks.com/books/806010480?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "사쿠라 마로",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "무사안일 영애의 맛있는 계약 사정 1권",
+      "link": "https://ridibooks.com/books/806010488?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "아오노키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사랑하는(여자아이)를 만드는 법 4권",
+      "link": "https://ridibooks.com/books/806010510?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "반죠 아즈사",
       "genre": "해외 순정"
     },
     {
