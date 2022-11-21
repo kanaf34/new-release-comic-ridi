@@ -1,3 +1,124 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "새엄마와 딸의 블루스 하 (완결)",
+      "link": "https://ridibooks.com/books/505066034?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "사쿠라자와 린",
+      "genre": "드라마"
+    },
+    {
+      "title": "몰락 영애의 이국 결혼록 3권",
+      "link": "https://ridibooks.com/books/806010656?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "히노 안쥬",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "반찬 가게 남자와 나 4권",
+      "link": "https://ridibooks.com/books/806010655?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "고헤이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "사랑과 심장 5권",
+      "link": "https://ridibooks.com/books/297051763?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "카이도 치토세",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "왕화국 후궁의 약사 1권",
+      "link": "https://ridibooks.com/books/806010664?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "하츠이 미와",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "엄마 라이프 2권",
+      "link": "https://ridibooks.com/books/297051888?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "타카기 나오코",
+      "genre": "드라마"
+    },
+    {
+      "title": "순백의 소리 25권",
+      "link": "https://ridibooks.com/books/505065527?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "라가와 마리모",
+      "genre": "드라마"
+    },
+    {
+      "title": "데아이몬-화과자 이야기- 11권",
+      "link": "https://ridibooks.com/books/2007003189?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "아사노 린",
+      "genre": "드라마"
+    },
+    {
+      "title": "아르테 16권",
+      "link": "https://ridibooks.com/books/297051835?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "오쿠보 케이",
+      "genre": "드라마"
+    },
+    {
+      "title": "더 화이팅 신장재편판 27권",
+      "link": "https://ridibooks.com/books/505065497?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "모리카와 죠지",
+      "genre": "스포츠"
+    },
+    {
+      "title": "진짜로 사귀기 15분 전 1권",
+      "link": "https://ridibooks.com/books/505065514?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "페리코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 이세계 피크닉 5권",
+      "link": "https://ridibooks.com/books/2066004611?_rdt_sid=new_release&_rdt_idx=11",
+      "author": "미즈노 에이타",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사신 짱 드롭킥 11권",
+      "link": "https://ridibooks.com/books/2066004620?_rdt_sid=new_release&_rdt_idx=12",
+      "author": "유키오",
+      "genre": "코믹"
+    },
+    {
+      "title": "[코믹] 전생 흡혈귀 씨는 낮잠을 자고 싶어 1권",
+      "link": "https://ridibooks.com/books/2066004610?_rdt_sid=new_release&_rdt_idx=13",
+      "author": "사쿠라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사립 캄파넬라학원 남자 가정교과 클럽 2권 (완결)",
+      "link": "https://ridibooks.com/books/297051757?_rdt_sid=new_release&_rdt_idx=14",
+      "author": "이즈미 레이",
+      "genre": "코믹"
+    },
+    {
+      "title": "먹고 자는 두 사람 함께 사는 두 사람 속편 1권",
+      "link": "https://ridibooks.com/books/297051768?_rdt_sid=new_release&_rdt_idx=15",
+      "author": "히구라시 키노코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "폭력교실의 불청객 5권",
+      "link": "https://ridibooks.com/books/1603057175?_rdt_sid=new_release&_rdt_idx=16",
+      "author": "고행석",
+      "genre": "액션"
+    },
+    {
+      "title": "주술회전 20권",
+      "link": "https://ridibooks.com/books/1019074155?_rdt_sid=new_release&_rdt_idx=17",
+      "author": "아쿠타미 게게",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "최애의 아이 8권",
+      "link": "https://ridibooks.com/books/1019074158?_rdt_sid=new_release&_rdt_idx=18",
+      "author": "요코야리 멘고",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "금손 여고생과 OL 부녀자 4권",
+      "link": "https://ridibooks.com/books/4593000212?_rdt_sid=new_release&_rdt_idx=19",
+      "author": "사토",
+      "genre": "GL"
+    }
+  ]
 }
