@@ -1,123 +1,123 @@
 {
   "books": [
     {
+      "title": "스킵 비트! 48권",
+      "link": "https://ridibooks.com/books/862001754?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "나카무라 요시키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "흡혈귀는 툭하면 죽는다 14권",
+      "link": "https://ridibooks.com/books/2258002280?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "본노키 이타루",
+      "genre": "코믹"
+    },
+    {
+      "title": "유루캠△ 13권",
+      "link": "https://ridibooks.com/books/297052127?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "AFRO",
+      "genre": "코믹"
+    },
+    {
+      "title": "휴일의 악당 2권",
+      "link": "https://ridibooks.com/books/505066087?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "모리카와 유우",
+      "genre": "드라마"
+    },
+    {
+      "title": "방과 후 제방 일지 9권",
+      "link": "https://ridibooks.com/books/297052128?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "코사카 야스유키",
+      "genre": "코믹"
+    },
+    {
+      "title": "사춘기 비터 체인지 5권",
+      "link": "https://ridibooks.com/books/2066004660?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "마사요시",
+      "genre": "학원"
+    },
+    {
+      "title": "코하루 노트 5권",
+      "link": "https://ridibooks.com/books/2066004661?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "후지타 마키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "오렌즈 5권",
+      "link": "https://ridibooks.com/books/2066004658?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "카즈 얀세",
+      "genre": "액션"
+    },
+    {
+      "title": "벚꽃 숲의 도깨비 어둠 1권",
+      "link": "https://ridibooks.com/books/297051847?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "쿠로에 유이",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "소꿉친구의 S급 파티에서 추방된 성수사. 만능 지원마법과 동료를 늘려 최강으로! 2권",
+      "link": "https://ridibooks.com/books/3010011475?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "쿠로다 타카요시",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "블랙 클로버 32권",
-      "link": "https://ridibooks.com/books/1019074165?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/1019074165?_rdt_sid=new_release&_rdt_idx=10",
       "author": "타바타 유키",
       "genre": "판타지/SF"
     },
     {
       "title": "사신 도련님과 검은 메이드 14권",
-      "link": "https://ridibooks.com/books/1019074172?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1019074172?_rdt_sid=new_release&_rdt_idx=11",
       "author": "이노우에 코하루",
       "genre": "판타지/SF"
     },
     {
       "title": "푸른 상자 5권",
-      "link": "https://ridibooks.com/books/1019074166?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/1019074166?_rdt_sid=new_release&_rdt_idx=12",
       "author": "미우라 코우지",
       "genre": "해외 순정"
     },
     {
       "title": "마슐 10권",
-      "link": "https://ridibooks.com/books/1019074164?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/1019074164?_rdt_sid=new_release&_rdt_idx=13",
       "author": "코모토 하지메",
       "genre": "판타지/SF"
     },
     {
       "title": "하여튼 요즘 탐정은 6권",
-      "link": "https://ridibooks.com/books/3802000224?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/3802000224?_rdt_sid=new_release&_rdt_idx=14",
       "author": "이가라시 마사쿠니",
       "genre": "코믹"
     },
     {
       "title": "모든 게 처음인 스와 씨 2권",
-      "link": "https://ridibooks.com/books/505066057?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/505066057?_rdt_sid=new_release&_rdt_idx=15",
       "author": "마누카 야스카",
       "genre": "해외 순정"
     },
     {
       "title": "아베가 저를 노리고 있습니다 8권",
-      "link": "https://ridibooks.com/books/845034736?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/845034736?_rdt_sid=new_release&_rdt_idx=16",
       "author": "이와이 아키",
       "genre": "드라마"
     },
     {
       "title": "소년을 기르다 3권",
-      "link": "https://ridibooks.com/books/505066074?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/505066074?_rdt_sid=new_release&_rdt_idx=17",
       "author": "아오이 누이",
       "genre": "해외 순정"
     },
     {
       "title": "어차피, 사랑하고 만다. 3권",
-      "link": "https://ridibooks.com/books/297051811?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/297051811?_rdt_sid=new_release&_rdt_idx=18",
       "author": "미츠이 하루카",
       "genre": "해외 순정"
     },
     {
       "title": "셰이크 님과 하렘에서 7권",
-      "link": "https://ridibooks.com/books/297051820?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/297051820?_rdt_sid=new_release&_rdt_idx=19",
       "author": "미아사 린",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "후궁 향비 이야기 2권",
-      "link": "https://ridibooks.com/books/845034710?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "타치바나 미즈키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "천상연가~금의 황녀와 불의 약사~ 1권",
-      "link": "https://ridibooks.com/books/845034727?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "아오키 토모",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "이누야샤 와이드판 28권",
-      "link": "https://ridibooks.com/books/1019074169?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "타카하시 루미코",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "짐승의 길 10권",
-      "link": "https://ridibooks.com/books/297051957?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "맛타쿠 모스케-유메우타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "유사 하렘 4권",
-      "link": "https://ridibooks.com/books/1019074173?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "사이토 유우",
-      "genre": "학원"
-    },
-    {
-      "title": "슈링크 -정신과 의사 요와이- 2권",
-      "link": "https://ridibooks.com/books/1019073963?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "츠키코",
-      "genre": "드라마"
-    },
-    {
-      "title": "밤 친구로 어떠신가요? 2권 (완결)",
-      "link": "https://ridibooks.com/books/1019074167?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "우미노 마야",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "취정강호 9권 (완결)",
-      "link": "https://ridibooks.com/books/1603057190?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "천제황",
-      "genre": "무협"
-    },
-    {
-      "title": "20x20 4권 (완결)",
-      "link": "https://ridibooks.com/books/1019073968?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "나카시마 베가",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "청춘 신데렐라 4권 (완결)",
-      "link": "https://ridibooks.com/books/1019074170?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "유 노조무",
       "genre": "해외 순정"
     }
   ]
