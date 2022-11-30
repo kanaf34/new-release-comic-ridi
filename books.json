@@ -1,15 +1,15 @@
 {
   "books": [
     {
-      "title": "지니 9권",
-      "link": "https://ridibooks.com/books/297052214?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "이수현",
+      "title": "용사 파티에서 추방된 비스트 테이머, 최강종의 고양이귀 소녀와 만나다 4권",
+      "link": "https://ridibooks.com/books/806010714?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "시게무라 모토",
       "genre": "판타지/SF"
     },
     {
-      "title": "용사 파티에서 추방된 비스트 테이머, 최강종의 고양이귀 소녀와 만나다 4권",
-      "link": "https://ridibooks.com/books/806010714?_rdt_sid=new_release&_rdt_idx=1",
-      "author": "시게무라 모토",
+      "title": "지니 9권",
+      "link": "https://ridibooks.com/books/297052214?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "이수현",
       "genre": "판타지/SF"
     },
     {
@@ -19,16 +19,16 @@
       "genre": "해외 순정"
     },
     {
-      "title": "페어리 테일 100년 퀘스트 6권",
-      "link": "https://ridibooks.com/books/505066121?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "우에다 아츠오",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "아이돌 드렁크 3권",
-      "link": "https://ridibooks.com/books/297051856?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297051856?_rdt_sid=new_release&_rdt_idx=3",
       "author": "사키시마 에노키",
       "genre": "드라마"
+    },
+    {
+      "title": "페어리 테일 100년 퀘스트 6권",
+      "link": "https://ridibooks.com/books/505066121?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "우에다 아츠오",
+      "genre": "판타지/SF"
     },
     {
       "title": "에덴즈 제로(EDENS ZERO) 19권",
