@@ -1,51 +1,51 @@
 {
   "books": [
     {
+      "title": "걸 크러시 5권",
+      "link": "https://ridibooks.com/books/4395000076?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "타야마 미도리",
+      "genre": "드라마"
+    },
+    {
+      "title": "메달리스트 3권",
+      "link": "https://ridibooks.com/books/505066745?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "츠루마 이카다",
+      "genre": "드라마"
+    },
+    {
       "title": "[코믹] 전생했더니 슬라임이었던 건에 대하여 21권",
-      "link": "https://ridibooks.com/books/2066004697?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/2066004697?_rdt_sid=new_release&_rdt_idx=2",
       "author": "카와카미 타이키",
       "genre": "판타지/SF"
     },
     {
       "title": "카케구루이 트윈 12권",
-      "link": "https://ridibooks.com/books/505066755?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505066755?_rdt_sid=new_release&_rdt_idx=3",
       "author": "사이키 케이",
       "genre": "학원"
     },
     {
-      "title": "메달리스트 3권",
-      "link": "https://ridibooks.com/books/505066745?_rdt_sid=new_release&_rdt_idx=2",
-      "author": "츠루마 이카다",
-      "genre": "드라마"
+      "title": "샹그릴라 프론티어 8권",
+      "link": "https://ridibooks.com/books/297052326?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "후지 료스케",
+      "genre": "판타지/SF"
     },
     {
-      "title": "걸 크러시 5권",
-      "link": "https://ridibooks.com/books/4395000076?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "타야마 미도리",
-      "genre": "드라마"
+      "title": "쓸모없다는 말을 들었기 때문에, 저희 집은 독립합니다! 2권",
+      "link": "https://ridibooks.com/books/3010011608?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "쿠로노 유우",
+      "genre": "해외 순정"
     },
     {
       "title": "[코믹] 전생슬라임 일기 6권",
-      "link": "https://ridibooks.com/books/2066004702?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/2066004702?_rdt_sid=new_release&_rdt_idx=6",
       "author": "시바",
       "genre": "판타지/SF"
     },
     {
       "title": "전생 츄라임! 1권",
-      "link": "https://ridibooks.com/books/2066004712?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/2066004712?_rdt_sid=new_release&_rdt_idx=7",
       "author": "챠챠",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "쓸모없다는 말을 들었기 때문에, 저희 집은 독립합니다! 2권",
-      "link": "https://ridibooks.com/books/3010011608?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "쿠로노 유우",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "샹그릴라 프론티어 8권",
-      "link": "https://ridibooks.com/books/297052326?_rdt_sid=new_release&_rdt_idx=7",
-      "author": "후지 료스케",
       "genre": "판타지/SF"
     },
     {
