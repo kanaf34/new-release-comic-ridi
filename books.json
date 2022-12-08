@@ -1,34 +1,34 @@
 {
   "books": [
     {
-      "title": "복원가의 집 23권",
-      "link": "https://ridibooks.com/books/297052451?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "김상엽",
-      "genre": "학원"
-    },
-    {
       "title": "장난을 잘 치는 타카기 양 18권",
-      "link": "https://ridibooks.com/books/1019075211?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1019075211?_rdt_sid=new_release&_rdt_idx=0",
       "author": "야마모토 소이치로",
       "genre": "학원"
     },
     {
       "title": "장난을 잘 치는 전 타카기 양 15권",
-      "link": "https://ridibooks.com/books/1019075212?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/1019075212?_rdt_sid=new_release&_rdt_idx=1",
       "author": "이나바 미후미",
       "genre": "드라마"
     },
     {
-      "title": "지. (지구의 운동에 대하여) 2권",
-      "link": "https://ridibooks.com/books/1019075207?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "우오토",
-      "genre": "드라마"
+      "title": "복원가의 집 23권",
+      "link": "https://ridibooks.com/books/297052451?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "김상엽",
+      "genre": "학원"
     },
     {
-      "title": "쌍망정은 부숴야 한다 20권",
-      "link": "https://ridibooks.com/books/1019075216?_rdt_sid=new_release&_rdt_idx=4",
-      "author": "후지타 카즈히로",
-      "genre": "판타지/SF"
+      "title": "삼백안 짱은 전하고 싶어 5권 (완결)",
+      "link": "https://ridibooks.com/books/505067115?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "슌스케 소라토",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "지. (지구의 운동에 대하여) 2권",
+      "link": "https://ridibooks.com/books/1019075207?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "우오토",
+      "genre": "드라마"
     },
     {
       "title": "카나카나 3권",
@@ -37,10 +37,10 @@
       "genre": "드라마"
     },
     {
-      "title": "삼백안 짱은 전하고 싶어 5권 (완결)",
-      "link": "https://ridibooks.com/books/505067115?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "슌스케 소라토",
-      "genre": "해외 순정"
+      "title": "쌍망정은 부숴야 한다 20권",
+      "link": "https://ridibooks.com/books/1019075216?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "후지타 카즈히로",
+      "genre": "판타지/SF"
     },
     {
       "title": "아하렌 양은 알 수가 없어 14권",
@@ -97,28 +97,28 @@
       "genre": "해외 순정"
     },
     {
+      "title": "엽기천자 8권",
+      "link": "https://ridibooks.com/books/1603057298?_rdt_sid=new_release&_rdt_idx=16",
+      "author": "천제황",
+      "genre": "무협"
+    },
+    {
       "title": "성별 모나리자인 너에게 8권",
-      "link": "https://ridibooks.com/books/297052400?_rdt_sid=new_release&_rdt_idx=16",
+      "link": "https://ridibooks.com/books/297052400?_rdt_sid=new_release&_rdt_idx=17",
       "author": "요시무라 츠무지",
       "genre": "해외 순정"
     },
     {
       "title": "안경공작의 첫사랑과 위장 약혼자의 비밀 관찰 일기 1권",
-      "link": "https://ridibooks.com/books/3010011599?_rdt_sid=new_release&_rdt_idx=17",
+      "link": "https://ridibooks.com/books/3010011599?_rdt_sid=new_release&_rdt_idx=18",
       "author": "코우리 나츠카",
       "genre": "해외 순정"
     },
     {
       "title": "언젠가 티파니에서 아침을 14권 (완결)",
-      "link": "https://ridibooks.com/books/505067105?_rdt_sid=new_release&_rdt_idx=18",
+      "link": "https://ridibooks.com/books/505067105?_rdt_sid=new_release&_rdt_idx=19",
       "author": "마키 히로치",
       "genre": "해외 순정"
-    },
-    {
-      "title": "햄스터 스케로쿠의 일상 가자, 세계 여행!",
-      "link": "https://ridibooks.com/books/297052404?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "GOTTE",
-      "genre": "드라마"
     }
   ]
 }
