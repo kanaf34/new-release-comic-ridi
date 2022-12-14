@@ -1,21 +1,21 @@
 {
   "books": [
     {
-      "title": "[코믹] 흔해빠진 직업으로 세계최강 제로 4권",
-      "link": "https://ridibooks.com/books/777112637?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "카미치 아타루",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "비스타즈 (BEASTARS) 20권",
-      "link": "https://ridibooks.com/books/1690001510?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1690001510?_rdt_sid=new_release&_rdt_idx=0",
       "author": "이타가키 파루",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 무직전생 ~이세계에 갔으면 최선을 다한다~ 9권",
-      "link": "https://ridibooks.com/books/505067319?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505067319?_rdt_sid=new_release&_rdt_idx=1",
       "author": "후지카와 유카",
+      "genre": "드라마"
+    },
+    {
+      "title": "운명을 믿지 않는 그가 말하길 3권",
+      "link": "https://ridibooks.com/books/3010011717?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "오무 더 라이스",
       "genre": "드라마"
     },
     {
@@ -25,100 +25,100 @@
       "genre": "드라마"
     },
     {
-      "title": "운명을 믿지 않는 그가 말하길 3권",
-      "link": "https://ridibooks.com/books/3010011717?_rdt_sid=new_release&_rdt_idx=4",
-      "author": "오무 더 라이스",
-      "genre": "드라마"
-    },
-    {
       "title": "[코믹] 친구 여동생이 나한테만 짜증나게 군다 2권",
-      "link": "https://ridibooks.com/books/777112639?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/777112639?_rdt_sid=new_release&_rdt_idx=4",
       "author": "히라오카 히라",
       "genre": "해외 순정"
     },
     {
+      "title": "[코믹] 흔해빠진 직업으로 세계최강 제로 4권",
+      "link": "https://ridibooks.com/books/777112637?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "카미치 아타루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "너 까불지마 8권",
+      "link": "https://ridibooks.com/books/1603057313?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "조명운",
+      "genre": "액션"
+    },
+    {
       "title": "우리들의 기적 23권",
-      "link": "https://ridibooks.com/books/4466000305?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/4466000305?_rdt_sid=new_release&_rdt_idx=7",
       "author": "쿠메타 나츠오",
       "genre": "판타지/SF"
     },
     {
       "title": "29세 독신 중견 모험가의 일상 12권",
-      "link": "https://ridibooks.com/books/505067189?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/505067189?_rdt_sid=new_release&_rdt_idx=8",
       "author": "나라 잇페이",
       "genre": "판타지/SF"
     },
     {
       "title": "신 없는 세계의 신 활동 4권",
-      "link": "https://ridibooks.com/books/4593000234?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/4593000234?_rdt_sid=new_release&_rdt_idx=9",
       "author": "한게츠반손쇼",
       "genre": "판타지/SF"
     },
     {
       "title": "마물 돌보미 1권",
-      "link": "https://ridibooks.com/books/806010818?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/806010818?_rdt_sid=new_release&_rdt_idx=10",
       "author": "히가시우라 유키",
       "genre": "판타지/SF"
     },
     {
       "title": "목욕탕과 뱀파이어",
-      "link": "https://ridibooks.com/books/3010011562?_rdt_sid=new_release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/3010011562?_rdt_sid=new_release&_rdt_idx=11",
       "author": "이즈키 니코",
       "genre": "드라마"
     },
     {
       "title": "고양이귀 메이드와 소년 왕자 1권",
-      "link": "https://ridibooks.com/books/806010828?_rdt_sid=new_release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/806010828?_rdt_sid=new_release&_rdt_idx=12",
       "author": "사유코",
       "genre": "판타지/SF"
     },
     {
       "title": "소녀괴수 캐러멜리제 4권",
-      "link": "https://ridibooks.com/books/297052473?_rdt_sid=new_release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/297052473?_rdt_sid=new_release&_rdt_idx=13",
       "author": "아오키 스피카",
       "genre": "해외 순정"
     },
     {
       "title": "연애전사 슈라반 3권 (완결)",
-      "link": "https://ridibooks.com/books/806010826?_rdt_sid=new_release&_rdt_idx=13",
+      "link": "https://ridibooks.com/books/806010826?_rdt_sid=new_release&_rdt_idx=14",
       "author": "아오키 하야토",
       "genre": "코믹"
     },
     {
       "title": "앙골모아 원구전투기 6권",
-      "link": "https://ridibooks.com/books/297052824?_rdt_sid=new_release&_rdt_idx=14",
+      "link": "https://ridibooks.com/books/297052824?_rdt_sid=new_release&_rdt_idx=15",
       "author": "타카기 나나히코",
       "genre": "액션"
     },
     {
       "title": "게임 센터 소녀와 이문화 교류 2권",
-      "link": "https://ridibooks.com/books/3010011708?_rdt_sid=new_release&_rdt_idx=15",
+      "link": "https://ridibooks.com/books/3010011708?_rdt_sid=new_release&_rdt_idx=16",
       "author": "야스하라 히로카즈",
       "genre": "코믹"
     },
     {
       "title": "[할리퀸] 사랑과 검 2권 (완결)",
-      "link": "https://ridibooks.com/books/1458006219?_rdt_sid=new_release&_rdt_idx=16",
+      "link": "https://ridibooks.com/books/1458006219?_rdt_sid=new_release&_rdt_idx=17",
       "author": "하야사카 아미이",
       "genre": "해외 순정"
     },
     {
       "title": "디어 보이스 ACT4 3권",
-      "link": "https://ridibooks.com/books/505067198?_rdt_sid=new_release&_rdt_idx=17",
+      "link": "https://ridibooks.com/books/505067198?_rdt_sid=new_release&_rdt_idx=18",
       "author": "야가미 히로키",
       "genre": "스포츠"
     },
     {
       "title": "굽고 있는 두 사람 7권",
-      "link": "https://ridibooks.com/books/3010011661?_rdt_sid=new_release&_rdt_idx=18",
+      "link": "https://ridibooks.com/books/3010011661?_rdt_sid=new_release&_rdt_idx=19",
       "author": "하나츠카 시오리",
       "genre": "드라마"
-    },
-    {
-      "title": "뱀파이어 기사 memories 7권",
-      "link": "https://ridibooks.com/books/505067161?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "히노 마츠리",
-      "genre": "해외 순정"
     }
   ]
 }
