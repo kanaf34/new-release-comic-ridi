@@ -1,10 +1,10 @@
 {
   "books": [
     {
-      "title": "도쿄 리벤저스 28권",
-      "link": "https://ridibooks.com/books/505067348?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "와쿠이 켄",
-      "genre": "학원"
+      "title": "[코믹] 늑대 영주의 아가씨 3권",
+      "link": "https://ridibooks.com/books/1690001524?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "칸나 마치",
+      "genre": "해외 순정"
     },
     {
       "title": "귀엽기만 한 게 아닌 시키모리 양 14권",
@@ -97,28 +97,28 @@
       "genre": "해외 순정"
     },
     {
-      "title": "내가 사랑 따위 하지 않아도 8권",
-      "link": "https://ridibooks.com/books/1019075370?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "카즈이 카즈미",
-      "genre": "해외 순정"
+      "title": "도쿄 리벤저스 28권",
+      "link": "https://ridibooks.com/books/505067348?_rdt_sid=new_release&_rdt_idx=16",
+      "author": "와쿠이 켄",
+      "genre": "학원"
     },
     {
-      "title": "걷고 있어 10권",
-      "link": "https://ridibooks.com/books/1019075373?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "나나지 나가무",
-      "genre": "해외 순정"
+      "title": "파티피플 공명 10권",
+      "link": "https://ridibooks.com/books/297053040?_rdt_sid=new_release&_rdt_idx=17",
+      "author": "오가와 료",
+      "genre": "코믹"
     },
     {
-      "title": "엽기천자 15권 (완결)",
-      "link": "https://ridibooks.com/books/1603057320?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "천제황",
-      "genre": "무협"
+      "title": "[코믹] 터무니없는 스킬로 이세계 방랑 밥 : 스이의 대모험 4권",
+      "link": "https://ridibooks.com/books/2066004775?_rdt_sid=new_release&_rdt_idx=18",
+      "author": "후타바 모모",
+      "genre": "판타지/SF"
     },
     {
-      "title": "사랑 이야기를 들려주세요 2권 (완결)",
-      "link": "https://ridibooks.com/books/1515026002?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "시마카게 루이아",
-      "genre": "해외 순정"
+      "title": "마녀와 야수 10권",
+      "link": "https://ridibooks.com/books/297052955?_rdt_sid=new_release&_rdt_idx=19",
+      "author": "사타케 코우스케",
+      "genre": "판타지/SF"
     }
   ]
 }
