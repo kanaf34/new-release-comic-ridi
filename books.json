@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "리버스 x 리버스 4권 (완결)",
-      "link": "https://ridibooks.com/books/505068131?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "아마노 시노부",
-      "genre": "해외 순정"
-    },
-    {
       "title": "묵시록의 4기사 2권",
-      "link": "https://ridibooks.com/books/505068103?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505068103?_rdt_sid=new_release&_rdt_idx=0",
       "author": "스즈키 나카바",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "리버스 x 리버스 4권 (완결)",
+      "link": "https://ridibooks.com/books/505068131?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "아마노 시노부",
+      "genre": "해외 순정"
     },
     {
       "title": "악역영애지만, 행복해질거예요! 앤솔로지 코믹스 7권",
