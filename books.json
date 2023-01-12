@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "[코믹] 약사의 혼잣말(마오마오의 후궁 수수께끼 풀이수첩) 14권",
-      "link": "https://ridibooks.com/books/1019076168?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "쿠라타 미노지",
-      "genre": "드라마"
-    },
-    {
       "title": "명탐정 코난 102권",
-      "link": "https://ridibooks.com/books/1019076170?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1019076170?_rdt_sid=new_release&_rdt_idx=0",
       "author": "아오야마 고쇼",
       "genre": "공포/추리"
+    },
+    {
+      "title": "[코믹] 약사의 혼잣말(마오마오의 후궁 수수께끼 풀이수첩) 14권",
+      "link": "https://ridibooks.com/books/1019076168?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "쿠라타 미노지",
+      "genre": "드라마"
     },
     {
       "title": "마왕성에서 잘 자요 22권",
