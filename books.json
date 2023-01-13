@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "마법사의 신부 17권",
-      "link": "https://ridibooks.com/books/505068374?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "야마자키 코레",
-      "genre": "드라마"
-    },
-    {
       "title": "아오노 군에게 닿고 싶으니까 죽고 싶어 5권",
-      "link": "https://ridibooks.com/books/297053542?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/297053542?_rdt_sid=new_release&_rdt_idx=0",
       "author": "시이나 우미",
       "genre": "해외 순정"
+    },
+    {
+      "title": "마법사의 신부 17권",
+      "link": "https://ridibooks.com/books/505068374?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "야마자키 코레",
+      "genre": "드라마"
     },
     {
       "title": "귀엽기만 한 게 아닌 시키모리 양 15권",
