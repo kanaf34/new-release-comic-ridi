@@ -1,33 +1,33 @@
 {
   "books": [
     {
+      "title": "열혈강호 87권",
+      "link": "https://ridibooks.com/books/297053790?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "전극진",
+      "genre": "무협"
+    },
+    {
       "title": "러브 미 퐁포코! 5권 (완결)",
-      "link": "https://ridibooks.com/books/505068491?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/505068491?_rdt_sid=new_release&_rdt_idx=1",
       "author": "아카가와라 모도무",
       "genre": "해외 순정"
     },
     {
       "title": "흡혈귀는 툭하면 죽는다 16권",
-      "link": "https://ridibooks.com/books/2258002308?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/2258002308?_rdt_sid=new_release&_rdt_idx=2",
       "author": "본노키 이타루",
       "genre": "코믹"
     },
     {
-      "title": "열혈강호 87권",
-      "link": "https://ridibooks.com/books/297053790?_rdt_sid=new_release&_rdt_idx=2",
-      "author": "전극진",
-      "genre": "무협"
-    },
-    {
-      "title": "우리 집의 작은 메이드 2권",
-      "link": "https://ridibooks.com/books/4129000036?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "오사다 카나",
+      "title": "스바루와 스우 씨 6권 (완결)",
+      "link": "https://ridibooks.com/books/2066005006?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "타카하시 나츠코",
       "genre": "드라마"
     },
     {
-      "title": "스바루와 스우 씨 6권 (완결)",
-      "link": "https://ridibooks.com/books/2066005006?_rdt_sid=new_release&_rdt_idx=4",
-      "author": "타카하시 나츠코",
+      "title": "우리 집의 작은 메이드 2권",
+      "link": "https://ridibooks.com/books/4129000036?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "오사다 카나",
       "genre": "드라마"
     },
     {
