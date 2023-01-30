@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "[코믹] 진정한 동료가 아니라며 용사 파티에서 쫓겨났기 때문에, 변경에서 슬로 라이프를 보내기로 했습니다 2권",
-      "link": "https://ridibooks.com/books/845035753?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "이케노 마사히로",
-      "genre": "드라마"
-    },
-    {
       "title": "아가씨, 눈뜰 시간입니다 2권 (완결)",
-      "link": "https://ridibooks.com/books/505068617?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505068617?_rdt_sid=new_release&_rdt_idx=0",
       "author": "카시 야에코",
       "genre": "해외 순정"
+    },
+    {
+      "title": "[코믹] 진정한 동료가 아니라며 용사 파티에서 쫓겨났기 때문에, 변경에서 슬로 라이프를 보내기로 했습니다 2권",
+      "link": "https://ridibooks.com/books/845035753?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "이케노 마사히로",
+      "genre": "드라마"
     },
     {
       "title": "마녀의 세계에서 최강인 것은 물리입니다만, 문제라도? 4권 (완결)",
