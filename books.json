@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "[코믹] 여왕 폐하라 부르지 마 3권",
+      "link": "https://ridibooks.com/books/3802000287?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "고토 소라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "블루 아카이브 코믹 앤솔로지 VOL.2",
+      "link": "https://ridibooks.com/books/777115909?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "NEXON GAMES",
+      "genre": "학원"
+    },
+    {
+      "title": "최근 고용한 메이드가 수상하다 6권",
+      "link": "https://ridibooks.com/books/297055394?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "콘부 와카메",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "나의 아내는 조금 무섭다 1권",
+      "link": "https://ridibooks.com/books/3010012110?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "쿠리타 아구리",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 인간 불신 모험가들이 세계를 구하는 듯합니다 4권",
+      "link": "https://ridibooks.com/books/3010012227?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "카와카미 마사키",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "코모레비 상점가의 체인징 원더 1권",
+      "link": "https://ridibooks.com/books/845036175?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "아오이 하즈키",
+      "genre": "드라마"
+    },
+    {
+      "title": "열등 용자의 이세계 바이블 2권",
+      "link": "https://ridibooks.com/books/1987002336?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "나카야마 미치루",
+      "genre": "코믹"
+    },
+    {
       "title": "스쿨 존 4권",
-      "link": "https://ridibooks.com/books/3981000063?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/3981000063?_rdt_sid=new_release&_rdt_idx=7",
       "author": "닌기야우",
       "genre": "GL"
     },
     {
       "title": "오프 모임에 나갔더니 엄청난 녀석이 나온 이야기 1권",
-      "link": "https://ridibooks.com/books/505069595?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505069595?_rdt_sid=new_release&_rdt_idx=8",
       "author": "mii.m",
       "genre": "드라마"
     },
     {
       "title": "현란한 그랑 센 14권",
-      "link": "https://ridibooks.com/books/297055390?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/297055390?_rdt_sid=new_release&_rdt_idx=9",
       "author": "Cuvie",
       "genre": "해외 순정"
     },
     {
       "title": "오타 돌⇄ 최애가 나고 내가 최애 2권",
-      "link": "https://ridibooks.com/books/505069685?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/505069685?_rdt_sid=new_release&_rdt_idx=10",
       "author": "준코",
       "genre": "해외 순정"
     },
     {
       "title": "드라마틱 아이러니 7권",
-      "link": "https://ridibooks.com/books/297054991?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/297054991?_rdt_sid=new_release&_rdt_idx=11",
       "author": "나마코",
       "genre": "해외 순정"
     },
     {
       "title": "월화국 기의전 4권",
-      "link": "https://ridibooks.com/books/505069640?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/505069640?_rdt_sid=new_release&_rdt_idx=12",
       "author": "히무카 토오루",
       "genre": "판타지/SF"
     },
     {
       "title": "마왕 폐하의 청소 당번 5권",
-      "link": "https://ridibooks.com/books/845036127?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/845036127?_rdt_sid=new_release&_rdt_idx=13",
       "author": "카지야마 미카",
       "genre": "판타지/SF"
     },
     {
       "title": "그 여고생 뒤엔 유령이 있다 2권",
-      "link": "https://ridibooks.com/books/4421003286?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/4421003286?_rdt_sid=new_release&_rdt_idx=14",
       "author": "하시모토 쿠라라",
       "genre": "학원"
     },
     {
       "title": "장미왕의 장례 행렬 16권",
-      "link": "https://ridibooks.com/books/505069639?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/505069639?_rdt_sid=new_release&_rdt_idx=15",
       "author": "칸노 아야",
       "genre": "드라마"
     },
     {
       "title": "이세계 식당 ~양식당 네코야~ 1권",
-      "link": "https://ridibooks.com/books/3010012209?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/3010012209?_rdt_sid=new_release&_rdt_idx=16",
       "author": "야미자와",
       "genre": "판타지/SF"
     },
     {
       "title": "현자가 동료로 왔다! 1권",
-      "link": "https://ridibooks.com/books/3010012218?_rdt_sid=new_release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/3010012218?_rdt_sid=new_release&_rdt_idx=17",
       "author": "아즈",
       "genre": "드라마"
     },
     {
       "title": "워스트 외전 구리코 12권",
-      "link": "https://ridibooks.com/books/505069628?_rdt_sid=new_release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/505069628?_rdt_sid=new_release&_rdt_idx=18",
       "author": "다카하시 히로시",
       "genre": "학원"
     },
     {
       "title": "버려진 전생현자 8권 (완결)",
-      "link": "https://ridibooks.com/books/3010012094?_rdt_sid=new_release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/3010012094?_rdt_sid=new_release&_rdt_idx=19",
       "author": "쿠리카라 마루",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "두 번째 인생 애니메이터 6권",
-      "link": "https://ridibooks.com/books/3010012083?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "미야오 가쿠",
-      "genre": "드라마"
-    },
-    {
-      "title": "하데스 님의 무자비한 결혼 1권",
-      "link": "https://ridibooks.com/books/777116574?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "우에지 유호",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "도쿄 리벤저스 29권",
-      "link": "https://ridibooks.com/books/505069556?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "와쿠이 켄",
-      "genre": "학원"
-    },
-    {
-      "title": "삼각창의 밖은 밤 그 후 (완결)",
-      "link": "https://ridibooks.com/books/297054590?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "야마시타 토모코",
-      "genre": "드라마"
-    },
-    {
-      "title": "불멸의 그대에게 18권",
-      "link": "https://ridibooks.com/books/297055048?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "오이마 요시토키",
-      "genre": "드라마"
-    },
-    {
-      "title": "니콜라의 느긋한 마계 기행 4권 (완결)",
-      "link": "https://ridibooks.com/books/505069566?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "미야나가 아사야",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "시골에 내려가면 나를 무척 따르는 갈색 포니테일 소년이 있다 1권",
-      "link": "https://ridibooks.com/books/1690001708?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "비미타",
-      "genre": "드라마"
     }
   ]
 }
