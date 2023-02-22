@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "나의 히어로 아카데미아 36권",
+      "link": "https://ridibooks.com/books/1019077274?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "호리코시 코헤이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "거울 속 외딴 성 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019077278?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "타케토미 토모",
+      "genre": "드라마"
+    },
+    {
+      "title": "죽음이 두 사람을 갈라놓을지라도 3권",
+      "link": "https://ridibooks.com/books/1019077279?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "아마이로 치유",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "꿈의 물방울, 황금의 새장 17권",
+      "link": "https://ridibooks.com/books/1019077280?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "시노하라 치에",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마로니에 왕국의 7인의 기사 3권",
+      "link": "https://ridibooks.com/books/1019077281?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "이와모토 나오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "커피&바닐라 14권",
+      "link": "https://ridibooks.com/books/1019077283?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "아케가미 타카라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "승리의 악마 3권 (완결)",
+      "link": "https://ridibooks.com/books/1019077290?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "마키 요코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "랄랄라 러브송 2권 (완결)",
+      "link": "https://ridibooks.com/books/1019077292?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "마키 요코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "스타 블랙스 2권 (완결)",
+      "link": "https://ridibooks.com/books/1019077294?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "마키 요코",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "전대 레드 이세계에서 모험가가 되다 1권",
+      "link": "https://ridibooks.com/books/297054979?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "나카요시 코요시",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사신에게 시집가는 날 5권",
+      "link": "https://ridibooks.com/books/297055026?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "츠바키 카오리",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "러블리 어글리(Lovely Ugly) 10권 (완결)",
+      "link": "https://ridibooks.com/books/297055028?_rdt_sid=new_release&_rdt_idx=11",
+      "author": "이시영",
+      "genre": "국내 순정"
+    },
+    {
+      "title": "엉터리 음양사의 호랑이 아내 3권",
+      "link": "https://ridibooks.com/books/505069684?_rdt_sid=new_release&_rdt_idx=12",
+      "author": "토노 유키코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "퍼펙트 서비스 ACE 15권",
+      "link": "https://ridibooks.com/books/505069702?_rdt_sid=new_release&_rdt_idx=13",
+      "author": "아라 타츠야",
+      "genre": "스포츠"
+    },
+    {
+      "title": "잊을 수 없는 마녀의 이야기 1권",
+      "link": "https://ridibooks.com/books/806011477?_rdt_sid=new_release&_rdt_idx=14",
+      "author": "야마다 슈라",
+      "genre": "GL"
+    },
+    {
+      "title": "연년백암살연가 3권",
+      "link": "https://ridibooks.com/books/845036097?_rdt_sid=new_release&_rdt_idx=15",
+      "author": "쿠사카와 나리",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "집사, 쿠로보시는 섬기지 않아 6권",
+      "link": "https://ridibooks.com/books/845036128?_rdt_sid=new_release&_rdt_idx=16",
+      "author": "오토 히사무",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "밤의 이름을 불러줘 2권",
+      "link": "https://ridibooks.com/books/845036186?_rdt_sid=new_release&_rdt_idx=17",
+      "author": "미츠보시 타마",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "[코믹] 여왕 폐하라 부르지 마 3권",
-      "link": "https://ridibooks.com/books/3802000287?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/3802000287?_rdt_sid=new_release&_rdt_idx=18",
       "author": "고토 소라",
       "genre": "해외 순정"
     },
     {
       "title": "블루 아카이브 코믹 앤솔로지 VOL.2",
-      "link": "https://ridibooks.com/books/777115909?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/777115909?_rdt_sid=new_release&_rdt_idx=19",
       "author": "NEXON GAMES",
       "genre": "학원"
-    },
-    {
-      "title": "최근 고용한 메이드가 수상하다 6권",
-      "link": "https://ridibooks.com/books/297055394?_rdt_sid=new_release&_rdt_idx=2",
-      "author": "콘부 와카메",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "나의 아내는 조금 무섭다 1권",
-      "link": "https://ridibooks.com/books/3010012110?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "쿠리타 아구리",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 인간 불신 모험가들이 세계를 구하는 듯합니다 4권",
-      "link": "https://ridibooks.com/books/3010012227?_rdt_sid=new_release&_rdt_idx=4",
-      "author": "카와카미 마사키",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "코모레비 상점가의 체인징 원더 1권",
-      "link": "https://ridibooks.com/books/845036175?_rdt_sid=new_release&_rdt_idx=5",
-      "author": "아오이 하즈키",
-      "genre": "드라마"
-    },
-    {
-      "title": "열등 용자의 이세계 바이블 2권",
-      "link": "https://ridibooks.com/books/1987002336?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "나카야마 미치루",
-      "genre": "코믹"
-    },
-    {
-      "title": "[마블] 타이거 디비전 4권",
-      "link": "https://ridibooks.com/books/862001854?_rdt_sid=new_release&_rdt_idx=7",
-      "author": "에밀리 킴",
-      "genre": "액션"
-    },
-    {
-      "title": "스쿨 존 4권",
-      "link": "https://ridibooks.com/books/3981000063?_rdt_sid=new_release&_rdt_idx=8",
-      "author": "닌기야우",
-      "genre": "GL"
-    },
-    {
-      "title": "오프 모임에 나갔더니 엄청난 녀석이 나온 이야기 1권",
-      "link": "https://ridibooks.com/books/505069595?_rdt_sid=new_release&_rdt_idx=9",
-      "author": "mii.m",
-      "genre": "드라마"
-    },
-    {
-      "title": "현란한 그랑 센 14권",
-      "link": "https://ridibooks.com/books/297055390?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "Cuvie",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "오타 돌⇄ 최애가 나고 내가 최애 2권",
-      "link": "https://ridibooks.com/books/505069685?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "준코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "드라마틱 아이러니 7권",
-      "link": "https://ridibooks.com/books/297054991?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "나마코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "월화국 기의전 4권",
-      "link": "https://ridibooks.com/books/505069640?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "히무카 토오루",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "마왕 폐하의 청소 당번 5권",
-      "link": "https://ridibooks.com/books/845036127?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "카지야마 미카",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "막가는 인생 18권 (완결)",
-      "link": "https://ridibooks.com/books/1603057726?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "조명운",
-      "genre": "액션"
-    },
-    {
-      "title": "그 여고생 뒤엔 유령이 있다 2권",
-      "link": "https://ridibooks.com/books/4421003286?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "하시모토 쿠라라",
-      "genre": "학원"
-    },
-    {
-      "title": "장미왕의 장례 행렬 16권",
-      "link": "https://ridibooks.com/books/505069639?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "칸노 아야",
-      "genre": "드라마"
-    },
-    {
-      "title": "이세계 식당 ~양식당 네코야~ 1권",
-      "link": "https://ridibooks.com/books/3010012209?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "야미자와",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "현자가 동료로 왔다! 1권",
-      "link": "https://ridibooks.com/books/3010012218?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "아즈",
-      "genre": "드라마"
     }
   ]
 }
