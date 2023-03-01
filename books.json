@@ -1,87 +1,87 @@
 {
   "books": [
     {
-      "title": "청춘 헤비 로테이션 4권",
-      "link": "https://ridibooks.com/books/1019077379?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "미나세 아이",
+      "title": "디 그레이맨 28권",
+      "link": "https://ridibooks.com/books/1019077404?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "호시노 카츠라",
+      "genre": "액션"
+    },
+    {
+      "title": "얼굴만으론 좋아할 수 없어요 6권",
+      "link": "https://ridibooks.com/books/845036246?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "안자이 카린",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아가씨와 충견군 4권",
+      "link": "https://ridibooks.com/books/505069808?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "하츠하루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "괴물사변 17권",
+      "link": "https://ridibooks.com/books/1019077405?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "아이모토 쇼",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "쌍둥이 남매의 속사정 3권 (완결)",
+      "link": "https://ridibooks.com/books/845036245?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "테츠카즈",
       "genre": "해외 순정"
     },
     {
       "title": "꽃보다 남자 완전판 20권 (완결)",
-      "link": "https://ridibooks.com/books/1019077399?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/1019077399?_rdt_sid=new_release&_rdt_idx=5",
       "author": "카미오 요코",
       "genre": "해외 순정"
     },
     {
+      "title": "이세계에서 성녀가 오는 모양이라 방해꾼은 사라질 생각입니다 4권",
+      "link": "https://ridibooks.com/books/3010012172?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "바치",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "용황의 그림자 공주 2권",
+      "link": "https://ridibooks.com/books/297056064?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "오소라 아키라",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "로멜리아 전기 1권",
+      "link": "https://ridibooks.com/books/297055970?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "카미토 료",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "저주받은 아이의 시종 4권",
+      "link": "https://ridibooks.com/books/505069809?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "시바미야 유키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "이번에는 죽고 싶지 않은 바다표범 씨 2권",
+      "link": "https://ridibooks.com/books/297056054?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "산카쿠",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "청춘 헤비 로테이션 4권",
+      "link": "https://ridibooks.com/books/1019077379?_rdt_sid=new_release&_rdt_idx=11",
+      "author": "미나세 아이",
+      "genre": "해외 순정"
+    },
+    {
       "title": "궁서의 약속 -위장 Ω(오메가)- 6권",
-      "link": "https://ridibooks.com/books/1019077401?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/1019077401?_rdt_sid=new_release&_rdt_idx=12",
       "author": "시라이시 유키",
       "genre": "해외 순정"
     },
     {
       "title": "분명 사랑이니까 필요 없어 5권",
-      "link": "https://ridibooks.com/books/1019077403?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/1019077403?_rdt_sid=new_release&_rdt_idx=13",
       "author": "미나세 아이",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "디 그레이맨 28권",
-      "link": "https://ridibooks.com/books/1019077404?_rdt_sid=new_release&_rdt_idx=4",
-      "author": "호시노 카츠라",
-      "genre": "액션"
-    },
-    {
-      "title": "괴물사변 17권",
-      "link": "https://ridibooks.com/books/1019077405?_rdt_sid=new_release&_rdt_idx=5",
-      "author": "아이모토 쇼",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "로멜리아 전기 1권",
-      "link": "https://ridibooks.com/books/297055970?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "카미토 료",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "이번에는 죽고 싶지 않은 바다표범 씨 2권",
-      "link": "https://ridibooks.com/books/297056054?_rdt_sid=new_release&_rdt_idx=7",
-      "author": "산카쿠",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "용황의 그림자 공주 2권",
-      "link": "https://ridibooks.com/books/297056064?_rdt_sid=new_release&_rdt_idx=8",
-      "author": "오소라 아키라",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "이세계에서 성녀가 오는 모양이라 방해꾼은 사라질 생각입니다 4권",
-      "link": "https://ridibooks.com/books/3010012172?_rdt_sid=new_release&_rdt_idx=9",
-      "author": "바치",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아가씨와 충견군 4권",
-      "link": "https://ridibooks.com/books/505069808?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "하츠하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "저주받은 아이의 시종 4권",
-      "link": "https://ridibooks.com/books/505069809?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "시바미야 유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "쌍둥이 남매의 속사정 3권 (완결)",
-      "link": "https://ridibooks.com/books/845036245?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "테츠카즈",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "얼굴만으론 좋아할 수 없어요 6권",
-      "link": "https://ridibooks.com/books/845036246?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "안자이 카린",
       "genre": "해외 순정"
     },
     {
