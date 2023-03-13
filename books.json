@@ -1,10 +1,10 @@
 {
   "books": [
     {
-      "title": "대전 감사합니다 3권",
-      "link": "https://ridibooks.com/books/1690001727?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "에지마 에리",
-      "genre": "GL"
+      "title": "자전거집 타카하시 군 5권",
+      "link": "https://ridibooks.com/books/4571000034?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "마츠무시 아라레",
+      "genre": "해외 순정"
     },
     {
       "title": "사랑하는 MOON DOG 8권",
@@ -13,28 +13,28 @@
       "genre": "해외 순정"
     },
     {
-      "title": "DEEMO 디모 - prelude - 2권 (완결)",
-      "link": "https://ridibooks.com/books/297056118?_rdt_sid=new_release&_rdt_idx=2",
-      "author": "니와 하루키",
-      "genre": "드라마"
-    },
-    {
-      "title": "천호와 봉인시 3권 (완결)",
-      "link": "https://ridibooks.com/books/297056534?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "네코 히마코",
-      "genre": "판타지/SF"
+      "title": "[코이] 마키는 인기가 많지만 사랑이 어렵다 2권 (완결)",
+      "link": "https://ridibooks.com/books/806011569?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "후카사와 네지",
+      "genre": "해외 순정"
     },
     {
       "title": "굽고 있는 두 사람 8권",
-      "link": "https://ridibooks.com/books/3010012290?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/3010012290?_rdt_sid=new_release&_rdt_idx=3",
       "author": "하나츠카 시오리",
       "genre": "드라마"
     },
     {
-      "title": "자전거집 타카하시 군 5권",
-      "link": "https://ridibooks.com/books/4571000034?_rdt_sid=new_release&_rdt_idx=5",
-      "author": "마츠무시 아라레",
-      "genre": "해외 순정"
+      "title": "고깔모자의 키친 3권",
+      "link": "https://ridibooks.com/books/505069991?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "사토 히로미",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "대전 감사합니다 3권",
+      "link": "https://ridibooks.com/books/1690001727?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "에지마 에리",
+      "genre": "GL"
     },
     {
       "title": "런웨이에서 웃어줘 21권",
@@ -43,28 +43,28 @@
       "genre": "드라마"
     },
     {
-      "title": "고깔모자의 키친 3권",
-      "link": "https://ridibooks.com/books/505069991?_rdt_sid=new_release&_rdt_idx=7",
-      "author": "사토 히로미",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "중화일미 극 10권",
-      "link": "https://ridibooks.com/books/505070009?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/505070009?_rdt_sid=new_release&_rdt_idx=7",
       "author": "오가와 에츠시",
       "genre": "드라마"
     },
     {
-      "title": "[코이] 마키는 인기가 많지만 사랑이 어렵다 2권 (완결)",
-      "link": "https://ridibooks.com/books/806011569?_rdt_sid=new_release&_rdt_idx=9",
-      "author": "후카사와 네지",
+      "title": "[코이] 낙오된 여자의 첫사랑 리벤지 2권",
+      "link": "https://ridibooks.com/books/806011576?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "카지가야 미치루",
       "genre": "해외 순정"
     },
     {
-      "title": "[코이] 낙오된 여자의 첫사랑 리벤지 2권",
-      "link": "https://ridibooks.com/books/806011576?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "카지가야 미치루",
-      "genre": "해외 순정"
+      "title": "DEEMO 디모 - prelude - 2권 (완결)",
+      "link": "https://ridibooks.com/books/297056118?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "니와 하루키",
+      "genre": "드라마"
+    },
+    {
+      "title": "천호와 봉인시 3권 (완결)",
+      "link": "https://ridibooks.com/books/297056534?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "네코 히마코",
+      "genre": "판타지/SF"
     },
     {
       "title": "네가 죽을 때까지 사랑하고 싶어 5권",
