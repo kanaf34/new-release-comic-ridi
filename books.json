@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "언데드 언럭 12권",
+      "link": "https://ridibooks.com/books/1019078333?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "토즈카 요시후미",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "철야의 노래 12권",
+      "link": "https://ridibooks.com/books/1019078334?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "코토야마",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "200m 너머의 온도 4권",
+      "link": "https://ridibooks.com/books/1019078335?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "토모리 미요시",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "라디에이션 하우스 13권",
+      "link": "https://ridibooks.com/books/1019078337?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "모리 타이시",
+      "genre": "드라마"
+    },
+    {
+      "title": "도산코 갸루는 참말로 귀여워 8권",
+      "link": "https://ridibooks.com/books/1019078339?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "이카다 카이",
+      "genre": "학원"
+    },
+    {
+      "title": "창공의 아리아드네 17권",
+      "link": "https://ridibooks.com/books/1019078340?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "야기 노리히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "덜렁이양 검증 중 10권 (완결)",
+      "link": "https://ridibooks.com/books/1019079082?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "후쿠치 츠바사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "탁고!!! 6권 (완결)",
+      "link": "https://ridibooks.com/books/1019079088?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "후쿠치 츠바사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아나구루몰 5권 (완결)",
+      "link": "https://ridibooks.com/books/1019079093?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "후쿠치 츠바사",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "쟈히 님은 기죽지 않아! 9권",
+      "link": "https://ridibooks.com/books/297057062?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "콘부 와카메",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "행진 강아지에게 연서를 5권 (완결)",
+      "link": "https://ridibooks.com/books/297057170?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "타마사키 타마",
+      "genre": "GL"
+    },
+    {
+      "title": "우리 동네 치바 군은. 8권",
+      "link": "https://ridibooks.com/books/505070424?_rdt_sid=new_release&_rdt_idx=11",
+      "author": "오카모토 토카사",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "비와 너와 3권",
+      "link": "https://ridibooks.com/books/505070433?_rdt_sid=new_release&_rdt_idx=12",
+      "author": "니카이도 코",
+      "genre": "드라마"
+    },
+    {
+      "title": "아혈의 음양사 1권",
+      "link": "https://ridibooks.com/books/845036531?_rdt_sid=new_release&_rdt_idx=13",
+      "author": "후지모토 사쿠라",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "시골에 내려가면 나를 무척 따르는 갈색 포니테일 소년이 있다 2권 (특별부록포함 한정판)",
-      "link": "https://ridibooks.com/books/1690001777?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/1690001777?_rdt_sid=new_release&_rdt_idx=14",
       "author": "비미타",
       "genre": "드라마"
     },
     {
       "title": "108번 살해당한 악역영애 모든 것이 기억이 났기에, 소녀는 루비로 기적을 일으킵니다 2권",
-      "link": "https://ridibooks.com/books/3010012414?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/3010012414?_rdt_sid=new_release&_rdt_idx=15",
       "author": "토리우 치노리",
       "genre": "판타지/SF"
     },
     {
       "title": "우에노 선배는 서툴러 10권 (완결)",
-      "link": "https://ridibooks.com/books/297057074?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/297057074?_rdt_sid=new_release&_rdt_idx=16",
       "author": "tugeneko",
       "genre": "학원"
     },
     {
       "title": "JK부터 다시 시작하는 실버 플랜 5권",
-      "link": "https://ridibooks.com/books/5030000138?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/5030000138?_rdt_sid=new_release&_rdt_idx=17",
       "author": "이혜성",
       "genre": "드라마"
     },
     {
       "title": "하여튼 요즘 탐정은 11권",
-      "link": "https://ridibooks.com/books/3802000308?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/3802000308?_rdt_sid=new_release&_rdt_idx=18",
       "author": "이가라시 마사쿠니",
       "genre": "코믹"
     },
     {
       "title": "금화 1닢으로 바뀌는 모험가 생활 5권",
-      "link": "https://ridibooks.com/books/806011658?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/806011658?_rdt_sid=new_release&_rdt_idx=19",
       "author": "츠키시마 사토",
       "genre": "판타지/SF"
-    },
-    {
-      "title": "히토미는 낯가림쟁이 7권",
-      "link": "https://ridibooks.com/books/297057052?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "초리스케 나츠미",
-      "genre": "코믹"
-    },
-    {
-      "title": "이세계 전직 언데드 웍스 3권 (완결)",
-      "link": "https://ridibooks.com/books/505070423?_rdt_sid=new_release&_rdt_idx=7",
-      "author": "나카지마 코우지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "사랑하는 호타루와 사는 중 1권",
-      "link": "https://ridibooks.com/books/1987002346?_rdt_sid=new_release&_rdt_idx=8",
-      "author": "모구스",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "[펫코믹] 전생해도 고양이는 고양이 1권",
-      "link": "https://ridibooks.com/books/806011673?_rdt_sid=new_release&_rdt_idx=9",
-      "author": "토야마 에마",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "여벌 열쇠와 행복 밥 3권",
-      "link": "https://ridibooks.com/books/3010012344?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "쿠로무기 하지메",
-      "genre": "드라마"
-    },
-    {
-      "title": "[코믹] 저, 용사가 아니니까요. 2권",
-      "link": "https://ridibooks.com/books/3543001457?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "이사키 우타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "길고양이와 늑대 1권",
-      "link": "https://ridibooks.com/books/505070469?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "미유키 미츠바치",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그 문지기, 최강이기에 ~추방당한 방어력 9999의 전사, 왕도의 문지기로서 무쌍한다~ 1권",
-      "link": "https://ridibooks.com/books/3010012352?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "아마나치타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "동박새 꽃이 피었습니다 2권",
-      "link": "https://ridibooks.com/books/505070494?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "나카무라 아스미코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "악역 영애 추방 후! 교회 식사 개혁으로 유유히 수녀 생활 5권",
-      "link": "https://ridibooks.com/books/3010012317?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "요시무라 츠무지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "초지일관! 벌거숭이 츠즈이씨 4권",
-      "link": "https://ridibooks.com/books/371002920?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "츠즈이",
-      "genre": "드라마"
-    },
-    {
-      "title": "삼국군영전 화봉요원 51권",
-      "link": "https://ridibooks.com/books/1561012293?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "구박하지 않는 계모와 언니들 2권",
-      "link": "https://ridibooks.com/books/505070367?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "오츠지",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "WIND BREAKER 10권",
-      "link": "https://ridibooks.com/books/4633000202?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "니이 사토루",
-      "genre": "학원"
     }
   ]
 }
