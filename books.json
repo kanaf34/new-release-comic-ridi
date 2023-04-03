@@ -1,45 +1,45 @@
 {
   "books": [
     {
+      "title": "아네모네는 열을 머금고 3권",
+      "link": "https://ridibooks.com/books/806011682?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "사쿠라기 렌",
+      "genre": "GL"
+    },
+    {
       "title": "여기는 내게 맡기고 먼저 가라고 말한 지 10년이 지났더니 전설이 되어 있었다. 9권",
-      "link": "https://ridibooks.com/books/3010012558?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/3010012558?_rdt_sid=new_release&_rdt_idx=1",
       "author": "아베노 챠코",
       "genre": "판타지/SF"
     },
     {
       "title": "페어리 테일 100년 퀘스트 8권",
-      "link": "https://ridibooks.com/books/505070563?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505070563?_rdt_sid=new_release&_rdt_idx=2",
       "author": "우에다 아츠오",
       "genre": "판타지/SF"
     },
     {
       "title": "페어리 테일 S 2권 (완결)",
-      "link": "https://ridibooks.com/books/505070748?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505070748?_rdt_sid=new_release&_rdt_idx=3",
       "author": "마시마 히로",
       "genre": "판타지/SF"
     },
     {
-      "title": "청에, 닿다 3권",
-      "link": "https://ridibooks.com/books/505070822?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "스즈키 노조미",
+      "title": "아마가미 씨네 인연 맺기 6권",
+      "link": "https://ridibooks.com/books/845036594?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "나이토 마시",
       "genre": "해외 순정"
     },
     {
       "title": "너에게 바치는 방백 3권 (완결)",
-      "link": "https://ridibooks.com/books/806011681?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/806011681?_rdt_sid=new_release&_rdt_idx=5",
       "author": "야사카 슈",
       "genre": "GL"
     },
     {
-      "title": "아네모네는 열을 머금고 3권",
-      "link": "https://ridibooks.com/books/806011682?_rdt_sid=new_release&_rdt_idx=5",
-      "author": "사쿠라기 렌",
-      "genre": "GL"
-    },
-    {
-      "title": "아마가미 씨네 인연 맺기 6권",
-      "link": "https://ridibooks.com/books/845036594?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "나이토 마시",
+      "title": "청에, 닿다 3권",
+      "link": "https://ridibooks.com/books/505070822?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "스즈키 노조미",
       "genre": "해외 순정"
     },
     {
