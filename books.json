@@ -1,28 +1,28 @@
 {
   "books": [
     {
-      "title": "너는 방과후 인섬니아 3권",
-      "link": "https://ridibooks.com/books/1019079399?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "오지로 마코토",
+      "title": "사라진 첫사랑 9권 (완결)",
+      "link": "https://ridibooks.com/books/1019079411?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "아루코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "마법사의 신부 18권",
+      "link": "https://ridibooks.com/books/505070823?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "야마자키 코레",
       "genre": "드라마"
     },
     {
-      "title": "너무 귀여운 크라이시스 4권",
-      "link": "https://ridibooks.com/books/1019079403?_rdt_sid=new_release&_rdt_idx=1",
-      "author": "키도 미츠루",
+      "title": "월드 트리거 25권",
+      "link": "https://ridibooks.com/books/1019079412?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "아시하라 다이스케",
       "genre": "판타지/SF"
     },
     {
-      "title": "모노노가타리 5권",
-      "link": "https://ridibooks.com/books/1019079404?_rdt_sid=new_release&_rdt_idx=2",
-      "author": "오니군소우",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "우국의 모리아티 18권",
-      "link": "https://ridibooks.com/books/1019079405?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "미요시 히카루",
-      "genre": "드라마"
+      "title": "코미 양은 커뮤증입니다 25권",
+      "link": "https://ridibooks.com/books/1019079409?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "오다 토모히토",
+      "genre": "코믹"
     },
     {
       "title": "완전 귀여운 남자가 집에서 기다리고 있습니다 7권 (완결)",
@@ -31,94 +31,94 @@
       "genre": "해외 순정"
     },
     {
-      "title": "평범한 우리들의 8권 (완결)",
-      "link": "https://ridibooks.com/books/1019079407?_rdt_sid=new_release&_rdt_idx=5",
-      "author": "유키 노진",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "푸른 오케스트라 6권",
-      "link": "https://ridibooks.com/books/1019079408?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "아쿠이 마코토",
-      "genre": "학원"
-    },
-    {
-      "title": "코미 양은 커뮤증입니다 25권",
-      "link": "https://ridibooks.com/books/1019079409?_rdt_sid=new_release&_rdt_idx=7",
-      "author": "오다 토모히토",
-      "genre": "코믹"
-    },
-    {
-      "title": "아하렌 양은 알 수가 없어 15권",
-      "link": "https://ridibooks.com/books/1019079410?_rdt_sid=new_release&_rdt_idx=8",
-      "author": "미즈아사토",
-      "genre": "코믹"
-    },
-    {
-      "title": "월드 트리거 25권",
-      "link": "https://ridibooks.com/books/1019079412?_rdt_sid=new_release&_rdt_idx=9",
-      "author": "아시하라 다이스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "200m 너머의 온도 5권",
-      "link": "https://ridibooks.com/books/1019079413?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "토모리 미요시",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "나의 백합은 일입니다! 10권",
-      "link": "https://ridibooks.com/books/2498011193?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "미만",
-      "genre": "GL"
-    },
-    {
-      "title": "너와 잇는 물거품 4권",
-      "link": "https://ridibooks.com/books/2498011194?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "유아마",
-      "genre": "GL"
-    },
-    {
-      "title": "사랑의 시작 7권 (완결)",
-      "link": "https://ridibooks.com/books/297057038?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "아오이 마모루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "길모퉁이 마족 1권",
-      "link": "https://ridibooks.com/books/297057133?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "이즈모 이토",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "루베리아 왕국 이야기 ~사촌 동생의 뒷수습을 하는 신세가 되었다~ 2권",
-      "link": "https://ridibooks.com/books/3010012584?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "케이코",
-      "genre": "해외 순정"
-    },
-    {
       "title": "우리들의 기적 25권",
-      "link": "https://ridibooks.com/books/4466000368?_rdt_sid=new_release&_rdt_idx=16",
+      "link": "https://ridibooks.com/books/4466000368?_rdt_sid=new_release&_rdt_idx=5",
       "author": "쿠메타 나츠오",
       "genre": "판타지/SF"
     },
     {
+      "title": "나의 백합은 일입니다! 10권",
+      "link": "https://ridibooks.com/books/2498011193?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "미만",
+      "genre": "GL"
+    },
+    {
+      "title": "루베리아 왕국 이야기 ~사촌 동생의 뒷수습을 하는 신세가 되었다~ 2권",
+      "link": "https://ridibooks.com/books/3010012584?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "케이코",
+      "genre": "해외 순정"
+    },
+    {
       "title": "층계참에 스커트가 울린다 2권",
-      "link": "https://ridibooks.com/books/505070774?_rdt_sid=new_release&_rdt_idx=17",
+      "link": "https://ridibooks.com/books/505070774?_rdt_sid=new_release&_rdt_idx=8",
       "author": "우타타네 유우",
       "genre": "GL"
     },
     {
-      "title": "마법사의 신부 18권",
-      "link": "https://ridibooks.com/books/505070823?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "야마자키 코레",
+      "title": "길모퉁이 마족 1권",
+      "link": "https://ridibooks.com/books/297057133?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "이즈모 이토",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "너는 방과후 인섬니아 3권",
+      "link": "https://ridibooks.com/books/1019079399?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "오지로 마코토",
       "genre": "드라마"
     },
     {
-      "title": "사라진 첫사랑 9권 (완결)",
-      "link": "https://ridibooks.com/books/1019079411?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "아루코",
+      "title": "200m 너머의 온도 5권",
+      "link": "https://ridibooks.com/books/1019079413?_rdt_sid=new_release&_rdt_idx=11",
+      "author": "토모리 미요시",
       "genre": "해외 순정"
+    },
+    {
+      "title": "평범한 우리들의 8권 (완결)",
+      "link": "https://ridibooks.com/books/1019079407?_rdt_sid=new_release&_rdt_idx=12",
+      "author": "유키 노진",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "너와 잇는 물거품 4권",
+      "link": "https://ridibooks.com/books/2498011194?_rdt_sid=new_release&_rdt_idx=13",
+      "author": "유아마",
+      "genre": "GL"
+    },
+    {
+      "title": "아하렌 양은 알 수가 없어 15권",
+      "link": "https://ridibooks.com/books/1019079410?_rdt_sid=new_release&_rdt_idx=14",
+      "author": "미즈아사토",
+      "genre": "코믹"
+    },
+    {
+      "title": "너무 귀여운 크라이시스 4권",
+      "link": "https://ridibooks.com/books/1019079403?_rdt_sid=new_release&_rdt_idx=15",
+      "author": "키도 미츠루",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "사랑의 시작 7권 (완결)",
+      "link": "https://ridibooks.com/books/297057038?_rdt_sid=new_release&_rdt_idx=16",
+      "author": "아오이 마모루",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "푸른 오케스트라 6권",
+      "link": "https://ridibooks.com/books/1019079408?_rdt_sid=new_release&_rdt_idx=17",
+      "author": "아쿠이 마코토",
+      "genre": "학원"
+    },
+    {
+      "title": "우국의 모리아티 18권",
+      "link": "https://ridibooks.com/books/1019079405?_rdt_sid=new_release&_rdt_idx=18",
+      "author": "미요시 히카루",
+      "genre": "드라마"
+    },
+    {
+      "title": "모노노가타리 5권",
+      "link": "https://ridibooks.com/books/1019079404?_rdt_sid=new_release&_rdt_idx=19",
+      "author": "오니군소우",
+      "genre": "판타지/SF"
     }
   ]
 }
