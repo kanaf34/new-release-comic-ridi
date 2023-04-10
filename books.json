@@ -1,22 +1,22 @@
 {
   "books": [
     {
-      "title": "[코믹] 흑연의 성자 ~추방당한 회복술사는 넘치는 마력으로 어둠 마법의 궁극에 도달한다~ 2권",
-      "link": "https://ridibooks.com/books/3010012508?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "사와이 무기",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "워스트 외전 도쿠로 8권",
-      "link": "https://ridibooks.com/books/505071131?_rdt_sid=new_release&_rdt_idx=1",
-      "author": "다카하시 히로시",
-      "genre": "학원"
+      "title": "와카코와 술 19권",
+      "link": "https://ridibooks.com/books/806011765?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "신큐 치에",
+      "genre": "드라마"
     },
     {
       "title": "적어도, 이건 사랑 1권",
-      "link": "https://ridibooks.com/books/505071139?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505071139?_rdt_sid=new_release&_rdt_idx=1",
       "author": "후지모모",
       "genre": "해외 순정"
+    },
+    {
+      "title": "별술사 세레나 1권",
+      "link": "https://ridibooks.com/books/845036738?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "LEN[A-7]",
+      "genre": "판타지/SF"
     },
     {
       "title": "오늘 뭐 먹지? 36 교자 최고!",
@@ -25,22 +25,22 @@
       "genre": "드라마"
     },
     {
+      "title": "[코믹] 흑연의 성자 ~추방당한 회복술사는 넘치는 마력으로 어둠 마법의 궁극에 도달한다~ 2권",
+      "link": "https://ridibooks.com/books/3010012508?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "사와이 무기",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "여고생 괴식가 키리타니 13권",
-      "link": "https://ridibooks.com/books/806011760?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/806011760?_rdt_sid=new_release&_rdt_idx=5",
       "author": "폰토고탄다",
       "genre": "코믹"
     },
     {
-      "title": "와카코와 술 19권",
-      "link": "https://ridibooks.com/books/806011765?_rdt_sid=new_release&_rdt_idx=5",
-      "author": "신큐 치에",
-      "genre": "드라마"
-    },
-    {
-      "title": "별술사 세레나 1권",
-      "link": "https://ridibooks.com/books/845036738?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "LEN[A-7]",
-      "genre": "판타지/SF"
+      "title": "워스트 외전 도쿠로 8권",
+      "link": "https://ridibooks.com/books/505071131?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "다카하시 히로시",
+      "genre": "학원"
     },
     {
       "title": "[코믹] 터무니없는 스킬로 이세계 방랑 밥 8권",
