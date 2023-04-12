@@ -1,28 +1,28 @@
 {
   "books": [
     {
-      "title": "외출하는 아기 상어 1권",
-      "link": "https://ridibooks.com/books/297057450?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "PENGUINBOX",
-      "genre": "드라마"
-    },
-    {
-      "title": "게임 센터 소녀와 이문화 교류 3권",
-      "link": "https://ridibooks.com/books/3010012688?_rdt_sid=new_release&_rdt_idx=1",
-      "author": "야스하라 히로카즈",
-      "genre": "코믹"
-    },
-    {
       "title": "[코믹] 곰 곰 곰 베어 6권",
-      "link": "https://ridibooks.com/books/777118047?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/777118047?_rdt_sid=new_release&_rdt_idx=0",
       "author": "세르게이",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 흔해빠진 직업으로 세계최강 9권",
-      "link": "https://ridibooks.com/books/777118048?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/777118048?_rdt_sid=new_release&_rdt_idx=1",
       "author": "RoGa",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "SANDA (산다) 4권",
+      "link": "https://ridibooks.com/books/845036759?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "이타가키 파루",
+      "genre": "드라마"
+    },
+    {
+      "title": "게임 센터 소녀와 이문화 교류 3권",
+      "link": "https://ridibooks.com/books/3010012688?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "야스하라 히로카즈",
+      "genre": "코믹"
     },
     {
       "title": "[코믹] 피학의 노엘 5권",
@@ -31,93 +31,93 @@
       "genre": "드라마"
     },
     {
-      "title": "SANDA (산다) 4권",
-      "link": "https://ridibooks.com/books/845036759?_rdt_sid=new_release&_rdt_idx=5",
-      "author": "이타가키 파루",
+      "title": "외출하는 아기 상어 1권",
+      "link": "https://ridibooks.com/books/297057450?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "PENGUINBOX",
       "genre": "드라마"
     },
     {
+      "title": "야수부족 10권 (완결)",
+      "link": "https://ridibooks.com/books/1603058009?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "조명운",
+      "genre": "액션"
+    },
+    {
       "title": "와카코와 술 19권",
-      "link": "https://ridibooks.com/books/806011765?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/806011765?_rdt_sid=new_release&_rdt_idx=7",
       "author": "신큐 치에",
       "genre": "드라마"
     },
     {
       "title": "적어도, 이건 사랑 1권",
-      "link": "https://ridibooks.com/books/505071139?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/505071139?_rdt_sid=new_release&_rdt_idx=8",
       "author": "후지모모",
       "genre": "해외 순정"
     },
     {
       "title": "별술사 세레나 1권",
-      "link": "https://ridibooks.com/books/845036738?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/845036738?_rdt_sid=new_release&_rdt_idx=9",
       "author": "LEN[A-7]",
       "genre": "판타지/SF"
     },
     {
       "title": "오늘 뭐 먹지? 36 교자 최고!",
-      "link": "https://ridibooks.com/books/806011758?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/806011758?_rdt_sid=new_release&_rdt_idx=10",
       "author": "타다 리에코",
       "genre": "드라마"
     },
     {
       "title": "[코믹] 흑연의 성자 ~추방당한 회복술사는 넘치는 마력으로 어둠 마법의 궁극에 도달한다~ 2권",
-      "link": "https://ridibooks.com/books/3010012508?_rdt_sid=new_release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/3010012508?_rdt_sid=new_release&_rdt_idx=11",
       "author": "사와이 무기",
       "genre": "판타지/SF"
     },
     {
       "title": "여고생 괴식가 키리타니 13권",
-      "link": "https://ridibooks.com/books/806011760?_rdt_sid=new_release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/806011760?_rdt_sid=new_release&_rdt_idx=12",
       "author": "폰토고탄다",
       "genre": "코믹"
     },
     {
       "title": "워스트 외전 도쿠로 8권",
-      "link": "https://ridibooks.com/books/505071131?_rdt_sid=new_release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/505071131?_rdt_sid=new_release&_rdt_idx=13",
       "author": "다카하시 히로시",
       "genre": "학원"
     },
     {
       "title": "[코믹] 터무니없는 스킬로 이세계 방랑 밥 8권",
-      "link": "https://ridibooks.com/books/2066005570?_rdt_sid=new_release&_rdt_idx=13",
+      "link": "https://ridibooks.com/books/2066005570?_rdt_sid=new_release&_rdt_idx=14",
       "author": "아카기시K",
       "genre": "판타지/SF"
     },
     {
       "title": "여성향 게임 속에서 내가 히로인이자 구세주?! 5권 (완결)",
-      "link": "https://ridibooks.com/books/505071113?_rdt_sid=new_release&_rdt_idx=14",
+      "link": "https://ridibooks.com/books/505071113?_rdt_sid=new_release&_rdt_idx=15",
       "author": "츠지모토 유",
       "genre": "판타지/SF"
     },
     {
       "title": "환생했는데 제7왕자라 내맘대로 마술을 연마합니다 4권",
-      "link": "https://ridibooks.com/books/505071112?_rdt_sid=new_release&_rdt_idx=15",
+      "link": "https://ridibooks.com/books/505071112?_rdt_sid=new_release&_rdt_idx=16",
       "author": "코쿠자와 요스케",
       "genre": "판타지/SF"
     },
     {
       "title": "해 질 녁의 당신은 고개를 살짝 갸웃하고 1권",
-      "link": "https://ridibooks.com/books/3010012516?_rdt_sid=new_release&_rdt_idx=16",
+      "link": "https://ridibooks.com/books/3010012516?_rdt_sid=new_release&_rdt_idx=17",
       "author": "우니타 유미",
       "genre": "해외 순정"
     },
     {
       "title": "드로잉 -최강 만화가는 그림 스킬로 이세계 무쌍한다!- 4권",
-      "link": "https://ridibooks.com/books/5030000179?_rdt_sid=new_release&_rdt_idx=17",
+      "link": "https://ridibooks.com/books/5030000179?_rdt_sid=new_release&_rdt_idx=18",
       "author": "김광현",
       "genre": "판타지/SF"
     },
     {
       "title": "빅토리아의 전기관 2권",
-      "link": "https://ridibooks.com/books/505071122?_rdt_sid=new_release&_rdt_idx=18",
+      "link": "https://ridibooks.com/books/505071122?_rdt_sid=new_release&_rdt_idx=19",
       "author": "타지마 이쿠노",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "궁귀의 구화 4권 (완결)",
-      "link": "https://ridibooks.com/books/3010012621?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "토바 츠가루",
       "genre": "판타지/SF"
     }
   ]
