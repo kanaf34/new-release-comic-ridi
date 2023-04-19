@@ -1,34 +1,34 @@
 {
   "books": [
     {
-      "title": "아야시몬 3권 (완결)",
-      "link": "https://ridibooks.com/books/1019079722?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "카쿠 유우지",
-      "genre": "판타지/SF"
+      "title": "히카루가 죽은 여름 1권 (한정판)",
+      "link": "https://ridibooks.com/books/777117821?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "모쿠모쿠렌",
+      "genre": "드라마"
     },
     {
-      "title": "나와 마녀에 관한 비망록 4권",
-      "link": "https://ridibooks.com/books/1019079728?_rdt_sid=new_release&_rdt_idx=1",
-      "author": "미츠하 유우",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "내가 사랑 따위 하지 않아도 9권 (완결)",
-      "link": "https://ridibooks.com/books/1019079729?_rdt_sid=new_release&_rdt_idx=2",
-      "author": "카즈이 카즈미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "은하영웅전설 21권",
-      "link": "https://ridibooks.com/books/1019079774?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "후지사키 류",
+      "title": "[코믹] 악역 영애, 세실리아 실비는 죽기 싫으므로 남장하기로 했습니다. 4권",
+      "link": "https://ridibooks.com/books/3010012696?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "아키야마 시노",
       "genre": "판타지/SF"
     },
     {
       "title": "[코믹] 약사의 혼잣말(마오마오의 후궁 수수께끼 풀이수첩) 15권",
-      "link": "https://ridibooks.com/books/1019079776?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/1019079776?_rdt_sid=new_release&_rdt_idx=2",
       "author": "쿠라타 미노지",
       "genre": "드라마"
+    },
+    {
+      "title": "아르슬란 전기 17권",
+      "link": "https://ridibooks.com/books/505071296?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "아라카와 히로무",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "보이는 여고생 7권",
+      "link": "https://ridibooks.com/books/1690001856?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "이즈미 토모키",
+      "genre": "공포/추리"
     },
     {
       "title": "즐겁게 놀아보세 6권",
@@ -37,46 +37,46 @@
       "genre": "코믹"
     },
     {
-      "title": "보이는 여고생 7권",
-      "link": "https://ridibooks.com/books/1690001856?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "이즈미 토모키",
-      "genre": "공포/추리"
-    },
-    {
       "title": "그녀도 여친 13권",
-      "link": "https://ridibooks.com/books/297057714?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/297057714?_rdt_sid=new_release&_rdt_idx=6",
       "author": "히로유키",
       "genre": "학원"
     },
     {
       "title": "시오타 선생님과 아마이 양 4권",
-      "link": "https://ridibooks.com/books/297057724?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/297057724?_rdt_sid=new_release&_rdt_idx=7",
       "author": "나카토카 쿠미코",
       "genre": "해외 순정"
     },
     {
-      "title": "[코믹] 악역 영애, 세실리아 실비는 죽기 싫으므로 남장하기로 했습니다. 4권",
-      "link": "https://ridibooks.com/books/3010012696?_rdt_sid=new_release&_rdt_idx=9",
-      "author": "아키야마 시노",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "아르슬란 전기 17권",
-      "link": "https://ridibooks.com/books/505071296?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "아라카와 히로무",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "메메모리 군에게는 못 당해 2권",
-      "link": "https://ridibooks.com/books/505071324?_rdt_sid=new_release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/505071324?_rdt_sid=new_release&_rdt_idx=8",
       "author": "모리콧코",
       "genre": "학원"
     },
     {
-      "title": "히카루가 죽은 여름 1권 (한정판)",
-      "link": "https://ridibooks.com/books/777117821?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "모쿠모쿠렌",
-      "genre": "드라마"
+      "title": "나와 마녀에 관한 비망록 4권",
+      "link": "https://ridibooks.com/books/1019079728?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "미츠하 유우",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아야시몬 3권 (완결)",
+      "link": "https://ridibooks.com/books/1019079722?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "카쿠 유우지",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "은하영웅전설 21권",
+      "link": "https://ridibooks.com/books/1019079774?_rdt_sid=new_release&_rdt_idx=11",
+      "author": "후지사키 류",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "내가 사랑 따위 하지 않아도 9권 (완결)",
+      "link": "https://ridibooks.com/books/1019079729?_rdt_sid=new_release&_rdt_idx=12",
+      "author": "카즈이 카즈미",
+      "genre": "해외 순정"
     },
     {
       "title": "하루와 아오의 도시락 6권 (완결)",
