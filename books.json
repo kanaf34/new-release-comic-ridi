@@ -1,46 +1,46 @@
 {
   "books": [
     {
-      "title": "삼국군영전 화봉요원 52권",
-      "link": "https://ridibooks.com/books/1561012349?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "진모",
-      "genre": "무협"
-    },
-    {
-      "title": "아오노 군에게 닿고 싶으니까 죽고 싶어 7권",
-      "link": "https://ridibooks.com/books/297057511?_rdt_sid=new_release&_rdt_idx=1",
-      "author": "시이나 우미",
-      "genre": "해외 순정"
-    },
-    {
       "title": "타몬 군 지금 어느 쪽?! 1권",
-      "link": "https://ridibooks.com/books/505071334?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/505071334?_rdt_sid=new_release&_rdt_idx=0",
       "author": "시와스 유키",
       "genre": "해외 순정"
     },
     {
       "title": "악역 영애 루트가 없다니, 누가 그랬어? 2권",
-      "link": "https://ridibooks.com/books/3010012567?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/3010012567?_rdt_sid=new_release&_rdt_idx=1",
       "author": "아사 코코노",
       "genre": "해외 순정"
     },
     {
       "title": "이 세계는 너무나 불완전하다 5권",
-      "link": "https://ridibooks.com/books/2066005634?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/2066005634?_rdt_sid=new_release&_rdt_idx=2",
       "author": "사토 마사미치",
       "genre": "판타지/SF"
     },
     {
       "title": "니나의 마법 생활 5권",
-      "link": "https://ridibooks.com/books/4144000032?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/4144000032?_rdt_sid=new_release&_rdt_idx=3",
       "author": "타카나시 링고",
       "genre": "드라마"
     },
     {
       "title": "지팡이와 검의 위스토리아 4권",
-      "link": "https://ridibooks.com/books/2066005636?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/2066005636?_rdt_sid=new_release&_rdt_idx=4",
       "author": "아오이 토시",
       "genre": "판타지/SF"
+    },
+    {
+      "title": "아오노 군에게 닿고 싶으니까 죽고 싶어 7권",
+      "link": "https://ridibooks.com/books/297057511?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "시이나 우미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "삼국군영전 화봉요원 52권",
+      "link": "https://ridibooks.com/books/1561012349?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "진모",
+      "genre": "무협"
     },
     {
       "title": "쌍둥이의 남녀를 모르겠어 2권",
