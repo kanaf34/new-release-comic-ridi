@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "만들고 싶은 여자와 먹고 싶은 여자 3권",
+      "link": "https://ridibooks.com/books/1690001926?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "유자키 사카오미",
+      "genre": "드라마"
+    },
+    {
+      "title": "[코믹] 폭식의 베르세르크 4권",
+      "link": "https://ridibooks.com/books/2066005679?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "타키노 다이스케",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "[코믹] 엘프 신부와 함께하는 이세계 영주생활 3권",
+      "link": "https://ridibooks.com/books/2066005680?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "미키 아키라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "흡혈귀는 툭하면 죽는다 19권",
+      "link": "https://ridibooks.com/books/2258002350?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "본노키 이타루",
+      "genre": "코믹"
+    },
+    {
+      "title": "겁쟁이 페달 79권",
+      "link": "https://ridibooks.com/books/297057921?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "와타나베 와타루",
+      "genre": "드라마"
+    },
+    {
+      "title": "이레귤러즈 3권",
+      "link": "https://ridibooks.com/books/3010012678?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "마츠모토 나오키",
+      "genre": "스포츠"
+    },
+    {
+      "title": "중화일미 극 11권",
+      "link": "https://ridibooks.com/books/505071422?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "오가와 에츠시",
+      "genre": "드라마"
+    },
+    {
       "title": "카구야 님은 고백받고 싶어 26권",
-      "link": "https://ridibooks.com/books/1019079882?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/1019079882?_rdt_sid=new_release&_rdt_idx=7",
       "author": "아카사카 아카",
       "genre": "학원"
     },
     {
       "title": "환생했는데 제7왕자라 내맘대로 마술을 연마합니다 5권",
-      "link": "https://ridibooks.com/books/505071416?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505071416?_rdt_sid=new_release&_rdt_idx=8",
       "author": "코쿠자와 요스케",
       "genre": "판타지/SF"
     },
     {
       "title": "너를 너무너무너무너무 좋아하는 100명의 그녀 11권",
-      "link": "https://ridibooks.com/books/1019079883?_rdt_sid=new_release&_rdt_idx=2",
+      "link": "https://ridibooks.com/books/1019079883?_rdt_sid=new_release&_rdt_idx=9",
       "author": "노자와 유키코",
       "genre": "해외 순정"
     },
     {
       "title": "Mr. 말로우 블루 2권",
-      "link": "https://ridibooks.com/books/297057746?_rdt_sid=new_release&_rdt_idx=3",
+      "link": "https://ridibooks.com/books/297057746?_rdt_sid=new_release&_rdt_idx=10",
       "author": "사마미야 아카자",
       "genre": "해외 순정"
     },
     {
       "title": "약혼자님에게서 도망칠 수 없어 2권",
-      "link": "https://ridibooks.com/books/845036962?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/845036962?_rdt_sid=new_release&_rdt_idx=11",
       "author": "유즈키 준",
       "genre": "해외 순정"
     },
     {
       "title": "그 숙녀는 아이돌이 된다 2권",
-      "link": "https://ridibooks.com/books/1019079873?_rdt_sid=new_release&_rdt_idx=5",
+      "link": "https://ridibooks.com/books/1019079873?_rdt_sid=new_release&_rdt_idx=12",
       "author": "마츠모토 요스케",
       "genre": "드라마"
     },
     {
       "title": "오! 나의 여신님(신장판) 4권",
-      "link": "https://ridibooks.com/books/297057903?_rdt_sid=new_release&_rdt_idx=6",
+      "link": "https://ridibooks.com/books/297057903?_rdt_sid=new_release&_rdt_idx=13",
       "author": "후지시마 코스케",
       "genre": "해외 순정"
     },
     {
       "title": "단다단 6권",
-      "link": "https://ridibooks.com/books/1019079881?_rdt_sid=new_release&_rdt_idx=7",
+      "link": "https://ridibooks.com/books/1019079881?_rdt_sid=new_release&_rdt_idx=14",
       "author": "타츠 유키노부",
       "genre": "판타지/SF"
     },
     {
       "title": "나의 히어로 아카데미아 팀업 미션 4권",
-      "link": "https://ridibooks.com/books/1019079874?_rdt_sid=new_release&_rdt_idx=8",
+      "link": "https://ridibooks.com/books/1019079874?_rdt_sid=new_release&_rdt_idx=15",
       "author": "아키야마 요코",
       "genre": "판타지/SF"
     },
     {
       "title": "여기는 지금부터 윤리 시간입니다. 7권",
-      "link": "https://ridibooks.com/books/1019079879?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/1019079879?_rdt_sid=new_release&_rdt_idx=16",
       "author": "아마세 시오리",
       "genre": "드라마"
     },
     {
       "title": "마오 14권",
-      "link": "https://ridibooks.com/books/1019079880?_rdt_sid=new_release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/1019079880?_rdt_sid=new_release&_rdt_idx=17",
       "author": "타카하시 루미코",
       "genre": "판타지/SF"
     },
     {
       "title": "순정 소년 마코짱 2권 (완결)",
-      "link": "https://ridibooks.com/books/297057764?_rdt_sid=new_release&_rdt_idx=11",
+      "link": "https://ridibooks.com/books/297057764?_rdt_sid=new_release&_rdt_idx=18",
       "author": "우마 아구리",
       "genre": "해외 순정"
     },
     {
       "title": "거짓말을 간파하는 위장 왕녀 2권",
-      "link": "https://ridibooks.com/books/845036879?_rdt_sid=new_release&_rdt_idx=12",
+      "link": "https://ridibooks.com/books/845036879?_rdt_sid=new_release&_rdt_idx=19",
       "author": "오다와라 미즈에",
       "genre": "해외 순정"
-    },
-    {
-      "title": "니지, 응석부려도 돼 4권",
-      "link": "https://ridibooks.com/books/1019079871?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "아오키 코토미",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "신데렐라 클로젯 8권 (완결)",
-      "link": "https://ridibooks.com/books/1019079876?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "야나이 와카나",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "Q.E.D. iff -증명종료- (큐이디 이프) 20권",
-      "link": "https://ridibooks.com/books/505071412?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "카토우 모토히로",
-      "genre": "공포/추리"
-    },
-    {
-      "title": "순백의 소리 26권",
-      "link": "https://ridibooks.com/books/505071521?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "라가와 마리모",
-      "genre": "드라마"
-    },
-    {
-      "title": "3X3 EYES 귀적의 어둠의 계약자 6권",
-      "link": "https://ridibooks.com/books/505071531?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "타카다 유조",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "뻐꾸기 커플 9권",
-      "link": "https://ridibooks.com/books/505071503?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "요시카와 미키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "전대대실격 3권",
-      "link": "https://ridibooks.com/books/505071512?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "하루바 네기",
-      "genre": "판타지/SF"
     }
   ]
 }
