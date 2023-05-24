@@ -1,124 +1,124 @@
 {
   "books": [
     {
+      "title": "최애가 옆자리라 수업에 집중할 수 없어! 6권",
+      "link": "https://ridibooks.com/books/4633000235?_rdt_sid=new_release&_rdt_idx=0",
+      "author": "츠츠이 테츠",
+      "genre": "GL"
+    },
+    {
+      "title": "프로미스 신데렐라 8권",
+      "link": "https://ridibooks.com/books/1019080724?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "타치바나 오레코",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "전대대실격 4권",
+      "link": "https://ridibooks.com/books/505072425?_rdt_sid=new_release&_rdt_idx=2",
+      "author": "하루바 네기",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "비밀의 신데렐라 2권",
+      "link": "https://ridibooks.com/books/3010013002?_rdt_sid=new_release&_rdt_idx=3",
+      "author": "카토 이오",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "카나카나 4권",
+      "link": "https://ridibooks.com/books/1019080727?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "니시모리 히로유키",
+      "genre": "드라마"
+    },
+    {
+      "title": "구룡 제네릭 로맨스 6권",
+      "link": "https://ridibooks.com/books/1019080725?_rdt_sid=new_release&_rdt_idx=5",
+      "author": "마유즈키 준",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "아라시 군의 안는 베개 5권",
+      "link": "https://ridibooks.com/books/297058724?_rdt_sid=new_release&_rdt_idx=6",
+      "author": "와타나베 아유",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "공주님 \"고문\"의 시간입니다 10권",
+      "link": "https://ridibooks.com/books/1019080723?_rdt_sid=new_release&_rdt_idx=7",
+      "author": "히라케이",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "쌍망정은 부숴야 한다 22권",
+      "link": "https://ridibooks.com/books/1019080730?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "후지타 카즈히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "SANDA (산다) 6권",
+      "link": "https://ridibooks.com/books/845037149?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "이타가키 파루",
+      "genre": "드라마"
+    },
+    {
+      "title": "귀멸 학원! 3권",
+      "link": "https://ridibooks.com/books/1019080728?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "호카미 나츠키",
+      "genre": "코믹"
+    },
+    {
+      "title": "은하영웅전설 22권",
+      "link": "https://ridibooks.com/books/1019080729?_rdt_sid=new_release&_rdt_idx=11",
+      "author": "후지사키 류",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "왕자가 나를 포기하지 않아! 12권 (완결)",
+      "link": "https://ridibooks.com/books/505072288?_rdt_sid=new_release&_rdt_idx=12",
+      "author": "아사다 닛키",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "경국의 재봉사 로즈 베르탱 7권",
+      "link": "https://ridibooks.com/books/297058929?_rdt_sid=new_release&_rdt_idx=13",
+      "author": "이소미 진게츠",
+      "genre": "드라마"
+    },
+    {
+      "title": "아혈의 음양사 2권",
+      "link": "https://ridibooks.com/books/845037220?_rdt_sid=new_release&_rdt_idx=14",
+      "author": "후지모토 사쿠라",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "한바탕 소동이라면 기꺼이! 3권",
+      "link": "https://ridibooks.com/books/1019080722?_rdt_sid=new_release&_rdt_idx=15",
+      "author": "야츠미 츠무",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "플라타너스의 열매 4권",
+      "link": "https://ridibooks.com/books/1019080719?_rdt_sid=new_release&_rdt_idx=16",
+      "author": "히가시모토 도시야",
+      "genre": "드라마"
+    },
+    {
+      "title": "당신은 수수께끼 해결사 마셰리 1권",
+      "link": "https://ridibooks.com/books/1987002369?_rdt_sid=new_release&_rdt_idx=17",
+      "author": "이토 나츠미",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "페어리 테일 100년 퀘스트 9권",
+      "link": "https://ridibooks.com/books/505072315?_rdt_sid=new_release&_rdt_idx=18",
+      "author": "우에다 아츠오",
+      "genre": "판타지/SF"
+    },
+    {
       "title": "언타이틀 블루 2권",
-      "link": "https://ridibooks.com/books/845037169?_rdt_sid=new_release&_rdt_idx=0",
+      "link": "https://ridibooks.com/books/845037169?_rdt_sid=new_release&_rdt_idx=19",
       "author": "나츠메 유키코",
       "genre": "드라마"
-    },
-    {
-      "title": "어서 오세요 『추방자 길드』에 ~무능한 S랭크 파티가 차례차례로 유능한 모험가를 추방하니 최약을 모아 최강 길드를 만들겠습니다~ 1권",
-      "link": "https://ridibooks.com/books/3010012935?_rdt_sid=new_release&_rdt_idx=1",
-      "author": "아라키 유스케",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "[코믹] 사랑하는 기생충 3권 (완결)",
-      "link": "https://ridibooks.com/books/1690001961?_rdt_sid=new_release&_rdt_idx=2",
-      "author": "호타테 유키",
-      "genre": "드라마"
-    },
-    {
-      "title": "오빠는 끝! 5권",
-      "link": "https://ridibooks.com/books/1561012423?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "네코토후",
-      "genre": "코믹"
-    },
-    {
-      "title": "시녀인데… 성검을 뽑아 버렸다! 4권 (완결)",
-      "link": "https://ridibooks.com/books/505072273?_rdt_sid=new_release&_rdt_idx=4",
-      "author": "제넨",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "저주받은 아이의 시종 5권",
-      "link": "https://ridibooks.com/books/505072184?_rdt_sid=new_release&_rdt_idx=5",
-      "author": "시바미야 유키",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "완벽해서 귀여운 구석이 없다고 파혼당한 성녀는 이웃 나라에 팔린다 1권",
-      "link": "https://ridibooks.com/books/1987002366?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "아야키타 마고",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "환생영애는 정령에게 사랑받아 최강입니다…만, 평범하게 사랑하고 싶어!@COMIC 2권",
-      "link": "https://ridibooks.com/books/3010012953?_rdt_sid=new_release&_rdt_idx=7",
-      "author": "하나",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "멸망한 세계에서 악한 과학자와 사랑을 키워나가야만 한다는 모양입니다 2권 (완결)",
-      "link": "https://ridibooks.com/books/297058890?_rdt_sid=new_release&_rdt_idx=8",
-      "author": "이와아키 하루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "양지바른 셰어하우스 2권",
-      "link": "https://ridibooks.com/books/297058612?_rdt_sid=new_release&_rdt_idx=9",
-      "author": "코지마 미호코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "여우님의 이종간 혼인담 4권",
-      "link": "https://ridibooks.com/books/806012004?_rdt_sid=new_release&_rdt_idx=10",
-      "author": "이나루",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "하나조노 씨네 쌍둥이 4권",
-      "link": "https://ridibooks.com/books/505072175?_rdt_sid=new_release&_rdt_idx=11",
-      "author": "키타지마 네나",
-      "genre": "학원"
-    },
-    {
-      "title": "선배가 짜증나는 후배이야기 7권",
-      "link": "https://ridibooks.com/books/505072133?_rdt_sid=new_release&_rdt_idx=12",
-      "author": "시로만타",
-      "genre": "코믹"
-    },
-    {
-      "title": "엉터리 음양사의 호랑이 아내 5권",
-      "link": "https://ridibooks.com/books/505072134?_rdt_sid=new_release&_rdt_idx=13",
-      "author": "토노 유키코",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "고바야시네 메이드래곤 칸나의 일상 5권",
-      "link": "https://ridibooks.com/books/1561012422?_rdt_sid=new_release&_rdt_idx=14",
-      "author": "기무라 미츠히로",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "악역 영애 추방 후! 교회 식사 개혁으로 유유히 수녀 생활 6권",
-      "link": "https://ridibooks.com/books/3010012855?_rdt_sid=new_release&_rdt_idx=15",
-      "author": "요시무라 츠무지",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "그 문지기, 최강이기에 ~추방당한 방어력 9999의 전사, 왕도의 문지기로서 무쌍한다~ 2권",
-      "link": "https://ridibooks.com/books/3010012904?_rdt_sid=new_release&_rdt_idx=16",
-      "author": "아마나치타",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "안쓰러운 누님은 어떠세요? 7권",
-      "link": "https://ridibooks.com/books/3010012868?_rdt_sid=new_release&_rdt_idx=17",
-      "author": "와카나",
-      "genre": "드라마"
-    },
-    {
-      "title": "소란스럽게 밥 5권",
-      "link": "https://ridibooks.com/books/297058596?_rdt_sid=new_release&_rdt_idx=18",
-      "author": "오카자키 마리",
-      "genre": "드라마"
-    },
-    {
-      "title": "거대한 도전 10권",
-      "link": "https://ridibooks.com/books/1603058191?_rdt_sid=new_release&_rdt_idx=19",
-      "author": "조명운",
-      "genre": "액션"
     }
   ]
 }
