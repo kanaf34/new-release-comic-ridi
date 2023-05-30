@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "title": "너와 나 16권",
-      "link": "https://ridibooks.com/books/505072496?_rdt_sid=new_release&_rdt_idx=0",
-      "author": "홋타 키이치",
-      "genre": "드라마"
-    },
-    {
       "title": "신령님, 낙제 위기! 1권",
-      "link": "https://ridibooks.com/books/505072485?_rdt_sid=new_release&_rdt_idx=1",
+      "link": "https://ridibooks.com/books/505072485?_rdt_sid=new_release&_rdt_idx=0",
       "author": "아카가와라 모도무",
       "genre": "해외 순정"
+    },
+    {
+      "title": "너와 나 16권",
+      "link": "https://ridibooks.com/books/505072496?_rdt_sid=new_release&_rdt_idx=1",
+      "author": "홋타 키이치",
+      "genre": "드라마"
     },
     {
       "title": "여친, 빌리겠습니다 26권",
