@@ -19,16 +19,16 @@
       "genre": "드라마"
     },
     {
-      "title": "대수공과 유니코니스의 소녀 1권",
-      "link": "https://ridibooks.com/books/845037648?_rdt_sid=new_release&_rdt_idx=3",
-      "author": "스기마치 노코",
-      "genre": "판타지/SF"
-    },
-    {
       "title": "쿠보 양은 나를 내버려 두지 않아 10권",
-      "link": "https://ridibooks.com/books/1019081792?_rdt_sid=new_release&_rdt_idx=4",
+      "link": "https://ridibooks.com/books/1019081792?_rdt_sid=new_release&_rdt_idx=3",
       "author": "유키모리 네네",
       "genre": "해외 순정"
+    },
+    {
+      "title": "대수공과 유니코니스의 소녀 1권",
+      "link": "https://ridibooks.com/books/845037648?_rdt_sid=new_release&_rdt_idx=4",
+      "author": "스기마치 노코",
+      "genre": "판타지/SF"
     },
     {
       "title": "금붕어 언덕 5권 (완결)",
@@ -37,33 +37,33 @@
       "genre": "해외 순정"
     },
     {
-      "title": "이웃사촌 콤플렉스 4권",
-      "link": "https://ridibooks.com/books/297059540?_rdt_sid=new_release&_rdt_idx=6",
-      "author": "노노무라 사쿠",
-      "genre": "해외 순정"
-    },
-    {
-      "title": "은하영웅전설 23권",
-      "link": "https://ridibooks.com/books/1019081793?_rdt_sid=new_release&_rdt_idx=7",
-      "author": "후지사키 류",
-      "genre": "판타지/SF"
-    },
-    {
-      "title": "타다노 공고의 일상 7권",
-      "link": "https://ridibooks.com/books/1019081795?_rdt_sid=new_release&_rdt_idx=8",
-      "author": "오가 치사토",
-      "genre": "코믹"
-    },
-    {
       "title": "레이코의 품격 ~악역 영애라고 불리고 있지만, 평범한 가난뱅이입니다~ 3권",
-      "link": "https://ridibooks.com/books/3010013149?_rdt_sid=new_release&_rdt_idx=9",
+      "link": "https://ridibooks.com/books/3010013149?_rdt_sid=new_release&_rdt_idx=6",
       "author": "오타쿠미",
       "genre": "해외 순정"
     },
     {
       "title": "레벨 E 3권 (완결)",
-      "link": "https://ridibooks.com/books/1019081699?_rdt_sid=new_release&_rdt_idx=10",
+      "link": "https://ridibooks.com/books/1019081699?_rdt_sid=new_release&_rdt_idx=7",
       "author": "토가시 요시히로",
+      "genre": "판타지/SF"
+    },
+    {
+      "title": "이웃사촌 콤플렉스 4권",
+      "link": "https://ridibooks.com/books/297059540?_rdt_sid=new_release&_rdt_idx=8",
+      "author": "노노무라 사쿠",
+      "genre": "해외 순정"
+    },
+    {
+      "title": "타다노 공고의 일상 7권",
+      "link": "https://ridibooks.com/books/1019081795?_rdt_sid=new_release&_rdt_idx=9",
+      "author": "오가 치사토",
+      "genre": "코믹"
+    },
+    {
+      "title": "은하영웅전설 23권",
+      "link": "https://ridibooks.com/books/1019081793?_rdt_sid=new_release&_rdt_idx=10",
+      "author": "후지사키 류",
       "genre": "판타지/SF"
     },
     {
